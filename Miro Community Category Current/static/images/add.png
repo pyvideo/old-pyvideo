@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns='http://www.w3.org/1999/xhtml' xml:lang='en' lang='en'>
+<head>
+<title>localtv - Miro: Local TV</title>
+<meta name='generator' content='cgit v0.8.2'/>
+<meta name='robots' content='index, nofollow'/>
+<link rel='stylesheet' type='text/css' href='/cgit.css'/>
+<link rel='shortcut icon' href='/git-favicon.png'/>
+<link rel='alternate' title='Atom feed' href='http://git.participatoryculture.org/localtv/atom/static/images/add.png?h=master' type='application/atom+xml'/></head>
+<body>
+<table id='header'>
+<tr>
+<td class='logo' rowspan='2'><a href='/'><img src='/orim_avatar.png' alt='cgit logo'/></a></td>
+<td class='main'><a href='/'>index</a> : <a title='localtv' href='/localtv/'>localtv</a></td><td class='form'><form method='get' action=''>
+<select name='h' onchange='this.form.submit();'>
+<option value='django_comments'>django_comments</option>
+<option value='intensedebate'>intensedebate</option>
+<option value='master' selected='selected'>master</option>
+<option value='user-author-collapse'>user-author-collapse</option>
+</select> <input type='submit' name='' value='switch'/></form></td></tr>
+<tr><td class='sub'>Miro: Local TV</td><td class='sub right'>Participatory Culture Foundation</td></tr></table>
+<table class='tabs'><tr><td>
+<a href='/localtv/'>summary</a><a href='/localtv/refs/'>refs</a><a href='/localtv/log/'>log</a><a class='active' href='/localtv/tree/'>tree</a><a href='/localtv/commit/'>commit</a><a href='/localtv/diff/'>diff</a></td><td class='form'><form class='right' method='get' action='/localtv/log/static/images/add.png'>
+<select name='qt'>
+<option value='grep'>log msg</option>
+<option value='author'>author</option>
+<option value='committer'>committer</option>
+</select>
+<input class='txt' type='text' size='10' name='q' value=''/>
+<input type='submit' value='search'/>
+</form>
+</td></tr></table>
+<div class='content'>path: <a href='/localtv/tree/?h=master'>root</a>/<a href='/localtv/tree/static'>static</a>/<a href='/localtv/tree/static/images'>images</a>/<a href='/localtv/tree/static/images/add.png'>add.png</a> (<a href='/localtv/plain/static/images/add.png'>plain</a>)<br/>blob: a69e69a4fbd05998d2b85e4a260981015c615ba3
+<table summary='blob content' class='bin-blob'>
+<tr><th>ofs</th><th>hex dump</th><th>ascii</th></tr><tr><td class='right'>0000</td><td class='hex'> 89 50 4e 47 0d 0a 1a 0a 00 00 00 0d 49 48 44 52    00 00 00 08 00 00 00 1b 08 06 00 00 00 41 4d ce </td><td class='hex'>.PNG........IHDR.............AM.</td></tr>
+<tr><td class='right'>0020</td><td class='hex'> be 00 00 00 19 74 45 58 74 53 6f 66 74 77 61 72    65 00 41 64 6f 62 65 20 49 6d 61 67 65 52 65 61 </td><td class='hex'>.....tEXtSoftware.Adobe.ImageRea</td></tr>
+<tr><td class='right'>0040</td><td class='hex'> 64 79 71 c9 65 3c 00 00 00 69 49 44 41 54 78 da    62 fc ff ff 3f 03 08 30 32 32 82 a8 4c 06 08 98 </td><td class='hex'>dyq.e<...iIDATx.b...?..022..L...</td></tr>
+<tr><td class='right'>0060</td><td class='hex'> 0e 13 67 81 4a 60 00 98 38 13 03 01 c0 08 35 96    1d 87 fc 4f 82 26 a0 83 4c 24 87 12 e7 06 16 34 </td><td class='hex'>..g.J`..8.....5....O.&..L$.....4</td></tr>
+<tr><td class='right'>0080</td><td class='hex'> 6f c2 01 5c 9c 90 02 16 74 01 74 40 d0 0d 23 44    01 0b 7a 02 41 0f 38 74 13 ee 43 31 c2 04 aa 24 </td><td class='hex'>o..\....t.t@..#D..z.A.8t..C1...$</td></tr>
+<tr><td class='right'>00a0</td><td class='hex'> 39 90 91 7c 38 e4 3f 91 9c e4 30 1c 49 79 92 03    08 30 00 21 5c 26 ce f7 3a 0f 7d 00 00 00 00 49 </td><td class='hex'>9..|8.?...0.Iy...0.!\&..:.}....I</td></tr>
+<tr><td class='right'>00c0</td><td class='hex'> 45 4e 44 ae 42 60 82 </td><td class='hex'>END.B`.</td></tr>
+</table>
+</div><div class='footer'>generated  by cgit v0.8.2 at 2009-09-11 05:40:47 (GMT)</div>
+</body>
+</html>
