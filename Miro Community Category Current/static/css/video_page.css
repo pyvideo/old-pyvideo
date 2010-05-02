@@ -97,6 +97,22 @@ float: right;
     margin-bottom: 25px;
 }
 
+#main .description ul {
+    display: block;
+    float: none;
+}
+
+#main .description ul li {
+    display: list-item;
+    list-style-type: disc;
+    margin-left: 20px;
+}
+
+#main .description p {
+    /* line-height: 15px; */
+    margin-bottom: 15px;
+}
+
 .action + .editable > span{
 padding: 0 0 0 18px !important;
 float: none;

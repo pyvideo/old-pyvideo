@@ -96,7 +96,12 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
               <span>New Videos</span>
             </a>
           </li>
-          {% if categories %}
+          <li class="educational">
+            <a href="/education">
+              <span>Learning Python</span>
+            </a>
+          </li>
+           {% if categories %}
           <li class="categories">
             <a href="{% url localtv_category_index %}"><span>Categories</span></a>
 	        <ul>
@@ -123,11 +128,6 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 	        </ul>
 	  </li>
 	  {% endif %}
-          <li class="popular">
-            <a href="{% url localtv_list_popular %}">
-              <span>Popular</span>
-            </a>
-          </li>
           {% if sitelocation.display_submit_button %}
           <li class="submit">
             <a rel="#overlay" href="{% url localtv_submit_video %}">
