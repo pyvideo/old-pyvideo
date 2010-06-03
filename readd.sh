@@ -1,3 +1,3 @@
 #!/bin/bash
 
-zip -f Miro\ Community\ Category\ Current.zip
+zip -u Miro\ Community\ Category\ Current.zip
