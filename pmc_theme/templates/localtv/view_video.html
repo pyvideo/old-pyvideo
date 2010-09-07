@@ -19,7 +19,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 {% endcomment %}
 
 
-{% load video i18n comments filters uploadtemplate_tags editable_widget localtv_thumbnail cache video_list %}
+{% load video i18n comments filters uploadtemplate_tags editable_widget localtv_thumbnail cache video_list email_share_tags %}
 
 {% block body_id %}view_video{% endblock %}
 
@@ -40,7 +40,14 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
   </script>{% endif %}
   <script type="text/javascript" src="{% get_static_url "/js/extern/jquery.form.js" %}"></script>
   <script type="text/javascript" src="{% get_static_url "/js/comment.js" %}"></script>
+  {% if playlistitem_set or playlists or user_is_admin and sitelocation.playlists_enabled or request.user.is_authenticated and sitelocation.playlists_enabled == 1 %}<script type="text/javascript" src="{% get_static_url "/js/playlist.js" %}"></script>{% endif %}
   {% include "localtv/view_video_meta.html" %}
+  {% if current_video.video_service %}<style>
+  .video_wrapper embed, .video_wrapper object, .video_wrapper video .video_wrapper div.djvideo-flowplayer {
+width: 100%;
+height: 430px;
+margin: 0 auto;
+}</style>{% endif %}
 {% endblock %}
 
 {% block content %}
@@ -145,6 +152,8 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
   {% if currrent_video.submitter %}<li class="item"><h3>Submitted by</h3><ul><li> {{ current_video.submitter }}</li></ul></li>{% endif %}
   {% if current_video.search %}<li class="item"><h3>From search</h3><ul><li> {{ current_video.search }}</li</ul></li>{% endif %}
   {% if current_video.feed %}<li class="item"><h3>From feed</h3<ul><li> <a href="{% url localtv_list_feed current_video.feed.pk %}">{{ current_video.feed }}</a></li></ul></li>{% endif %}
+  {% if current_video.contact %}<li class="item"><h3>Contact</h3><ul><li> {{ current_video.contact }}</li></ul></li>{% endif %}
+  {% if current_video.notes %}<li class="item"><h3>Notes</h3><ul><li> {{ current_video.notes }}</li></ul></li>{% endif %}
   {% endif %}
   {% comment %}
       <form id="add_tag">
@@ -171,11 +180,11 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
           <h4>{{ comment.user_name }}</h4>
           {% if user_is_admin %}
           <div class="comment-moderation">
-            <form action="{% url comments-delete comment.id %}" method="post">
+            <form action="{% url comments-delete comment.id %}" method="post">{% csrf_token %}
               <input type="hidden" name="next" value="{{ request.META.PATH_INFO }}">
               <button type="submit">delete</button>
             </form>
-            <form action="{% url comments-spam comment.id %}" method="post">
+            <form action="{% url comments-spam comment.id %}" method="post">{% csrf_token %}
               <input type="hidden" name="next" value="{{ request.META.PATH_INFO }}">
               <button type="submit">spam</button>
             </form>
@@ -192,7 +201,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     {% if not sitelocation.comments_required_login or request.user.is_authenticated %}
     <h2 class="clear post-comment-title">Post a comment</h2>
     {% get_comment_form for current_video as comment_form %}
-    <form action="{% comment_form_target %}" method="post" id="comment_form">
+    <form action="{% comment_form_target %}" method="post" id="comment_form">{% csrf_token %}
       {% with comment_form as form %}
       {% include "comments/form_base.html" %}
       {% endwith %}
@@ -208,9 +217,87 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
       {% endautoescape %}
     </div>
     {% endif %}
+    <div class="sidebar_header">
+      <h2>Share This Video</h2>
+    </div>
+    <div id="share_links">
+      <a class="facebook" name="fb_share" type="icon_link" href="http://www.facebook.com/sharer.php">Post to Facebook</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+      <a href="{% get_email_share_url_for current_video %}" rel="#overlay" class="email">Email to Friends</a>
+      <a href="http://twitter.com/?status={% filter urlencode %}I'm watching {{ current_video.name|slice:":47" }}{% ifnotequal current_video.name current_video.name|slice:":47" %}...{% endifnotequal %} on {{ sitelocation.site.name }}: http://{{sitelocation.site.domain }}{% url localtv_view_video video_id=current_video.pk slug="" %}{% endfilter %}" target="_blank" class="twitter">Tweet this Video</a>
+      {% if current_video.file_url %}<a href="{{ current_video.file_url }}" class="download">Download Video File</a>{% endif %}
+    </div>
+    {% if sitelocation.playlists_enabled %}
+    {% if playlistitem %}
+    <div class="sidebar_header">
+      <h2>This video is number {{ playlistitem.index }} (of {{ playlistitem.playlist.items.count }}) in the playlist</h2>
+    </div>
+    <h3 class="playlist_title"><a href="{{ playlistitem.playlist.get_absolute_url }}">{{ playlistitem.playlist.name }}</a></h3>
+    <div class="playlist_thumbs">
+      {% for sibling in playlistitem.get_two_from_order %}
+      <a href="{{ sibling.video.get_absolute_url }}?playlist={{ playlistitem.playlist.pk }}" style="float: {% if forloop.first %}left{% else %}right"{% endif %};">
+        <span class="thumb_number">{{ sibling.index }}</span>
+        <img src="{% get_thumbnail_url sibling.video 140 110 %}"/>
+        <div class="thumb_title">{{ sibling.video.name }}</div>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {# The logic I want is 'if can make playlists or (items and (not playlist or more than 1 item))' #}
+    {% if user_is_admin and sitelocation.playlists_enabled or request.user.is_authenticated and sitelocation.playlists_enabled == 1 or playlistitem_set %}
+    {% if user_is_admin and sitelocation.playlists_enabled or request.user.is_authenticated and sitelocation.playlists_enabled == 1 or playlistitem_set|length != 1 or not playlistitem %}
+    {% if not playlistitem or playlistitem_set|length > 1 %}
+    <div class="sidebar_header">
+      <h2>{% if playlistitem %}Other playlists that include this video{% else %}Playlists{% endif %}</h2>
+    </div>
+    {% endif %}
+    <div id="playlists">
+      <div>
+        <ul>
+          {% for item in playlistitem_set %}
+          {% if item != playlistitem %}
+          <li>
+            <div class="playlist_title">
+              <a href="{{ item.playlist.get_absolute_url }}">{{ item.playlist.name }}</a>
+              {% with item.playlist.video_set.count as count %}<span class="playlist_count"><a href="{{ item.playlist.get_absolute_url }}">({{ count }} video{{ count|pluralize }})</a></span>{% endwith %}
+            </div>
+            <div class="playlist_thumbs">
+              {% for sibling in item.get_two_from_order %}
+              <a href="{{ sibling.video.get_absolute_url }}?playlist={{ item.playlist.pk }}" style="float: {% if forloop.first %}left{% else %}right"{% endif %};">
+                <span class="thumb_number">{{ sibling.index }}</span>
+                <img src="{% get_thumbnail_url sibling.video 140 110 %}"/>
+                <div class="thumb_title">{{ sibling.video.name }}</div>
+              </a>
+              {% endfor %}
+            </div>
+          </li>
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+    {% endif %}
+    {% if user_is_admin and sitelocation.playlists_enabled or request.user.is_authenticated and sitelocation.playlists_enabled == 1 %}
+    <form method="POST" action="{% url localtv_playlist_add_video current_video.pk%}">
+      <select name="playlist" id="id_playlist">
+        <option value="">Add video to your playlist</option>
+        {% for playlist in playlists %}
+        {% if playlist not in current_video.playlists.all %}<option value="{{ playlist.pk }}">{{ playlist.name }}</option>{% endif %}
+        {% endfor %}
+        {# <option value="new">New playlist...</option> #}
+      </select>
+      <input type="submit" value="Add"/>
+    </form>
+    <form method="POST" action="{% url localtv_playlist_index %}">
+      <input type="text" name="name" />
+      <input type="hidden" name="video" value="{{ current_video.pk }}">
+      <input type="submit" value="Add New Playlist">
+    </form>
+    {% endif %}
+    {% endif %}
+    {% endif %}
     {% if category %}
-    {% cache 3600 view_video_category_new sitelocation category %}
-    <div id="sidebar_header">
+    {% cache 3600 view_video_category_new sitelocation category cache_invalidator %}
+    <div class="sidebar_header">
       <h2>{{ category.name }}</h2>
 
       <div class="floatright">
@@ -225,8 +312,8 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     {% endfor %}
     {% endcache %}
     {% else %}
-    {% cache 3600 view_video_new sitelocation %}
-    <div id="sidebar_header">
+    {% cache 3600 view_video_new sitelocation cache_invalidator %}
+    <div class="sidebar_header">
       <h2>New Videos</h2>
 
       <div class="floatright">

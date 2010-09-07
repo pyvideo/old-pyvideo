@@ -10,6 +10,7 @@
 #overlay {
 	background:#efefef;
 	width: 600px;
+        text-align: left;
     color:#efefef;
     height:400px;
     padding: 10px;
@@ -172,7 +173,7 @@ margin: 10px 0 0 10px;
 	border-right: 1px solid #c3c7cf;
 	border-bottom: 1px solid #c3c7cf;
 	margin: 12px auto;
-	width: 500px;
+	width: 600px;
 }
 #login .tabs {
         font-size: 12px;
@@ -251,9 +252,12 @@ margin: 10px 0 0 10px;
 #login .tabs_content form label input {
 	background: url('../images/login_form_input_bg.jpg') repeat-x 0 0;
 	border: 1px solid #bfbfbf;
-	color: #a3a3a3;
+	color: #333;
 	padding: 5px 11px;
 	width: 165px;
+}
+#login .tabs_content form label input.placeholder {
+    color: #a3a3a3;
 }
 #login .tabs_content form label input.active {color: #333333;}
 #login .tabs_content form input.button {
@@ -289,4 +293,66 @@ margin: 10px 0 0 10px;
     text-align: center;
     margin: 0px auto;
     width: auto;
+}
+
+/*////////////////////////////////////////////
+
+~ Email share form
+
+////////////////////////////////////////////*/
+
+#share_form{
+padding: 30px;
+margin: 0;
+}
+
+
+#share_form ul{
+padding: 0;
+margin: 0;
+}
+
+
+#share_form ul li{
+clear: both;
+float: left;
+list-style: none;
+padding: 0;
+margin: 0 0 15px 0;
+}
+
+
+#share_form label{
+float: left;
+width: 80px;
+padding: 0;
+margin: 0;
+line-height: 1.5em;
+}
+
+
+#share_form input{
+float: right;
+}
+
+
+#id_message{
+float: none;
+clear: both;
+width: 540px;
+padding: 0;
+border: 1px solid #aaa;
+margin: 10px 0 0 0;
+}
+
+input#id_sender_email, input#id_recipient_email{
+float: left;
+width: 454px;
+}
+
+#share_thanks h1 {
+float: left;
+font-size: 200%;
+font-weight: bold;
+margin: 10px;
 }

@@ -24,6 +24,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 {% block body_class %}scrolling{% endblock %}
 
 {% block head %}
+  {{ block.super }}
     <script src="{% get_static_url "js/jquery.cycle.all.min.js" %}" type="text/javascript" charset="utf-8"></script>
     <script src="{% get_static_url "js/DD_belatedPNG_0.0.8a-min.js" %}" type="text/javascript" charset="utf-8"></script>
     <script type="text/javascript">
@@ -128,7 +129,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
         <a href="http://subscribe.getmiro.com/?url1=http%3A//{{ sitelocation.site.domain|urlencode }}{{ feeds_popular|urlencode }}" class="miro-subscribe">Subscribe</a>
       </div>
     </div>
-    {% cache 3600 localtv_scrolling_popular sitelocation %}{# one hour #}
+    {% cache 3600 localtv_scrolling_popular sitelocation cache_invalidator %}{# one hour #}
     {% for video in popular_videos|slice:":5" %}
       {% include "localtv/video_listing_individual.html" %}
     {% endfor %}

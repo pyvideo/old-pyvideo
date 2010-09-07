@@ -1,19 +1,89 @@
+if (!('placeholder' in document.createElement('input'))) {
+    var has_placeholder = false;
+    // browser doesn't support the HTML5 placeholder attribute
+    function placeholder_fallback() {
+        function copyAttributes(from_elm, to_elm) {
+            attributes = ['id', 'name', 'placeholder']
+            for (idx in attributes) {
+                attribute = attributes[idx];
+                to_elm.attr(attribute, from_elm.attr(attribute));
+            };
+            from_elm.replaceWith(to_elm);
+            return to_elm;
+        }
+        $('input[placeholder]').each(function() {
+            var that = $(this);
+            if (!this.defaultValue) {
+                that.addClass('placeholder');
+            }
+            function setPlaceholder() {
+                if (!that.val()) {
+                    if (that.attr('type') === 'password') {
+                        that = copyAttributes(that,
+                                              $("<input type='text' />"));
+                        that.addClass('fake_password');
+                    }
+                    that.addClass('placeholder');
+                    return that.val(that.attr('placeholder'));
+                } else {
+                    return that;
+                }
+            };
+            function removePlaceholder() {
+                if (that.hasClass('placeholder')) {
+                    if (that.hasClass('fake_password')) {
+                        that = copyAttributes(that,
+                                              $("<input type='password' />"));
+                        that.focus(removePlaceholder).blur(setPlaceholder).focus();
+                    } else {
+                        that.val('').removeClass('placeholder');
+                    }
+                }
+            };
+            setPlaceholder().focus(removePlaceholder).blur(setPlaceholder);
+        });
+    }
+    $("form").live('submit', function() {
+        $(this).find('input.placeholder').val('');
+    });
+} else {
+    var has_placeholder = true;
+}
+
 function setup_submit_callbacks(wrap, result) {
     page = $(result);
     if (page.filter('#next').length) {
-        location.href = page.filter('#next').attr('href');
+        href = page.filter('#next').attr('href');
+        if (window.location.pathname === href) {
+            window.location.reload(true);
+        } else {
+            location.href = href;
+        }
         return;
     }
     function callback(result){setup_submit_callbacks(wrap, result);}
     form = wrap.getContent().find('.contentWrap').html(result).find('form:eq(0)');
-    form.ajaxForm(callback).find('button').click(function(){form.ajaxSubmit(callback);});
+    if (!has_placeholder) placeholder_fallback();
+    form.ajaxForm({
+        success: callback,
+        beforeSerialize: function() {
+            if (!has_placeholder) {form.find('input.placeholder').val('');}
+        }}).find('button').click(function(){form.ajaxSubmit(callback);});
 }
-
 $(document).ready( function(){
     $("#nav li").mouseover(function(){$(this).addClass('sfhover');}).mouseout(function(){$(this).removeClass('sfhover');}).filter('.categories a:eq(0)').click(function() {return false;}).css('cursor', 'default');
+    if (!has_placeholder) placeholder_fallback();
+    if ($.browser.msie && /^[5-7]/.exec($.browser.version)) {
+        // early MSIE browsers mess up the z-index, so don't do the expose
+        // thing when we run into it
+        expose = null;
+    } else {
+        expose = '#499ad9';
+    }
+
     $('a[rel^=#]').overlay({
-        expose: '#499ad9',
-        effect: 'apple',
+        expose: expose,
+        //effect: 'apple',
 
         onBeforeLoad: function() {
             if (this.getTrigger().attr("href") != "#") {
@@ -44,6 +114,7 @@ $(document).ready( function(){
         }
         return false;
     });
+    if(!has_placeholder) placeholder_fallback();
 }).ajaxStart(function() {
     indicator = $("#load-indicator");
     if (!indicator.length) {

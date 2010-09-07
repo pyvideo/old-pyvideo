@@ -21,12 +21,12 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 
 <div class="video">
 
-  <a href="{{ video.get_absolute_url }}" class="thumbnail" style="background: url({% get_thumbnail_url video 140 110 %}) center no-repeat;">
+  <a href="{{ video.get_absolute_url }}{{ video_url_extra }}" class="thumbnail" style="background: url({% get_thumbnail_url video 140 110 %}) center no-repeat;">
   <img src="{% get_static_url "/images/vid_overlay.png" %}" /></a>
 
   <div class="title_desc">
     <h3>
-      <a href="{{ video.get_absolute_url }}" title="{{ video.name }}">
+      <a href="{{ video.get_absolute_url }}{{ video_url_extra }}" title="{{ video.name }}">
         {% if video.name %}
           {{ video.name }}
         {% else %}
@@ -36,12 +36,16 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     </h3>
     <span class="desc">
     {% autoescape off %}
-    {{ video.description|striptags }}
+    {{ video.description|sanitize:"whitelist|a br p|href" }}
     {% endautoescape %}
     </span>
   </div>
   <p>
+    {% if is_featured_video %}
+    Featured {{ video.last_featured|simpletimesince }} ago
+    {% else %}
     {{ video.when_prefix|title }} {{ video.when|simpletimesince }} ago
+    {% endif %}
   </p>
   <p>
     {% if video.authors.count %}

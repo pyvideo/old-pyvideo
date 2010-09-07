@@ -17,9 +17,10 @@ You should have received a copy of the GNU Affero General Public License
 along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 {% endcomment %}
 
-{% load uploadtemplate_tags %}
+{% load uploadtemplate_tags localtv_thumbnail %}
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
+  {% block top %}{% endblock %}
   {% if not request.is_ajax %}
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
@@ -34,7 +35,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     <style type="text/css">
     {{ sitelocation.css|safe }}
     {% if sitelocation.background %}body {
-       background: url("{{ sitelocation.background.url }}");
+       background: url("{{ sitelocation.background.url }}") !important;
     }{% endif %}
     </style>
     {% endif %}
@@ -45,9 +46,10 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     <script src="{% get_static_url "/js/miro_community.js" %}"
             type="text/javascript">
     </script>
-    <title>{% block title %}{{ sitelocation.site.name }}{% endblock title %}</title>
+    <title>{% block title %}{{ sitelocation.site.name }}{% if sitelocation.tagline %} - {{ sitelocation.tagline }}{% endif %}{% endblock title %}</title>
     {% block head %}
-    <meta name="description" content="{{ sitelocation.about_html|striptags }}">
+    <meta name="description" content="{% if sitelocation.about_html|striptags %}{{ sitelocation.about_html|striptags }}{% else %}A Video Community for {{ sitelocation.site.name }}{% endif %}">
+    {% if sitelocation.has_thumbnail %}<link rel="image_src" href="{% get_thumbnail_url sitelocation 130 110 %}" />{% endif %}
     {% endblock head %}
   </head>
   {% endif %}
@@ -93,10 +95,15 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
           </li>
           <li class="new">
             <a href="{% url localtv_list_new %}">
-              <span>New Videos</span>
+              <span>New</span>
             </a>
           </li>
-          <li class="educational">
+          <li class="popular">
+            <a href="{% url localtv_list_popular %}">
+              <span>Popular</span>
+            </a>
+          </li>
+           <li class="educational">
             <a href="/education">
               <span>Learning Python</span>
             </a>
@@ -124,11 +131,10 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 	                {% endif %}
 	            {% endif %}
 	            {% endfor %}
-	            <il style="float: none; clear: both;"></il>									
 	        </ul>
 	  </li>
 	  {% endif %}
-          {% if sitelocation.display_submit_button %}
+         {% if sitelocation.display_submit_button %}
           <li class="submit">
             <a rel="#overlay" href="{% url localtv_submit_video %}">
               <span>Submit A Video</span>
@@ -160,6 +166,7 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
     </div>
       {% block footer_wrapper %}
         <div id="footer">
+          {% if sitelocation.footer_html %}
           <div class="local_footer">
           {% block footer %}
             
@@ -170,20 +177,26 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
             
           {% endblock footer %}
           </div>
-          
+          {% endif %}
           <div>
-          
-			<p class="powered"><span>{{ sitelocation.site.name }} is powered by <a href="http://www.mirocommunity.org">Miro Community</a></span>
-
+            
+            <div class="powered">
+              <span>{{ sitelocation.site.name }} is powered by <a href="http://www.mirocommunity.org">Miro Community</a></span>
+              <ul id="footer_links">
+                <li><a href="{% url localtv_index %}">Home</a></li>
+                {% if request.user.is_authenticated %}<li><a href="{% url localtv_user_profile %}">Your Profile</a><li>{% endif %}
+                <li><a href="{% url localtv_goodies_widget %}">Goodies</a></li>
+                <li>
           {% if request.user.is_authenticated %}
             <a href="{{ settings.LOGOUT_URL }}?next={{ request.META.PATH_INFO }}">Logout {{ request.user.username }}</a>
           {% else %}
             <a href="{{ settings.LOGIN_URL }}?next={{ request.META.PATH_INFO }}" rel="#overlay" title="Please Sign In">Login</a>
           {% endif %}
-        </p>
+                </li>
+              </ul>
           </div>
         </div>
-
+      </div>
 
 {% endblock footer_wrapper %}
 
@@ -193,10 +206,10 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
   <div class="contentWrap"></div>
 </div>
 
-
       <div id="load-indicator">
         <img alt="Loading..." src="{% get_static_url "/images/load-indicator.gif" %}" />
       </div>
+
     {% if settings.GOOGLE_ANALYTICS_UA %}
     <script type="text/javascript">
   var gaJsHost = (("https:" == document.location.protocol) ?
