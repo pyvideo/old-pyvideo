@@ -100,6 +100,7 @@ float: right;
 #main .description ul {
     display: block;
     float: none;
+    padding-bottom: 20px;
 }
 
 #main .description ul li {
