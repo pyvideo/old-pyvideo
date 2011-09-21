@@ -23,8 +23,8 @@
 # SOFTWARE.
 
 """
-This is a script that gets the titles for all videos in a category on
-PMC.
+This is a script that gets the enclosure video urls for all videos in
+a category on PMC.
 """
 
 import sys
@@ -38,7 +38,7 @@ except:
     print "Requires lxml.  Please install and re-run."
     sys.exit(1)
 
-USAGE = "usage: gettitles.py <category>"
+USAGE = "usage: geturls.py <category>"
 
 def get_feed(url):
     parsed = urlparse(url)
@@ -55,25 +55,23 @@ def get_feed(url):
         
     return resp.read()
 
-def get_titles_atom(root):
+def get_urls_atom(root):
     global total_not_valid
 
     entries = root.findall("{http://www.w3.org/2005/Atom}entry")
-    print "Total number of entries: %s" % len(entries)
-    titles = []
+    urls = []
 
     for i, entry in enumerate(entries):
-        title = entry.find("{http://www.w3.org/2005/Atom}title").text.strip()
-        titles.append(title)
+        link = entry.find("{http://www.w3.org/2005/Atom}link[@rel=\"enclosure\"]")
+        urls.append(link.attrib["href"])
 
-    titles.sort()
-    print "\n".join(titles)
+    print "\n".join(urls)
     return 0
 
-def get_titles(data):
+def get_urls(data):
     root = etree.XML(data)
     if "Atom" in root.tag:
-        return get_titles_atom(root)
+        return get_urls_atom(root)
 
     raise ValueError("Don't know how to handle feed of %s", root.tag)
 
@@ -85,7 +83,7 @@ def main(argv):
     category = argv[0]
     category = category.lower().replace(" ", "-")
     url = "http://python.mirocommunity.org/feeds/category/%s?count=1000" % category
-    return get_titles(get_feed(url))
+    return get_urls(get_feed(url))
 
 if __name__ == "__main__":
     sys.exit(main(sys.argv[1:]))
