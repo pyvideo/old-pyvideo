@@ -55,7 +55,8 @@ margin: 0 auto;
     {% include "localtv/admin/edit_video_form.html" %}
   {% endif %}
 
-  <div id="main">
+
+{# pmc - moved vid_title_wrapper and friends out of main #}
     <div class="vid_title_wrapper">
       <div class="vid_title">
         {% if user_is_admin %}
@@ -103,6 +104,9 @@ margin: 0 auto;
         {% endif %}
     </div>
 
+{# end pmc - moved vid_title_wrapper and friends out of main #}
+
+  <div id="main">
     <div class="action">
       <a href="#" id="flag_button" class="med_button">
         <span>Flag Video<img src="{% get_static_url "/images/arrow_down.png" %}" alt="Down arrow" /></span>
@@ -198,15 +202,8 @@ margin: 0 auto;
       {% endfor %}
     </ul>
     {% endif %}
-    {% if not sitelocation.comments_required_login or request.user.is_authenticated %}
-    <h2 class="clear post-comment-title">Post a comment</h2>
-    {% get_comment_form for current_video as comment_form %}
-    <form action="{% comment_form_target %}" method="post" id="comment_form">{% csrf_token %}
-      {% with comment_form as form %}
-      {% include "comments/form_base.html" %}
-      {% endwith %}
-    </form>
-    {% endif %}
+
+{# pmc - removed comments section #}
   </div>
 
   <div id="sidebar">
@@ -296,9 +293,11 @@ margin: 0 auto;
     {% endif %}
     {% endif %}
     {% if category %}
-    {% cache 3600 view_video_category_new sitelocation category cache_invalidator %}
+
+{# pmc - remove cache line #}
+
     <div class="sidebar_header">
-      <h2>{{ category.name }}</h2>
+      <h2>Category: {{ category.name }}</h2>
 
       <div class="floatright">
         {% url localtv_feeds_category category.slug as category_rss %}
@@ -306,13 +305,13 @@ margin: 0 auto;
         <a href="http://subscribe.getmiro.com/?url1=http%3A//{{ sitelocation.site.domain|urlencode }}{{ category_rss|urlencode }}" class="miro-subscribe">Subscribe</a>
       </div>
     </div>
-    {% get_video_list_for_category category as new_videos %}
-    {% for video in new_videos|slice:":9" %}
-    {% include "localtv/sidebar_video.html" %}
-    {% endfor %}
-    {% endcache %}
+
+{# pmc - remove video list on right side from category #}
+
     {% else %}
-    {% cache 3600 view_video_new sitelocation cache_invalidator %}
+
+{# pmc - remove cache line #}
+
     <div class="sidebar_header">
       <h2>New Videos</h2>
 
@@ -322,11 +321,9 @@ margin: 0 auto;
         <a href="http://subscribe.getmiro.com/?url1=http%3A//{{ sitelocation.site.domain|urlencode }}{{ new_rss|urlencode }}" class="miro-subscribe">Subscribe</a>
       </div>
     </div>
-    {% get_video_list_new as new_videos %}
-    {% for video in new_videos|slice:":9" %}
-      {% include "localtv/sidebar_video.html" %}
-    {% endfor %}
-    {% endcache %}
+
+{# pmc - remove new video list on right side from non-category videos #}
+
     {% endif %}
   </div>
 
