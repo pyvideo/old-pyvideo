@@ -13,8 +13,8 @@ ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 sys.path.append(os.path.join(os.path.dirname(ROOT), 'apps'))
 
 
-DEBUG = True
-TEMPLATE_DEBUG = DEBUG
+DEBUG = mysecrets.DEBUG
+TEMPLATE_DEBUG = mysecrets.TEMPLATE_DEBUG
 
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
