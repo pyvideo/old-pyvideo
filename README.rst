@@ -2,5 +2,6 @@
  README
 ========
 
-These are the templates for the Python Miro Community site at
-http://python.mirocommunity.org/ .
+This is the repository holding the pyvideo.org bits for running the site.
+
+The site is at `<http://pyvideo.org/>`_.
