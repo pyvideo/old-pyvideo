@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PYTHONPATH=/home/willg/sites/pyvideo.org/config:$PYTHONPATH
+export PYTHONPATH=/home/willg/projects/pyvideo.org/config:$PYTHONPATH
 export DJANGO_SETTINGS_MODULE=pyvideo_settings
 
 PYTHON=./venv/bin/python
@@ -13,6 +13,7 @@ $PYTHON ./richard/manage.py loaddata \
     $FIXTURES/tags.json \
     $FIXTURES/speakers.json \
     $FIXTURES/categories.json \
+    $FIXTURES/sitenews.json \
     $FIXTURES/bostonpy.json \
     $FIXTURES/chipy.json \
     $FIXTURES/pyatl.json \
@@ -30,3 +31,5 @@ $PYTHON ./richard/manage.py loaddata \
     $FIXTURES/pytexas-2011.json
 
 #    pycon-au-2011.json \
+
+$PYTHON ./richard/manage.py rebuild_index
