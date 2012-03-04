@@ -1,5 +1,8 @@
 #!/bin/bash
 
+export PYTHONPATH=/home/willg/sites/pyvideo.org/config:$PYTHONPATH
+export DJANGO_SETTINGS_MODULE=pyvideo_settings
+
 PYTHON=./venv/bin/python
 FIXTURES=./fixtures
 
