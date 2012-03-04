@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PYTHONPATH=/home/willg/projects/pyvideo.org/config:$PYTHONPATH
+export PYTHONPATH=./config:$PYTHONPATH
 export DJANGO_SETTINGS_MODULE=pyvideo_settings
 
 PYTHON=./venv/bin/python
