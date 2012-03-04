@@ -1,0 +1,15 @@
+[
+    {
+        "pk": 1,
+        "model": "flatpages.flatpage",
+        "fields": {
+            "registration_required": false,
+            "title": "About this site",
+            "url": "/about/",
+            "template_name": "",
+            "sites": [1],
+            "content": "<p>\r\nThis site is an index of videos from Python conferences and user groups.\r\n</p>",
+            "enable_comments": false
+        }
+    }
+]

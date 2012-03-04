@@ -1,0 +1,812 @@
+[
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Custom Signals for Uncoupled Design\n<br /><br />\nPresented by Bruce Kroeze", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG8vhAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "custom-signals-for-uncoupled-design", 
+            "speakers": [
+                0
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-CustomSignalsForUncoupledDesign412.png", 
+            "title": "Custom Signals for Uncoupled Design", 
+            "updated": "2010-01-10T12:17:37+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 0
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "DjangoCon presents Getting the most out of the Test Client\n<br /><br />\nPresented by Russell Keith-Magee at DjangoCon 2009\n<br /><br />\nThe Test Client is a way to build unit tests to test the full stack of your Django web application.  This talk covers what it is, how to use it, and various other related things.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG8vFIC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--getting-the-most-out-of-the-test-", 
+            "speakers": [
+                257
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                3
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-GettingTheMostOutOfTheTestClient185.png", 
+            "title": "Getting the most out of the Test Client", 
+            "updated": "2010-01-10T11:08:19+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 1
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Customizing your satchmo store\n<br /><br />\nPresented by Chris Moffitt\n<br /><br />\nTalks about django development with satchmo.  Satchmo is an open source framework for creating online stores.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG7hXUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "customizing-your-satchmo-store", 
+            "speakers": [
+                2
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                4
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-CustomizingYourSatchmoStore406.png", 
+            "title": "Customizing your Satchmo Store", 
+            "updated": "2010-01-04T11:37:18+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 2
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "No!  Bad Pony!\n<br /><br />\nPresented by Russell Keith-Magee\n<br /><br />\nTalks about ponies, genesis of ponies, the history of the pony, magical powers, and everything else you want to know about ponies.  Talks about how django feature proposals are handled.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6_AgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "no--bad-pony", 
+            "speakers": [
+                257
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                5
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-NoBadPony160.png", 
+            "title": "No! Bad Pony!", 
+            "updated": "2010-01-04T03:31:30+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 3
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "When not to use the ORM: bulk data loading strategies for large datasets\n<br /><br />\nJustin Bronn\n<br /><br />\nTalks about data loading strategies for very large datasets and why not to use an ORM when doing it.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6%2B1MC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "when-not-to-use-the-orm--bulk-data-loading-strate", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                6, 
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhenNotToUseTheORMBulkDataLoadingStrategiesForLargeD600.png", 
+            "title": "When not to use the ORM: bulk data loading strategies for large datasets.", 
+            "updated": "2010-01-04T02:59:26+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 4
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "How to name your open source Django project after a famous Jazz musician, and concepts behind Django-Minus, a project\n<br /><br />\nPresented by Kevin Fricovsky", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6%2B0cC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "how-to-name-your-open-source-django-project-after", 
+            "speakers": [
+                4
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                7
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-HowToNameYourOpenSourceDjangoProjectAfterAFamousJazz252.png", 
+            "title": "How to name your open source Django project after a famous Jazz musician, and concepts behind Django-Mingus, a project leveraging only reusable apps.", 
+            "updated": "2010-01-04T02:52:24+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 5
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<br />", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6%2Bx0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "state-of-pinax", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                8
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-StateOfPinax742.png", 
+            "title": "State of Pinax", 
+            "updated": "2010-01-04T02:35:14+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 6
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Django on Jython: Ready for Production\n<br /><br />\nPresented by Chris McAvoy\n<br /><br />\nTalks about runnin Django on Jython.  Walks through technical issues with getting Django running on Jython, but also talks about why you might want to do this and what it enables.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6%2BkwC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "django-on-jython--ready-for-production", 
+            "speakers": [
+                5
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                9
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DjangoOnJythonReadyForProduction857.png", 
+            "title": "Django on Jython: Ready for Production", 
+            "updated": "2010-01-04T01:57:15+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 7
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Now What\n<br /><br />\nPresented by Ted Leung\n", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG6%2BhoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "now-what", 
+            "speakers": [
+                6
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-NowWhat155.png", 
+            "title": "Now What", 
+            "updated": "2010-01-04T01:25:07+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 8
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Lightning Talks Day 3\n<br /><br />\n(00:07) Solace, a multilingual support platform - Armin Ronacher\n<br /><br />\n(03:50) Dig Deeper, Digging through the Django source code - ?\n<br /><br />\n(09:50) PSF, Pony Magic - James Tauber", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG67DUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--lightning-talks-day-3", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                10, 
+                0, 
+                1, 
+                2, 
+                11, 
+                12
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LightningTalksDay3853.png", 
+            "title": "Lightning Talks Day 3", 
+            "updated": "2010-01-03T13:33:13+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 9
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Google Summer of Code Overview Panel\n<br /><br />\nFeaturing Zain Memon, Alex Gaynor, Honza Kral, Marc Garcia\n<br /><br />\nModerated question and answer about GSOC and Django.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG67CEC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "google-summer-of-code-overview-panel", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                13
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-GoogleSummerOfCodeOverviewPanel901.png", 
+            "title": "Google Summer of Code Overview Panel", 
+            "updated": "2010-01-03T13:23:08+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 10
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Painless Django app localization with Transifex\n<br /><br />\nPresented by Dimitris Glezos\n<br /><br />\nTalks about Transifex, what it does, how it works, and how to use it to localize your application.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG662UC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "painless-django-app-localization-with-transifex", 
+            "speakers": [
+                7
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                14, 
+                15
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-PainlessDjangoAppLocalizationWithTransifex294.png", 
+            "title": "Painless Django app localization with Transifex", 
+            "updated": "2010-01-03T13:01:13+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 11
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Fighting malnutrition with SMS and Django\n<br /><br />\nPresented by Andy Mckay\n<br /><br />\nCase study about using sms and django on a project called rapidsms.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG66n0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "fighting-malnutrition-with-sms-and-django", 
+            "speakers": [
+                8
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-FightingMalnutritionWithSMSAndDjango307.png", 
+            "title": "Fighting malnutrition with SMS and Django", 
+            "updated": "2010-01-03T12:20:51+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 12
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<br />", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG66h4C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--scaling-django-web-applications", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                16
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ScalingDjangoWebApplications829.png", 
+            "title": "Scaling Django Web Applications", 
+            "updated": "2010-01-03T11:52:38+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 13
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Lightning Talks Day 2\n<br /><br />\n(00:09) Dive into CPython Bytecode - Alex Gaynor\n<br /><br />\n(05:10) Testing with pywatch - Chris Heisel\n<br /><br />\n(07:08) Pluggable Django E-Commerce - Aaron Cuker and someone else\n<br /><br />\n(12:13) Introduction to Surlex - Cody Soyland\n", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG66UgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--lightning-talks-day-2", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                17, 
+                18, 
+                0, 
+                1, 
+                2, 
+                19, 
+                20, 
+                21
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LightningTalksDay2668.png", 
+            "title": "Lightning Talks Day 2", 
+            "updated": "2010-01-03T11:12:19+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 14
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<br />\n\nVideo freezes from 3:30-4:30, audio is fine.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG66SUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--selling-django-to-your-superiors-", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SellingDjangoToYourSuperiorsSuccessStoriesPanel152.png", 
+            "title": "Selling Django to Your Superiors: Success Stories Panel", 
+            "updated": "2010-01-03T10:59:13+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 15
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Making your PostgresSQL database sing\n<br /><br />\nPresented by Frank Wiles at DjangoCon 2009\n<br /><br />\nTalks about performance tuning with PostgresSQL.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG66FgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--making-your-postgresql-database-s", 
+            "speakers": [
+                9
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                22, 
+                23
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MakingYourPostgreSQLDatabaseSing988.png", 
+            "title": "Making your PostgreSQL database sing", 
+            "updated": "2010-01-03T10:19:34+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 16
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Pluggable, reusable, django apps: A use case and proposed solution\n<br /><br />\nPresented by Shawn Rider and Nowell Strite\n<br /><br />\nTalks about Django usage in PBS maintained sites.\n<br /><br />\n[VIDEO HAS ISSUES: audio jumps around a bit]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG640cC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "pluggable--reusable-django-apps--a-use-case-and-p", 
+            "speakers": [
+                10
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-PluggableReusableDjangoAppsAUseCaseAndProposedSolution188.png", 
+            "title": "Pluggable, Reusable Django Apps: A Use Case and Proposed Solution", 
+            "updated": "2010-01-03T02:57:00+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 17
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Introduction to GeoDjango\n<br /><br />\nPresented by Adam Fast\n<br /><br />\nGives an introduction to GeoDjango.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64x0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--introduction-to-geodjango", 
+            "speakers": [
+                11
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                24, 
+                25
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-IntroductionToGeoDjango145.png", 
+            "title": "Introduction to GeoDjango", 
+            "updated": "2010-01-03T02:26:52+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 18
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<br />", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64wMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--real-time-web-and-other-buzzwords", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                26, 
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RealtimeWebAndOtherBuzzwords380.png", 
+            "title": "Real-time Web and Other Buzzwords", 
+            "updated": "2010-01-03T02:05:23+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 19
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Introduction to Pinax\n<br /><br />\nPresented by James Tauber and Daniel Greenfeld\n<br /><br />\nWalks through what Pinax is, how it's useful to you, how to install it, and walks through building a simple site using Pinax.", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64lYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "introduction-to-pinax", 
+            "speakers": [
+                12
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                8
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-IntroductionToPinax842.png", 
+            "title": "Introduction to Pinax", 
+            "updated": "2010-01-03T01:31:17+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 20
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Using Django in Non-Standard Ways\n<br /><br />\nEric Florenzano\n<br /><br />\nFirst, tries to define what \"non-standard ways\" entails, then talks about using Django in these ways.\n<br /><br />\n[VIDEO HAS ISSUES: video freezes at times, but audio continues]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64hoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "using-django-in-non-standard-ways", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-UsingDjangoInNonStandardWays293.png", 
+            "title": "Using Django in Non-Standard Ways", 
+            "updated": "2010-01-03T00:57:30+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 21
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "DjangoCon presents A socio-political analysis of open source community\n<p>\nPresented by Ian Bicking\n</p><p>\nCovers why are we doing what we're doing and why it matters in terms of Open Source and the movement.  Focuses on the Django community, what's being produced and finding meaning in that.</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64XUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--a-socio-political-analysis-of-ope", 
+            "speakers": [
+                13
+            ], 
+            "summary": "", 
+            "tags": [
+                1, 
+                2, 
+                27
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ASociopoliticalAnalysisOfOpenSourceCommunity386.png", 
+            "title": "A socio-political analysis of open source community", 
+            "updated": "2010-01-03T00:23:51+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 22
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Django Technical Design Panel\n<br /><br />\nFeaturing Joseph K, Russell Keith-Magee, Simon Willison, James Bennett, Brian\n<br /><br />\nModerated question and answer period covering a bunch of topics.\n<br /><br />\n[VIDEO HAS ISSUES: sound only from left speaker]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64S8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "django-technical-design-panel", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DjangoTechnicalDesignPanel418.png", 
+            "title": "Django Technical Design Panel", 
+            "updated": "2010-01-02T23:46:00+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 23
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Cowboy development with Django\n<br /><br />\nPresented by Simon Willison\n<br /><br />\nHard to describe this talk--it's very entertaining.\n<br /><br />\n[VIDEO HAS ISSUES: Audio is mostly in left speaker; lost audio at 36:45]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64HMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "cowboy-development-with-django", 
+            "speakers": [
+                14
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-CowboyDevelopmentWithDjango354.png", 
+            "title": "Cowboy Development with Django", 
+            "updated": "2010-01-02T23:22:14+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 24
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Deploying Django\n<br /><br />\nPresented by Brian Rosner\n<br /><br />\nTalks about deploying django sites.\n<br /><br />\n[VIDEO HAS ISSUES: mostly in left speaker]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64D4C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--deploying-django", 
+            "speakers": [
+                15
+            ], 
+            "summary": "", 
+            "tags": [
+                28, 
+                29, 
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DeployingDjango796.png", 
+            "title": "Deploying Django", 
+            "updated": "2010-01-02T22:47:07+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 25
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<br />", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG64AoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--restful-ponies", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                30
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RESTfulPonies488.png", 
+            "title": "RESTful Ponies", 
+            "updated": "2010-01-02T22:23:45+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 26
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "What the heck went wrong?\n<br /><br />\nAndy McKay\n<br /><br />\nTalks about how to debug Django.\n<br /><br />\n[VIDEO HAS ISSUES: audio in left speaker]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63z0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--what-the-heck-went-wrong", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                31, 
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhatTheHeckWentWrong528.png", 
+            "title": "What the Heck Went Wrong?", 
+            "updated": "2010-01-02T21:53:10+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 27
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "How to Contribute to Pinax\n<br /><br />\nPresented by James Tauber\n<br /><br />\nTalks about what Pinax is and how to contribute to the Pinax project.\n<br /><br />\n<a href=\"http://pinaxproject.com/\">Pinax project</a>", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63xoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "how-to-contribute-to-pinax", 
+            "speakers": [
+                16
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                8
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-HowToContributeToPinax109.png", 
+            "title": "How to Contribute to Pinax", 
+            "updated": "2010-01-02T21:36:12+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 28
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Token Testing Talk\n<br /><br />\nPresented by Eric Holscher\n<br /><br />\nTalks about testing in Django.\n<br /><br />\n[VIDEO HAS ISSUES: audio in left channel only]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63nQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--token-testing-talk", 
+            "speakers": [
+                17
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2, 
+                21
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TokenTestingTalk148.png", 
+            "title": "Token Testing Talk", 
+            "updated": "2010-01-02T21:22:20+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 29
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Confessions of a life long Perl Bigot\n<br /><br />\nPresented by Frank Wiles\n<br /><br />\nTalks about Django from the perspective of the Perl world.\n<br /><br />\n[VIDEO HAS ISSUES: is quiet]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63igC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--confessions-of-a-life-long-perl-b", 
+            "speakers": [
+                18
+            ], 
+            "summary": "", 
+            "tags": [
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ConfessionsOfALifeLongPerlBigot929.png", 
+            "title": "Confessions of a life long Perl Bigot", 
+            "updated": "2010-01-02T20:50:32+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 30
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Database migrations, south and you\n<br /><br />\nPresented by Andrew Godwin\n<br /><br />\nTalks about south which makes it easier to do database migrations.\n<br /><br />\n[VIDEO HAS ISSUES: audio tends towards left speaker]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63XoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "database-migrations--south--and-you", 
+            "speakers": [
+                19
+            ], 
+            "summary": "", 
+            "tags": [
+                32, 
+                0, 
+                1, 
+                2, 
+                33
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DatabaseMigrationsSouthAndYou968.png", 
+            "title": "Database Migrations, South, And You", 
+            "updated": "2010-01-02T20:24:48+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 31
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "UR DOIN IT WRONG\n<br /><br />\nJames Bennett\n<br /><br />\nTalks about new people having problems doing what they're trying to do with Django.  Some things discussed: not reading the documentation, learning Python as you go, ...  Talks about the minimum Python you should know when working with Django.\n<br /><br />\n[VIDEO HAS ISSUES: audio is soft at the beginning]", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63UEC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "ur-doing-it-wrong", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-URDOINGITWRONG701.png", 
+            "title": "UR DOING IT WRONG", 
+            "updated": "2010-01-02T19:57:56+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 32
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Django is obsolete (but so is everything else)\n<br /><br />\nPresented by Avi Bryant\n<br /><b>\nKeynote for DjangoCon 2009.</b>", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG63H0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--django-is-obsolete--but-so-is-eve", 
+            "speakers": [
+                20
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DjangoIsObsoleteButSoIsEverythingElse277.png", 
+            "title": "Django is obsolete (but so is everything else)", 
+            "updated": "2010-01-02T19:24:59+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 33
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Introduction from the fake Jacob Kaplan-Moss\n<br /><br />\nPresented by James Tauber\n", 
+            "embed": "<embed src=\"http://blip.tv/play/AYG62ygC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 1, 
+            "slug": "djangocon-2009--introduction-from-the-fake-jacob-", 
+            "speakers": [
+                16
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                1, 
+                2
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-IntroductionFromTheFakeJacobKaplanMoss840.png", 
+            "title": "Introduction from the fake Jacob Kaplan-Moss", 
+            "updated": "2010-01-02T17:48:41+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 34
+    }
+]

@@ -1,0 +1,745 @@
+[
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Procedures, Objects, Reusability: httplib, urllib2 and their discontents</p>\n<p>Presented by Brandon Craig Rhodes</p>\n<p>\nPython supports two major programming paradigms: procedures, and object orientation. This talk will claim that, when it comes to code re-use, these two paradigms are NOT created equal: because object-oriented programming encourages the programmer to write methods that consider everything else inside of \"self\" to be fair game, it encourages highly coupled code that proves brittle when extended.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-ProceduresObjectsReusabilityHttplibUrllib2AndTheirDiscont283.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--procedures--objects--reusability---q", 
+            "speakers": [
+                114
+            ], 
+            "summary": "", 
+            "tags": [
+                766, 
+                659, 
+                257, 
+                52, 
+                739, 
+                767, 
+                67, 
+                768, 
+                769
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-ProceduresObjectsReusabilityHttplibUrllib2AndTheirDiscont815.png", 
+            "title": "PyOhio 2011: Procedures, Objects, Reusability: &quot;httplib&quot;, &quot;urllib2&quot;, and Their Discontents", 
+            "updated": "2011-08-11T22:13:04+00:00", 
+            "video_ogv_length": "256523701", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-ProceduresObjectsReusabilityHttplibUrllib2AndTheirDiscont283.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 521
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Sunday Lightning Talks</p>\n<ul>\n<li>00:00 Brandon Craig Rhodes - Adventure <a href=\"https://bitbucket.org/brandon/adventure/overview\">https://bitbucket.org/brandon/adventure/overview</a>\n</li><li>05:15 Dave M - Followup on the laptop survey\n</li><li>08:10 Clayton Parker - Vim and ctags\n</li><li>13:10 Rich Harkins - Bullwinkle - Python tools inspired by Perl::Moose <a href=\"http://code.google.com/bullwinkle\">http://code.google.com/bullwinkle</a>\n</li></ul>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-SundayLightningTalks956.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--sunday-lightning-talks", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                495, 
+                770, 
+                771, 
+                739, 
+                767, 
+                336
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-SundayLightningTalks889.png", 
+            "title": "PyOhio 2011: Sunday Lightning Talks", 
+            "updated": "2011-08-05T12:12:06+00:00", 
+            "video_ogv_length": "85931228", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-SundayLightningTalks956.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 522
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Saturday Lightning Talks</p>\n<ul>\n<li>00:00 Dave something - SourceForge doing cool stuff with Python <a href=\"http://sourceforge.net/\">sourceforge.net</a>\n</li><li>05:00 Rick Harding - Bookie <a href=\"http://github.com/mitechie/Bookie\">github.com/mitechie/Bookie</a>\n</li><li>09:55 Tim Henderson - Slang <a href=\"http://github.com/timtadh/slang\">github.com/timtadh/slang</a>\n</li><li>12:30 Raymond Chandler III - Sun Tsu and Python -- adopting Python in the work place\n</li><li>17:39 Michael Yanovich - Pelican <a href=\"http://github.com/ametaireau/pelican\">github.com/ametaireau/pelican</a>\n</li><li>21:50 Matt Wilson - Rattlesnake <a href=\"http://github.com/mw44118/rattlesnake\">github.com/mw44118/rattlesnake</a>\n</li><li>27:55 Kris Hardy - repoze.who.plugins\n</li><li>33:20 Dave M - What laptop did you bring to PyOhio?\n</li></ul>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-SaturdayLightningTalks812.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--saturday-lightning-talks", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                772, 
+                773, 
+                774, 
+                739, 
+                767, 
+                775, 
+                776, 
+                777, 
+                210
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-SaturdayLightningTalks453.png", 
+            "title": "PyOhio 2011: Saturday Lightning Talks", 
+            "updated": "2011-08-05T05:15:14+00:00", 
+            "video_ogv_length": "182358287", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-SaturdayLightningTalks812.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 523
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Squinting at Python Objects</p>\n<p>Presented by Brandon Craig Rhodes</p>\n<p>\nPython classes can gain attributes as if by magic. Thanks to properties, descriptors, and (if all else fails) __getattr__() and __getattribute__(), the attempt to access obj.something can result in arbitrary code execution. If you are wondering how your Python program is using memory, this can result in a problem: each time you look to see if something is there, it <b>is</b>, because it is pulled in dynamically the moment you look for it. In this talk, you will learn how to prod Python objects gently, and hopefully learn their secrets - and their memory usage - without actually invoking code.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-SquintingAtPythonObjects705.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--squinting-at-python-objects", 
+            "speakers": [
+                114
+            ], 
+            "summary": "", 
+            "tags": [
+                778, 
+                779, 
+                780, 
+                158, 
+                781, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-SquintingAtPythonObjects698.png", 
+            "title": "PyOhio 2011: Squinting at Python Objects", 
+            "updated": "2011-08-05T04:58:31+00:00", 
+            "video_ogv_length": "276597561", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-SquintingAtPythonObjects705.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 524
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>SqlAlchemy tutorial</p>\n<p>Presented by Rick Harding</p>\n<p>\nSqlAlchemy is one of the top 5 \"must have\" modules for Python.  We'll go through why you might want to use an ORM, situations to use the different layers of SqlAlchemy, and some tips and tricks on a real sample application.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-SqlAlchemyTutorial943.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--sqlalchemy-tutorial", 
+            "speakers": [
+                298
+            ], 
+            "summary": "", 
+            "tags": [
+                739, 
+                767, 
+                253, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-SqlAlchemyTutorial951.png", 
+            "title": "PyOhio 2011: SqlAlchemy tutorial", 
+            "updated": "2011-08-05T01:42:15+00:00", 
+            "video_ogv_length": "564479437", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-SqlAlchemyTutorial943.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 525
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Multi-player Games using Panda3D and Python</p>\n<p>Presented by Peter Carswell</p>\n<p>\nThis two-hour tutorial is designed to investigate the implementation of a multi-player game using the game engine Panda3D. Panda3D's intended game-development language is Python. The concepts involve Object Oriented Programming structures, modeling and texture mapping, key-binding motion, collisions and, finally, networking techniques.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-MultiplayerGamesUsingPanda3DAndPython340.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--multi-player-games-using-panda3d-and", 
+            "speakers": [
+                300
+            ], 
+            "summary": "", 
+            "tags": [
+                782, 
+                739, 
+                767, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-MultiplayerGamesUsingPanda3DAndPython491.png", 
+            "title": "PyOhio 2011: Multi-player Games using Panda3D and Python", 
+            "updated": "2011-08-04T20:44:29+00:00", 
+            "video_ogv_length": "512957562", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-MultiplayerGamesUsingPanda3DAndPython340.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 526
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Python 101</p>\n<p>Presented by Michael Yanovich</p>\n<p>\nAre you completely new to Python? Have you been wanting to learn Python but haven't had the time? Well give you a crash course on the basics of Python. We'll start off with why Python is unique compared to other languages and then quickly start into basic syntax, data types, and the Python philosophy for coding.\n</p>\n<p>\n[VIDEO HAS ISSUES: The presenter dropped the mic on the ground and there it lay.  So the sound kind of sucks.]\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-Python101283.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--python-101", 
+            "speakers": [
+                301
+            ], 
+            "summary": "", 
+            "tags": [
+                783, 
+                739, 
+                767, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-Python101773.png", 
+            "title": "PyOhio 2011: Python 101", 
+            "updated": "2011-08-04T19:36:47+00:00", 
+            "video_ogv_length": "573462662", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-Python101283.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 527
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Python 102</p>\n<p>Presented by Michael Yanovich </p>\n<p>\nNow you know the basics of Python.   What can you do with Python? Well the better question should be \"What can't you do with Python?\" In this tutorial/talk we'll cover more advance topics that include how to use the Python Standard Library, advance data type manipulation, and basic network programming. This class will be more like a talk depending on the comfortability of everyone in the class.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-Python102107.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--python-102", 
+            "speakers": [
+                301
+            ], 
+            "summary": "", 
+            "tags": [
+                783, 
+                739, 
+                767, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-Python102344-834.jpg", 
+            "title": "PyOhio 2011: Python 102", 
+            "updated": "2011-08-04T13:32:55+00:00", 
+            "video_ogv_length": "538801907", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-Python102107.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 528
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Creating Web APIs that are a joy to use</p>\n<p>Presented by Issac Kelly</p>\n<p>\nIssac is an avid API consumer. He&amp;aposll cover how to make an API that is not terrible. This is apparently very difficult to do, and many anti-patterns will be shown. No care will be taken to protect the guilty. This talk is not as focused on Python, as it is on creating Web APIs, and an understanding of HTTP is assumed.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-CreatingWebAPIsThatAreAJoyToUse602.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--creating-web-apis-that-are-a-joy-to-", 
+            "speakers": [
+                41
+            ], 
+            "summary": "", 
+            "tags": [
+                69, 
+                402, 
+                739, 
+                767, 
+                784
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-CreatingWebAPIsThatAreAJoyToUse449.png", 
+            "title": "PyOhio 2011: Creating Web APIs that are a joy to use", 
+            "updated": "2011-08-04T05:44:13+00:00", 
+            "video_ogv_length": "222195141", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-CreatingWebAPIsThatAreAJoyToUse602.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 529
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Python, Parsing, and You</p>\n<p>Presented by Tim Henderson</p>\n<p>\nTim Henderson Python is a fantastic language to write text processing tools in, including full fledged parsers. In this tutorial I will briefly cover Recursive Descent, Top Down Predictive and LALR Parsing. The tools used will include PLY and a Top Down Predictive Parsing framework of my own construction. I will expect the audience to be familiar with the following concepts: Context Free Grammars, Regular Expressions, ...\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-PythonParsingAndYou323.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--python--parsing-and-you", 
+            "speakers": [
+                302
+            ], 
+            "summary": "", 
+            "tags": [
+                785, 
+                786, 
+                331, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/notfound-episode.png", 
+            "title": "PyOhio 2011: Python, Parsing and You", 
+            "updated": "2011-08-04T05:23:41+00:00", 
+            "video_ogv_length": "258213512", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-PythonParsingAndYou323.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 530
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Consuming Web APIs with Python</p>\n<p>Presented by Issac Kelly</p>\n<p>\nIssac will go over the basics of HTTP apis, what to look for, basic authorization methods, and how to interface with them in your python scripts. There will not be cake.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-ConsumingWebAPIsWithPython609.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--consuming-web-apis-with-python", 
+            "speakers": [
+                41
+            ], 
+            "summary": "", 
+            "tags": [
+                739, 
+                767, 
+                787
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-ConsumingWebAPIsWithPython247.png", 
+            "title": "PyOhio 2011: Consuming Web APIs with Python", 
+            "updated": "2011-08-04T04:59:46+00:00", 
+            "video_ogv_length": "231659605", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-ConsumingWebAPIsWithPython609.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 531
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Soft Skillz: They aren't just for humans anymore</p>\n<p>Presented by Brian H. Prince</p>\n<p>\nBrian looks back at 15 years of being a developer, consultant, and business leader. He will talk about the skills and wisdom that you need to be happy and successful in your career.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-SoftSkillzTheyArentJustForHumansAnymore974.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--soft-skillz--they-aren--39-t-just-fo", 
+            "speakers": [
+                303
+            ], 
+            "summary": "", 
+            "tags": [
+                788, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-SoftSkillzTheyArentJustForHumansAnymore503.png", 
+            "title": "PyOhio 2011: Soft Skillz: They aren&#39;t just for humans anymore", 
+            "updated": "2011-08-03T22:57:45+00:00", 
+            "video_ogv_length": "243890086", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-SoftSkillzTheyArentJustForHumansAnymore974.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 532
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Exchange Digital Money Using Bitcoin</p>\n<p>Presented by David Steele</p>\n<p>\nBitcoin is described as the first decentralized digital currency. This talk describes how Bitcoin uses public key encryption, proof-of-work based logging, and peer-to-peer technology to create a type of money which can be transferred over the Internet. We'll cover how to use Python to manage your digital wallet and participate in this new P2P economy.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-ExchangeDigitalMoneyUsingBitcoin470.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--exchange-digital-money-using-bitcoin", 
+            "speakers": [
+                304
+            ], 
+            "summary": "", 
+            "tags": [
+                789, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/notfound-episode.png", 
+            "title": "PyOhio 2011: Exchange Digital Money using Bitcoin", 
+            "updated": "2011-08-03T22:35:21+00:00", 
+            "video_ogv_length": "271816847", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-ExchangeDigitalMoneyUsingBitcoin470.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 533
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>HTSQL is a WSGI reporting toolkit for Relational Databases</p>\n<p>Presented by Clark C. Evans</p>\n<p>\nHTSQL is a URI-based high-level query language for relational databases; it is written in the Python language. HTSQL is a wonderful complement existing WSGI-based applications, making it trivial to create interactive dashboards, complex reports. We use HTSQL as a REST query interface for data integration and ad-hoc reporting by technical users or ``accidental programmers``.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-HTSQLIsAWSGIReportingToolkitForRelationalDatabases820.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--htsql-is-a-wsgi-reporting-toolkit-fo", 
+            "speakers": [
+                181
+            ], 
+            "summary": "", 
+            "tags": [
+                524, 
+                739, 
+                767, 
+                225
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-HTSQLIsAWSGIReportingToolkitForRelationalDatabases585.png", 
+            "title": "PyOhio 2011: HTSQL is a WSGI reporting toolkit for Relational Databases", 
+            "updated": "2011-08-03T22:09:38+00:00", 
+            "video_ogv_length": "231427741", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-HTSQLIsAWSGIReportingToolkitForRelationalDatabases820.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 534
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Python and Entrepeneurship</p>\n<p>Panel: Eric Floehr, Matt Wilson, Isaac, Kelly, Carl Karsten</p>\n<p>\nThis will be an audience-led discussion with a number of Midwest entrepreneurs who do Python consulting, sell products built on Python, or who use Python as an integral part of their business operations.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-PythonAndEntrepreneurship345.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--python-and-entrepreneurship", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                56, 
+                790, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-PythonAndEntrepreneurship632.png", 
+            "title": "PyOhio 2011: Python and Entrepreneurship", 
+            "updated": "2011-08-03T21:48:21+00:00", 
+            "video_ogv_length": "248925766", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-PythonAndEntrepreneurship345.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 535
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Commercial GUI Development with Python and PySide</p>\n<p>Presented by James Bonanno</p>\n<p>\nCommercial Desktop GUIs need to be secure, flexible, reliable, and easy to maintain. A rapid application development framework, called PyRad, is introduced, that uses PySide and Cython. Together with Python, this development framework has allowed the authors to create numerous GUIs in a short time period, with a consistent look and feel.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-CommercialGUIDevelopmentWithPythonPySide916.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--commercial-gui-development-with-pyth", 
+            "speakers": [
+                297
+            ], 
+            "summary": "", 
+            "tags": [
+                369, 
+                205, 
+                739, 
+                767, 
+                791, 
+                792
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-CommercialGUIDevelopmentWithPythonPySide484.png", 
+            "title": "PyOhio 2011: Commercial GUI Development with Python &amp; PySide", 
+            "updated": "2011-08-03T21:25:31+00:00", 
+            "video_ogv_length": "212260226", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-CommercialGUIDevelopmentWithPythonPySide916.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 536
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Evolving an internal web service</p>\n<p>Presented by Taavi Burns</p>\n<p>\nOver the past few years, FreshBooks' core business logic has been moving into a Python web-service backend using Pylons and SQLAlchemy. Come hear why we did it, and stories of its architecture, testing methods, deployment, and monitoring.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-EvolvingAnInternalWebService263.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--evolving-an-internal-web-service", 
+            "speakers": [
+                305
+            ], 
+            "summary": "", 
+            "tags": [
+                56, 
+                793, 
+                229, 
+                739, 
+                767, 
+                253
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-EvolvingAnInternalWebService941.png", 
+            "title": "PyOhio 2011: Evolving an internal web service", 
+            "updated": "2011-08-03T21:06:00+00:00", 
+            "video_ogv_length": "235539719", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-EvolvingAnInternalWebService263.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 537
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Python 102</p>\n<p>Presented by Michael Yanovich</p>\n<p>\nNow you know the basics of Python. What can you do with Python? Well the better question should be \"What can't you do with Python?\" In this tutorial/talk we'll cover more advance topics that include how to use the Python Standard Library, advance data type manipulation, and basic network programming. This class will be more like a talk depending on the comfortability of everyone in the class.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-Python102691.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--python-100", 
+            "speakers": [
+                301
+            ], 
+            "summary": "", 
+            "tags": [
+                739, 
+                767, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/notfound-episode.png", 
+            "title": "PyOhio 2011: Python 102", 
+            "updated": "2011-08-03T20:42:22+00:00", 
+            "video_ogv_length": "538801907", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-Python102691.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 538
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Using pymc to cluster twitter users -- a noob's perspective</p>\n<p>Presented by Timmy Wilson</p>\n<p>\nJourney through the thoughts, hopes, and sad frustrations of an average python developer trying to understand MCMC matrix factorization. I'll work through a Python implementation of the paper \"Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo\" and talk about how it applies to clustering a Twitter adjacency matrix.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-UsingPymcToClusterTwitterUsersANoobsPerspective799.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--using-pymc-to-cluster-twitter-users-", 
+            "speakers": [
+                306
+            ], 
+            "summary": "", 
+            "tags": [
+                794, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-UsingPymcToClusterTwitterUsersANoobsPerspective618.png", 
+            "title": "PyOhio 2011: Using pymc to cluster twitter users -- a noob&#39;s perspective", 
+            "updated": "2011-08-03T18:38:29+00:00", 
+            "video_ogv_length": "211624086", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-UsingPymcToClusterTwitterUsersANoobsPerspective799.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 539
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Bringing Modern Python to the Atari</p>\n<p>Presented by Jeffrey Armstrong\n</p><p>\nThe Atari ST continues to fulfill a niche in the computing world amongst hobbyists. Later Atari computers, such as the TT030 and Falcon030, and the numerous clones are relatively competent 32-bit machines. To this day, the open source FreeMiNT operating system continues to be developed, bringing a UNIX-like environment to these computers.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-BringingModernPythonToTheAtari349.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--bringing-modern-python-to-the-atari", 
+            "speakers": [
+                195
+            ], 
+            "summary": "", 
+            "tags": [
+                795, 
+                796, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-BringingModernPythonToTheAtari253.png", 
+            "title": "PyOhio 2011: Bringing Modern Python to the Atari", 
+            "updated": "2011-08-03T18:18:50+00:00", 
+            "video_ogv_length": "233149391", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-BringingModernPythonToTheAtari349.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 540
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Interactive command-line interpreters with cmd and cmd2</p>\n<p>Presented by Catherine Devlin</p>\n<p>\nHow should your Python program receive commands and deliver results? If an interactive command-line interpreter is right for you, you're in luck - Python's got some great batteries included for you.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-InteractiveCommandlineInterpretersWithCmdAndCmd2448.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--interactive-command-line-interpreter", 
+            "speakers": [
+                294
+            ], 
+            "summary": "", 
+            "tags": [
+                420, 
+                421, 
+                531, 
+                797, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-InteractiveCommandlineInterpretersWithCmdAndCmd2782.png", 
+            "title": "PyOhio 2011: Interactive command-line interpreters with cmd and cmd2", 
+            "updated": "2011-08-03T17:58:15+00:00", 
+            "video_ogv_length": "204051071", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-InteractiveCommandlineInterpretersWithCmdAndCmd2448.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 541
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Names, Objects, and Plummeting From The Cliff</p>\n<p>Presented by Brandon Craig Rhodes</p>\n<p>\nThe assignment statement is often the second thing a new Python programmer learns, right after the \"print\" statement - but the beginner can get seriously bogged down in all of the concepts that assignment involves! Using a simple analogy, this talk will tackle those issues head-on.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-NamesObjectsAndPlummetingFromTheCliff622.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--names--objects--and-plummeting-from-", 
+            "speakers": [
+                114
+            ], 
+            "summary": "", 
+            "tags": [
+                798, 
+                783, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-NamesObjectsAndPlummetingFromTheCliff414.png", 
+            "title": "PyOhio 2011: Names, Objects, and Plummeting From The Cliff", 
+            "updated": "2011-08-03T17:40:14+00:00", 
+            "video_ogv_length": "255989952", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-NamesObjectsAndPlummetingFromTheCliff622.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 542
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Django and Google App Engine: Why I'm Using Flask and Amazon EC2</p>\n<p>Presented by Ben Rousch</p>\n<p>\nI'm a lazy coder, but not the good kind of lazy. I dove into Django so I could have one web framework that would work on many kind of hosting setups and for any kind of web project. With some modifications, I could even use the laziest application host, Google App Engine. Some of these decisions didn't work out, so I'll share some of the lessons I've learned the past year or so.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2157.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--django-and-google-app-engine--why-i-", 
+            "speakers": [
+                307
+            ], 
+            "summary": "", 
+            "tags": [
+                0, 
+                799, 
+                662, 
+                251, 
+                252, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2522.png", 
+            "title": "PyOhio 2011: Django and Google App Engine: Why I&#39;m using Flask and Amazon EC2", 
+            "updated": "2011-08-03T15:43:00+00:00", 
+            "video_ogv_length": "232171693", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2157.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 543
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>PHP to Python with No Regrets</p>\n<p>Presented by Alex Ezell</p>\n<p>\nAt Emma, we are transforming an eight year old PHP codebase into an API-driven service written in Python. Facing down the triple threat of bad data, encoding issues, and a generation of code cruft, we've begun to see the light of day. Come hear how we did it, where we fell down and where we're succeeding.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-PHPToPythonWithNoRegrets614.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--php-to-python-with-no-regrets", 
+            "speakers": [
+                308
+            ], 
+            "summary": "", 
+            "tags": [
+                56, 
+                800, 
+                801, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-PHPToPythonWithNoRegrets504.png", 
+            "title": "PyOhio 2011: PHP to Python with No Regrets", 
+            "updated": "2011-08-03T15:22:37+00:00", 
+            "video_ogv_length": "233391574", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-PHPToPythonWithNoRegrets614.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 544
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Toilets and Teleports - A study in Model-View-Control (MVC)</p>\n<p>Presented by Howard Mooneyham</p>\n<p>\nHave you ever wondered how to create a Model View Control program? Come to my talk and we will go through building a simple MVC program, Toilets and Teleports. We will then use one of the benefits of MVC to replace the View with a production quality version with GUI no other changes. I will pass out flow charts and documents showing how the program was created.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-ToiletsAndTeleportsAStudyInModelViewControlMVC949.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--toilets-and-teleports---a-study-in-m", 
+            "speakers": [
+                309
+            ], 
+            "summary": "", 
+            "tags": [
+                802, 
+                739, 
+                767, 
+                234
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-ToiletsAndTeleportsAStudyInModelViewControlMVC138.png", 
+            "title": "PyOhio 2011: Toilets and Teleports - A study in Model-View-Control (MVC)", 
+            "updated": "2011-08-03T15:01:07+00:00", 
+            "video_ogv_length": "193052664", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-ToiletsAndTeleportsAStudyInModelViewControlMVC949.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 545
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Data-Transfer Objects are a Disease.  Meet the Cure.</p>\n<p>Presented by Aaron Oliver</p>\n<p>\nData Transfer Objects (DTOs) are commonplace. Every time you want to shuffle data and be object-oriented about it, you crank out a new class. But then someone extends it for their purposes. Badly. Then someone ELSE extends it AGAIN and makes thing worse. Learn what makes our brains want to create DTOs, how they've been (ab)used in the past, and how Python's namedtuple makes it all better.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-DataTransferObjectsAreADiseaseMeetTheCure971.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--data-transfer-objects-are-a-disease-", 
+            "speakers": [
+                310
+            ], 
+            "summary": "", 
+            "tags": [
+                803, 
+                631, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-DataTransferObjectsAreADiseaseMeetTheCure992.png", 
+            "title": "PyOhio 2011: Data-Transfer Objects Are a Disease. Meet the Cure.", 
+            "updated": "2011-08-03T13:17:45+00:00", 
+            "video_ogv_length": "209233131", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-DataTransferObjectsAreADiseaseMeetTheCure971.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 546
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Using Fabric -- from a sysadmin's perspective</p>\n<p>Presented by Morgan Goose</p>\n<p>\nFabric is a great tool written in python for python devs. It allows you to script remote interactions on a remote server and only requires ssh and a shell on the remote host. It's commonly pigeonholed into a deployment tool, but it can but used for more than just websites.\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-UsingFabricFromASysadminsPerspective953.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--using-fabric---from-a-sysadmin--39-s", 
+            "speakers": [
+                311
+            ], 
+            "summary": "", 
+            "tags": [
+                144, 
+                739, 
+                767
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-UsingFabricFromASysadminsPerspective251.png", 
+            "title": "PyOhio 2011: Using Fabric - from a sysadmin&#39;s perspective", 
+            "updated": "2011-08-03T08:18:36+00:00", 
+            "video_ogv_length": "209937660", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-UsingFabricFromASysadminsPerspective953.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 547
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Aspen: A Next-generation Web Framework</p>\n<p>Presented by Chad Whitacre</p>\n<p>\nAspen is a Python web framework for both realtime and traditional web apps. It makes the most of the filesystem to reduce boilerplate and configuration to near zero. Simplates are the main attraction, a unique approach that brings logic and presentation as close together as possible--without mixing them.\n</p>\n<p>\n<a href=\"http://aspen.io/\">http://aspen.io/</a>\n</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Pyohio-AspenANextgenerationWebFramework559.ogv\"\n  })\n</script>", 
+            "category": 12, 
+            "slug": "pyohio-2011--aspen--a-next-generation-web-framewo", 
+            "speakers": [
+                312
+            ], 
+            "summary": "", 
+            "tags": [
+                804, 
+                739, 
+                767, 
+                805
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Pyohio-AspenANextgenerationWebFramework733.png", 
+            "title": "PyOhio 2011: Aspen: A Next-generation Web Framework", 
+            "updated": "2011-08-03T07:39:16+00:00", 
+            "video_ogv_length": "264725499", 
+            "video_ogv_url": "http://blip.tv/file/get/Pyohio-AspenANextgenerationWebFramework559.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 548
+    }
+]

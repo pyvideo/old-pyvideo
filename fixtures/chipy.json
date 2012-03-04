@@ -1,0 +1,713 @@
+[
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Kumar McMillan</p>\n<p>\nPlaydoh is Mozilla's starter kit for new Django projects. It aims to be secure-by-default and set up all the same goodies we use to scale for high traffic, perform background tasks, localize our sites in many languages, and other cool things.\n</p>", 
+            "embed": "<iframe src=\"http://blip.tv/play/g%2BRygsileQI.html\" width=\"480\" height=\"330\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#g+RygsileQI\" style=\"display:none\"></embed>", 
+            "category": 14, 
+            "slug": "playdoh", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                0, 
+                809
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-Playdoh611.png", 
+            "source_url": "http://blip.tv/carlfk/playdoh-5378709",
+            "title": "Playdoh", 
+            "recorded": "2011-07-14",
+            "updated": "2011-07-15T12:30:50+00:00", 
+            "video_mp4_length": "167343844", 
+            "video_mp4_url": "http://blip.tv/file/get/CarlFK-Playdoh100.mp4"
+        }, 
+        "model": "videos.Video", 
+        "pk": 563
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Bill Mania and Eric Kinzle A brief presentation of using the OpenCV computer vision toolset with Python and ROS. Included at the end will be a demonstration of tracking a colored object using a camera with servo-driven pan and tilt capability.</p>", 
+            "embed": "<iframe src=\"http://blip.tv/play/g%2BRygsGnRAI.html\" width=\"480\" height=\"330\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#g+RygsGnRAI\" style=\"display:none\"></embed>", 
+            "category": 14, 
+            "slug": "using-opencv-with-python-and-ros", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                810, 
+                811, 
+                808, 
+                812, 
+                813, 
+                224, 
+                814
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-UsingOpenCVWithPythonAndROS709.png", 
+            "source_url": "http://blip.tv/carlfk/using-opencv-with-python-and-ros-5264224",
+            "title": "Using OpenCV with Python and ROS", 
+            "recorded": "2011-06-09",
+            "updated": "2011-06-11T05:09:09+00:00", 
+            "video_mp4_length": "446805119", 
+            "video_mp4_url": "http://blip.tv/file/get/CarlFK-UsingOpenCVWithPythonAndROS453.mp4"
+        }, 
+        "model": "videos.Video", 
+        "pk": 564
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>GNU MediaGoblin for a federated media future</p>\n<p>Presented by Christopher Allan Webber</p>\n<p>Christopher Allan Webber talks about GNU MediaGoblin, a federated (decentralized) media publishing system (images, and later other media like video) written in python and under the AGPL.  Infrastructure discussion describes what it means that GNU MediaGoblin uses an unframework / is \"wsgi minimalist\", about the choice of MongoDB and MongoKit, and how to impress an audience with ascii art mockups.\n</p>", 
+            "embed": "<iframe src=\"http://blip.tv/play/g%2BRygsGnCAI.html\" width=\"480\" height=\"330\" frameborder=\"0\" allowfullscreen></iframe><embed type=\"application/x-shockwave-flash\" src=\"http://a.blip.tv/api.swf#g+RygsGnCAI\" style=\"display:none\"></embed>", 
+            "category": 14, 
+            "slug": "gnu-mediagoblin-for-a-federated-media-future", 
+            "speakers": [
+                215
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                310, 
+                815, 
+                816, 
+                817, 
+                818, 
+                819, 
+                381, 
+                820, 
+                225
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-GNUMediaGoblinForAFederatedMediaFuture830.png", 
+            "source_url": "http://blip.tv/carlfk/gnu-mediagoblin-for-a-federated-media-future-5264164",
+            "title": "GNU MediaGoblin for a federated media future", 
+            "recorded": "2011-06-09",
+            "updated": "2011-06-11T04:25:20+00:00", 
+            "video_mp4_length": "302223624", 
+            "video_mp4_url": "http://blip.tv/file/get/CarlFK-GNUMediaGoblinForAFederatedMediaFuture164.mp4"
+        }, 
+        "model": "videos.Video", 
+        "pk": 565
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<ul>\n<li>pickle module -- Atul Varma\n</li><li>PyStage, an animation framework -- Christopher Allan Webber\n</li><li>Python Scripting for OpenOffice -- Steve Githens\n</li></ul>", 
+            "embed": "<embed id=\"VideoPlayback\" src=\"http://video.google.com/googleplayer.swf?docid=-906354546937878632&hl=en&fs=true\" style=\"width:400px;height:326px\" allowFullScreen=\"true\" allowScriptAccess=\"always\" type=\"application/x-shockwave-flash\"> </embed>", 
+            "category": 14, 
+            "slug": "chipy--chicago-python-user-group-jan----39-08-mee", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                310, 
+                821, 
+                277, 
+                822
+            ], 
+            "title": "ChiPy: Chicago Python User Group Jan. &#39;08 Meeting", 
+            "recorded": "2008-01-01",
+            "updated": "2011-02-12T14:00:04+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 566
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<span><br />\n\nRohit Sankaran<br />\n I'll introduce the WSGI ecosystem. We'll then setup a Django app and <br />\n deploy it to a VM. I'll cover server setup/config and best practices <br />\n and cover software used like Fabric, nginx etc. Sample nginx, wsgi and <br />\n apache configs will be provided. People can follow along and I'll <br />\n provide download links after so they can try it at home.<br />\n This will be the best meeting ever.</span>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygqOpRgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "python-django-deployment", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                823, 
+                808, 
+                0, 
+                144, 
+                459, 
+                225
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PythonDjangoDeployment775.png", 
+            "title": "Python/Django deployment", 
+            "source_url": "http://blip.tv/carlfk/python-django-deployment-4772962",
+            "recorded": "2011-02-10",
+            "updated": "2011-02-12T04:46:49+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 567
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Carl Meyer</p>\n<p>\nPip[2] and virtualenv[3]: many use them; not so many understand just how they work their magic. If you're a pip/virtualenv user but haven't yet dared crack the lid (or you have, and found it a bit difficult to follow), come along for a fast-paced guided tour. Knowing these tools will help you make more effective use of them, and might also turn you into a contributor.\n</p>\n<ul>\n<li>1 <a href=\"http://us.pycon.org/2011/schedule/sessions/198/\">http://us.pycon.org/2011/schedule/sessions/198/</a>\n</li><li>2 <a href=\"http://pip.openplans.org/\">http://pip.openplans.org/</a>\n</li><li>3 <a href=\"http://virtualenv.openplans.org/\">http://virtualenv.openplans.org/</a>\n</li></ul>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n(\n  {\"base_state\": {}, \"video_url\": \"http://blip.tv/file/get/CarlFK-ReverseengineeringIanBickingsBrainInsidePipAndVirtualenv791.flv\"}\n)\n</script>", 
+            "category": 14, 
+            "slug": "reverse-engineering-ian-bicking--39-s-brain--insi", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                824, 
+                94, 
+                146
+            ], 
+            "source_url": "http://blip.tv/carlfk/reverse-engineering-ian-bicking-s-brain-inside-pip-and-virtualenv-4772894",
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-ReverseengineeringIanBickingsBrainInsidePipAndVirtualenv225.png", 
+            "title": "Reverse-engineering Ian Bicking&#39;s brain: inside pip and virtualenv.", 
+            "recorded": "2011-02-10",
+            "updated": "2011-02-12T04:13:09+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 568
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ</p>\n<p>Presented by David Beazley</p>\n<p>January 2011</p>\n<p>\nI'm not sure if we're still looking for talks on Thursday, but if so, I'd like to volunteer to give a talk about using Python to do some retro-computing hacking involving my vintage 1978 Superboard II. It's not exactly robotics, but it involves hardware and a lot of low-level hacking (along with some Python3 and ZeroMQ thrown in for good measure ;-).\n</p>\n<p>Best meeting ever!</p>\n<p><a href=\"http://chipy.org/\">http://chipy.org/</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygpymYAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "vintage-1978-superboard-ii-hacking-with-some-pyth", 
+            "speakers": [
+                125
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                825, 
+                392, 
+                726
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-Vintage1978SuperboardIIHackingWithSomePython3AndZeroMQ478.png", 
+            "source_url": "http://blip.tv/carlfk/vintage-1978-superboard-ii-hacking-with-some-python3-and-zeromq-4657916",
+            "title": "Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ", 
+            "recorded": "2011-01-13",
+            "updated": "2011-01-16T17:56:03+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 569
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Django Deployment for the Average Bloke</p>\n<p>Presented by Carl Karsten</p>\n<p>January 2011</p>\n<p>\nDeploying a Django/Pinax site on the following stack: Linux Debian Lenny Apache mod_wsgi PostgreSQL This is the config you want to use if you don't know what you want to use. You don't need to make any choices, you don't have to do any research, and you don't even need to read the docs if you don't want to. And as an added bonus, I show how to wget a vm image to deploy into with network ports exposed. It is very much like working with a hosting provider like Slice Host, and it makes a great framework for testing server installs.\n</p>\n<p>Best meeting ever!</p>\n<p><a href=\"http://chipy.org/\">http://chipy.org/</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygpykZgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "django-deployment-for-the-average-bloke", 
+            "speakers": [
+                313
+            ], 
+            "summary": "", 
+            "tags": [
+                823, 
+                808, 
+                29, 
+                0, 
+                699, 
+                8, 
+                159, 
+                92
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-DjangoDeploymentForTheAverageBloke934.png", 
+            "source_url": "http://blip.tv/carlfk/django-deployment-for-the-average-bloke-4657666",
+            "title": "Django Deployment for the Average Bloke", 
+            "recorded": "2011-01-13",
+            "updated": "2011-01-16T16:43:40+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 570
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>ROS - Robot Operating System</p>\n<p>Presented by Brian Ray and Bill Mania</p>\n<p>January 2011</p>\n<p>\nROS is the Robot Operating System, originally from Stanford and now supported by Willow Garage. ROS has a mature Python interface and is being used around the world by both amateur and professional roboticists. At the end of the presentation, if time allows and interest exists, some rudimentary ROS functionality will be demonstrated on a robot in progress.\n</p>\n<p>Best meeting ever!</p>\n<p><a href=\"http://chipy.org/\">http://chipy.org/</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygpykJgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "ros---robot-operating-system", 
+            "speakers": [
+                314, 242
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                224, 
+                814
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-ROSRobotOperatingSystem313.png", 
+            "title": "ROS - Robot Operating System", 
+            "recorded": "2011-01-13",
+            "updated": "2011-01-16T16:20:12+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 571
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Tox</p>\n<p>Presented by Kumar McMillan</p>\n<p>November 2010</p>\n<p>\nIt's a great new open source tool that helps you support all versions of python with your existing automated tests. It's not a test runner, it's a super test runner runner! Or something. There is no easy way to describe it which is why the front page of the website is sort of confusing, IMO. We use tox on the Nose project to make sure each code change doesn't break the tests in Python 2.4, 2.5, 2.6, 2.7, 3.0 or Jython. Not everybody targets so many environments but if you want to maintain a widely used module then you probably will want to use tox someday.\n</p>\n<p>\nHere's our Hudson matrix setup w/ tox: <a href=\"http://hudson.testrun.org/job/nose-unstable/\">http://hudson.testrun.org/job/nose-unstable/</a> (we just set this up recently which is why most builds were broken in one or two envs) I can also spend some time going over how we are currently maintaining a test suite that runs in both 2.x and 3.x simultaneously.\n</p>\n<p>\nThis will be our Best Meeting Ever!\n</p>\n<p><a href=\"http://codespeak.net/tox/\">http://codespeak.net/tox/</a></p>\n<p><a href=\"http://chipy.org/\">http://chipy.org/</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygoyBFQI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "tox", 
+            "speakers": [
+                234
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                21, 
+                653
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-Tox172.png", 
+            "source_url": "http://blip.tv/carlfk/episode-4390961",
+            "title": "Tox", 
+            "recorded": "2010-11-11",
+            "updated": "2010-11-12T09:08:03+00:00", 
+            "video_ogv_length": "208440025", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-Tox945.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 572
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>PyPy and Unladen-Swallow: Making your Python fast</p>\n<p>Presented by Alex Gaynor</p>\n<p>\nPython has a reputation for being a bit slow, but it doesn't have to be that way. This talk will cover why Python is slow, and what two of the most exciting virtual machines are doing about it.\n</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyge28ewI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "pypy-and-unladen-swallow--making-your-python-fast", 
+            "speakers": [
+                28
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                53, 
+                54, 
+                91, 
+                373
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PyPyAndUnladenSwallowMakingYourPythonFast798.png", 
+            "source_url": "http://blip.tv/carlfk/pypy-and-unladen-swallow-making-your-python-fast-3890711",
+            "title": "PyPy and Unladen Swallow: Making your Python Fast", 
+            "recorded": "2010-07-08",
+            "updated": "2010-07-12T17:39:14+00:00", 
+            "video_ogv_length": "255696662", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-PyPyAndUnladenSwallowMakingYourPythonFast703.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 573
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>\nDan Griffen presents Programming with Twisted\n</p>\n<ul>\n<li>What twisted is and its purpose in life (ie the reactor pattern).\n</li><li>Non-blocking network programming.\n</li><li>The confusing topic of deferreds and callbacks everywhere.\n</li><li>Methods for dealing with blocking APIs.\n</li></ul>\n<p>\n[VIDEO HAS ISSUES: I didn't have a proper mic, so audience questions are what they are]\n</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyge27SAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "programming-with-twisted", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                195
+            ], 
+            "source_url": "http://blip.tv/carlfk/programming-with-twisted-3890532",
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-ProgrammingWithTwisted152.png", 
+            "title": "Programming with Twisted", 
+            "recorded": "2010-07-08",
+            "updated": "2010-07-12T16:56:21+00:00", 
+            "video_ogv_length": "180061058", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-ProgrammingWithTwisted500.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 574
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<span><br />\n\nCreating tools with Python and Blender 2.5's bpy API - A walk through using Blender 2.5's new Python API to automate various animation tasks, using examples from the film Patent Absurdity: http://patentabsurdity.com/ http://patentabsurdity.com/fsf_patent_anims.tar.gz has the sources of the animations demonstrated%s Best meeting ever!%s ChiPy is made up of people of all levels of programming and Python knowledge. At every meeting we have had both beginning programmers, people who are just starting to use Python, as well as experienced Python programmers. Don't be intimidated about coming to a meeting. Note that ChiPy is not a formal organization. We collect no dues, elect no officers, and keep no roster. Signing up for the mailing list carries no obligation. Nor does showing up at the meetings. Nor, at least so far, does anything else we have done, although we always appreciate it when our presenters show up. (They usually do!) http://chipy.org</span>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygeXcKQI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "using-python-for-blender-animations", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                610, 
+                808, 
+                310
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-UsingPythonForBlenderAnimations589-560.jpg", 
+            "source_url": "http://blip.tv/carlfk/using-python-for-blender-animations-3763653",
+            "title": "Using Python for Blender Animations", 
+            "recorded": "2010-06-10",
+            "updated": "2010-06-11T20:07:52+00:00", 
+            "video_ogv_length": "232840310", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-UsingPythonForBlenderAnimations589.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 575
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>\nCustomizing the Django Admin\n</p>\n<ul>\n<li>Registering Models in the Admin\n</li><li>Customizing the filtering, search, general display\n</li><li>Adding Actions\n</li><li>Inlines\n</li><li>Custom Forms\n</li><li>Making Fields Readonly by inheriting\n</li><li>Integrating jQuery\n</li><li>Custom Widgets like Image thumbnails \n</li><li>Changing look and feel\n</li></ul>\n<p>\nI plan on showing a live example and customizing as we go. This will be a pretty mid-level talk and should be interesting to those not familiar, those who know django and considered using the admin, and for djangonuts who want to do some pretty advanced stuff.\n</p>\n<p>\"Best meeting ever!\" -- ChiPy is made up of people of all levels of programming and Python knowledge. At every meeting we have had both beginning programmers, people who are just starting to use Python, as well as experienced Python programmers. Don't be intimidated about coming to a meeting. Note that ChiPy is not a formal organization. We collect no dues, elect no officers, and keep no roster. Signing up for the mailing list carries no obligation. Nor does showing up at the meetings. Nor, at least so far, does anything else we have done, although we always appreciate it when our presenters show up. (They usually do!) <a href=\"http://chipy.org/\">http://chipy.org/</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygeXbNAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "customizing-the-django-admin", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                81, 
+                808, 
+                826, 
+                0, 
+                827
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-CustomizingTheDjangoAdmin188-963.jpg", 
+            "source_url": "http://blip.tv/carlfk/customizing-the-django-admin-3763536",
+            "title": "Customizing the Django Admin", 
+            "recorded": "2010-06-10",
+            "updated": "2010-06-11T19:35:44+00:00", 
+            "video_ogv_length": "305351952", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-CustomizingTheDjangoAdmin188.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 576
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>\nWith 2.7 likely being the end of the 2.x line, come see what's in store for the upcoming release. Changes to unittest, introduction of the argparse module, and a whole host of 3.1 features are here to ease your eventual transition into the wonderful world of Python 3.\n</p>\n<p>\nSign up: <a href=\"http://chipy.org/FrontPage#sign-up\">http://chipy.org/FrontPage#sign-up</a>.\n</p>\n<p>\nChiPy is made up of people of all levels of programming and Python knowledge. At every meeting we have had both beginning programmers, people who are just starting to use Python, as well as experienced Python programmers. Don't be intimidated about coming to a meeting. Note that ChiPy is not a formal organization. We collect no dues, elect no officers, and keep no roster. Signing up for the mailing list carries no obligation. Nor does showing up at the meetings. Nor, at least so far, does anything else we have done, although we always appreciate it when our presenters show up. (They usually do!)\n</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygdn2JwI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "what--39-s-coming-up-in-python-2-7", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                828
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-WhatsComingUpIn27408-544.jpg", 
+            "source_url": "http://blip.tv/carlfk/what-s-coming-up-in-2-7-3570371",
+            "title": "What's coming up in Python 2.7", 
+            "recorded": "2010-04-08",
+            "updated": "2010-04-28T19:11:54+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 577
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>\nTwiggy is an early-stage project to build a more Pythonic logging module. It was started at Pycon 2010.\n</p>\n<p>\nHome: <a href=\"http://python-twiggy.googlecode.com\">http://python-twiggy.googlecode.com</a>.\n</p>\n<p>\nSee the notes for a quick overview <a href=\"http://pythontwiggy.googlecode.com/hg/notes.html\">http://pythontwiggy.googlecode.com/hg/notes.html</a>.\n</p>\n<p>\nSign up: <a href=\"http://chipy.org/FrontPage#sign-up\">http://chipy.org/FrontPage#sign-up</a>\n</p>\n<p>\nChiPy is made up of people of all levels of programming and Python knowledge. At every meeting we have had both beginning programmers, people who are just starting to use Python, as well as experienced Python programmers. Don't be intimidated about coming to a meeting. Note that ChiPy is not a formal organization. We collect no dues, elect no officers, and keep no roster. Signing up for the mailing list carries no obligation. Nor does showing up at the meetings. Nor, at least so far, does anything else we have done, although we always appreciate it when our presenters show up. (They usually do!)\n</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygdn2FwI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "twiggy--a-pythonic-logger", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                184, 
+                503
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-TwiggyAPythonicLogger801-516.jpg", 
+            "source_url": "http://blip.tv/carlfk/twiggy-a-pythonic-logger-3570355",
+            "title": "Twiggy: A Pythonic Logger", 
+            "recorded": "2010-04-08",
+            "updated": "2010-04-28T19:09:57+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 578
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>GitPython and Git internals</p>\n<p>Presented by Chris Webber at ChiPy in January 2010</p>\n<p>\nChris covers how git works, the internals, and using the GitPython library.\n</p>\n<p>\n<a href=\"http://gitorious.org/git-python\">GitPython</a>\n</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygb7zEAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "gitpython-and-git-internals", 
+            "speakers": [
+                215
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                310, 
+                328, 
+                829
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-GitPythonAndGitInternals503.png", 
+            "source_url": "http://blip.tv/carlfk/gitpython-and-git-internals-3127596",
+            "title": "GitPython and Git Internals", 
+            "recorded": "2010-01-14",
+            "updated": "2010-01-19T20:59:50+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 579
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "ChiPy: Inside the New GIL\n<p>\nPresented on January 14, 2010 by David M Beazley\n</p><p>\nFollow-up to David's last GIL talk in June 2009.  This presentation walks through changes to the \nGIL that are being made.</p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygb7yIAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "changes-to-the-gil-in-python-3", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                480, 
+                392
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-ChangesToTheGILInPython3492.png", 
+            "source_url": "http://blip.tv/carlfk/changes-to-the-gil-in-python-3-3127484",
+            "title": "Changes to the GIL in Python 3", 
+            "recorded": "2010-01-14",
+            "updated": "2010-01-19T20:31:11+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 580
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Technical, standards-spec style analysis of Unicode presented by Jordan Bettis at ChiPy.\n<br /><br />\nIt's a very educational presentation of Unicode, what it is, where it comes from, how it works, Unicode in Python, ....", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygb7sIgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "technical--standards-spec-style-analysis-of-unico", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                523
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-TechnicalStandardsspecStyleAnalysisOfUnicode223.png", 
+            "source_url": "http://blip.tv/carlfk/technical-standards-spec-style-analysis-of-unicode-3126718",
+            "title": "Technical, standards-spec style analysis of Unicode", 
+            "recorded": "2010-01-14",
+            "updated": "2010-01-19T17:12:58+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 581
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "A common complaint about Django, the leading Python web application framework, is that it doesn't make writing REST APIs easy enough. In fact the paradigm for a typical Django application involves views which map to HTML page templates. With end users increasingly expecting rich interfaces with the responsiveness of a desktop application, this paradigm is being superseded. Fortunately a third-party Django application called Piston fills the gap. Django/Piston can be combined with the Ext JS JavaScript framework and widget set to create attractive, responsive Web applications, and this talk will show you how.\n<p>\n ChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to the mailing list for more info.\n</p><p>\n<a href=\"http://chipy.org/\">ChiPy website</a></p>", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygbaWVQI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "rest-ful-web-apps-with-django-piston", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                0, 
+                830, 
+                831
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-RESTfulWebAppsWithDjangoPiston528.png", 
+            "title": "REST-ful Web apps with Django Piston", 
+            "recorded": "2009-12-10",
+            "updated": "2009-12-12T11:35:36+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 582
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Python for Scientific and High Performance Computing (part 4 of 4)\n<br /><br />\nPython, a high-level portable multi-paradigm interpreted programming language is becoming increasingly popular with the scientific and HPC communities due to ease of use, large collection of modules, adaptability, and strong support from vendors and community alike. This tutorial provides an introduction to Python focused on HPC and scientific computing. Throughout, we provide concrete examples, hands-on examples, and links to additional sources of information. The result will be a clear sense of possibilities and best practices using Python in HPC environments. We will cover several key concepts: language basics, NumPy and SciPy, parallel programming, performance issues, integrating C and Fortran, basic visualization, large production codes, and finding resources. While it is impossible to address all libraries and application domains, at the end participants should be able to write a simple application making use of parallel programming techniques, visualize the output, and know how to confidently proceed with future projects with Python.\n<br /><br />\nChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago.", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyga7xHgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "python-for-scientific-and-high-performance-comput", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                418, 
+                198
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PythonForScientificAndHighPerformanceComputing4Of4887.png", 
+            "source_url": "http://blip.tv/carlfk/python-for-scientific-and-high-performance-computing-4-of-4-2865210",
+            "title": "Python for Scientific and High Performance Computing (4 of 4)", 
+            "recorded": "2009-11-12",
+            "updated": "2009-11-13T12:13:54+00:00", 
+            "video_ogv_length": "156907320", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-PythonForScientificAndHighPerformanceComputing4Of4190.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 583
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Python for Scientific and High Performance Computing (part 3 of 4)\n<br /><br />\nPython, a high-level portable multi-paradigm interpreted programming language is becoming increasingly popular with the scientific and HPC communities due to ease of use, large collection of modules, adaptability, and strong support from vendors and community alike. This tutorial provides an introduction to Python focused on HPC and scientific computing. Throughout, we provide concrete examples, hands-on examples, and links to additional sources of information. The result will be a clear sense of possibilities and best practices using Python in HPC environments. We will cover several key concepts: language basics, NumPy and SciPy, parallel programming, performance issues, integrating C and Fortran, basic visualization, large production codes, and finding resources. While it is impossible to address all libraries and application domains, at the end participants should be able to write a simple application making use of parallel programming techniques, visualize the output, and know how to confidently proceed with future projects with Python.\n<br /><br />\nChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago.", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyga7vYAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "python-for-scientific-and-high-performance-compu0", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                418, 
+                198
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PythonForScientificAndHighPerformanceComputing3Of4188.png", 
+            "source_url": "http://blip.tv/carlfk/python-for-scientific-and-high-performance-computing-3-of-4-2865020",
+            "title": "Python for Scientific and High Performance Computing (3 of 4)", 
+            "recorded": "2009-11-12",
+            "updated": "2009-11-13T11:30:24+00:00", 
+            "video_ogv_length": "436274617", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-PythonForScientificAndHighPerformanceComputing3Of4519.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 584
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Python for Scientific and High Performance Computing (part 2 of 4)\n<br /><br />\nPython, a high-level portable multi-paradigm interpreted programming language is becoming increasingly popular with the scientific and HPC communities due to ease of use, large collection of modules, adaptability, and strong support from vendors and community alike. This tutorial provides an introduction to Python focused on HPC and scientific computing. Throughout, we provide concrete examples, hands-on examples, and links to additional sources of information. The result will be a clear sense of possibilities and best practices using Python in HPC environments. We will cover several key concepts: language basics, NumPy and SciPy, parallel programming, performance issues, integrating C and Fortran, basic visualization, large production codes, and finding resources. While it is impossible to address all libraries and application domains, at the end participants should be able to write a simple application making use of parallel programming techniques, visualize the output, and know how to confidently proceed with future projects with Python.\n<br /><br />\nChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago.", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyga7qLwI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "python-for-scientific-and-high-performance-compu1", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                418, 
+                198
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PythonForScientificAndHighPerformanceComputing2Of4542.png", 
+            "source_url": "http://blip.tv/carlfk/python-for-scientific-and-high-performance-computing-2-of-4-2864331",
+            "title": "Python for Scientific and High Performance Computing (2 of 4)", 
+            "recorded": "2009-11-12",
+            "updated": "2009-11-13T08:14:55+00:00", 
+            "video_ogv_length": "278926698", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-PythonForScientificAndHighPerformanceComputing2Of4189.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 585
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Python for Scientific and High Performance Computing (part 1 of 4)\n<br /><br />\nPython, a high-level portable multi-paradigm interpreted programming language is becoming increasingly popular with the scientific and HPC communities due to ease of use, large collection of modules, adaptability, and strong support from vendors and community alike. This tutorial provides an introduction to Python focused on HPC and scientific computing. Throughout, we provide concrete examples, hands-on examples, and links to additional sources of information. The result will be a clear sense of possibilities and best practices using Python in HPC environments. We will cover several key concepts: language basics, NumPy and SciPy, parallel programming, performance issues, integrating C and Fortran, basic visualization, large production codes, and finding resources. While it is impossible to address all libraries and application domains, at the end participants should be able to write a simple application making use of parallel programming techniques, visualize the output, and know how to confidently proceed with future projects with Python.\n<br /><br />\nChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago.", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRyga7oIAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "python-for-scientific-and-high-performance-compu2", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                418, 
+                198
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-PythonForScientificAndHighPerformanceComputing1Of4136.png", 
+            "title": "Python for Scientific and High Performance Computing (1 of 4)", 
+            "source_url": "http://blip.tv/carlfk/python-for-scientific-and-high-performance-computing-1-of-4-2864060",
+            "recorded": "2009-11-12",
+            "updated": "2009-11-13T06:16:41+00:00", 
+            "video_ogv_length": "159973715", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-PythonForScientificAndHighPerformanceComputing1Of4590.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 586
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Blender 2.5 loves Python 3\n<p>\nPresented by Chris Webber on October 8th, 2009\n</p><p>\nChris talks about the upcoming Blender 2.5 release.  \"Blender 2.5 is the first app I know of that *requires* Python 3.X. So that's pretty interesting on its own. But there's plenty more interesting stuff to discuss. It's going to be mostly an overview talk. Blender's python integration could possibly span 3 separate talks, especially considering the blender game engine's use of it, which is a separate but interesting talk.\"\n</p><p>\nChiPy is a group of Chicago Python Programmers, l33t, and n00bs. Meetings are held monthly at various locations around Chicago. Also, ChiPy is a proud sponsor of many Open Source and Educational efforts in Chicago. Stay tuned to the mailing list for more info. <a href=\"http://chipy.org/\">ChiPy website</a></p>", 
+            "embed": "", 
+            "category": 14, 
+            "slug": "blender-2-5-loves-python-3", 
+            "speakers": [
+                215
+            ], 
+            "summary": "", 
+            "tags": [
+                610, 
+                808, 
+                310, 
+                392
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-Blender25LovesPython3867.png", 
+            "source_url": "http://blip.tv/carlfk/blender-2-5-loves-python-3-2805830",
+            "title": "Blender 2.5 loves Python 3", 
+            "recorded": "2009-10-08",
+            "updated": "2009-10-29T22:01:17+00:00", 
+            "video_ogv_length": "335728586", 
+            "video_ogv_url": "http://blip.tv/file/get/CarlFK-Blender25LovesPython3727.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 587
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Mindblowing Python GIL\n<br /><br />\nPresented by David Beazley at ChiPy on June 11, 2009\n<br /><br />\nDavid Beazley: mind-blowing presentation about how the Python GIL actually works and why it's even worse than most people even imagine.\n<br /><br />\nSlides: <a href=\"http://www.dabeaz.com/python/GIL.pdf\">http://www.dabeaz.com/python/GIL.pdf</a>\n<br /><br />\n[VIDEO HAS PROBLEMS: audio is fuzzy]", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygYj3FwI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "mindblowing-python-gil", 
+            "speakers": [
+                125
+            ], 
+            "summary": "", 
+            "tags": [
+                808, 
+                480, 
+                254
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-mindblowing_Python_GIL693-605.jpg", 
+            "source_url": "http://blip.tv/carlfk/mindblowing-python-gil-2243379",
+            "title": "Mindblowing Python GIL", 
+            "recorded": "2009-06-11",
+            "updated": "2009-06-12T07:26:17+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 588
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Asynchronous vs. Threaded Python\n<br /><br />\nPresented at ChiPy by David Beazley on June 12th, 2009\n<br /><br />\nThis is the opening act to Mindblowing GIL.  Covers threading vs. asynchronous programming in Python.", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygYj2WQI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "asynchronous-vs--threaded-python", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                289, 
+                808, 
+                480, 
+                367
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-asynchronous_vs_threaded_Python680-721.jpg", 
+            "title": "Asynchronous vs. Threaded Python", 
+            "recorded": "2009-06-11",
+            "updated": "2009-06-12T06:55:13+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 589
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "Building apps with Jython\n<br /><br />\nPresented on May 15th, 2009 at ChiPy\n<br /><br />\nTalks about go_pylons and snakefight and other things that allow you to build and run Python applications with Jython.  WSGI to servlet adapter in Jython 2.5.\n", 
+            "embed": "<embed src=\"http://blip.tv/play/g%2BRygYHmQAI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+            "category": 14, 
+            "slug": "web-apps-with-jython", 
+            "speakers": [], 
+            "summary": "", 
+            "tags": [
+                808, 
+                832, 
+                9, 
+                833, 
+                225
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/CarlFK-go_pylons531-385.jpg", 
+            "title": "Web Apps with Jython", 
+            "recorded": "2009-05-15",
+            "updated": "2009-05-15T05:37:46+00:00"
+        }, 
+        "model": "videos.Video", 
+        "pk": 590
+    }
+]

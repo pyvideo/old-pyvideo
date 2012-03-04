@@ -1,0 +1,70 @@
+======
+ TODO
+======
+
+* change route names to app_model_view format
+* polish documentation
+* push site to github
+* push pyvideo.org site to github
+
+* clean up data
+* fix titles
+  * video page should put video title in title
+  * category page should have category in title
+* create "no thumbnail" picture
+* if no thumbnail, show "no thumbnail" picture
+* universal subtitles
+  * need to link multiple forms of a video together to a single form
+* go through all blip.tv videos and get all the video urls
+* write site news
+* front page
+* rss feeds and links: new, site news, category, speaker
+* json format and links: category, video
+* fix speaker data
+* fix tag data
+* build system to import a new conference
+* change front page to cycle through category kinds showing
+  categories
+* talk to Steve Holden about the site
+
+Things that might be interesting:
+
+* store thumbnails locally? yes---otherwise wicked slow
+* cache the bejesus out of everything in memory? yes?
+* featured videos?
+* popular videos?
+* way to flag bad metadata?
+* way to work through flagged metadata?
+* way to edit data on the site and have edits go into approval queue?
+  * people "log in" with browserid to edit site in this way
+
+Future:
+
+* handle multi-part videos---need to link between them
+
+Videos to add:
+
+* chipy:
+  *
+   http://blip.tv/carlfk/building-the-python-interpreter-and-going-for-speed-3644178
+  * http://blip.tv/carlfk/how-to-contribute-to-python-3643901
+
+Done:
+
+* change Event to Category
+* clean up search bits
+  * search query should be in search boxes
+  * add some text on how to query
+  * clean up search results
+* document search bits
+  * how to reindex?
+* search system, haystack, whoosh
+* clean up speaker page
+* header navigation
+* footer navigation
+* video page - display video
+* write flatpages system that uses jinja2 templates
+  * all content in the template--nothing in the db
+* site news
+* pull all the data in from PMC
+* flat pages for "about", ...

@@ -1,0 +1,201 @@
+[
+  {
+    "model": "videos.Category",
+    "pk": 1,
+    "fields": {
+      "kind": 1,
+      "name": "DjangoCon",
+      "title": "DjangoCon 2009",
+      "description": "DjangoCon 2009",
+      "url": "https://www.djangoproject.com/weblog/2009/jul/13/djangocon/",
+      "slug": "djangocon-2009"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 2,
+    "fields": {
+      "kind": 1,
+      "name": "DjangoCon",
+      "title": "DjangoCon 2010",
+      "description": "DjangoCon 2010",
+      "url": "https://www.djangoproject.com/weblog/2010/may/20/djangocon-us-2010/",
+      "slug": "djangocon-2010"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 3,
+    "fields": {
+      "kind": 1,
+      "name": "DjangoCon",
+      "title": "DjangoCon 2011",
+      "description": "DjangoCon 2011",
+      "url": "https://www.djangoproject.com/weblog/2010/nov/22/djangocon-us-2011/",
+      "slug": "djangocon-2011"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 4,
+    "fields": {
+      "kind": 1,
+      "name": "Kiwi PyCon",
+      "title": "Kiwi PyCon 2009",
+      "description": "Kiwi PyCon 2009 in Christchurch, New Zealand",
+      "url": "",
+      "slug": "kiwi-pycon-2009"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 5,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon",
+      "title": "PyCon 2009",
+      "description": "PyCon 2009 in Atlanta, GA",
+      "url": "",
+      "slug": "pycon-2009",
+      "notes": "doesn't have a year-specific website"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 6,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon",
+      "title": "PyCon 2010",
+      "description": "PyCon 2010 in Atlanta, GA",
+      "url": "",
+      "slug": "pycon-2010",
+      "notes": "doesn't have a year-specific website"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 7,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon",
+      "title": "PyCon 2011",
+      "description": "PyCon 2011 in Atlanta, GA",
+      "url": "http://us.pycon.org/2011/home/",
+      "slug": "pycon-2011",
+      "notes": "doesn't have a year-specific website"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 8,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon AU",
+      "title": "PyCon AU 2010",
+      "description": "PyCon AU 2010",
+      "url": "http://pycon-au.org/2010/about/",
+      "slug": "pycon-au-2010"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 9,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon AU",
+      "title": "PyCon AU 2011",
+      "description": "PyCon AU 2011",
+      "url": "http://pycon-au.org/2011/about/",
+      "slug": "pycon-au-2011"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 10,
+    "fields": {
+      "kind": 1,
+      "name": "PyGotham",
+      "title": "PyGotham 2011",
+      "description": "PyGotham 2011",
+      "url": "",
+      "slug": "pygotham-2011"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 11,
+    "fields": {
+      "kind": 1,
+      "name": "PyOhio",
+      "title": "PyOhio 2010",
+      "description": "PyOhio 2010",
+      "url": "",
+      "slug": "pyohio-2010",
+      "notes": "doesn't have a year-specific website"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 12,
+    "fields": {
+      "kind": 1,
+      "name": "PyOhio",
+      "title": "PyOhio 2011",
+      "description": "PyOhio 2011",
+      "url": "",
+      "slug": "pyohio-2011",
+      "notes": "doesn't have a year-specific website"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 13,
+    "fields": {
+      "kind": 1,
+      "name": "PyTexas",
+      "title": "PyTexas 2011",
+      "description": "PyTexas 2011",
+      "url": "http://www.pytexas.org/2011/",
+      "slug": "pytexas-2011"
+    }
+  },
+
+
+  {
+    "model": "videos.Category",
+    "pk": 14,
+    "fields": {
+      "kind": 2,
+      "name": "ChiPy",
+      "title": "ChiPy",
+      "description": "Chicago Python user group",
+      "url": "http://chipy.org/",
+      "slug": "chipy"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 15,
+    "fields": {
+      "kind": 2,
+      "name": "Boston Python Meetup",
+      "title": "Boston Python Meetup",
+      "description": "Boston Python Meetup",
+      "url": "http://meetup.bostonpython.com/",
+      "slug": "bostonpy"
+    }
+  },
+  {
+    "model": "videos.Category",
+    "pk": 16,
+    "fields": {
+      "kind": 2,
+      "name": "Python Atlanta",
+      "title": "Python Atlanta",
+      "description": "Python Atlanta User Group",
+      "url": "http://pyatl.org/",
+      "slug": "pyatl"
+    }
+  }
+]

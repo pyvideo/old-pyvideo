@@ -1,0 +1,276 @@
+[
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>An explanation of some of the underlying concepts of Python, come learn about names and values placed in namespaces, modified by code objects and collected into modules.</p>",
+            "description": "<p>We'll explore namespaces using the Python interactive prompt, with graphical display of object trees using Graphviz. Also explained will be the namespace concepts of closures and early binding; how to define new objects without subclassing via use of default/curried arguments and closures.</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-AboutPythonNamespacesAndCodeObjects565.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "about-python-namespaces--and-code-objects", 
+            "speakers": [], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-AboutPythonNamespacesAndCodeObjects984-914.jpg", 
+            "title": "About Python Namespaces (and Code Objects)", 
+            "updated": "2012-02-23T00:30:42+00:00", 
+            "video_ogv_length": "267542990", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-AboutPythonNamespacesAndCodeObjects565.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 549
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>Learn the magic of writing programs that monitor, alter and react to the execution of program code by responding to imports, changes to variables, calls to functions and invocations of the builtins. This talk goes beyond the static world of metaclasses and class decorators into the dynamics of tracepoints.</p>",
+            "description": "",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-TheMagicOfMetaprogramming238.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "the-magic-of-metaprogramming", 
+            "speakers": [171], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-TheMagicOfMetaprogramming664-615.jpg", 
+            "title": "The Magic of Metaprogramming", 
+            "updated": "2012-02-23T00:30:37+00:00", 
+            "video_ogv_length": "245418365", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-TheMagicOfMetaprogramming238.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 550
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>If you missed Greg Lindstrom's first talk on programming a simple game in Python, check out this one. This time, you'll be building a \"Wheel of Fortune\"-style game.</p>",
+            "description": "",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-ProgrammingASimpleGameInPython732.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "programming-a-simple-game-in-python", 
+            "speakers": [293], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-ProgrammingASimpleGameInPython300-773.jpg", 
+            "title": "Programming a Simple Game in Python", 
+            "updated": "2012-02-23T00:30:32+00:00", 
+            "video_ogv_length": "262377485", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-ProgrammingASimpleGameInPython732.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 551
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>Voted on by the PyTexas community, this talk is guaranteed to be insightful and informative. We just don't know what it is yet.</p>",
+            "description": "", 
+            "whiteboard": "FIXME - get new description/summary for this talk",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-Packaging282.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "packaging", 
+            "speakers": [], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-Packaging843-482.jpg", 
+            "title": "Packaging", 
+            "updated": "2012-02-23T00:30:26+00:00", 
+            "video_ogv_length": "253007367", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-Packaging282.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 552
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>virtualenv, pip, and virtualenvwrapper are vital tools for any Python developer. This beginner-level presentation will introduce each of these.</p>",
+            "description": "",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-virtualenvPipAndVirtualenvwrapper506.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "virtualenv--pip--and-virtualenvwrapper", 
+            "speakers": [315], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-virtualenvPipAndVirtualenvwrapper256-563.jpg", 
+            "quality_notes": "No audio first minute.",
+            "title": "virtualenv, pip, and virtualenvwrapper", 
+            "updated": "2012-02-23T00:30:20+00:00", 
+            "video_ogv_length": "170977124", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-virtualenvPipAndVirtualenvwrapper506.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 553
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>We'll go over some intermediate to advanced topics and consider pros and cons of choosing the simpler approach vs. the possibly more complicated or redundant one. The aim is to reduce the number of language APIs and constructs most programmers have to carry in their head to a smaller and more coherent set. Along the way some best practices will also be discussed that are at a higher level than things that can be flagged by automated syntax checking tools such as pylint, pyflakes, etc.</p>",
+            "description": "<p>Following are the topics we'll cover:</p><ul><li>Language/API design and how warts can creep into even well designed products over time.<li>&quot;Worse is better&quot; approach may be good enough (&quot;satisficing&quot;).<li>An eclectic mix of language constructs that usually trip newcomers--and sometimes even experienced programmers--which we'll survey:<ol><li>__new__<li>__del__<li>__call__<li>__slots__<li>classmethod vs. staticmethod<li>decorators (guidelines for writing your own)<li>class decorators vs. metaclasses<li>delegation via getattr<li>Interfaces and getattr</ol><li>We'll see how delegation and interfaces tie into the thinking behind GoF Design Patterns.</ul>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-SimplifyYourPythonLife446.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "simplify-your--python--life", 
+            "quality_notes": "Video is blank for first minute.",
+            "speakers": [316], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-SimplifyYourPythonLife131-952.jpg", 
+            "title": "Simplify your (Python) Life", 
+            "updated": "2012-02-23T00:30:06+00:00", 
+            "video_ogv_length": "238290401", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-SimplifyYourPythonLife446.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 554
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>An introduction to writing decorators, with an example of how they can be used to handle common authentication and authorization actions for a set of web services.</p>", 
+            "description": "<p>To provide access to enterprise directory data and services to developers at Texas A&M University, we have implemented a set of RESTful web services, using Django as our framework. Because these services include access to protected data, all web service clients must authenticate and be authorized to access a particular service. In order to implement the logic for making authentication and authorization decisions in one place, and cleanly apply it to any view, we wrote a custom decorator. This talk will cover the basic concepts behind decorators, how to write a decorator, and walk through our implementation of a decorator for authN/authZ.</p>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-CustomDecoratorsForAuthenticationAndAuthorization299.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "custom-decorators-for-authentication-and-authoriz", 
+            "speakers": [322], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-CustomDecoratorsForAuthenticationAndAuthorization489-643.jpg", 
+            "title": "Custom Decorators for Authentication and Authorization", 
+            "updated": "2012-02-23T00:30:02+00:00", 
+            "video_ogv_length": "147004946", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-CustomDecoratorsForAuthenticationAndAuthorization299.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 555
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>Apache Cassandra is an open source, distributed (NoSQL) database. This will give a high level introduction to Cassandra and its data model; it will detail the features of pycassa, the Python client library for Cassandra, and how to interact with Cassandra through it.</p>",
+            "description": "<p>Being non-relational, Cassandra's data model is fundamentally different from that of a relational database. In addition, it uses an RPC based API rather than a query language. On top of that, Cassandra is a distributed database, so the client must be aware of and interact with multiple nodes in the cluster. All of these attributes of Cassandra make the client libraries a different experience. Fortunately, the Python client library is the easiest way to use Cassandra. This talk will start with a high level overview of the clustering model of Cassandra then its data model. A large portion of the talk will cover the pycassa methods that interact with the data model of Cassandra, i.e. inserting, fetching, and removing data. A small amount of time will be dedicated to describing connection pooling in pycassa -- how it handles node failures, distributes requests, etc. The final 10 minutes will be devoted to Q&amp;A.</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-CassandraForPythonDevelopers716.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "cassandra-for-python-developers", 
+            "speakers": [323], 
+            "tags": [
+                806
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-CassandraForPythonDevelopers227-199.jpg", 
+            "title": "Cassandra for Python Developers", 
+            "updated": "2012-02-23T00:29:56+00:00", 
+            "video_ogv_length": "204236510", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-CassandraForPythonDevelopers716.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 556
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>Comprised of five minute presentations crammed together back to back, this event is frequently one of the most popular and entertaining events at PyCon and PyTexas.</p>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-LightningTalks732.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "lightning-talk1", 
+            "speakers": [], 
+            "tags": [], 
+            "whiteboard": "TODO: flesh out speakers",
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-LightningTalks506-734.jpg", 
+            "title": "Lightning Talks", 
+            "updated": "2012-02-23T00:29:52+00:00", 
+            "video_ogv_length": "277085621", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-LightningTalks732.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 557
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "description": "<p>Daemons are those pieces of software in Unix (including Linux and Mac OS X) that run in the background and typically start automatically during system boot. Times when you might want a daemon include:</p><ul><li>Monitoring an \"inbox\" directory in situations where a cron job is not appropriate<li>Managing (possibly multiple) instances of software according to business rules</ul><p>Although most daemons are written in C, Python is a great alternative.</p>",
+            "whiteboard": "TODO: add related url: Background reading: [[http://en.wikipedia.org/wiki/Daemon_(computing)#Types_of_daemons|Wikipedia article on Daemons]]",
+            "summary": "<p>Learn the in's and out's of creating Unix Daemons in Python. Walker Hale will walk you through several examples, gotchas, and tips and tricks.</p>", 
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-DaemonSlayingOrUnixDaemonsInPythonForFunAndProfit900.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "daemon-slaying--or--unix-daemons-in-python-for-fu", 
+            "speakers": [324], 
+            "tags": [
+                807
+            ], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-DaemonSlayingOrUnixDaemonsInPythonForFunAndProfit354-542.jpg", 
+            "title": "Daemon Slaying! Or, Unix Daemons in Python for fun and profit!", 
+            "updated": "2012-02-23T00:29:49+00:00", 
+            "video_ogv_length": "244866893", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-DaemonSlayingOrUnixDaemonsInPythonForFunAndProfit900.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 558
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>A look at how to get started with MongoDB using Python. The talk will cover basic concepts, a brief walkthrough of some more advanced features, and how Texas A&amp;M is using MongoDB and Python to solve some large data problems.</p>", 
+            "description": "<p>In the last month, we've started an effort to aggregate our logs so we can do some real-time, holistic log analysis. Among other things, we are tracking failed logins across all points of entry, identifying possibly compromised accounts (simultaneous logins from multiple IPs, geographically disparate logins), and identifying high-volume mailers across multiple mail relays.\r\n\r\nThe talk will include an introduction to MongoDB (NoSQL, data structures, querying, indexing, differences from relational databases, etc); some important performance and reliability features like its support for replica sets, sharding, and map/reduce; and some very cool features like GridFS and geospatial indexing. All of this, with the exception of database configuration, will be demoed with MongoDB's python client.</p>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-GettingStartedWithPyMongo431.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "getting-started-with-pymongo", 
+            "speakers": [322], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-GettingStartedWithPyMongo126-736.jpg", 
+            "title": "Getting Started with PyMongo", 
+            "updated": "2012-02-23T00:29:45+00:00", 
+            "video_ogv_length": "243851181", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-GettingStartedWithPyMongo431.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 559
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>This talk covers the Python Logging Module!</p>", 
+            "description": "<p>Walker Hale will explore the standard Python Logging Module and provide a tour from the basics through intermediate examples, and touch on advanced logging strategies.</p><p>Do you write programs that run longer than 5 minutes? Would you like to leverage Python's excellent logging system more fully? Even if you don't use Python for your long-running processes, you will learn valuable and widely-applicable logging techniques.</p>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced853.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "logging-de-mystified--basics-to-advanced", 
+            "speakers": [324], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced968-723.jpg", 
+            "title": "Logging De-Mystified! Basics to Advanced!", 
+            "updated": "2012-02-23T00:29:41+00:00", 
+            "video_ogv_length": "196329184", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-LoggingDeMystifiedBasicsToAdvanced853.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 560
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>An introduction to non-blocking web development with Tornado, an open-source server and simple framework from Facebook/FriendFeed.<p>",
+            "description": "<p>Web frameworks like Django, Flask, etc. are great for most traditional web sites. However, there is a growing need to produce web applications that are responsive to external \"events\", whether a response from Twitter's API or a new message in an online chat room. Newer, non-blocking frameworks like Tornado seek to address this in a scalable manner.</p><p>This talk will briefly introduce non-blocking principles and patterns, and move quickly into an overview of the library, as well as use cases and anti-use cases. A portion of the time will also be spent pointing out community libraries that are building on Tornado's foundation.</p><p>Outline:</p><ol><li>Introduction<ol><li>Why another framework?<li>Intro to Asynchronous Design</ol><li>Overview of a Tornado project<ol><li>a. Application<li>b. Basic (blocking) Request Handlers<li>c. Templates<li>d. Asynchronous Handlers<li>e. To block or not to block</ol><li>Batteries included<ol><li>Auth module<li>Options module<li>Database<li>UIModules<li>Security</ol><li>Community<ol><li>a. Tornad.io<li>b. No-SQL libraries<li>c. Twisted integration<li>d. Torn Admin</ol><li>Q&A</ol>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-AsynchronousWebDevelopmentWithTornado565.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "asynchronous-web-development-with-tornado", 
+            "speakers": [324], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-AsynchronousWebDevelopmentWithTornado459-712.jpg", 
+            "title": "Asynchronous Web Development with Tornado", 
+            "updated": "2012-02-23T00:29:37+00:00", 
+            "video_ogv_length": "223180994", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-AsynchronousWebDevelopmentWithTornado565.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 561
+    }, 
+    {
+        "fields": {
+            "added": "2012-02-22 22:20", 
+            "summary": "<p>Message queues provide a reliable, language agnostic method for sharing data between processes for distributed processing, and to manage work flows. This talk will examine the role of message queues in a redesign of the provisioning process for Texas A&M University's enterprise directory.</p>",
+            "description": "<p>About six months ago we moved our account provisioning process from a monolithic Perl script to a set of distributed, interconnected python scripts. By using message queues (specifically beanstalkd) to pass messages between the processes, we were able to build a system that was much faster, more reliable and more flexible.</p><p>I will walk through the process that led us to choose beanstalkd, look at some alternatives that are available, and describe some use cases for message queues.</p>",
+            "embed": "<script type=\"text/javascript\" src=\"http://s3.www.universalsubtitles.org/embed.js\">\n ({\n       video_url: \"http://blip.tv/file/get/Nextdayvideo-UsingMessageQueuesForDistributedProcessing269.ogv\"\n  })\n</script>", 
+            "category": 13, 
+            "slug": "using-message-queues-for-distributed-processing", 
+            "speakers": [322], 
+            "tags": [], 
+            "thumbnail_url": "http://a.images.blip.tv/Nextdayvideo-UsingMessageQueuesForDistributedProcessing897-27.jpg", 
+            "title": "Using Message Queues for Distributed Processing", 
+            "updated": "2012-02-23T00:29:30+00:00", 
+            "video_ogv_length": "149493215", 
+            "video_ogv_url": "http://blip.tv/file/get/Nextdayvideo-UsingMessageQueuesForDistributedProcessing269.ogv"
+        }, 
+        "model": "videos.Video", 
+        "pk": 562
+    }
+]
