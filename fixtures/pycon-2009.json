@@ -6,15 +6,16 @@
       "added": "2012-02-22 22:20", 
       "description": "PyMite: Python on a chip\n<br /><br />\nLightning talk at PyCon 2009 by James Snyder\n<br /><br />\n\"a significant subset of the Python language on microcontrollers without an OS. Lets Python run in a BILLION new places.\"\n<br /><br />\n<a href=\"http://www.pythononachip.org/\">http://www.pythononachip.org/</a>", 
       "tags": [], 
-      "slug": "pycon-2009--pymite--python-on-a-chip", 
+      "copyright_text": "No license (All rights reserved)", 
       "title": "PyCon 2009: PyMite: Python-on-a-chip", 
       "updated": "2009-07-09T04:00:00+00:00", 
       "source_url": "http://blip.tv/file/2345450", 
+      "video_ogv_length": "211712286", 
       "video_ogv_url": "http://blip.tv/file/get/CarlFK-PyMite410.ogv", 
       "embed": "<embed src=\"http://blip.tv/play/g%2BRygZCxQgI\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"350\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-      "video_ogv_length": "211712286", 
+      "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/CarlFK-PyMite410-91.jpg", 
-      "summary": ""
+      "slug": "pycon-2009--pymite--python-on-a-chip"
     }, 
     "model": "videos.Video", 
     "pk": 136
@@ -32,6 +33,7 @@
         232, 
         233
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Giving back and helping expand the Python community. A roadmap for South America and Africa (#87)", 
       "updated": "2009-05-12T17:46:42+00:00", 
       "summary": "", 
@@ -57,6 +59,7 @@
         232, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Django in the Real World (Part 3 of 3)", 
       "updated": "2009-05-07T12:59:34+00:00", 
       "summary": "", 
@@ -82,6 +85,7 @@
         232, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Django in the Real World (Part 2 of 3)", 
       "updated": "2009-05-07T12:41:41+00:00", 
       "summary": "", 
@@ -107,6 +111,7 @@
         232, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Django in the Real World (Part 1 of 3)", 
       "updated": "2009-05-07T11:32:46+00:00", 
       "summary": "", 
@@ -131,6 +136,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The State of Django (#76)", 
       "updated": "2009-05-07T02:18:45+00:00", 
       "summary": "", 
@@ -162,6 +168,7 @@
         240, 
         241
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Pylons on Jython (#96)", 
       "updated": "2009-05-07T02:00:07+00:00", 
       "summary": "", 
@@ -187,6 +194,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Django on Jython (#101)", 
       "updated": "2009-05-07T01:52:51+00:00", 
       "summary": "", 
@@ -211,6 +219,7 @@
         232, 
         242
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Plenary: Intro to Sprinting", 
       "updated": "2009-05-07T00:34:09+00:00", 
       "summary": "", 
@@ -235,6 +244,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The State of the Python Community: Leading the Python tribe (#118)", 
       "updated": "2009-05-06T21:19:36+00:00", 
       "summary": "", 
@@ -259,6 +269,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The (lack of) design patterns in Python (#60)", 
       "updated": "2009-05-06T20:22:11+00:00", 
       "summary": "", 
@@ -285,6 +296,7 @@
         232, 
         246
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: How I Distribute Python applications on Windows - py2exe &amp; InnoSetup (#108)", 
       "updated": "2009-05-06T15:51:21+00:00", 
       "summary": "", 
@@ -310,6 +322,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: How to Build Applications Linux Distributions will Package (#78)", 
       "updated": "2009-05-04T23:30:34+00:00", 
       "summary": "", 
@@ -337,6 +350,7 @@
         146, 
         250
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Eggs and Buildout Deployment in Python (Part 3 of 3)", 
       "updated": "2009-05-01T21:06:16+00:00", 
       "summary": "", 
@@ -364,6 +378,7 @@
         146, 
         250
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Eggs and Buildout Deployment in Python (Part 2 of 3)", 
       "updated": "2009-05-01T20:48:24+00:00", 
       "summary": "", 
@@ -391,6 +406,7 @@
         146, 
         250
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)", 
       "updated": "2009-05-01T19:39:26+00:00", 
       "summary": "", 
@@ -416,6 +432,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: An Introduction to Google App Engine (Part 1 of 2)", 
       "updated": "2009-05-01T04:26:39+00:00", 
       "summary": "", 
@@ -441,6 +458,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: An Introduction to Google App Engine (Part 2 of 2)", 
       "updated": "2009-05-01T03:19:23+00:00", 
       "summary": "", 
@@ -458,12 +476,14 @@
       "speakers": [], 
       "added": "2012-02-22 22:20", 
       "description": "<a href=\"http://blip.tv/file/2023897\"></a>\n<br />\n\nSQLAlchemy is the premier SQL toolkit for Python. SQLAlchemy exposes the full power of SQL while remaining easy to use for the basics, and is flexible enough to work with existing database schemas as well as fresh designs. SQLAlchemy is used in production by leading Python web frameworks Pylons and TurboGears as well as many other web and non-web developers. This tutorial discusses current data mapping techniques, advanced Query techniques, Session/transaction usage, and maximizing schema usage with SQLAlchemy's event model.", 
+      "video_mp4_url": "http://blip.tv/file/get/Pycon-AdvancedSQLAlchemyPart002668.mp4", 
+      "title": "PyCon 2009: Advanced SQLAlchemy (Part 2 of 3)", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         231, 
         232, 
         253
       ], 
-      "title": "PyCon 2009: Advanced SQLAlchemy (Part 2 of 3)", 
       "updated": "2009-04-22T14:50:13+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-AdvancedSQLAlchemyPart002668-996.jpg", 
@@ -487,6 +507,7 @@
         232, 
         253
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Advanced SQLAlchemy (Part 1 of 3)", 
       "updated": "2009-04-22T13:40:37+00:00", 
       "summary": "", 
@@ -511,6 +532,7 @@
         232, 
         253
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Advanced SQLAlchemy (Part 3 of 3)", 
       "updated": "2009-04-22T12:33:16+00:00", 
       "summary": "", 
@@ -535,6 +557,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 401: Some Advanced Topics (Part 3 of 3)", 
       "updated": "2009-04-22T12:06:50+00:00", 
       "summary": "", 
@@ -559,6 +582,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)", 
       "updated": "2009-04-22T12:02:27+00:00", 
       "summary": "", 
@@ -583,6 +607,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 401: Some Advanced Topics (Part 2 of 3)", 
       "updated": "2009-04-22T10:55:15+00:00", 
       "summary": "", 
@@ -608,6 +633,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Easy Concurrency with Kamaelia (Part 2 of 2)", 
       "updated": "2009-04-22T09:42:57+00:00", 
       "summary": "", 
@@ -633,6 +659,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Easy Concurrency with Kamaelia (Part 1 of 2)", 
       "updated": "2009-04-22T09:26:20+00:00", 
       "summary": "", 
@@ -658,6 +685,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Introduction to Object-Oriented Programming (2 of 3)", 
       "updated": "2009-04-22T08:15:52+00:00", 
       "summary": "", 
@@ -683,6 +711,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Introduction to Object-Oriented Programming (3 of 3)", 
       "updated": "2009-04-22T07:08:15+00:00", 
       "summary": "", 
@@ -708,6 +737,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Introduction to Object-Oriented Programming (1 of 3)", 
       "updated": "2009-04-22T06:40:04+00:00", 
       "summary": "", 
@@ -732,6 +762,7 @@
         232, 
         129
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 2 of 3)", 
       "updated": "2009-04-22T05:27:22+00:00", 
       "summary": "", 
@@ -756,6 +787,7 @@
         232, 
         129
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 1 of 3)", 
       "updated": "2009-04-22T04:19:50+00:00", 
       "summary": "", 
@@ -780,6 +812,7 @@
         232, 
         129
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 3 of 3)", 
       "updated": "2009-04-22T03:12:16+00:00", 
       "summary": "", 
@@ -805,6 +838,7 @@
         258, 
         259
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Tour of Python Standard Library (3 of 3)", 
       "updated": "2009-04-22T02:56:30+00:00", 
       "summary": "", 
@@ -830,6 +864,7 @@
         258, 
         259
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "A Tour of Python Standard Library (1 of 3)", 
       "updated": "2009-04-22T02:41:03+00:00", 
       "summary": "", 
@@ -855,6 +890,7 @@
         258, 
         259
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "A Tour of Python Standard Library (2 of 3)", 
       "updated": "2009-04-22T01:33:25+00:00", 
       "summary": "", 
@@ -881,6 +917,7 @@
         234, 
         225
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to TurboGears2 and WSGI (Part 2 of 2)", 
       "updated": "2009-04-22T00:20:59+00:00", 
       "summary": "", 
@@ -907,6 +944,7 @@
         234, 
         225
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to TurboGears2 and WSGI (Part 1 of 2)", 
       "updated": "2009-04-21T23:37:52+00:00", 
       "summary": "", 
@@ -934,6 +972,7 @@
         162, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 1 of 3)", 
       "updated": "2009-04-16T22:02:58+00:00", 
       "summary": "", 
@@ -961,6 +1000,7 @@
         162, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 3 of 3)", 
       "updated": "2009-04-16T20:55:48+00:00", 
       "summary": "", 
@@ -988,6 +1028,7 @@
         162, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 2 of 3)", 
       "updated": "2009-04-16T20:18:56+00:00", 
       "summary": "", 
@@ -1013,6 +1054,7 @@
         262, 
         263
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to Functional Web Testing With Twill &amp; Selenium (Part 1 of 2)", 
       "updated": "2009-04-16T19:05:05+00:00", 
       "summary": "", 
@@ -1038,6 +1080,7 @@
         262, 
         263
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to Functional Web Testing With Twill &amp; Selenium (Part 2 of 2)", 
       "updated": "2009-04-16T17:56:45+00:00", 
       "summary": "", 
@@ -1065,6 +1108,7 @@
         21, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: py.test II - cross-platform and distributed testing (Part 2 of 3)", 
       "updated": "2009-04-16T17:01:04+00:00", 
       "summary": "", 
@@ -1092,6 +1136,7 @@
         21, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: py.test II - cross-platform and distributed testing (Part 3 of 3)", 
       "updated": "2009-04-16T15:53:10+00:00", 
       "summary": "", 
@@ -1119,6 +1164,7 @@
         21, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: py.test II - cross-platform and distributed testing (Part 1 of 3)", 
       "updated": "2009-04-16T15:34:52+00:00", 
       "summary": "", 
@@ -1148,6 +1194,7 @@
         234, 
         217
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)", 
       "updated": "2009-04-16T14:21:22+00:00", 
       "summary": "", 
@@ -1177,6 +1224,7 @@
         234, 
         217
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)", 
       "updated": "2009-04-16T13:12:06+00:00", 
       "summary": "", 
@@ -1206,6 +1254,7 @@
         234, 
         217
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)", 
       "updated": "2009-04-16T12:04:30+00:00", 
       "summary": "", 
@@ -1233,6 +1282,7 @@
         234, 
         268
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Internet Programming with Python (Part 2 of 3)", 
       "updated": "2009-04-16T11:30:05+00:00", 
       "summary": "", 
@@ -1260,6 +1310,7 @@
         234, 
         268
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Internet Programming with Python (Part 1 of 3)", 
       "updated": "2009-04-16T10:22:30+00:00", 
       "summary": "", 
@@ -1287,6 +1338,7 @@
         234, 
         268
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Internet Programming with Python (Part 3 of 3)", 
       "updated": "2009-04-16T09:13:51+00:00", 
       "summary": "", 
@@ -1312,6 +1364,7 @@
         232, 
         270
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Hands on with Trac plugins (Part 2 of 2)", 
       "updated": "2009-04-16T09:07:56+00:00", 
       "summary": "", 
@@ -1337,6 +1390,7 @@
         232, 
         270
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Hands on with Trac plugins (Part 1 of 2)", 
       "updated": "2009-04-16T08:53:05+00:00", 
       "summary": "", 
@@ -1369,6 +1423,7 @@
         278, 
         279
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Data Storage in Python - An Overview of Options (Part 2 of 3)", 
       "updated": "2009-04-16T07:42:31+00:00", 
       "summary": "", 
@@ -1401,6 +1456,7 @@
         278, 
         279
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Data Storage in Python - An Overview of Options (Part 1 of 3)", 
       "updated": "2009-04-16T06:34:29+00:00", 
       "summary": "", 
@@ -1433,6 +1489,7 @@
         278, 
         279
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)", 
       "updated": "2009-04-16T05:27:13+00:00", 
       "summary": "", 
@@ -1457,6 +1514,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Python 101 (1 of 2)", 
       "updated": "2009-04-16T05:20:48+00:00", 
       "summary": "", 
@@ -1475,7 +1533,7 @@
       "added": "2012-02-22 22:20", 
       "video_mp4_length": "317366822", 
       "description": "Plenary: Morning Lightning Talks \n<br /><br />\n[VIDEO HAS ISSUES: missing a bit at the beginning]\n<br /><br />\n(00:00) Building Appliances with Python - Moshe Zadka\n<br /><br />\n(05:40) Proposed Python License V3 and ...  VAN LINDBERG'D - Jesse Noller\n<br /><br />\n(08: 20) The Status is Not Quo - Mike Pirnat\n<br /><br />\n(12:55) Cork, building tiny apps - Alex Morega\n<br /><br />\n(19:10) NASA uses Python? - Katie Cunningham\n<br /><br />\n(23:35) SQLPython, command line interface to Oracle - Catherine Devlin (half done)\n<br /><br />\n(25:20) Gitosis - Tommi Virtanen\n<br /><br />\n(29:05) SQLPython, command line interface to Oracle (reprised) - Catherine Devlin\n<br /><br />\n(35:00) Player Piano - Peter Fein\n<br /><br />\n(40:10) Why DVCS - James Bennett\n<br /><br />\n(45:15) PyMite - Dean Hall\n<br /><br />\n(49:50) web2py - ?", 
-      "video_mp4_url": "http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalksSaturday678.mp4", 
+      "video_mp4_url": "http://blip.tv/file/get/Pycon-PlenaryMorningLightningTalks730.mp4", 
       "tags": [
         280, 
         281, 
@@ -1488,6 +1546,7 @@
         286, 
         287
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Plenary: Morning Lightning Talks (Saturday)", 
       "updated": "2009-04-16T04:18:23+00:00", 
       "summary": "", 
@@ -1512,6 +1571,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "Python 101 (2 of 2)", 
       "updated": "2009-04-16T04:07:07+00:00", 
       "summary": "", 
@@ -1536,6 +1596,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 102 (Part 1 of 3)", 
       "updated": "2009-04-16T02:42:03+00:00", 
       "summary": "", 
@@ -1560,6 +1621,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 102 (Part 2 of 3)", 
       "updated": "2009-04-16T01:34:30+00:00", 
       "summary": "", 
@@ -1584,6 +1646,7 @@
         232, 
         258
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python 102 (Part 3 of 3)", 
       "updated": "2009-04-16T00:26:29+00:00", 
       "summary": "", 
@@ -1609,6 +1672,7 @@
         253, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to SQLAlchemy (Part 3 of 3)", 
       "updated": "2009-04-16T00:04:29+00:00", 
       "summary": "", 
@@ -1634,6 +1698,7 @@
         253, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to SQLAlchemy (Part 1 of 3)", 
       "updated": "2009-04-15T23:43:13+00:00", 
       "summary": "", 
@@ -1659,6 +1724,7 @@
         253, 
         234
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Introduction to SQLAlchemy (Part 2 of 3)", 
       "updated": "2009-04-15T22:35:53+00:00", 
       "summary": "", 
@@ -1683,6 +1749,7 @@
         232, 
         288
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 1 of 2)", 
       "updated": "2009-04-15T20:29:46+00:00", 
       "summary": "", 
@@ -1707,6 +1774,7 @@
         232, 
         288
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 2 of 2)", 
       "updated": "2009-04-15T19:22:15+00:00", 
       "summary": "", 
@@ -1734,6 +1802,7 @@
         234, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Using Twisted Deferreds (Part 2 of 3)", 
       "updated": "2009-04-15T19:12:40+00:00", 
       "summary": "", 
@@ -1761,6 +1830,7 @@
         234, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Using Twisted Deferreds (Part 1 of 3)", 
       "updated": "2009-04-15T16:57:03+00:00", 
       "summary": "", 
@@ -1788,6 +1858,7 @@
         234, 
         195
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Using Twisted Deferreds (Part 3 of 3)", 
       "updated": "2009-04-15T15:49:14+00:00", 
       "summary": "", 
@@ -1812,6 +1883,7 @@
         232, 
         230
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Intermediate Turbogears (Part 3 of 3)", 
       "updated": "2009-04-15T15:44:38+00:00", 
       "summary": "", 
@@ -1836,6 +1908,7 @@
         232, 
         230
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Intermediate Turbogears (Part 2 of 3)", 
       "updated": "2009-04-15T15:21:37+00:00", 
       "summary": "", 
@@ -1861,6 +1934,7 @@
         285, 
         291
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: PyMite lighting talk", 
       "updated": "2009-04-15T14:36:37+00:00", 
       "summary": "", 
@@ -1885,6 +1959,7 @@
         232, 
         230
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Intermediate Turbogears (Part 1 of 3)", 
       "updated": "2009-04-15T14:12:26+00:00", 
       "summary": "", 
@@ -1914,6 +1989,7 @@
         295, 
         296
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A Configuration Comparison in Python (#70)", 
       "updated": "2009-04-15T13:00:00+00:00", 
       "summary": "", 
@@ -1939,6 +2015,7 @@
         21, 
         297
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 1 of 2)", 
       "updated": "2009-04-15T12:54:16+00:00", 
       "summary": "", 
@@ -1964,6 +2041,7 @@
         21, 
         297
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 2 of 2)", 
       "updated": "2009-04-15T11:46:42+00:00", 
       "summary": "", 
@@ -1991,6 +2069,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)", 
       "updated": "2009-04-15T11:38:49+00:00", 
       "summary": "", 
@@ -2018,6 +2097,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)", 
       "updated": "2009-04-15T10:31:29+00:00", 
       "summary": "", 
@@ -2045,6 +2125,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 2 of 3)", 
       "updated": "2009-04-15T10:19:04+00:00", 
       "summary": "", 
@@ -2070,6 +2151,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Faster Python Programs through Optimization (Part 2 of 3)", 
       "updated": "2009-04-15T09:06:36+00:00", 
       "summary": "", 
@@ -2095,6 +2177,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Faster Python Programs through Optimization (Part 1 of 3)", 
       "updated": "2009-04-15T07:59:05+00:00", 
       "summary": "", 
@@ -2120,6 +2203,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Faster Python Programs through Optimization (Part 3 of 3)", 
       "updated": "2009-04-15T06:52:01+00:00", 
       "summary": "", 
@@ -2144,6 +2228,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Application Developing with IronPython (Part 2 of 3)", 
       "updated": "2009-04-15T06:34:06+00:00", 
       "summary": "", 
@@ -2168,6 +2253,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Application Developing with IronPython (Part 3 of 3)", 
       "updated": "2009-04-15T05:26:32+00:00", 
       "summary": "", 
@@ -2192,6 +2278,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Application Developing with IronPython (Part 1 of 3)", 
       "updated": "2009-04-15T04:58:29+00:00", 
       "summary": "", 
@@ -2215,6 +2302,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Plenary: Sprint Intro", 
       "updated": "2009-04-04T23:50:07+00:00", 
       "summary": "", 
@@ -2252,6 +2340,7 @@
         263, 
         217
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Plenary: Afternoon Lightning Talks", 
       "updated": "2009-04-04T23:44:02+00:00", 
       "summary": "", 
@@ -2276,6 +2365,7 @@
         232, 
         250
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)", 
       "updated": "2009-04-04T22:49:33+00:00", 
       "summary": "", 
@@ -2302,6 +2392,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Designing a web framework: Django&#39;s design decisions (#75)", 
       "updated": "2009-04-04T22:42:39+00:00", 
       "summary": "", 
@@ -2327,6 +2418,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A better Python for the JVM", 
       "updated": "2009-04-04T22:31:33+00:00", 
       "summary": "", 
@@ -2388,6 +2480,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Paver: easy build and deployment automation for Python projects (#13)", 
       "updated": "2009-04-04T21:26:47+00:00", 
       "summary": "", 
@@ -2413,6 +2506,7 @@
         232, 
         21
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Functional Testing of Desktop Applications (#1)", 
       "updated": "2009-04-04T21:20:47+00:00", 
       "summary": "", 
@@ -2438,6 +2532,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)", 
       "updated": "2009-04-04T21:05:42+00:00", 
       "summary": "", 
@@ -2463,6 +2558,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Behind the scenes of EveryBlock.com (#111)", 
       "updated": "2009-04-04T20:42:08+00:00", 
       "summary": "", 
@@ -2489,6 +2585,7 @@
         232, 
         91
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: PyPy status talk (#72)", 
       "updated": "2009-04-04T20:09:13+00:00", 
       "summary": "", 
@@ -2515,6 +2612,7 @@
         232, 
         254
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: About Python Namespaces (and Code Objects) (#46)", 
       "updated": "2009-04-04T20:00:58+00:00", 
       "summary": "", 
@@ -2539,6 +2637,7 @@
         231, 
         232
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyCon 2009: Keynote: Reddit: Steve Huffman and Alexis Ohanian", 
       "updated": "2009-04-03T02:46:45+00:00", 
       "summary": "", 

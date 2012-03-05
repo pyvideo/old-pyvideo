@@ -7,6 +7,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>State Of Python </p>\n<p>Presented by Richard Jones </p>\n<p>\nThis talk will present a whirlwind update of the state of Python as of June 2010. \nIt will cover the evolution of the language itself, its variants, versions and veracity. \nIt will cover the state of packaging, distributing and pypi.\n</p>", 
+      "title": "PyConAU 2010: State Of Python", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         680, 
         86, 
@@ -14,7 +16,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: State Of Python", 
       "updated": "2010-07-15T00:03:52+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-StateOfPython134-441.jpg", 
@@ -31,6 +32,8 @@
       "speakers": [], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Lightning Talks - Sunday</p>\n<ul>\n<li>00:00 - Benno Rice: SOAP and SSL Certificate Authentication\n</li><li>02:50 - Brian Quinlan: Python Puzzlers\n</li><li>08:30 - Malti Marquarding: ASKAP Computing: Project Overview\n</li><li>14:25 - Brian Quinlan: Python Puzzlers (2)\n</li><li>20:05 - Peter Lovett: Python is Good\n</li><li>24:25 - Dylan Jay: <a href=\"http://sypy.org/\">SyPy (Sydney Python)</a>, <a href=\"http://bfg.repoze.org/\">repoze.BFG</a>\n</li><li>30:45 - Ryan Kelly: @inline (or: <a href=\"http://github.com/rfk/promise/\">promise</a> gets pushy)\n</li></ul>", 
+      "title": "PyConAU 2010: Lightning talks - Sunday", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         683, 
         684, 
@@ -41,7 +44,6 @@
         686, 
         687
       ], 
-      "title": "PyConAU 2010: Lightning talks - Sunday", 
       "updated": "2010-07-05T22:46:30+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-LightningTalksSunday233.png", 
@@ -60,6 +62,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Introducing Python to a Java shop </p>\n<p>Presented by Juergen Brendel (MuleSoft)</p>\n<p>\nThere is a time and place for everything: For some applications Python is perfect, for others a language like Java and its entire ecosystem is more ideal. In this talk we see how Python was introduced to a Java shop as a vehicle for rapid and dynamic prototyping of a new project. The talk then explains how Jython/Java integration was used to translate this project step by step from Python to Java. Going beyond the advocacy focus, the talk then shows the interfaces to call Java from Python and vice versa and illustrates those with examples. Furthermore, unit testing of Java classes via test cases written in Python is also touched upon.\n</p>", 
+      "title": "PyConAU 2010: Introducing Python to a Java shop", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         680, 
         9, 
@@ -67,7 +71,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Introducing Python to a Java shop", 
       "updated": "2010-07-05T10:29:16+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-IntroducingPythonToAJavaShop731.png", 
@@ -86,6 +89,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>An Introduction to Processing </p>\n<p>Presented by Clinton J Roy (University of Queensland)</p>\n<p>\nProcessing is an Open Source language designed to make interactive \ngraphics and animation programming easier than traditional GUI \ntoolkits. Processing is used to prototype systems and create \ninteractive data visualisations.\n</p>\n<p>\n[NOTES: Missing first 2 minutes of audio, then camera microphone for first section.]\n</p>", 
+      "title": "PyConAU 2010: An Introduction to Processing", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         205, 
         689, 
@@ -93,7 +98,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: An Introduction to Processing", 
       "updated": "2010-07-05T09:51:47+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-AnIntroductionToProcessing388.png", 
@@ -112,6 +116,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>App Engine 101 </p>\n<p>Presented by Brian K Quinlan (Google) </p>\n<p>\nApp Engine lets you run your Python web applications on Google's infrastructure. \n </p>\n<p>\nThis tutorial will provide an overview on how to create, configure and deploy applications on App Engine using a simple (but useful!) example application. \n</p>", 
+      "title": "PyConAU 2010: App Engine 101", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         309, 
         251, 
@@ -120,7 +126,6 @@
         234, 
         92
       ], 
-      "title": "PyConAU 2010: App Engine 101", 
       "updated": "2010-07-05T09:11:15+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-AppEngine101534.png", 
@@ -139,6 +144,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Building the Wave Robots API: Behind the Scenes </p>\n<p>Presented by Pamela S Fox (Google)</p>\n<p>\nThe Google Wave robots protocol involves JSON-RPC messages that are sent between the Wave server and the robot, communicating events to process and operations to perform. The Python Robots API abstracts on top of that JSON-RPC service, allowing developers to interact with waves using event callbacks, python classes, and chained functions. In this talk, we'll explain the JSON-RPC protocol, talk about how we designed the API to sit on top of that protocol, and show how developers can use the API. \n</p>", 
+      "title": "PyConAU 2010: Building the Wave Robots API: Behind the Scenes", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         691, 
         403, 
@@ -147,7 +154,6 @@
         682, 
         92
       ], 
-      "title": "PyConAU 2010: Building the Wave Robots API: Behind the Scenes", 
       "updated": "2010-07-05T08:11:26+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-BuildingTheWaveRobotsAPIBehindTheScenes216.png", 
@@ -166,13 +172,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Multiple, Heterogeneous Models in Pylons </p>\n<p>Presented by Nick Seidenman (WEHI) </p>\n<p>\nThere is a fair amount of sparse, disjoint information available on how to use multiple, possibly diverse databases within a single Pylons app. This talk seeks to present a coherent guideline, derived from lessons learned, on how to use several different data stores (sqlite, postgresql, mysql, flat files) simultaneously within the same pylons project.\n</p>", 
+      "title": "PyConAU 2010: Multiple, Heterogeneous Models in Pylons", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         272, 
         681, 
         682, 
         229
       ], 
-      "title": "PyConAU 2010: Multiple, Heterogeneous Models in Pylons", 
       "updated": "2010-07-05T07:16:57+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-MultipleHeterogeneousModelsInPylons870.png", 
@@ -191,6 +198,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Don't Break It: Continuous Integration & Deployment </p>\n<p>Presented by Benno Rice </p>\n<p>\nSo you've developed your application, it appears to work and you may even have \nsome tests to back that up. Now what? \n</p>\n<p> \nOne part of software development that tends to receive not nearly enough \nattention is the process of deploying, supporting and maintaining your code in \nproduction. This demonstration will give an overview of using tools such as \nHudson, nose, stdeb and freshen to automate the testing, packaging, deployment \nand verification of production software. \n</p>", 
+      "title": "PyConAU 2010: Don&#39;t Break It: Continuous Integration &amp; Deployment", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         693, 
         694, 
@@ -199,7 +208,6 @@
         682, 
         21
       ], 
-      "title": "PyConAU 2010: Don&#39;t Break It: Continuous Integration &amp; Deployment", 
       "updated": "2010-07-05T06:18:22+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-DontBreakItContinuousIntegrationDeployment397.png", 
@@ -218,6 +226,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Plone for Python Developers </p>\n<p>Presented by Dylan Jay (PretaWeb) </p>\n<p>\nPlone is one of the top four open source CMSes in the world and is pure python. Plone is in demand for security, simple UI and extreme flexibility. This talk will concentrate on helping web programers with several common customisations of Plone, including   \ncontent type creation, themeing and template customizations and how the re-architecture using ZTK makes this easy. \n</p>", 
+      "title": "PyConAU 2010: Plone for Python Developers", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         466, 
         216, 
@@ -226,7 +236,6 @@
         92, 
         217
       ], 
-      "title": "PyConAU 2010: Plone for Python Developers", 
       "updated": "2010-07-05T05:25:46+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-PloneForPythonDevelopers992.png", 
@@ -245,13 +254,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Using Python in a scientific real-time data collection network </p>\n<p>Presented by Dr. Paul Dyson (Bureau of Meteorology) </p>\n<p>\nPython is being increasingly used within the Solar and Terrestrial Radiation Network at the Bureau of Meteorology. This Network consists of ten ground stations across Australasia that track the sun, measuring the irradiance of the sun and sky. This talk will outline the work of the Network, the changes resulting from the introduction of Python in 2005, and advantages and some difficulties of using Python.\n</p>", 
+      "title": "PyConAU 2010: Using Python in a scientific real-time data collection network", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         56, 
         681, 
         682, 
         695
       ], 
-      "title": "PyConAU 2010: Using Python in a scientific real-time data collection network", 
       "updated": "2010-07-05T04:22:26+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-UsingPythonInAScientificRealtimeDataCollectionNetwork865.png", 
@@ -270,13 +280,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Virtualisation Used in Development </p>\n<p>Presented by Andrew Boag (Catalyst IT) </p>\n<p>\nSome thoughts on why it makes sense to do your development inside some sort of virtual container. There are real pluses for the grass-level developement process, whether you have a large or small infrastructure.\n</p>", 
+      "title": "PyConAU 2010: Virtualisation Used in Development", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         272, 
         681, 
         682, 
         696
       ], 
-      "title": "PyConAU 2010: Virtualisation Used in Development", 
       "updated": "2010-07-05T03:51:35+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-VirtualisationUsedInDevelopment614.png", 
@@ -295,18 +306,19 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>What's new in Django 1.2 </p>\n<p>Presented by Dr. Russell Keith-Magee (Django Project)</p>\n<p>\nDjango 1.2 added a number of major, long anticipated features to Django. This talk will give an overview of these new features (both large and small), as well as giving a look into what the future may hold for Django.\n</p>", 
+      "title": "PyConAU 2010: What's new in Django 1.2", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         0, 
         681, 
         682, 
         92
       ], 
-      "title": "PyConAU 2010: What's new in Django 1.2", 
-      "source_url": "http://blip.tv/file/3840744",
       "updated": "2010-07-05T03:09:55+00:00", 
-      "summary": "", 
+      "source_url": "http://blip.tv/file/3840744", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-WhatsNewInDjango12332.png", 
       "embed": "<embed src=\"http://blip.tv/play/AYHrywEC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
       "slug": "pyconau-2010--what--39-s-new-in-django-1-2"
     }, 
     "model": "videos.Video", 
@@ -320,6 +332,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Using Python for Natural Language Generation and Analysis </p>\n<p>Presented by Tennessee J Leeuwenburg (Australian Government Bureau of Meteorology)</p>\n<p>\nPython is used within the Bureau of Meteorology to automatically generate weather \nforecast text based on numerical data. In addition, the development team has also used Python \nto introspect the forecast language and statistics used in the past. NTLK is an open-source \nlanguage processing toolkit which can be used for visualising language patterns. This \npresentation will talk about some of the techniques used for automatically describing datasets \nand also how NTLK can be used to discover information about language uses and requirements \nin an organisation.\n</p>", 
+      "title": "PyConAU 2010: Using Python for Natural Language Generation and Analysis", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         471, 
         456, 
@@ -327,7 +341,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Using Python for Natural Language Generation and Analysis", 
       "updated": "2010-07-05T02:30:30+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-UsingPythonForNaturalLanguageGenerationAndAnalysis972.png", 
@@ -346,6 +359,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Python in Video Games and Multimedia Projects </p>\n<p>Presented by Mr. Chris McCormick</p>\n<p>\nThis talk will cover several real-world uses of Python in cross platform video game and multimedia projects, and the tips, tricks, and techniques I learned along the way whilst working on those projects. I'll speak about the issues involved in cross platform desktop dev with wxPython, interfacing with multimedia programs using subprocess, spreading load with multiprocessing, developing for the web on small devices with Django, and when and how to write custom network servers using asyncore.\n</p>", 
+      "title": "PyConAU 2010: Python in Video Games and Multimedia Projects", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         0, 
         697, 
@@ -356,7 +371,6 @@
         682, 
         92
       ], 
-      "title": "PyConAU 2010: Python in Video Games and Multimedia Projects", 
       "updated": "2010-07-05T01:56:40+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-PythonInVideoGamesAndMultimediaProjects630.png", 
@@ -375,6 +389,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Getting started with Apache/mod_wsgi</p>\n<p>Presented by Graham Dumpleton</p>\n<p>\nAn introduction to using Apache/mod_wsgi to host Python web applications supporting the Python Web Server Gateway Interface (WSGI).\n</p>", 
+      "title": "PyConAU 2010: Getting started with Apache/mod_wsgi", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         0, 
         699, 
@@ -383,7 +399,6 @@
         146, 
         225
       ], 
-      "title": "PyConAU 2010: Getting started with Apache/mod_wsgi", 
       "updated": "2010-07-05T01:04:32+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-GettingStartedWithApachemod_wsgi847.png", 
@@ -402,6 +417,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>whoops I deployed again - new ways to get your app in the cloud </p>\n<p>Presented by Dylan Jay (PretaWeb)</p>\n<p>\nA overview of new tools for deploying python based applications to servers including cloud inferstructure such as Amazon Ec2.\n</p>\n<p>\nThe talk will cover Ian Bicking's Silver Lining, zc.buildout, Fabric and hostout. This talk will focus on how to get your first web app hosted \neasily.\n</p>", 
+      "title": "PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         29, 
         0, 
@@ -413,7 +430,6 @@
         225, 
         250
       ], 
-      "title": "PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud", 
       "updated": "2010-07-04T23:55:31+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-whoopsIDeployedAgainNewWaysToGetYourAppInTheCloud589.png", 
@@ -432,13 +448,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Esky: keep your frozen apps fresh </p>\n<p>Presented by Ryan F Kelly </p>\n<p>\nEsky (<a href=\"http://pypi.python.org/pypi/esky/\">http://pypi.python.org/pypi/esky/</a>) is an auto-update framework for frozen Python applications, designed to be simple to use while guaranteeing the safety of your app in case of failed or partial updates. It provides easy support for differential updates and is compatible with py2exe, py2app, cx-freeze and bbfreeze. \n </p>\n<p>\nThis talk will give an overview of esky's features, and show how to extend an existing frozen application with auto-update support. \n</p>", 
+      "title": "PyConAU 2010: Esky: keep your frozen apps fresh", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         702, 
         152, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Esky: keep your frozen apps fresh", 
       "updated": "2010-07-04T23:20:43+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-EskyKeepYourFrozenAppsFresh588.png", 
@@ -455,6 +472,8 @@
       "speakers": [], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Lightning Talks - Saturday</p>\n<ul>\n<li>00:00 - Amy Maree: Talking about OLPC XO, Python and Pippy.\n</li><li>05:55 - Jurgen Brendel: Jython and writing performance critical parts in Java.\n</li><li>09:50 - Dave Claridge: Embedding Python and robots that play soccer.\n</li><li>15:10 - Paul Dyson: inflect.py\n</li><li>20:20 - Richard Jones: cocos2d, a python game library\n</li><li>25:40 - Brian Quinlan: Why you probably don't want to work for Google\n</li><li>30:50 - Nick Coghlan: Running Python scripts.\n</li><li>34:55 - Philip: How to introduce Python to a large organization\n</li><li>38:55 - Ryan Kelly: with hacks: re-usable tools for with-statement hackery\n</li></ul>\n<p>\nPMC curator notes: Paul Dyson's demo at 18:28 is great.\n</p>\n<p>\nIf anyone know's Philip's last name (and/or if we spelled his\nfirst name wrong, too), let us know in the comments.\n</p>", 
+      "title": "PyConAU 2010: Lightning talks - Saturday", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         703, 
         704, 
@@ -469,7 +488,6 @@
         708, 
         709
       ], 
-      "title": "PyConAU 2010: Lightning talks - Saturday", 
       "updated": "2010-07-04T22:43:41+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-LightningTalksSaturday403.png", 
@@ -488,6 +506,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>GLAMkit: a harder, better, faster, stronger way to write reusable Django code </p>\n<p>Presented by Dr. Greg Turner (the Interaction Consortium)</p>\n<p>\nAs part of our web development work for Galleries, Libraries, Archives and Museums (the so-called GLAM sector), we have open-sourced the common tools and design patterns that we have developed as a web framework called GLAMkit (<a href=\"http://glamkit.org/\">http://glamkit.org/</a>). \n</p>\n<p> \nGLAMkit is based on Django, and is inspired by its design philosophy of several apps which implement specific features. However, by looking at the successes and challenges faced by other CMSes and collections of apps such as Pinax, we have taken the philosophy a stage futher. \n </p>\n<p>\nRather than being a collection of Django apps, we have constructed GLAMkit as a collection of optional and reusable Django 'toolkits' for implementing common features. We leave the implementation details - the things that Django already does brilliantly - to the application developers themselves. \n </p>\n<p>\nIn this talk, we will present the history of GLAMkit's development, with particular focus on how our approach to reusability came about, and some examples of that approach.\n</p>", 
+      "title": "PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         680, 
         694, 
@@ -497,7 +517,6 @@
         682, 
         92
       ], 
-      "title": "PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code", 
       "updated": "2010-07-04T13:02:16+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-GLAMkitABetterFasterStrongerWayToWriteReusableDjangoCo180.png", 
@@ -516,12 +535,13 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Keynote: Nick Hodge, \"IronPython & The Quest for the Holy Grail\"</p>\n<p>Presented by Nick Hodge</p>\n<p>\nLanguage interoperability is one of the Holy Grails of programming languages. Choose your language, choose your framework and freely exchange objects and methods. \n</p>\n<p> \nIs this Anarcho-syndicalism of application architecture? Are the serfs in the fields of development teams rebelling against the rightful King of the Realm? \n </p>\n<p>\nIs the Dynamic Language Runtime from Microsoft merely a French castle in the Kingdom of England? \n </p>\n<p>\nHow does this all fit with the open source Knights of Ni that lurk in the thickest of forests? \n </p>\n<p>\nAnd the so-called Holy Hand Grenade of Antioch, Ruby, really a weapon of mass destruction? \n </p>\n<p>\nFind out in Nick Hodge's keynote. \n </p>\n<p>\nA Professional Geek at Microsoft in Australia, Nick spends his time with open source communities showing off Microsoft open source cool and shiny toys. Prior to Microsoft, Nick spent many a weekend over 3 years building an internal sales management tool using Python, Excel and SAP to counter-act the evilness of being a sales manager. Please do not ask about these dark times in polite conversations. More info about Nick may or may not be found at <a href=\"http://www.nickhodge.com/\">http://www.nickhodge.com/</a>.\n</p>", 
+      "title": "PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the Holy Grail&quot;", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         139, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the Holy Grail&quot;", 
       "updated": "2010-07-04T12:20:53+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-KeynoteNickHodgeIronPythonTheQuestForTheHolyGrail836.png", 
@@ -540,13 +560,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Making your Python code fast</p>\n<p>Presented by Andrew Bennetts (Canonical)</p>\n<p>\nBefore you can make your program faster you need to understand why it slow. Andrew will show you some tools and techniques for investigating and analysing your program's performance. \n</p>", 
+      "title": "PyConAU 2010: Making your Python code fast", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         710, 
         54, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Making your Python code fast", 
       "updated": "2010-07-04T09:48:09+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-MakingYourPythonCodeFast592.png", 
@@ -565,6 +586,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Need for Speed</p>\n<p>Presented by Dr. Graeme Cross</p>\n<p>\n\"Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you have proven that's where the bottleneck is.\" (Rob Pike) \n</p>\n<p> \nPython is a great balance of productivity, expressiveness and performance, but there are times when it would nice to have a Python application run faster. This is particularly true for large scale data processing, numerical work, controlling real world devices, and animation. \n </p>\n<p>\nUsing some real-world examples, this talk covers tools and techniques that allow you to systematically understand where the bottlenecks are in your code and then how to effectively optimise your code, without having to resort to writing modules in C/C++.\n</p>", 
+      "title": "PyConAU 2010: Need for Speed", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         471, 
         710, 
@@ -572,7 +595,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Need for Speed", 
       "updated": "2010-07-04T08:57:21+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-NeedForSpeed298.png", 
@@ -591,12 +613,13 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Python Goes to the Movies</p>\n<p>Presented by Mark J Streatfield (Dr. D. Studios.)</p>\n<p>\nAs Hollywood continues to churn out blockbuster films such as Avatar, the technology used to produce the eye popping visual effects is increasingly becoming the nomenclature of the everyday movie-goer. While attention is often paid to the headline techniques such as motion capture and complex physics simulation, few realise that the majority of the work is underpinned by a foundation of Python. This talk introduces the application of Python in the visual effects industry.\n</p>", 
+      "title": "PyConAU 2010: Python Goes to the Movies", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         56, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Python Goes to the Movies", 
       "updated": "2010-07-04T07:55:38+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-PythonGoesToTheMovies711.png", 
@@ -615,6 +638,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Displaying Australian datasets with Django </p>\n<p>Presented by Malcolm Tredinnick</p>\n<p>\nThe last 18 months or so in Australia have seen an increased number of government and public sector organisations releasing datasets to the public under reasonable reuse terms (often Creative Commons license). This talk will take a couple of those local real-world datasets and create a minimal website for remixing them, using Django as the underlying framework. The goals are to provide a short walk through the process of importing and extracting such data in practice, show how to incorporate Django's GIS features into an application, as well as highlighting that real world is messy and so is the data it produces. Working with datasets for journalism or research purposes, or simply fun, requires a certain attention to detail. \n</p>\n<p> \nBasic knowledge of Django is assumed, although the GIS components will be introduced carefully as they are less familiar to many developers.\n</p>", 
+      "title": "PyConAU 2010: Displaying Australian datasets with Django", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         711, 
         0, 
@@ -622,7 +647,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Displaying Australian datasets with Django", 
       "updated": "2010-07-04T06:56:06+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-DisplayingAustralianDatasetsWithDjango920.png", 
@@ -641,6 +665,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>What's eating my memory?</p>\n<p>Presented by Andrew Bennetts (Canonical)</p>\n<p>\nEver wondered why your Python process has consumed 2 gigabytes of memory overnight? Ever torn out your hair trying to find out why? Andrew will show you some tools and techniques that can help you investigate. \n</p>", 
+      "title": "PyConAU 2010: What&#39;s eating my memory?", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         676, 
         710, 
@@ -648,7 +674,6 @@
         681, 
         682
       ], 
-      "title": "PyConAU 2010: What&#39;s eating my memory?", 
       "updated": "2010-07-04T05:24:43+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-WhatsEatingMyMemory591.png", 
@@ -667,12 +692,13 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Fast Engineering Computation in with Boost::Python and Numarray</p>\n<p>Presented by Filip Zalio (NEC Australia)</p>\n<p>\nIn the 3G Mobile Research and Development Division in NEC Australia (www.nec.com.au) we \nhave been using Python based environment since 2005. We run digital signal processing \nsimulations of 3G and 4G mobile phone radio links. Our simulations are CPU-bound, \nwhere efficient and fast interfacing between C++ and Python is one of the keys \nto the growing success of Python within NEC. In this short presentation, we describe \nour current framework which achieves the fast processing. \n</p>", 
+      "title": "PyConAU 2010: Fast Engineering Computation in with Boost::Python and Numarray", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         56, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: Fast Engineering Computation in with Boost::Python and Numarray", 
       "updated": "2010-07-04T05:02:16+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-FastEngineeringComputationInWithBoostPythonAndNumarray677.png", 
@@ -691,12 +717,13 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>The future is soon!</p>\n<p>Presented by Brian K Quinlan (Google)</p>\n<p>\nThis talk introduces PEP 3148, a proposed library that makes it easier to build concurrent applications or modify existing application to exploit opportunities for parallelism.\n</p>", 
+      "title": "PyConAU 2010: The future is soon!", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         255, 
         681, 
         682
       ], 
-      "title": "PyConAU 2010: The future is soon!", 
       "updated": "2010-07-04T04:28:49+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-TheFutureIsSoon488.png", 
@@ -715,13 +742,14 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Hard Real-time Python, or, Giant Robots of Doom</p>\n<p>Presented by Simon Wittber (Different Methods Pty Ltd)</p>\n<p>\nCan you use Python to control a pair of 30 tonne robots as they spin at 72 kilometres per hour? Can you use Python to provide realtime collision avoidance and fly-by-wire control? \n</p>\n<p> \nYes, you can. See how Perth based engineering company Transmin Pty Ltd (www.transmin.com.au) used Python to deliver a safety-crticial robotic control system in record time.\n</p>\n<p>\n[NOTE: Missing first 2.5 minutes of talk, then camera audio for first section]\n</p>", 
+      "title": "PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         56, 
         681, 
         682, 
         615
       ], 
-      "title": "PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom", 
       "updated": "2010-07-04T03:47:42+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-HardRealtimePythonOrGiantRobotsOfDoom180.png", 
@@ -740,6 +768,8 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Genropy - A framework for creating complex applications deployed on the web</p>\n<p>Presented by Jeff B Edwards (Goodsoftware)</p>\n<p>\n<a href=\"http://blog.genropy.org/\">Genropy</a> is the python implementation of Genro, and is an application framework quite different from the standard (django, cherrypy, turbogears), for building powerful database applications deployed from the browser. Many differences and advantages between this framework and traditional python application frameworks are explained. Genropy is a suitable for creating complex 'applications' as opposed to 'sites'. The differentiation is that an application is something an operator uses all day, has trained users, that have to 'squeeze' all the power from it available. Conversely, a 'site' is basically public and not necessarily powerful as a user spends a relatively small amount of time on it. Genropy is the framework for creation applications. It is used for attendee registration and sales in pycon italy, the larger national conference in Europe (Florence, Italy). \n</p>\n<p>\nThis session will demonstrate how to create a simple application (3 tables) and demonstrate the ease and power of using python for the model view and controller on the client. It demonstrates how one api- being the genro Bag - is used to create the model, to map the sql to objects, to create the GUI and communicate all data. So all of it can be done in python instead of having to use many different technologies and languages. \n</p>\n<p>\nJeff Edwards from Goodsoftware is strategic partner of Sofwell who is the author of Genropy.\n</p>", 
+      "title": "PyConAU 2010: Genropy - a framework for creating complex applications deployed on the web", 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         272, 
         205, 
@@ -747,7 +777,6 @@
         682, 
         92
       ], 
-      "title": "PyConAU 2010: Genropy - a framework for creating complex applications deployed on the web", 
       "updated": "2010-07-04T02:46:59+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pyconau-GenropyAFrameworkForCreatingComplexApplicationsDeployed301.png", 
@@ -773,6 +802,7 @@
         681, 
         682
       ], 
+      "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "title": "PyConAU 2010: Keynote: Mark Pesce; &quot;How Not To Be Seen&quot;", 
       "updated": "2010-06-28T22:02:10+00:00", 
       "summary": "", 
