@@ -1,48 +1,50 @@
 [
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>How to Test the Hard Stuff</p>\n<p>Presented by Stephan Richter</p>\n<p>Stephan will cover testing network-driven components, RDB stubbing, test setup layering and stuff like that. Recently he used manuel to do this sort of testing by simulating CLIs and Shell access in a doctest-style test, so he may cover that as well.</p>\n<p>Bring your testing challenges and the impossible to automate projects that haunt you at night, we'll see what Stephan can do with them.</p>\n<p>Boston Python Meetup: May 2010</p>\n", 
-            "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", 
-            "category": 15, 
-            "slug": "boston-python-meetup--how-to-test-the-hard-stuff", 
-            "speakers": [
-                319
-            ], 
-            "summary": "", 
-            "tags": [
-                834, 
-                835, 
-                21, 
-                325
-            ], 
-            "title": "Boston Python Meetup: How to test the hard stuff", 
-            "updated": "2010-05-23T19:56:52+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 591
+  {
+    "fields": {
+      "category": 15, 
+      "speakers": [
+        319
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>How to Test the Hard Stuff</p>\n<p>Presented by Stephan Richter</p>\n<p>Stephan will cover testing network-driven components, RDB stubbing, test setup layering and stuff like that. Recently he used manuel to do this sort of testing by simulating CLIs and Shell access in a doctest-style test, so he may cover that as well.</p>\n<p>Bring your testing challenges and the impossible to automate projects that haunt you at night, we'll see what Stephan can do with them.</p>\n<p>Boston Python Meetup: May 2010</p>\n", 
+      "title": "Boston Python Meetup: How to test the hard stuff", 
+      "tags": [
+        834, 
+        835, 
+        21, 
+        325
+      ], 
+      "updated": "2010-05-23T19:56:52+00:00", 
+      "summary": "", 
+      "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11980200&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", 
+      "source_url": "http://vimeo.com/11980200", 
+      "slug": "boston-python-meetup--how-to-test-the-hard-stuff"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Testing, Where Do I Start?</p>\n<p>Presented by Marshall Weir</p>\n<p>Marshall will cover basic unit test concepts and quickly move to making your tests motivating, easy to run and adding testing to an existing project. He's aiming squarely at developers who have projects they want to use testing for, but don't know where to get started.</p>\n<p>Have you wanted to become test-infected but couldn't find the start of the thread to pull?  Marshall will help.</p>\n<p>Boston Python Meetup, May 2010</p>\n", 
-            "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11963043&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11963043&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", 
-            "category": 15, 
-            "slug": "boston-python-meetup--testing--where-do-i-start", 
-            "speakers": [
-                320
-            ], 
-            "summary": "", 
-            "tags": [
-                834, 
-                835, 
-                21, 
-                325
-            ], 
-            "title": "Boston Python Meetup: Testing: Where do I start?", 
-            "updated": "2010-05-23T04:07:47+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 592
-    }
+    "model": "videos.Video", 
+    "pk": 591
+  }, 
+  {
+    "fields": {
+      "category": 15, 
+      "speakers": [
+        320
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Testing, Where Do I Start?</p>\n<p>Presented by Marshall Weir</p>\n<p>Marshall will cover basic unit test concepts and quickly move to making your tests motivating, easy to run and adding testing to an existing project. He's aiming squarely at developers who have projects they want to use testing for, but don't know where to get started.</p>\n<p>Have you wanted to become test-infected but couldn't find the start of the thread to pull?  Marshall will help.</p>\n<p>Boston Python Meetup, May 2010</p>\n", 
+      "title": "Boston Python Meetup: Testing: Where do I start?", 
+      "tags": [
+        834, 
+        835, 
+        21, 
+        325
+      ], 
+      "updated": "2010-05-23T04:07:47+00:00", 
+      "summary": "", 
+      "embed": "<object width=\"425\" height=\"344\"><param name=\"allowfullscreen\" value=\"true\"><param name=\"allowscriptaccess\" value=\"always\"><param name=\"movie\" value=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11963043&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\"><embed src=\"http://vimeo.com/moogaloop.swf?show_byline=1&amp;fullscreen=1&amp;clip_id=11963043&amp;color=&amp;server=vimeo.com&amp;show_title=1&amp;show_portrait=0\" allowscriptaccess=\"always\" height=\"344\" width=\"425\" allowfullscreen=\"true\" type=\"application/x-shockwave-flash\"></embed></object>", 
+      "source_url": "http://vimeo.com/11963043", 
+      "slug": "boston-python-meetup--testing--where-do-i-start"
+    }, 
+    "model": "videos.Video", 
+    "pk": 592
+  }
 ]

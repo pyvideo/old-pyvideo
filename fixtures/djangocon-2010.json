@@ -1,883 +1,915 @@
 [
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>\nLightning Talks\n</p>\n<ul>\n<li>00:00 - David Gouldin: Hash Signaling Made Easy (http://github.com/dgouldin/django-hashsignal)\n</li><li>05:20 - Tareque Mossain: Django ORM Tips\n</li><li>11:20 - Nathan?: OpenID in Django\n</li><li>18:00 - Ben? and Jeremy?: Django efficacy project--call for case studies\n</li><li>19:40 - Tobias McNulty: django.contrib.messages and contributing to Django core\n</li><li>25:00 - Jason ?: Django Config Store (http://github.com/zbyte64/django-configstore\n</li><li>28:25 - Niall Kelly: Giving Django a new front door\n</li><li>32:00 - Justin Lilly: Meetup Meeter\n</li><li>33:50 - Jesse Noller: WTF: PSF and DSF\n</li><li>40:00 - dmoisset ?: How request routing should be\n</li><li>45:30 - Gabriel Falcao: Feeding your ponies with lettuce (http://lettuce.it/)\n</li><li>50:40 - Nate Aune: djangozoom: Effortless cloud deployment (http://djangozoom.com/ponyexpress)\n</li></ul>\n<p>\n[NOTE: If you know the people whose names have a ?, please add a comment so we can fix it in the description.  Thanks!]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH%2Bsi0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--lightning-talks---day-1", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                34, 
-                35, 
-                36, 
-                37, 
-                38, 
-                39, 
-                40, 
-                41, 
-                42, 
-                11, 
-                43
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LightningTalksDay1811.png", 
-            "title": "Lightning Talks - Day 1", 
-            "updated": "2010-09-21T19:44:49+00:00", 
-            "video_ogv_length": "289887143", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LightningTalksDay1814.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 35
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>\nLightning Talks\n</p>\n<ul>\n<li>00:00 - David Gouldin: Hash Signaling Made Easy (http://github.com/dgouldin/django-hashsignal)\n</li><li>05:20 - Tareque Mossain: Django ORM Tips\n</li><li>11:20 - Nathan?: OpenID in Django\n</li><li>18:00 - Ben? and Jeremy?: Django efficacy project--call for case studies\n</li><li>19:40 - Tobias McNulty: django.contrib.messages and contributing to Django core\n</li><li>25:00 - Jason ?: Django Config Store (http://github.com/zbyte64/django-configstore\n</li><li>28:25 - Niall Kelly: Giving Django a new front door\n</li><li>32:00 - Justin Lilly: Meetup Meeter\n</li><li>33:50 - Jesse Noller: WTF: PSF and DSF\n</li><li>40:00 - dmoisset ?: How request routing should be\n</li><li>45:30 - Gabriel Falcao: Feeding your ponies with lettuce (http://lettuce.it/)\n</li><li>50:40 - Nate Aune: djangozoom: Effortless cloud deployment (http://djangozoom.com/ponyexpress)\n</li></ul>\n<p>\n[NOTE: If you know the people whose names have a ?, please add a comment so we can fix it in the description.  Thanks!]\n</p>\n", 
+      "title": "Lightning Talks - Day 1", 
+      "tags": [
+        0, 
+        34, 
+        35, 
+        36, 
+        37, 
+        38, 
+        39, 
+        40, 
+        41, 
+        42, 
+        11, 
+        43
+      ], 
+      "updated": "2010-09-21T19:44:49+00:00", 
+      "source_url": "http://blip.tv/file/4149072", 
+      "video_ogv_length": "289887143", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LightningTalksDay1814.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH%2Bsi0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LightningTalksDay1811.png", 
+      "slug": "djangocon-2010--lightning-talks---day-1"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<span><br />\n\nDisqus, one of the largest Django applications in the world, will explain how they deal with scaling complexities in a small startup.</span>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9xikC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--scaling-the-world--39-s-largest-d", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/1886/375x295.png", 
-            "title": "Scaling the World&#39;s Largest Django Application", 
-            "updated": "2010-09-17T23:31:14+00:00", 
-            "video_ogv_length": "44104938", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-ScalingTheWorldsLargestDjangoApplication558.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 36
+    "model": "videos.Video", 
+    "pk": 35
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<span><br />\n\nDisqus, one of the largest Django applications in the world, will explain how they deal with scaling complexities in a small startup.</span>", 
+      "title": "Scaling the World&#39;s Largest Django Application", 
+      "tags": [
+        0, 
+        1, 
+        44
+      ], 
+      "updated": "2010-09-17T23:31:14+00:00", 
+      "source_url": "http://blip.tv/file/4135225", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-ScalingTheWorldsLargestDjangoApplication558.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9xikC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "44104938", 
+      "thumbnail_url": "http://s3.amazonaws.com/s3.mirocommunity.org/python/localtv/video_thumbs/1886/375x295.png", 
+      "slug": "djangocon-2010--scaling-the-world--39-s-largest-d"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Sprints Kickoff</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThis is the sprints kickoff where Russell explains how sprints work and what to expect.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9ww4C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--sprints-kickoff", 
-            "speakers": [
-                257
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                45
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SprintsKickoff627-565.jpg", 
-            "title": "Sprints Kickoff", 
-            "updated": "2010-09-17T21:25:04+00:00", 
-            "video_ogv_length": "51467769", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SprintsKickoff627.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 37
+    "model": "videos.Video", 
+    "pk": 36
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        257
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Sprints Kickoff</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThis is the sprints kickoff where Russell explains how sprints work and what to expect.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        45
+      ], 
+      "slug": "djangocon-2010--sprints-kickoff", 
+      "title": "Sprints Kickoff", 
+      "updated": "2010-09-17T21:25:04+00:00", 
+      "source_url": "http://blip.tv/file/4134814", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SprintsKickoff627.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9ww4C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "51467769", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SprintsKickoff627-565.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Multi-database patterns</p>\n<p>Presented by Malcolm Tredinnick</p>\n<p>\nA tour through four common \"multiple database\" usage patterns and how they can be implemented and utilised with Django. We'll talk about the strengths and weaknesses of each pattern and why you might not need any of them.\n</p>\n<p>Abstract</p>\n<p>\nThere are a few good reasons a system might want to interact regularly with multiple databases. \u201cBecause it\u2019s what cool people do\u201d is not one of those reasons. Most multi-database usages fall into one of four main classes:\n</p>\n<ul>\n<li>Separation by function. All data of one type in one database, all data of another type in some other database.\n</li><li>Separation by sharding. Data of a particular type (e.g. user records) is split across multiple databases, each database holding a shard of the whole data.\n</li><li>Data replication (separation by access). Some pieces of data are synchronized to multiple machines. Writes might go into one or more masters and reads normally come from the slaves.\n</li><li>Data augmentation/shadowing. Data in one database is added to or entirely replaced by data from another database. Can happen during development when reading from a production snapshot whilst trying out changes to some tables or data only against a local database.\n</li></ul>\n<p>\nObviously, combinations of these classes are possible, such as replicated sharded data in a huge site. There are tricks and traps to the way a developer talks to each of these sorts of setups. I'll spend a few minutes showing credible examples of the usage of each as well as when you might be over-engineering by going that way. All four access patterns are possible in Django 1.2, with varying degrees of ease of use and I'll show the type of code required in each case.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9wRIC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--multi-database-patterns", 
-            "speakers": [
-                21
-            ], 
-            "summary": "", 
-            "tags": [
-                46, 
-                0, 
-                1, 
-                44, 
-                47
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MultidatabasePatterns241.png", 
-            "title": "Multi-database patterns", 
-            "updated": "2010-09-17T20:19:35+00:00", 
-            "video_ogv_length": "215779342", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MultidatabasePatterns573.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 38
+    "model": "videos.Video", 
+    "pk": 37
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        21
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Multi-database patterns</p>\n<p>Presented by Malcolm Tredinnick</p>\n<p>\nA tour through four common \"multiple database\" usage patterns and how they can be implemented and utilised with Django. We'll talk about the strengths and weaknesses of each pattern and why you might not need any of them.\n</p>\n<p>Abstract</p>\n<p>\nThere are a few good reasons a system might want to interact regularly with multiple databases. \u201cBecause it\u2019s what cool people do\u201d is not one of those reasons. Most multi-database usages fall into one of four main classes:\n</p>\n<ul>\n<li>Separation by function. All data of one type in one database, all data of another type in some other database.\n</li><li>Separation by sharding. Data of a particular type (e.g. user records) is split across multiple databases, each database holding a shard of the whole data.\n</li><li>Data replication (separation by access). Some pieces of data are synchronized to multiple machines. Writes might go into one or more masters and reads normally come from the slaves.\n</li><li>Data augmentation/shadowing. Data in one database is added to or entirely replaced by data from another database. Can happen during development when reading from a production snapshot whilst trying out changes to some tables or data only against a local database.\n</li></ul>\n<p>\nObviously, combinations of these classes are possible, such as replicated sharded data in a huge site. There are tricks and traps to the way a developer talks to each of these sorts of setups. I'll spend a few minutes showing credible examples of the usage of each as well as when you might be over-engineering by going that way. All four access patterns are possible in Django 1.2, with varying degrees of ease of use and I'll show the type of code required in each case.\n</p>", 
+      "tags": [
+        46, 
+        0, 
+        1, 
+        44, 
+        47
+      ], 
+      "title": "Multi-database patterns", 
+      "updated": "2010-09-17T20:19:35+00:00", 
+      "source_url": "http://blip.tv/file/4134562", 
+      "video_ogv_length": "215779342", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MultidatabasePatterns573.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9wRIC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MultidatabasePatterns241.png", 
+      "slug": "djangocon-2010--multi-database-patterns"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Massaging the Pony: Message Queues and You</p>\n<p>Presented by Shawn Rider</p>\n<p>\nMessage queues are a potential solution for any site that needs to facilitate robust asynchronous operations on your website including carrying out intensive or long-running actions or synchronizing off-site services. We will look at how PBS has used Celery and RabbitMQ to provide more reliable service and how to set up a robust message queue solution in a cloud hosting environment.\n</p>\n<p>Abstract</p>\n<p>\nIn maintaining several different site projects written in Django over the past four years, the PBS Education team repeatedly found the need for the ability to create asynchronous processes that could handle long-running actions and mission-critical synchronization. We needed a way to handle tasks such as generating reports on large data sets and executing remote processes on fussy third-party services. The clear solution to the problems we encountered was to implement a robust message queue solution.\n</p>\n<p>\nMessage queues allow sites to execute processes outside the normal HTTP request cycle and then deliver the results of those processes in a variety of ways. After a survey of all available message queue solutions we settled on a combination of Celery and RabbitMQ to create a reliable, always-available system that can handle mission-critical tasks. We can easily develop against a message queue in our development builds, and we have an infrastucture based in a cloud hosting service that allows us to rely on the message queue without reservation.\n</p>\n<p>\nIn this talk will will look at what a message queue does for your site, how to implement a message queue in your Django code, and how to set up a reliable message queue infrastructure on your servers. We will show examples from some of our sites at PBS so it is clear how message queues work and to present some common use cases that warrant a message queue solution. We will also discuss some of the design patterns that made it easy to switch to message queue based processing for discreet tasks, as well as some of the things we learned that have made the solution even easier to implement for new tasks.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9v1MC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--massaging-the-pony--message-queue", 
-            "speakers": [
-                22
-            ], 
-            "summary": "", 
-            "tags": [
-                48, 
-                0, 
-                1, 
-                44, 
-                49, 
-                50, 
-                51
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MassagingThePonyMessageQueuesAndYou879.png", 
-            "title": "Massaging the Pony: Message Queues and You", 
-            "updated": "2010-09-17T19:39:24+00:00", 
-            "video_ogv_length": "178474360", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MassagingThePonyMessageQueuesAndYou349.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 39
+    "model": "videos.Video", 
+    "pk": 38
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        22
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Massaging the Pony: Message Queues and You</p>\n<p>Presented by Shawn Rider</p>\n<p>\nMessage queues are a potential solution for any site that needs to facilitate robust asynchronous operations on your website including carrying out intensive or long-running actions or synchronizing off-site services. We will look at how PBS has used Celery and RabbitMQ to provide more reliable service and how to set up a robust message queue solution in a cloud hosting environment.\n</p>\n<p>Abstract</p>\n<p>\nIn maintaining several different site projects written in Django over the past four years, the PBS Education team repeatedly found the need for the ability to create asynchronous processes that could handle long-running actions and mission-critical synchronization. We needed a way to handle tasks such as generating reports on large data sets and executing remote processes on fussy third-party services. The clear solution to the problems we encountered was to implement a robust message queue solution.\n</p>\n<p>\nMessage queues allow sites to execute processes outside the normal HTTP request cycle and then deliver the results of those processes in a variety of ways. After a survey of all available message queue solutions we settled on a combination of Celery and RabbitMQ to create a reliable, always-available system that can handle mission-critical tasks. We can easily develop against a message queue in our development builds, and we have an infrastucture based in a cloud hosting service that allows us to rely on the message queue without reservation.\n</p>\n<p>\nIn this talk will will look at what a message queue does for your site, how to implement a message queue in your Django code, and how to set up a reliable message queue infrastructure on your servers. We will show examples from some of our sites at PBS so it is clear how message queues work and to present some common use cases that warrant a message queue solution. We will also discuss some of the design patterns that made it easy to switch to message queue based processing for discreet tasks, as well as some of the things we learned that have made the solution even easier to implement for new tasks.\n</p>", 
+      "tags": [
+        48, 
+        0, 
+        1, 
+        44, 
+        49, 
+        50, 
+        51
+      ], 
+      "title": "Massaging the Pony: Message Queues and You", 
+      "updated": "2010-09-17T19:39:24+00:00", 
+      "source_url": "http://blip.tv/file/4134371", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MassagingThePonyMessageQueuesAndYou349.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9v1MC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "178474360", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MassagingThePonyMessageQueuesAndYou879.png", 
+      "slug": "djangocon-2010--massaging-the-pony--message-queue"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Learning a new codebase</p>\n<p>Presented by Justin Lilly</p>\n<p>\nThis talk will be on methods of reading code for comprehension. While the project will be walking through various third-party Django apps, the experiences and conclusions are drawn from joining a large, existing Django project which lacked documentation.\n</p>\n<p>Abstract</p>\n<p>\nIn the broadest sense, this talk is on how to read code. More than this, it is a series of methods and practices which one can follow to get up to speed on a new codebase. The subject of this talk will be open-sourced Django projects, but many of the experiences which fuel this talk will be based on joining a new team. It will cover tracing execution paths, finding the more interesting portions of a codebase, as well as how to address any issues you may have found in it.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9vjoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--learning-a-new-codebase", 
-            "speakers": [
-                23
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                52
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LearningANewCodebase752.png", 
-            "title": "Learning a new codebase", 
-            "updated": "2010-09-17T19:12:02+00:00", 
-            "video_ogv_length": "197289650", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LearningANewCodebase180.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 40
+    "model": "videos.Video", 
+    "pk": 39
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        23
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Learning a new codebase</p>\n<p>Presented by Justin Lilly</p>\n<p>\nThis talk will be on methods of reading code for comprehension. While the project will be walking through various third-party Django apps, the experiences and conclusions are drawn from joining a large, existing Django project which lacked documentation.\n</p>\n<p>Abstract</p>\n<p>\nIn the broadest sense, this talk is on how to read code. More than this, it is a series of methods and practices which one can follow to get up to speed on a new codebase. The subject of this talk will be open-sourced Django projects, but many of the experiences which fuel this talk will be based on joining a new team. It will cover tracing execution paths, finding the more interesting portions of a codebase, as well as how to address any issues you may have found in it.\n</p>", 
+      "title": "Learning a new codebase", 
+      "slug": "djangocon-2010--learning-a-new-codebase", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        52
+      ], 
+      "updated": "2010-09-17T19:12:02+00:00", 
+      "source_url": "http://blip.tv/file/4134218", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LearningANewCodebase180.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9vjoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "197289650", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LearningANewCodebase752.png", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles</p>\n<p>Presented by Frank Wiles</p>\n<p>\nWhile pre-optimization is often the root of all evil, knowing how to think about performance and scalability are important skills for any geek. Learn about all the knobs you didn't know you could or should tweak.\n</p>\n<p>Abstract</p>\n<p>\nCode profiling and dealing with your database aren't the only places to find performance gains. Performance and scalability are holistic endeavors.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9vSYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--alice-in-performanceland----down-", 
-            "speakers": [
-                18
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                53, 
-                54, 
-                16
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AliceInPerformancelandDownTheRabbitHoleWithFrankWiles688.png", 
-            "title": "Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles", 
-            "updated": "2010-09-17T18:29:01+00:00", 
-            "video_ogv_length": "228380093", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-AliceInPerformancelandDownTheRabbitHoleWithFrankWiles531.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 41
+    "model": "videos.Video", 
+    "pk": 40
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        18
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles</p>\n<p>Presented by Frank Wiles</p>\n<p>\nWhile pre-optimization is often the root of all evil, knowing how to think about performance and scalability are important skills for any geek. Learn about all the knobs you didn't know you could or should tweak.\n</p>\n<p>Abstract</p>\n<p>\nCode profiling and dealing with your database aren't the only places to find performance gains. Performance and scalability are holistic endeavors.\n</p>", 
+      "title": "Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        53, 
+        54, 
+        16
+      ], 
+      "updated": "2010-09-17T18:29:01+00:00", 
+      "source_url": "http://blip.tv/file/4134070", 
+      "video_ogv_length": "228380093", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-AliceInPerformancelandDownTheRabbitHoleWithFrankWiles531.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9vSYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AliceInPerformancelandDownTheRabbitHoleWithFrankWiles688.png", 
+      "slug": "djangocon-2010--alice-in-performanceland----down-"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Modeling Challenges</p>\n<p>Presented by Malcolm Tredinnick</p>\n<p>\nHow would you model players, umpires and coaches in baseball data when the same person can switch roles over the course of their life? How about servers in racks with power boards attached (and cords running across the room to remote boards)? Come along to see one approach to create minimal and well-performing models for such real-life situations.\n</p>\n<p>Abstract</p>\n<p>\nThe slightly over-simplified but useful rule of thumb when creating database schema is \u201cnormalize until it hurts, [then] denormalize until it works.\u201d If only people didn\u2019t skip the first step so often. Using a data modeling layer, such as Django's models, doesn't absolve the system architects from the need to create good design. It also doesn't require them to do so, since you can get away with a lot of sub-optimality with many data sets.\n</p>\n<p>\nThe real difficulty here, though, is that the trade-off between text-book ideal modeling and easy to use is difficult to judge and takes practice to develop.\n</p>\n<p>\nThis talk will walk some interesting cases of model design that I've encountered recently. I'll explain how I approached the problem and what we ended up with. These will include:\n</p>\n<ul>\n<li>Modeling people who might simultaneously play different roles in the system. For example, a person who was a baseball player and then became a coach \u2014 each role has different attributes attached to it.\n</li><li>Modeling what appears to be a triangular dependency relationship with minimal redundancy in the data description and without needing really long query filters to access things.\n</li><li>Handling date ranges (or other measured data) of different degrees of accuracy and precision.\n</li></ul>\n<p>\nThis won't be a talk on theoretical database design. Rather, concrete examples of creating such designs and guiding the decisions by what might work best in the final Django code. Hopefully, by listening to one person's approach (mine!), people faced with similar challenges will have another possible attack method in their toolbox.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH9pBQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--modeling-challenges", 
-            "speakers": [
-                21
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                55
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ModelingChallenges314.png", 
-            "title": "Modeling challenges", 
-            "updated": "2010-09-16T23:57:00+00:00", 
-            "video_ogv_length": "236827444", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-ModelingChallenges562.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 42
+    "model": "videos.Video", 
+    "pk": 41
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        21
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Modeling Challenges</p>\n<p>Presented by Malcolm Tredinnick</p>\n<p>\nHow would you model players, umpires and coaches in baseball data when the same person can switch roles over the course of their life? How about servers in racks with power boards attached (and cords running across the room to remote boards)? Come along to see one approach to create minimal and well-performing models for such real-life situations.\n</p>\n<p>Abstract</p>\n<p>\nThe slightly over-simplified but useful rule of thumb when creating database schema is \u201cnormalize until it hurts, [then] denormalize until it works.\u201d If only people didn\u2019t skip the first step so often. Using a data modeling layer, such as Django's models, doesn't absolve the system architects from the need to create good design. It also doesn't require them to do so, since you can get away with a lot of sub-optimality with many data sets.\n</p>\n<p>\nThe real difficulty here, though, is that the trade-off between text-book ideal modeling and easy to use is difficult to judge and takes practice to develop.\n</p>\n<p>\nThis talk will walk some interesting cases of model design that I've encountered recently. I'll explain how I approached the problem and what we ended up with. These will include:\n</p>\n<ul>\n<li>Modeling people who might simultaneously play different roles in the system. For example, a person who was a baseball player and then became a coach \u2014 each role has different attributes attached to it.\n</li><li>Modeling what appears to be a triangular dependency relationship with minimal redundancy in the data description and without needing really long query filters to access things.\n</li><li>Handling date ranges (or other measured data) of different degrees of accuracy and precision.\n</li></ul>\n<p>\nThis won't be a talk on theoretical database design. Rather, concrete examples of creating such designs and guiding the decisions by what might work best in the final Django code. Hopefully, by listening to one person's approach (mine!), people faced with similar challenges will have another possible attack method in their toolbox.\n</p>", 
+      "title": "Modeling challenges", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        55
+      ], 
+      "updated": "2010-09-16T23:57:00+00:00", 
+      "source_url": "http://blip.tv/file/4130852", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-ModelingChallenges562.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH9pBQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "236827444", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-ModelingChallenges314.png", 
+      "slug": "djangocon-2010--modeling-challenges"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Technical Design Panel</p>\n<p>Featuring Justin Braun, Karen Tracy, Russel Keith-Magee, Brian Rosner, Janis Leidel, Gary Wilson</p>\n<p>\nCome one! Come all! Pay sixpence to see the freaks! Real Live Core Developers, answering questions for your edification!\n</p>\n<p>Abstract</p>\n<p>\nThis is a repeat of the ever-popular \"hit the core developers with hard questions\" panel.\n</p>\n<p>\nCovers issues brought up by Eric's talk, checkin rights, portable apps, the global settings file, backwards incompatible changes, contrib, educating users on finding tools and libraries, what's coming in django 1.3, memory usage in django, required resources for django core development, best part of django today, and problems with external dependencies not shipped with django.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH8mEcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--technical-design-panel", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TechnicalDesignPanel332.png", 
-            "title": "Technical Design Panel", 
-            "updated": "2010-09-13T02:10:39+00:00", 
-            "video_ogv_length": "218615893", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TechnicalDesignPanel435.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 43
+    "model": "videos.Video", 
+    "pk": 42
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Technical Design Panel</p>\n<p>Featuring Justin Braun, Karen Tracy, Russel Keith-Magee, Brian Rosner, Janis Leidel, Gary Wilson</p>\n<p>\nCome one! Come all! Pay sixpence to see the freaks! Real Live Core Developers, answering questions for your edification!\n</p>\n<p>Abstract</p>\n<p>\nThis is a repeat of the ever-popular \"hit the core developers with hard questions\" panel.\n</p>\n<p>\nCovers issues brought up by Eric's talk, checkin rights, portable apps, the global settings file, backwards incompatible changes, contrib, educating users on finding tools and libraries, what's coming in django 1.3, memory usage in django, required resources for django core development, best part of django today, and problems with external dependencies not shipped with django.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44
+      ], 
+      "slug": "djangocon-2010--technical-design-panel", 
+      "title": "Technical Design Panel", 
+      "updated": "2010-09-13T02:10:39+00:00", 
+      "source_url": "http://blip.tv/file/4112960", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TechnicalDesignPanel435.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH8mEcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "218615893", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TechnicalDesignPanel332.png", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Why Django Sucks, and How We Can Fix It</p><p>\n</p><p>Presented by Eric Florenzano</p>\n<p>\nEric Florenzano trolls DjangoCon. He identifies problems with Django ranging from app structure, to settings, to the development process, to the community, and more. Some of the problems he identifies have been around since the beginning, and some are emerging as Django matures. It's not all gloom\u2014the latter half of the talk focuses on proposals on how to tackle these issues that face Django.\n</p>\n<p>Abstract</p>\n<p>\nThis talk focuses on real problems that people face when using Django every day. It dives down and attempts to find root causes for each of these problems. Essentially, what are the things that suck about Django?\n</p>\n<p>\nThen the talk walks point-by-point for each of the things that suck, and provides suggestions for actions that the Django community can take to make them suck less.\n</p>\n<p>\nThe goal here is to start a discussion, to bring to light the problems that tend to be ignored, and to have a little fun in the process.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH8lEsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--why-django-sucks--and-how-we-can-", 
-            "speakers": [
-                24
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhyDjangoSucksAndHowWeCanFixIt128.png", 
-            "title": "Why Django Sucks, and How We Can Fix It", 
-            "updated": "2010-09-12T23:12:24+00:00", 
-            "video_ogv_length": "296274578", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-WhyDjangoSucksAndHowWeCanFixIt632.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 44
+    "model": "videos.Video", 
+    "pk": 43
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        24
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Why Django Sucks, and How We Can Fix It</p><p>\n</p><p>Presented by Eric Florenzano</p>\n<p>\nEric Florenzano trolls DjangoCon. He identifies problems with Django ranging from app structure, to settings, to the development process, to the community, and more. Some of the problems he identifies have been around since the beginning, and some are emerging as Django matures. It's not all gloom\u2014the latter half of the talk focuses on proposals on how to tackle these issues that face Django.\n</p>\n<p>Abstract</p>\n<p>\nThis talk focuses on real problems that people face when using Django every day. It dives down and attempts to find root causes for each of these problems. Essentially, what are the things that suck about Django?\n</p>\n<p>\nThen the talk walks point-by-point for each of the things that suck, and provides suggestions for actions that the Django community can take to make them suck less.\n</p>\n<p>\nThe goal here is to start a discussion, to bring to light the problems that tend to be ignored, and to have a little fun in the process.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44
+      ], 
+      "title": "Why Django Sucks, and How We Can Fix It", 
+      "updated": "2010-09-12T23:12:24+00:00", 
+      "source_url": "http://blip.tv/file/4112452", 
+      "video_ogv_length": "296274578", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-WhyDjangoSucksAndHowWeCanFixIt632.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH8lEsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WhyDjangoSucksAndHowWeCanFixIt128.png", 
+      "slug": "djangocon-2010--why-django-sucks--and-how-we-can-"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Topics of Interest</p>\n<p>Presented by James Bennett</p>\n<p>\nInspired by Ian Bicking's session of the same name at PyCon 2009, this will be a somewhat eclectic talk covering various subjects near and dear to the speaker's heart, including Django's release process, best practices for application development and what the future holds for our favorite Python web framework.\n</p>\n<p>Abstract</p>\n<p>\nThis talk will come in, roughly, four parts:\n</p>\n<ul>\n<li>The release process\n<ul>\n<li>How Django gets made\n</li><li>Things we've screwed up\n</li><li>Things (I think) we've gotten right\n</li><li>The unsung heroes who make Django happen\n</li></ul>\n</li><li>The state of Django applications\n<ul>\n<li>A summary of current best practices for development, documentation, packaging, collaboration, etc.\n</li><li>Common issues and ways to fix them\n</li><li>\"There's an app for that\" and its discontents\n</li></ul>\n</li><li>The future\n<ul>\n<li>Musings on Django 1.3 and 1.4\n</li><li>Python 3: when will we get there, and what will it mean for us?\n</li><li>The world is changing; how can we change with it?\n</li></ul>\n</li><li>General Q&A;\n</li></ul>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH8kgQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--topics-of-interest", 
-            "speakers": [
-                25
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TopicsOfInterest641.png", 
-            "title": "Topics of Interest", 
-            "updated": "2010-09-12T20:58:56+00:00", 
-            "video_ogv_length": "255930551", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TopicsOfInterest487.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 45
+    "model": "videos.Video", 
+    "pk": 44
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        25
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Topics of Interest</p>\n<p>Presented by James Bennett</p>\n<p>\nInspired by Ian Bicking's session of the same name at PyCon 2009, this will be a somewhat eclectic talk covering various subjects near and dear to the speaker's heart, including Django's release process, best practices for application development and what the future holds for our favorite Python web framework.\n</p>\n<p>Abstract</p>\n<p>\nThis talk will come in, roughly, four parts:\n</p>\n<ul>\n<li>The release process\n<ul>\n<li>How Django gets made\n</li><li>Things we've screwed up\n</li><li>Things (I think) we've gotten right\n</li><li>The unsung heroes who make Django happen\n</li></ul>\n</li><li>The state of Django applications\n<ul>\n<li>A summary of current best practices for development, documentation, packaging, collaboration, etc.\n</li><li>Common issues and ways to fix them\n</li><li>\"There's an app for that\" and its discontents\n</li></ul>\n</li><li>The future\n<ul>\n<li>Musings on Django 1.3 and 1.4\n</li><li>Python 3: when will we get there, and what will it mean for us?\n</li><li>The world is changing; how can we change with it?\n</li></ul>\n</li><li>General Q&A;\n</li></ul>", 
+      "tags": [
+        0, 
+        1, 
+        44
+      ], 
+      "title": "Topics of Interest", 
+      "updated": "2010-09-12T20:58:56+00:00", 
+      "source_url": "http://blip.tv/file/4112125", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TopicsOfInterest487.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH8kgQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "255930551", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TopicsOfInterest641.png", 
+      "slug": "djangocon-2010--topics-of-interest"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Welcome and Chairman's Address</p>\n<p>Presented by Steve Holden</p>\n<p>[VIDEO HAS ISSUES: Looks like the presentation started before recording.]</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH8jmcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--welcome-and-chairman--39-s-addres", 
-            "speakers": [
-                26
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WelcomeAndChairmansAddress563.png", 
-            "title": "Welcome and Chairman&#39;s Address", 
-            "updated": "2010-09-12T18:09:48+00:00", 
-            "video_ogv_length": "258726136", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-WelcomeAndChairmansAddress946.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 46
+    "model": "videos.Video", 
+    "pk": 45
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        26
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Welcome and Chairman's Address</p>\n<p>Presented by Steve Holden</p>\n<p>[VIDEO HAS ISSUES: Looks like the presentation started before recording.]</p>", 
+      "title": "Welcome and Chairman&#39;s Address", 
+      "slug": "djangocon-2010--welcome-and-chairman--39-s-addres", 
+      "tags": [
+        0, 
+        1, 
+        44
+      ], 
+      "updated": "2010-09-12T18:09:48+00:00", 
+      "source_url": "http://blip.tv/file/4111712", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-WelcomeAndChairmansAddress946.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH8jmcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "258726136", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-WelcomeAndChairmansAddress563.png", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>NoSQL and Django Panel</p>\n<p>Featuring Jacob Burch, Russel Keith-Magee, Noah Silas, Michael Richardson, Eric Florenzano, Curt Micol</p>\n<p>\nA panel to discuss the future of no-sql/non-related databases in Django.\n</p>\n<p>Abstract</p>\n<p>\nThe proliferation of non-SQL speaking datastores has caused a lot of discourse and debate over their potential role in Django's decidedly SQL-speaking ORM. The goal of this panel is to consolidate and discuss the root questions of this debate.\n</p>\n<p>\nThe panel will consist of Django orm contributors and heavy end-users of both Django and a variety of NoSQL database solutions. Questions to the panel will briefly cover the NoSQL movement in general and it's staying power. After that introduction to the debates at hand outside of Django, questions will shift to focus closely on the issues into integrating NoSQL and Django--both on current best practices and future plans for integrating it into the core.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH8iksC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--nosql-and-django-panel", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                56, 
-                0, 
-                1, 
-                44, 
-                57, 
-                42
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-NoSQLAndDjangoPanel848.png", 
-            "title": "NoSQL and Django Panel", 
-            "updated": "2010-09-12T13:19:46+00:00", 
-            "video_ogv_length": "300347871", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-NoSQLAndDjangoPanel238.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 47
+    "model": "videos.Video", 
+    "pk": 46
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>NoSQL and Django Panel</p>\n<p>Featuring Jacob Burch, Russel Keith-Magee, Noah Silas, Michael Richardson, Eric Florenzano, Curt Micol</p>\n<p>\nA panel to discuss the future of no-sql/non-related databases in Django.\n</p>\n<p>Abstract</p>\n<p>\nThe proliferation of non-SQL speaking datastores has caused a lot of discourse and debate over their potential role in Django's decidedly SQL-speaking ORM. The goal of this panel is to consolidate and discuss the root questions of this debate.\n</p>\n<p>\nThe panel will consist of Django orm contributors and heavy end-users of both Django and a variety of NoSQL database solutions. Questions to the panel will briefly cover the NoSQL movement in general and it's staying power. After that introduction to the debates at hand outside of Django, questions will shift to focus closely on the issues into integrating NoSQL and Django--both on current best practices and future plans for integrating it into the core.\n</p>", 
+      "title": "NoSQL and Django Panel", 
+      "tags": [
+        56, 
+        0, 
+        1, 
+        44, 
+        57, 
+        42
+      ], 
+      "updated": "2010-09-12T13:19:46+00:00", 
+      "source_url": "http://blip.tv/file/4111172", 
+      "video_ogv_length": "300347871", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-NoSQLAndDjangoPanel238.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH8iksC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-NoSQLAndDjangoPanel848.png", 
+      "slug": "djangocon-2010--nosql-and-django-panel"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Data Herding: How to Shepherd Your Flock Through Valleys of Darkness</p>\n<p>Presented by Brian Luft</p>\n<p>\nLearn how to use common tools like the management shell, django-extensions, and iPython to craft an effective workflow whether you're building a new schema or migrating from old systems. We'll also look at how to take advantage of the latest ORM features.\n</p>\n<p>Abstract</p>\n<p>\nThe presentation would consist of walking through a few example scenarios where one would deal with processing or converting data in some manner. For example, migrating from a large legacy database often brings a number of tedious problems. I would demonstrate how to work in an iterative, repeatable style using the Django sql management commands, a few iPython tricks, etc.\n</p>\n<p>\nAnother demonstration would be showing a team workflow for South migrations, illustrating how to deal with some common problems that crop up in practice.\n</p>\n<p>\nThe audience will leave with some solid techniques for dealing with a few specific data management challenges. The unifying philosophy throughout is to break large, difficult problems into small, repeatable steps and audience members should also come away knowing how to select tools that help them work in this style.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH7_GMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--data-herding--how-to-shepherd-you", 
-            "speakers": [
-                27
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                58, 
-                1, 
-                44, 
-                59, 
-                60, 
-                42
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DataHerdingHowToShepherdYourFlockThroughValleysOfDarkn299.png", 
-            "title": "Data Herding: How to Shepherd Your Flock Through Valleys of Darkness", 
-            "updated": "2010-09-11T21:00:48+00:00", 
-            "video_ogv_length": "232271113", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DataHerdingHowToShepherdYourFlockThroughValleysOfDarkn209.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 48
+    "model": "videos.Video", 
+    "pk": 47
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        27
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Data Herding: How to Shepherd Your Flock Through Valleys of Darkness</p>\n<p>Presented by Brian Luft</p>\n<p>\nLearn how to use common tools like the management shell, django-extensions, and iPython to craft an effective workflow whether you're building a new schema or migrating from old systems. We'll also look at how to take advantage of the latest ORM features.\n</p>\n<p>Abstract</p>\n<p>\nThe presentation would consist of walking through a few example scenarios where one would deal with processing or converting data in some manner. For example, migrating from a large legacy database often brings a number of tedious problems. I would demonstrate how to work in an iterative, repeatable style using the Django sql management commands, a few iPython tricks, etc.\n</p>\n<p>\nAnother demonstration would be showing a team workflow for South migrations, illustrating how to deal with some common problems that crop up in practice.\n</p>\n<p>\nThe audience will leave with some solid techniques for dealing with a few specific data management challenges. The unifying philosophy throughout is to break large, difficult problems into small, repeatable steps and audience members should also come away knowing how to select tools that help them work in this style.\n</p>", 
+      "title": "Data Herding: How to Shepherd Your Flock Through Valleys of Darkness", 
+      "tags": [
+        0, 
+        58, 
+        1, 
+        44, 
+        59, 
+        60, 
+        42
+      ], 
+      "updated": "2010-09-11T21:00:48+00:00", 
+      "source_url": "http://blip.tv/file/4109404", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DataHerdingHowToShepherdYourFlockThroughValleysOfDarkn209.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH7_GMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "232271113", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DataHerdingHowToShepherdYourFlockThroughValleysOfDarkn299.png", 
+      "slug": "djangocon-2010--data-herding--how-to-shepherd-you"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Alternative views</p>\n<p>Ben Firshman</p>\n<p>\nExploring the power of class-based views, their current status and how the concepts behind them can be applied to other areas.\n</p>\n<p>Abstract</p>\n<p>\nGeneric views are quickly outgrown for all but the most simple of applications. They are often rewritten from scratch just to make small changes to functionality.\n</p>\n<p>\nIf you use class-based views, code can be reused by inheriting from more abstract views. They are provided with many reusable applications, but all implemented in slightly different ways. It has been suggested a set of views be supplied with Django to standardise the API.\n</p>\n<p>\nI will present some of the advantages and disadvantages of using class-based views, and how they can help you develop more flexible applications in less time.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH7%2B18C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--alternative-views", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                61
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AlternativeViews292.png", 
-            "title": "Alternative views", 
-            "updated": "2010-09-11T20:06:17+00:00", 
-            "video_ogv_length": "117921388", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-AlternativeViews417.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 49
+    "model": "videos.Video", 
+    "pk": 48
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Alternative views</p>\n<p>Ben Firshman</p>\n<p>\nExploring the power of class-based views, their current status and how the concepts behind them can be applied to other areas.\n</p>\n<p>Abstract</p>\n<p>\nGeneric views are quickly outgrown for all but the most simple of applications. They are often rewritten from scratch just to make small changes to functionality.\n</p>\n<p>\nIf you use class-based views, code can be reused by inheriting from more abstract views. They are provided with many reusable applications, but all implemented in slightly different ways. It has been suggested a set of views be supplied with Django to standardise the API.\n</p>\n<p>\nI will present some of the advantages and disadvantages of using class-based views, and how they can help you develop more flexible applications in less time.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        61
+      ], 
+      "slug": "djangocon-2010--alternative-views", 
+      "title": "Alternative views", 
+      "updated": "2010-09-11T20:06:17+00:00", 
+      "source_url": "http://blip.tv/file/4109272", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-AlternativeViews417.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH7%2B18C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "117921388", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-AlternativeViews292.png", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Treehugging</p>\n<p>Presented by Brian Luft</p>\n<p>\nHierarchical data sprouts up almost everywhere, but not all trees look alike. Learn to how tell them apart and love them all in Django.\n</p>\n<p>Abstract</p>\n<p>\nThis talk would cover some common examples of hierarchical data in web applications and then review solutions like django-mptt and django-treebeard. Rather than trying to cover tree algorithms in-depth, the focus would be on best practices for querying and rendering trees in your Django apps.\n</p>\n<p>\nThis talk is not geared for the smart kids; they already know this stuff. It is intended to help less experienced developers take advantage of patterns without needing to worry about the deeper concepts.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH7%2BD8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--treehugging", 
-            "speakers": [
-                27
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                62, 
-                63, 
-                1, 
-                44, 
-                64, 
-                65
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-Treehugging694.png", 
-            "title": "Treehugging", 
-            "updated": "2010-09-11T17:05:30+00:00", 
-            "video_ogv_length": "166431370", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-Treehugging485.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 50
+    "model": "videos.Video", 
+    "pk": 49
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        27
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Treehugging</p>\n<p>Presented by Brian Luft</p>\n<p>\nHierarchical data sprouts up almost everywhere, but not all trees look alike. Learn to how tell them apart and love them all in Django.\n</p>\n<p>Abstract</p>\n<p>\nThis talk would cover some common examples of hierarchical data in web applications and then review solutions like django-mptt and django-treebeard. Rather than trying to cover tree algorithms in-depth, the focus would be on best practices for querying and rendering trees in your Django apps.\n</p>\n<p>\nThis talk is not geared for the smart kids; they already know this stuff. It is intended to help less experienced developers take advantage of patterns without needing to worry about the deeper concepts.\n</p>", 
+      "tags": [
+        0, 
+        62, 
+        63, 
+        1, 
+        44, 
+        64, 
+        65
+      ], 
+      "title": "Treehugging", 
+      "updated": "2010-09-11T17:05:30+00:00", 
+      "source_url": "http://blip.tv/file/4108856", 
+      "video_ogv_length": "166431370", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-Treehugging485.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH7%2BD8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-Treehugging694.png", 
+      "slug": "djangocon-2010--treehugging"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Rethinking the Reusable Application Paradigm</p>\n<p>Presented by Alex Gaynor</p>\n<p>\nFor the past few years the reusable application paradigm has been considered one of the major selling points of Django, however the common wisdom about what it means to make an application reusable isn't really accurate. This talk is going to discuss ways to truly make your applications reusable across *any* project.\n</p>\n<p>Abstract</p>\n<p>\nThe common wisdom about reusable application says to do things like let your views take arguments for things like the form class or the template name. However, that doesn't satisfy most of the real need for extendability: changing the business logic or altering models. This talk is going to look at ways to combat these limitations:\n</p>\n<ul>\n<li>Class based views\n</li><li>By making everything overidable in a view you can absolutely minimize the need to \"copy-paste\" when changing the logic of things around.\n</li><li>As seen in the admin.\n</li><li>Do less\n</li><li>brabeion\n</li><li>Provide the absolute minimum at the model layer, and only small wrappers for the business logic users can implement their own logic to control how things happen.\n</li><li>Related to the idea of \"application frameworks\". Providing the tools for others to build their logic around various helpers.\n</li><li>Flexibility\n</li><li>django-taggit\n</li><li>Provide a concrete implementation, but allow swapping out of various layers.\n</li><li>Don't like the Tag model, swap it out, want a new intermediary model, swap it out.\n</li><li>django-registration\n</li><li>Providing swappable backends to change behavior.\n</li><li>Libraries\n</li><li>django-filter\n</li><li>django-fixture-generator\n</li><li>django-templatetag-sugar\n</li><li>django-compressor\n</li><li>Providing tools for others to build around.\n</li></ul>\n<p>\nBy using these techniques you can develop reusable application that work beyond any single use case. Of course there are cases where you don't need any of these, and just need something that fits \"traditional\" reusable application paradigm, so this talk will cover when that works as well.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH793QC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--rethinking-the-reusable-applicati", 
-            "speakers": [
-                28
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                66, 
-                67, 
-                68
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RethinkingTheReusableApplicationParadigm774.png", 
-            "title": "Rethinking the Reusable Application Paradigm", 
-            "updated": "2010-09-11T16:35:22+00:00", 
-            "video_ogv_length": "181734999", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-RethinkingTheReusableApplicationParadigm498.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 51
+    "model": "videos.Video", 
+    "pk": 50
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        28
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Rethinking the Reusable Application Paradigm</p>\n<p>Presented by Alex Gaynor</p>\n<p>\nFor the past few years the reusable application paradigm has been considered one of the major selling points of Django, however the common wisdom about what it means to make an application reusable isn't really accurate. This talk is going to discuss ways to truly make your applications reusable across *any* project.\n</p>\n<p>Abstract</p>\n<p>\nThe common wisdom about reusable application says to do things like let your views take arguments for things like the form class or the template name. However, that doesn't satisfy most of the real need for extendability: changing the business logic or altering models. This talk is going to look at ways to combat these limitations:\n</p>\n<ul>\n<li>Class based views\n</li><li>By making everything overidable in a view you can absolutely minimize the need to \"copy-paste\" when changing the logic of things around.\n</li><li>As seen in the admin.\n</li><li>Do less\n</li><li>brabeion\n</li><li>Provide the absolute minimum at the model layer, and only small wrappers for the business logic users can implement their own logic to control how things happen.\n</li><li>Related to the idea of \"application frameworks\". Providing the tools for others to build their logic around various helpers.\n</li><li>Flexibility\n</li><li>django-taggit\n</li><li>Provide a concrete implementation, but allow swapping out of various layers.\n</li><li>Don't like the Tag model, swap it out, want a new intermediary model, swap it out.\n</li><li>django-registration\n</li><li>Providing swappable backends to change behavior.\n</li><li>Libraries\n</li><li>django-filter\n</li><li>django-fixture-generator\n</li><li>django-templatetag-sugar\n</li><li>django-compressor\n</li><li>Providing tools for others to build around.\n</li></ul>\n<p>\nBy using these techniques you can develop reusable application that work beyond any single use case. Of course there are cases where you don't need any of these, and just need something that fits \"traditional\" reusable application paradigm, so this talk will cover when that works as well.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        66, 
+        67, 
+        68
+      ], 
+      "title": "Rethinking the Reusable Application Paradigm", 
+      "updated": "2010-09-11T16:35:22+00:00", 
+      "source_url": "http://blip.tv/file/4108781", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-RethinkingTheReusableApplicationParadigm498.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH793QC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "181734999", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-RethinkingTheReusableApplicationParadigm774.png", 
+      "slug": "djangocon-2010--rethinking-the-reusable-applicati"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Large Problems in Django, Mostly Solved</p>\n<p>Presented by Eric Holscher</p>\n<p>\nThis talk is based on my popular series of blog posts highlighting applications from the community. I will highlight some of the best applications that the Django/Python community has put together, talk about places that are lacking, and talk about what these popular applications have in common.\n</p>\n<p>Part 1</p>\n<p>\nI have written a series of blog posts about \"Large problems\" in the community, and how they have been solved by members of our community with reusable apps. Previously I have covered:\n</p>\n<ul>\n<li>Delayed Execution\n</li><li>Search\n</li><li>APIs\n</li><li>Documentation\n</li><li>Database Migrations\n</li></ul>\n<p>\nI will update my thoughts on these issues, as well as talking about a couple of other new issues that I think that have been solved in a decent way. These include:\n</p>\n<ul>\n<li>Remote Command Execution\n</li><li>Debugging in Development\n</li><li>Continuous Integration\n</li></ul>\n<p>Part 2</p>\n<p>\nIn this part I will highlight issues that are still headaches for the Community. These are places where there is a good chance for growth for third party apps, and places where I have personally found some friction in my development. A couple examples of this are:\n</p>\n<ul>\n<li>Deployment\n</li><li>Class Based Views / Thread Safety\n</li><li>Debugging Production Environments\n</li></ul>\n<p>Part 3</p>\n<p>\nFrom the above applications that are well done, what makes a popular reusable app? This won't be my thoughts, but more looking at apps that have been successful and trying to see what they have in common. A good app and a good reusable app are necessarily different, and I think it will be interesting to look at what traits make reusable apps popular.\n</p>\n<p>\n<a href=\"http://ericholscher.com/tag/largeproblems/\">Large problems posts</a>\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76j8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--large-problems-in-django--mostly-", 
-            "speakers": [
-                17
-            ], 
-            "summary": "", 
-            "tags": [
-                69, 
-                70, 
-                71, 
-                72, 
-                31, 
-                73, 
-                29, 
-                0, 
-                1, 
-                44, 
-                74, 
-                75, 
-                76, 
-                77
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg", 
-            "title": "Large Problems in Django, Mostly Solved", 
-            "updated": "2010-09-11T01:03:12+00:00", 
-            "video_ogv_length": "196981339", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LargeProblemsInDjangoMostlySolved109.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 52
+    "model": "videos.Video", 
+    "pk": 51
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        17
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Large Problems in Django, Mostly Solved</p>\n<p>Presented by Eric Holscher</p>\n<p>\nThis talk is based on my popular series of blog posts highlighting applications from the community. I will highlight some of the best applications that the Django/Python community has put together, talk about places that are lacking, and talk about what these popular applications have in common.\n</p>\n<p>Part 1</p>\n<p>\nI have written a series of blog posts about \"Large problems\" in the community, and how they have been solved by members of our community with reusable apps. Previously I have covered:\n</p>\n<ul>\n<li>Delayed Execution\n</li><li>Search\n</li><li>APIs\n</li><li>Documentation\n</li><li>Database Migrations\n</li></ul>\n<p>\nI will update my thoughts on these issues, as well as talking about a couple of other new issues that I think that have been solved in a decent way. These include:\n</p>\n<ul>\n<li>Remote Command Execution\n</li><li>Debugging in Development\n</li><li>Continuous Integration\n</li></ul>\n<p>Part 2</p>\n<p>\nIn this part I will highlight issues that are still headaches for the Community. These are places where there is a good chance for growth for third party apps, and places where I have personally found some friction in my development. A couple examples of this are:\n</p>\n<ul>\n<li>Deployment\n</li><li>Class Based Views / Thread Safety\n</li><li>Debugging Production Environments\n</li></ul>\n<p>Part 3</p>\n<p>\nFrom the above applications that are well done, what makes a popular reusable app? This won't be my thoughts, but more looking at apps that have been successful and trying to see what they have in common. A good app and a good reusable app are necessarily different, and I think it will be interesting to look at what traits make reusable apps popular.\n</p>\n<p>\n<a href=\"http://ericholscher.com/tag/largeproblems/\">Large problems posts</a>\n</p>", 
+      "title": "Large Problems in Django, Mostly Solved", 
+      "slug": "djangocon-2010--large-problems-in-django--mostly-", 
+      "tags": [
+        69, 
+        70, 
+        71, 
+        72, 
+        31, 
+        73, 
+        29, 
+        0, 
+        1, 
+        44, 
+        74, 
+        75, 
+        76, 
+        77
+      ], 
+      "updated": "2010-09-11T01:03:12+00:00", 
+      "source_url": "http://blip.tv/file/4107062", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-LargeProblemsInDjangoMostlySolved109.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76j8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "196981339", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-LargeProblemsInDjangoMostlySolved109-212.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>How to sell Django</p>\n<p>Featuring Frank Wiles, Daniel Greenfeld, Peter Baumgartner, James Tauber, Steve Holden</p>\n<p>\nIt seems that a lot of people want to use Django (and Python), but their customer, management, or organization won't let them. Django is a great tool, but it can be challenging to get in the door. This panel will explore how companies and individuals have successfully introduced Django, what tools are available to sell Django, and what pitfalls there are to avoid.\n</p>\n<p>\nPossible questions will include:\n</p>\n<ul>\n<li>What is a good example success story you can share?\n</li><li>How do you deal with organizations that have already spent bucketloads of money on a piss-poor technology stack, are hurting for it, but can't seem to let go?\n</li><li>How do you fight Fear-Uncertainty-Doubt (FUD) spread by people who stand to lose from introducing Django?\n</li><li>What tools are available to help sell Django?\n</li></ul>\n<p>\n<a href=\"http://shmpe.com/\">shmpe</a>\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76hgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--how-to-sell-django", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                78, 
-                79
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-HowToSellDjango349-877.jpg", 
-            "title": "How to sell Django", 
-            "updated": "2010-09-11T00:48:02+00:00", 
-            "video_ogv_length": "180207807", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-HowToSellDjango349.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 53
+    "model": "videos.Video", 
+    "pk": 52
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>How to sell Django</p>\n<p>Featuring Frank Wiles, Daniel Greenfeld, Peter Baumgartner, James Tauber, Steve Holden</p>\n<p>\nIt seems that a lot of people want to use Django (and Python), but their customer, management, or organization won't let them. Django is a great tool, but it can be challenging to get in the door. This panel will explore how companies and individuals have successfully introduced Django, what tools are available to sell Django, and what pitfalls there are to avoid.\n</p>\n<p>\nPossible questions will include:\n</p>\n<ul>\n<li>What is a good example success story you can share?\n</li><li>How do you deal with organizations that have already spent bucketloads of money on a piss-poor technology stack, are hurting for it, but can't seem to let go?\n</li><li>How do you fight Fear-Uncertainty-Doubt (FUD) spread by people who stand to lose from introducing Django?\n</li><li>What tools are available to help sell Django?\n</li></ul>\n<p>\n<a href=\"http://shmpe.com/\">shmpe</a>\n</p>", 
+      "title": "How to sell Django", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        78, 
+        79
+      ], 
+      "updated": "2010-09-11T00:48:02+00:00", 
+      "source_url": "http://blip.tv/file/4107023", 
+      "video_ogv_length": "180207807", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-HowToSellDjango349.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76hgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-HowToSellDjango349-877.jpg", 
+      "slug": "djangocon-2010--how-to-sell-django"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Domain Specific Frameworks - Why they rock and what we can do to get more of them</p>\n<p>Presented by Sean O'Connor</p>\n<p>\nThis talk will provide an overview of some of the existing domain specific frameworks (DSFs) in the Python/Django world, review some of the common patterns used within them, and then explore some things which can be done to make it easier for people to create and maintain DSFs.\n</p>\n<p>Abstract</p>\n<p>\nThere's a growing collection of tools such as Celery, ImageKit, and Piston which fall into a weird but wonderful space between utility libraries and full fledged applications. Much like Django, DSFs (domain specific frameworks) provide more structure and have more opinion than utility libraries, but remain focused on providing developer instead of end-user level functionality. Unlike Django, DSFs focus on solving a very specific set of specific problems.\n</p>\n<p>\nThis talk will provide an overview of some of the existing DSFs in the Python/Django world, review some of the common patterns used within them, and then explore some things which can be done to make it easier for people to create and maintain DSFs. Two of the DSFs to be discussed include Celery and ImageKit. Some of the patterns to be reviewed include registration, backends, and framework integration/independence. Finally, the future facing discussion will explore possible tools to make DSF building easier and steps general purpose frameworks (Django) can take to ease integration.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76XgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--domain-specific-frameworks---why-", 
-            "speakers": [
-                29
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                80, 
-                38
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DomainSpecificFrameworksWhyTheyRockAndWhatCanWeDoTo103-637.jpg", 
-            "title": "Domain Specific Frameworks - Why they rock and what can we do to get more of them", 
-            "updated": "2010-09-11T00:33:35+00:00", 
-            "video_ogv_length": "179779653", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DomainSpecificFrameworksWhyTheyRockAndWhatCanWeDoTo103.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 54
+    "model": "videos.Video", 
+    "pk": 53
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        29
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Domain Specific Frameworks - Why they rock and what we can do to get more of them</p>\n<p>Presented by Sean O'Connor</p>\n<p>\nThis talk will provide an overview of some of the existing domain specific frameworks (DSFs) in the Python/Django world, review some of the common patterns used within them, and then explore some things which can be done to make it easier for people to create and maintain DSFs.\n</p>\n<p>Abstract</p>\n<p>\nThere's a growing collection of tools such as Celery, ImageKit, and Piston which fall into a weird but wonderful space between utility libraries and full fledged applications. Much like Django, DSFs (domain specific frameworks) provide more structure and have more opinion than utility libraries, but remain focused on providing developer instead of end-user level functionality. Unlike Django, DSFs focus on solving a very specific set of specific problems.\n</p>\n<p>\nThis talk will provide an overview of some of the existing DSFs in the Python/Django world, review some of the common patterns used within them, and then explore some things which can be done to make it easier for people to create and maintain DSFs. Two of the DSFs to be discussed include Celery and ImageKit. Some of the patterns to be reviewed include registration, backends, and framework integration/independence. Finally, the future facing discussion will explore possible tools to make DSF building easier and steps general purpose frameworks (Django) can take to ease integration.\n</p>", 
+      "title": "Domain Specific Frameworks - Why they rock and what can we do to get more of them", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        80, 
+        38
+      ], 
+      "updated": "2010-09-11T00:33:35+00:00", 
+      "source_url": "http://blip.tv/file/4106991", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DomainSpecificFrameworksWhyTheyRockAndWhatCanWeDoTo103.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76XgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "179779653", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DomainSpecificFrameworksWhyTheyRockAndWhatCanWeDoTo103-637.jpg", 
+      "slug": "djangocon-2010--domain-specific-frameworks---why-"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>State of Pinax</p>\n<p>Brian Rosner</p>\n<p>\nPinax is a platform for rapidly building websites with Django. This talk will cover what has happened with Pinax over the past year and where it will go in the future.\n</p>\n<p>Abstract</p>\n<p>\nPinax is a platform for rapidly building websites. It leverages Django in as many ways possible. It handles the parts which are common amongst many sites leaving you mostly worrying about what makes your site different.\n</p>\n<p>\nThe beginning of the talk will cover how Pinax started and where the project is today, and review some sites built with Pinax over the past year.\n</p>\n<p>\nThe Pinax team has been hard at work with 0.9. This talk will highlight the important improvements and fixes made to Pinax since 0.7:\n</p>\n<ul>\n<li>removed requirement of pinax-boot.py\n</li><li>enabled pip install Pinax\n</li><li>upgraded to Django 1.2\n</li><li>improved account, waiting list and groups\n</li><li>introduced new starter projects\n</li></ul>\n<p>\nThe \"must-haves\" for the next release are to add or improve:\n</p>\n<ul>\n<li>per-object permissions\n</li><li>e-mail backends\n</li><li>friends and invitations\n</li><li>tagging (move to django-taggit)\n</li><li>notifications / activity streams\n</li><li>wikis (change over wiki to wakawaka)\n</li><li>blogs (change over blog to biblion)\n</li><li>photos\n</li><li>profiles (to give a good answer to: \"How do I add more fields to a user?\")\n</li></ul>\n<p>\nThis talk will cover starter projects, and the layer zero concept implemented in Pinax by default. The talk will demo a couple starter projects created using setup_project.\n</p>\n<p>\nFinally, the talk will cover some relevant stats over the past year, and a roadmap for the future.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76VkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--state-of-pinax", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                8
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-StateOfPinax119-438.jpg", 
-            "title": "State of Pinax", 
-            "updated": "2010-09-11T00:21:06+00:00", 
-            "video_ogv_length": "215099643", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-StateOfPinax119.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 55
+    "model": "videos.Video", 
+    "pk": 54
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>State of Pinax</p>\n<p>Brian Rosner</p>\n<p>\nPinax is a platform for rapidly building websites with Django. This talk will cover what has happened with Pinax over the past year and where it will go in the future.\n</p>\n<p>Abstract</p>\n<p>\nPinax is a platform for rapidly building websites. It leverages Django in as many ways possible. It handles the parts which are common amongst many sites leaving you mostly worrying about what makes your site different.\n</p>\n<p>\nThe beginning of the talk will cover how Pinax started and where the project is today, and review some sites built with Pinax over the past year.\n</p>\n<p>\nThe Pinax team has been hard at work with 0.9. This talk will highlight the important improvements and fixes made to Pinax since 0.7:\n</p>\n<ul>\n<li>removed requirement of pinax-boot.py\n</li><li>enabled pip install Pinax\n</li><li>upgraded to Django 1.2\n</li><li>improved account, waiting list and groups\n</li><li>introduced new starter projects\n</li></ul>\n<p>\nThe \"must-haves\" for the next release are to add or improve:\n</p>\n<ul>\n<li>per-object permissions\n</li><li>e-mail backends\n</li><li>friends and invitations\n</li><li>tagging (move to django-taggit)\n</li><li>notifications / activity streams\n</li><li>wikis (change over wiki to wakawaka)\n</li><li>blogs (change over blog to biblion)\n</li><li>photos\n</li><li>profiles (to give a good answer to: \"How do I add more fields to a user?\")\n</li></ul>\n<p>\nThis talk will cover starter projects, and the layer zero concept implemented in Pinax by default. The talk will demo a couple starter projects created using setup_project.\n</p>\n<p>\nFinally, the talk will cover some relevant stats over the past year, and a roadmap for the future.\n</p>", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        8
+      ], 
+      "slug": "djangocon-2010--state-of-pinax", 
+      "title": "State of Pinax", 
+      "updated": "2010-09-11T00:21:06+00:00", 
+      "source_url": "http://blip.tv/file/4106960", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-StateOfPinax119.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76VkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "215099643", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-StateOfPinax119-438.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Customizing the Django Admin</p>\n<p>Presented by Peter Baumgartner, and Michael Trythall</p>\n<p>\nHow to build great admin user interfaces while still leveraging the power of the Django's batteries-included admin.\n</p>\n<p>Abstract</p>\n<p>\nThe Django admin interface is a great tool for rapidly viewing and generating content, but its default one size fits all approach may not be the best for the users of it.\n</p>\n<p>\nThis talk is broken into two parts. First, we will discuss user experience and what users have come to expect from an admin tool. In the second half, we'll show you how to bend Django's admin to meet those expectations.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76SUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--customizing-the-django-admin", 
-            "speakers": [
-                30, 
-                31
-            ], 
-            "summary": "", 
-            "tags": [
-                81, 
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-CustomizingTheDjangoAdmin322-268.jpg", 
-            "title": "Customizing the Django Admin", 
-            "updated": "2010-09-11T00:08:44+00:00", 
-            "video_ogv_length": "191242935", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-CustomizingTheDjangoAdmin322.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 56
+    "model": "videos.Video", 
+    "pk": 55
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        30, 
+        31
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Customizing the Django Admin</p>\n<p>Presented by Peter Baumgartner, and Michael Trythall</p>\n<p>\nHow to build great admin user interfaces while still leveraging the power of the Django's batteries-included admin.\n</p>\n<p>Abstract</p>\n<p>\nThe Django admin interface is a great tool for rapidly viewing and generating content, but its default one size fits all approach may not be the best for the users of it.\n</p>\n<p>\nThis talk is broken into two parts. First, we will discuss user experience and what users have come to expect from an admin tool. In the second half, we'll show you how to bend Django's admin to meet those expectations.\n</p>", 
+      "tags": [
+        81, 
+        0, 
+        1, 
+        44
+      ], 
+      "title": "Customizing the Django Admin", 
+      "updated": "2010-09-11T00:08:44+00:00", 
+      "source_url": "http://blip.tv/file/4106908", 
+      "video_ogv_length": "191242935", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-CustomizingTheDjangoAdmin322.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76SUC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-CustomizingTheDjangoAdmin322-268.jpg", 
+      "slug": "djangocon-2010--customizing-the-django-admin"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>First steps in performance tuning</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nSo you've built your first Django website. You've tested it, you've released it, you've got a few customers... and a few more... and a few more... and now you're having performance problems. What do you do? This talk will look at some performance problems you may experience, and show some simple (and creative) ways to squeeze the most out of your server hardware.\n</p>\n<p>Abstract</p>\n<p>\nThe talk is especially aimed at web developers that haven't got a background in computing, but nonetheless have fallen into a web development role. Topics will include:\n</p>\n<ul>\n<li>How to work out that you have a problem\n</li><li>Getting computation out of the request/response loop\n</li><li>Caching -- when, how, and problems that caching introduces\n</li><li>Setting up a webserver to avoid deadlocks\n</li><li>Likely causes (and solutions) of database bottlenecks\n</li></ul>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76HoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--first-steps-in-performance-tuning", 
-            "speakers": [
-                257
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                54, 
-                82
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-FirstStepsInPerformanceTuning779-385.jpg", 
-            "title": "First steps in performance tuning", 
-            "updated": "2010-09-10T23:51:14+00:00", 
-            "video_ogv_length": "228877578", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-FirstStepsInPerformanceTuning779.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 57
+    "model": "videos.Video", 
+    "pk": 56
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        257
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>First steps in performance tuning</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nSo you've built your first Django website. You've tested it, you've released it, you've got a few customers... and a few more... and a few more... and now you're having performance problems. What do you do? This talk will look at some performance problems you may experience, and show some simple (and creative) ways to squeeze the most out of your server hardware.\n</p>\n<p>Abstract</p>\n<p>\nThe talk is especially aimed at web developers that haven't got a background in computing, but nonetheless have fallen into a web development role. Topics will include:\n</p>\n<ul>\n<li>How to work out that you have a problem\n</li><li>Getting computation out of the request/response loop\n</li><li>Caching -- when, how, and problems that caching introduces\n</li><li>Setting up a webserver to avoid deadlocks\n</li><li>Likely causes (and solutions) of database bottlenecks\n</li></ul>", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        54, 
+        82
+      ], 
+      "title": "First steps in performance tuning", 
+      "updated": "2010-09-10T23:51:14+00:00", 
+      "source_url": "http://blip.tv/file/4106865", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-FirstStepsInPerformanceTuning779.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76HoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "228877578", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-FirstStepsInPerformanceTuning779-385.jpg", 
+      "slug": "djangocon-2010--first-steps-in-performance-tuning"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Pony Pwning</p>\n<p>Adam Baldwin</p>\n<p>\nDjango's awesomeness unfortunately doesn't make it impenetrable. This talk will cover common pitfalls of the Django developer as seen through the eyes of a hacker or malicious user.\n</p>\n<p>Abstract</p>\n<p>\nDjango is arguably the most secure web framework. The Django team have done an excellent job making secure-by-default decisions for our web applications in many situations. Still, the last mile in development is where the bulk of security vulnerabilities can be introduced and Django's powerful flexibility allows for plenty of rope for developers to hang themselves. Understanding the vulnerabilities that can be created by common mistakes or misconceptions and overlooked details in development will be useful for any Django user.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76EQA\" type=\"application/x-shockwave-flash\" width=\"720\" height=\"606\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--pony-pwning", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                83
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-PonyPwning519-421.jpg", 
-            "title": "Pony Pwning", 
-            "updated": "2010-09-10T23:35:04+00:00", 
-            "video_ogv_length": "155465560", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-PonyPwning390.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 58
+    "model": "videos.Video", 
+    "pk": 57
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Pony Pwning</p>\n<p>Adam Baldwin</p>\n<p>\nDjango's awesomeness unfortunately doesn't make it impenetrable. This talk will cover common pitfalls of the Django developer as seen through the eyes of a hacker or malicious user.\n</p>\n<p>Abstract</p>\n<p>\nDjango is arguably the most secure web framework. The Django team have done an excellent job making secure-by-default decisions for our web applications in many situations. Still, the last mile in development is where the bulk of security vulnerabilities can be introduced and Django's powerful flexibility allows for plenty of rope for developers to hang themselves. Understanding the vulnerabilities that can be created by common mistakes or misconceptions and overlooked details in development will be useful for any Django user.\n</p>", 
+      "title": "Pony Pwning", 
+      "slug": "djangocon-2010--pony-pwning", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        83
+      ], 
+      "updated": "2010-09-10T23:35:04+00:00", 
+      "source_url": "http://blip.tv/file/4106811", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-PonyPwning390.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76EQA\" type=\"application/x-shockwave-flash\" width=\"720\" height=\"606\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "155465560", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-PonyPwning519-421.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Switching addons.mozilla.org from CakePHP to Django</p>\n<p>Presented by Jeff Balogh</p>\n<p>\nIn January of 2010 Mozilla started switching addons.mozilla.org (AMO) from CakePHP to Django. We see about 120 million web requests per month and 1.4 million visitors per day. This talk will be a case study of scaling and deploying a large website (and getting faster than PHP) with MySQL, memcached, virtualenv, Celery, Hudson, Redis, MongoDB, and more.\n</p>\n<p>Abstract</p>\n<p>\nTo scale the backend of AMO, we rely heavily on caching in memcached (and soon Redis) to keep the load off our database, and multidb to spread the load we can't dump off on cache. Our caching ranges from object and query caching, to template fragment caching, up to full response caching. Frontend caching is external to Django and won't be covered. In addition, we work hard to measure and improve raw speed. Hitting indexes and keeping datasets small is critical, and the Django ecosystem has many great tools to help us profile.\n</p>\n<p>\nWe create development environments using pip and virtualenv, so we naturally started using that setup to deploy the site in production. We ran into issues creating a reliable environment with this method; switching to a separate vendor repository solved our problems with only a small amount of added effort. We update and deploy new code at least once a week, and have to deal with the additional complication of managing and interacting with parts of the PHP site that have not been ported over.\n</p>\n<p>\nApart from scaling and deployment, we've customized our application in ways that could be interesting to other Django users:\n</p>\n<ul>\n<li>Jinja is our templating engine (but we keep the admin working)\n</li><li>Babel helps us localize the site in over 30 languages\n</li><li>Sphinx (not the documentation tool) serves our search results\n</li><li>Celery and RabbitMQ help us do offline processing\n</li><li>Nose and Hudson help us get over 90% code coverage in tests\n</li></ul>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH76AkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--switching-addons-mozilla-org-from", 
-            "speakers": [
-                32
-            ], 
-            "summary": "", 
-            "tags": [
-                56, 
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SwitchingAddonsmozillaorgFromCakePHPToDjango334.png", 
-            "title": "Switching addons.mozilla.org from CakePHP to Django", 
-            "updated": "2010-09-10T23:16:36+00:00", 
-            "video_ogv_length": "179163402", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SwitchingAddonsmozillaorgFromCakePHPToDjango638.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 59
+    "model": "videos.Video", 
+    "pk": 58
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        32
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Switching addons.mozilla.org from CakePHP to Django</p>\n<p>Presented by Jeff Balogh</p>\n<p>\nIn January of 2010 Mozilla started switching addons.mozilla.org (AMO) from CakePHP to Django. We see about 120 million web requests per month and 1.4 million visitors per day. This talk will be a case study of scaling and deploying a large website (and getting faster than PHP) with MySQL, memcached, virtualenv, Celery, Hudson, Redis, MongoDB, and more.\n</p>\n<p>Abstract</p>\n<p>\nTo scale the backend of AMO, we rely heavily on caching in memcached (and soon Redis) to keep the load off our database, and multidb to spread the load we can't dump off on cache. Our caching ranges from object and query caching, to template fragment caching, up to full response caching. Frontend caching is external to Django and won't be covered. In addition, we work hard to measure and improve raw speed. Hitting indexes and keeping datasets small is critical, and the Django ecosystem has many great tools to help us profile.\n</p>\n<p>\nWe create development environments using pip and virtualenv, so we naturally started using that setup to deploy the site in production. We ran into issues creating a reliable environment with this method; switching to a separate vendor repository solved our problems with only a small amount of added effort. We update and deploy new code at least once a week, and have to deal with the additional complication of managing and interacting with parts of the PHP site that have not been ported over.\n</p>\n<p>\nApart from scaling and deployment, we've customized our application in ways that could be interesting to other Django users:\n</p>\n<ul>\n<li>Jinja is our templating engine (but we keep the admin working)\n</li><li>Babel helps us localize the site in over 30 languages\n</li><li>Sphinx (not the documentation tool) serves our search results\n</li><li>Celery and RabbitMQ help us do offline processing\n</li><li>Nose and Hudson help us get over 90% code coverage in tests\n</li></ul>", 
+      "title": "Switching addons.mozilla.org from CakePHP to Django", 
+      "tags": [
+        56, 
+        0, 
+        1, 
+        44
+      ], 
+      "updated": "2010-09-10T23:16:36+00:00", 
+      "source_url": "http://blip.tv/file/4106752", 
+      "video_ogv_length": "179163402", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SwitchingAddonsmozillaorgFromCakePHPToDjango638.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH76AkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SwitchingAddonsmozillaorgFromCakePHPToDjango334.png", 
+      "slug": "djangocon-2010--switching-addons-mozilla-org-from"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Maps of Imaginary Lands</p>\n<p>Malcolm Tredinnick</p>\n<p>\nThe GIS features of Django aren't restricted to being applied to real world maps and planets. This talk will show how to display and interact with maps of imaginary lands, such as game maps or lands in science fiction novels. We'll uncover a bit of how Django GIS works in the process, separating the map display from the modeling.\n</p>\n<p>Abstract</p>\n<p>\nWhilst django.contrib.gis isn't particularly difficult to get started with, particularly if you follow the tutorials, it can sometimes seem a bit overwhelming in the way it goes from zero to fancy maps in only a couple of steps. I'd like to demystify some of the pieces of the stack, pulling apart the modeling support \u2014 specifying the data are we trying to work with \u2014 from the display and client-side portion.\n</p>\n<p>\nTo make this more than a dry technical dive, I'll show how to add extras to an imaginary map, rather than something pulled from Google Maps or Open Street Map. We'll take on the task of plotting features on a landscape from a potential role-playing game and show how the GIS data manipulation features, such as calculating region intersections, nearby points, and javascript client-side display work the in a familiar way against this slightly unusual background.\n</p>\n<p>\nSome basic familiarity with Django's GIS features would be useful for this talk, although it might also serve as a motivating introduction to trying things out. The code shown will be available for download after the talk.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75zEC\" type=\"application/x-shockwave-flash\"  allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--maps-of-imaginary-lands", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                24, 
-                25
-            ], 
-            "thumbnail_url": "http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/1856/375x295.png", 
-            "title": "Maps of Imaginary Lands", 
-            "updated": "2010-09-10T22:47:35+00:00", 
-            "video_mp4_length": "195686765", 
-            "video_mp4_url": "http://blip.tv/file/get/Robertlofthouse-MapsOfImaginaryLands348.mp4"
-        }, 
-        "model": "videos.Video", 
-        "pk": 60
+    "model": "videos.Video", 
+    "pk": 59
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "video_mp4_length": "195686765", 
+      "description": "<p>Maps of Imaginary Lands</p>\n<p>Malcolm Tredinnick</p>\n<p>\nThe GIS features of Django aren't restricted to being applied to real world maps and planets. This talk will show how to display and interact with maps of imaginary lands, such as game maps or lands in science fiction novels. We'll uncover a bit of how Django GIS works in the process, separating the map display from the modeling.\n</p>\n<p>Abstract</p>\n<p>\nWhilst django.contrib.gis isn't particularly difficult to get started with, particularly if you follow the tutorials, it can sometimes seem a bit overwhelming in the way it goes from zero to fancy maps in only a couple of steps. I'd like to demystify some of the pieces of the stack, pulling apart the modeling support \u2014 specifying the data are we trying to work with \u2014 from the display and client-side portion.\n</p>\n<p>\nTo make this more than a dry technical dive, I'll show how to add extras to an imaginary map, rather than something pulled from Google Maps or Open Street Map. We'll take on the task of plotting features on a landscape from a potential role-playing game and show how the GIS data manipulation features, such as calculating region intersections, nearby points, and javascript client-side display work the in a familiar way against this slightly unusual background.\n</p>\n<p>\nSome basic familiarity with Django's GIS features would be useful for this talk, although it might also serve as a motivating introduction to trying things out. The code shown will be available for download after the talk.\n</p>", 
+      "video_mp4_url": "http://blip.tv/file/get/Robertlofthouse-MapsOfImaginaryLands348.mp4", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        24, 
+        25
+      ], 
+      "title": "Maps of Imaginary Lands", 
+      "updated": "2010-09-10T22:47:35+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://s3.mirocommunity.org.s3.amazonaws.com/python/localtv/video_thumbs/1856/375x295.png", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75zEC\" type=\"application/x-shockwave-flash\"  allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/4106664", 
+      "slug": "djangocon-2010--maps-of-imaginary-lands"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Breaking down the process of building a custom CMS</p>\n<p>Presented by Yann Malet, Brian Luft</p>\n<p>\nThe purpose of this talk is to share some of the important insights gained over a couple years of working on custom CMS-type projects serving large organizations. Acknowledging that approx. 30 minutes is a short time to cover a broad subject, the focus of the talk would be on outlining a basic strategy for managing large projects.</p>\n<p>Abstract</p>\n<p>\nOver the past couple of years, Brian and Yann's team have built and worked on several large Django projects for large organizations. They will discuss how to start and manage large CMS projects, with an emphasis on pointing people to the best reference information and breaking down the common operations.\n</p>\n<p>\nThe primary discussion topics would cover:\n</p>\n<ul>\n<li>Breaking Down the Job: Over the course of the project you'll end up accounting for thousands of details; here's how to figure out the first few Centering Around a Prototype: Hedging your bets for the inevitable \"give me a ballpark figure\"\n</li><li>Dealing With Legacy Data Stores: Migrate legacy information early and often.\n</li><li>Selecting 3rd Party Components: Reuse exiting app, fork it early or Trailblaze\n</li><li>Bad News: Django Ain't Perfect - where it has weaknesses and how to compensate\n\n<p>\nAt the end of this talk the audience will be able to:\n<ul>\n<li>Break down this type of project into meaningful phases\n</li><li>Migrate large dataset to populate the django models that are still under development.\n</li><li>Have a rational and objective approach to select django reusable component and understand how to refine them during the different stages of the project lifecycle.\n</li><li>Find and evaluate quality information about the tradeoffs Django presents in these types of projects\n</li></ul></p></li></ul>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75wcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--breaking-down-the-process-of-buil", 
-            "speakers": [
-                33, 
-                27
-            ], 
-            "summary": "", 
-            "tags": [
-                84, 
-                0, 
-                1, 
-                44, 
-                85
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112-442.jpg", 
-            "title": "Breaking down the process of building a custom CMS", 
-            "updated": "2010-09-10T22:32:47+00:00", 
-            "video_ogv_length": "218350935", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 61
+    "model": "videos.Video", 
+    "pk": 60
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        33, 
+        27
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Breaking down the process of building a custom CMS</p>\n<p>Presented by Yann Malet, Brian Luft</p>\n<p>\nThe purpose of this talk is to share some of the important insights gained over a couple years of working on custom CMS-type projects serving large organizations. Acknowledging that approx. 30 minutes is a short time to cover a broad subject, the focus of the talk would be on outlining a basic strategy for managing large projects.</p>\n<p>Abstract</p>\n<p>\nOver the past couple of years, Brian and Yann's team have built and worked on several large Django projects for large organizations. They will discuss how to start and manage large CMS projects, with an emphasis on pointing people to the best reference information and breaking down the common operations.\n</p>\n<p>\nThe primary discussion topics would cover:\n</p>\n<ul>\n<li>Breaking Down the Job: Over the course of the project you'll end up accounting for thousands of details; here's how to figure out the first few Centering Around a Prototype: Hedging your bets for the inevitable \"give me a ballpark figure\"\n</li><li>Dealing With Legacy Data Stores: Migrate legacy information early and often.\n</li><li>Selecting 3rd Party Components: Reuse exiting app, fork it early or Trailblaze\n</li><li>Bad News: Django Ain't Perfect - where it has weaknesses and how to compensate\n\n<p>\nAt the end of this talk the audience will be able to:\n<ul>\n<li>Break down this type of project into meaningful phases\n</li><li>Migrate large dataset to populate the django models that are still under development.\n</li><li>Have a rational and objective approach to select django reusable component and understand how to refine them during the different stages of the project lifecycle.\n</li><li>Find and evaluate quality information about the tradeoffs Django presents in these types of projects\n</li></ul></p></li></ul>", 
+      "tags": [
+        84, 
+        0, 
+        1, 
+        44, 
+        85
+      ], 
+      "slug": "djangocon-2010--breaking-down-the-process-of-buil", 
+      "title": "Breaking down the process of building a custom CMS", 
+      "updated": "2010-09-10T22:32:47+00:00", 
+      "source_url": "http://blip.tv/file/4106622", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75wcC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "218350935", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-BreakingDownTheProcessOfBuildingACustomCMS112-442.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>So you want to be a core developer?</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThe most important part of Django is its community of contributors -- without contributors, Django would never improve. However, as a newcomer to Django, the prospect of contributing may be somewhat daunting. This presentation will show you how to make the transition from user to contributor -- what to do, how to do it, and some guidelines on how to do the job well.\n</p>\n<p>\nThe aim of this presentation is to explain how we do things in the core, and how to work with us to get the job done. It will cover dealing with Trac and the triage lifecycle, how to find tickets to triage, other non-obvious ways to contribute, and cover some basic design philosophies.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75jsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--so-you-want-to-be-a-core-develope", 
-            "speakers": [
-                257
-            ], 
-            "summary": "", 
-            "tags": [
-                86, 
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SoYouWantToBeACoreDeveloper652-390.jpg", 
-            "title": "So you want to be a core developer?", 
-            "updated": "2010-09-10T22:10:59+00:00", 
-            "video_ogv_length": "232337340", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SoYouWantToBeACoreDeveloper652.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 62
+    "model": "videos.Video", 
+    "pk": 61
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        257
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>So you want to be a core developer?</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThe most important part of Django is its community of contributors -- without contributors, Django would never improve. However, as a newcomer to Django, the prospect of contributing may be somewhat daunting. This presentation will show you how to make the transition from user to contributor -- what to do, how to do it, and some guidelines on how to do the job well.\n</p>\n<p>\nThe aim of this presentation is to explain how we do things in the core, and how to work with us to get the job done. It will cover dealing with Trac and the triage lifecycle, how to find tickets to triage, other non-obvious ways to contribute, and cover some basic design philosophies.\n</p>", 
+      "tags": [
+        86, 
+        0, 
+        1, 
+        44
+      ], 
+      "title": "So you want to be a core developer?", 
+      "updated": "2010-09-10T22:10:59+00:00", 
+      "source_url": "http://blip.tv/file/4106546", 
+      "video_ogv_length": "232337340", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-SoYouWantToBeACoreDeveloper652.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75jsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-SoYouWantToBeACoreDeveloper652-390.jpg", 
+      "slug": "djangocon-2010--so-you-want-to-be-a-core-develope"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>DSF Announcements and Q &amp; A</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThe Django software foundation is the entity which hold the IP for django and guides efforts to develop the community around Django. In this session several members of the DSF will be announcing some changes at the DSF and will be available for a general Q&A.;\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75X8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--dsf-announcements-and-q-amp-a", 
-            "speakers": [
-                257
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                38
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DSFAnnouncementsAndQA629-585.jpg", 
-            "title": "DSF Announcements and Q&A", 
-            "updated": "2010-09-10T21:54:45+00:00", 
-            "video_ogv_length": "200339965", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DSFAnnouncementsAndQA629.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 63
+    "model": "videos.Video", 
+    "pk": 62
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        257
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>DSF Announcements and Q &amp; A</p>\n<p>Presented by Russell Keith-Magee</p>\n<p>\nThe Django software foundation is the entity which hold the IP for django and guides efforts to develop the community around Django. In this session several members of the DSF will be announcing some changes at the DSF and will be available for a general Q&A.;\n</p>\n", 
+      "title": "DSF Announcements and Q&A", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        38
+      ], 
+      "updated": "2010-09-10T21:54:45+00:00", 
+      "summary": "", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-DSFAnnouncementsAndQA629.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75X8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "200339965", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-DSFAnnouncementsAndQA629-585.jpg", 
+      "slug": "djangocon-2010--dsf-announcements-and-q-amp-a"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Typewar: A Case Study</p>\n<p>Presented by James Tauber</p>\n<p>\nTypewar is a popular font-guessing game built with Django and Pinax. This talk will cover everything from game mechanics and statistics to development of an API for an iPhone client and from how we promoted and launched the site to the performance challenges we faced.\n</p>\n<p>Abstract</p>\n<p>\nTypewar was developed as a side project at Eldarion and went from concept to launch in a matter of weeks. The first day saw 5,000 visitors and since then, over 50,000 people have attempted to \"guess the typeface\" more than 5 million times.\n</p>\n<p>\nThe talk will cover:\n</p>\n<ul>\n<li>how we went from concept to design mockup to prototype\n</li><li>game mechanics such as:\n<ul>\n<li>points\n</li><li>levels\n</li><li>badges\n</li><li>streaks\n</li><li>leader boards\n</li><li>stats (with lots of bayesian goodness)\n</li></ul>\n</li><li>generation of glyphs with PIL\n</li><li>mitigation against cheaters\n</li><li>twitter integration\n</li><li>migrating unauthenticated user data over on sign up / log in\n</li><li>activity streams\n</li><li>performance challenges\n</li><li>database optimizations\n</li><li>queuing of asynchronous tasks\n</li><li>development of an API for use in an iPhone client\n</li><li>deployment\n</li><li>how we promoted and launched the site\n</li></ul>\n<p>\nWe will also discuss various open source Django apps that have been extracted from the project and used on subsequent sites by us and others.\n</p>\n<p>\n<a href=\"http://typewar.com/\">http://typewar.com/</a>\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75VoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--typewar--a-case-study", 
-            "speakers": [
-                16
-            ], 
-            "summary": "", 
-            "tags": [
-                56, 
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TypewarACaseStudy770-135.jpg", 
-            "title": "Typewar: A Case Study", 
-            "updated": "2010-09-10T21:38:52+00:00", 
-            "video_ogv_length": "223572623", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TypewarACaseStudy770.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 64
+    "model": "videos.Video", 
+    "pk": 63
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        16
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Typewar: A Case Study</p>\n<p>Presented by James Tauber</p>\n<p>\nTypewar is a popular font-guessing game built with Django and Pinax. This talk will cover everything from game mechanics and statistics to development of an API for an iPhone client and from how we promoted and launched the site to the performance challenges we faced.\n</p>\n<p>Abstract</p>\n<p>\nTypewar was developed as a side project at Eldarion and went from concept to launch in a matter of weeks. The first day saw 5,000 visitors and since then, over 50,000 people have attempted to \"guess the typeface\" more than 5 million times.\n</p>\n<p>\nThe talk will cover:\n</p>\n<ul>\n<li>how we went from concept to design mockup to prototype\n</li><li>game mechanics such as:\n<ul>\n<li>points\n</li><li>levels\n</li><li>badges\n</li><li>streaks\n</li><li>leader boards\n</li><li>stats (with lots of bayesian goodness)\n</li></ul>\n</li><li>generation of glyphs with PIL\n</li><li>mitigation against cheaters\n</li><li>twitter integration\n</li><li>migrating unauthenticated user data over on sign up / log in\n</li><li>activity streams\n</li><li>performance challenges\n</li><li>database optimizations\n</li><li>queuing of asynchronous tasks\n</li><li>development of an API for use in an iPhone client\n</li><li>deployment\n</li><li>how we promoted and launched the site\n</li></ul>\n<p>\nWe will also discuss various open source Django apps that have been extracted from the project and used on subsequent sites by us and others.\n</p>\n<p>\n<a href=\"http://typewar.com/\">http://typewar.com/</a>\n</p>", 
+      "tags": [
+        56, 
+        0, 
+        1, 
+        44
+      ], 
+      "title": "Typewar: A Case Study", 
+      "updated": "2010-09-10T21:38:52+00:00", 
+      "source_url": "http://blip.tv/file/4106449", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TypewarACaseStudy770.ogv", 
+      "summary": "", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75VoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "223572623", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TypewarACaseStudy770-135.jpg", 
+      "slug": "djangocon-2010--typewar--a-case-study"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Teaching an Old Pony New Tricks: Maintaining and Updating an Aging Django Project</p>\n<p>Presented by Shawn Rider</p>\n<p>\nPBS began development on its first Django project in 2006 using Django 0.96. PBS TeacherLine launched in 2007 and continues to run today. This talk will discuss the process for designing the PBS TeacherLine codebase, how new advanced features were added over the years, and pitfalls you can avoid when planning projects for longevity and easy maintenance.\n</p>\n<p>Abstract</p>\n<p>\nPBS chose Django after seeing a presentation by Jacob Kaplan-Moss and Adrian Holovaty at OSCON 2006. That Fall, PBS Education began work on a new version of the PBS TeacherLine website. The site most users see when they visit PBS TeacherLine is essentially a brochure and catalog that allows educators to purchase seats in online professional development courses. However, behind the scenes is an administrative infrastructure that allows over 50 PBS stations and PBS national staff members to administrate hundreds of course sections and over ten thousand learners every year. There are robust features for accounting, reporting, student and staff management just to name a few.\n</p>\n<p>\nThe TeacherLine website was initially written using Django 0.96. The site is currently running Django 1.2 and has had major upgrades made to some of the core systems including the implementation of a robust message queue solution to handle the most intense administrative functions. Over the past four years, the PBS Education Technology Team has learned many lessons about system design, best practices, handling upgrades, and creating Django-based code that is flexible and easy to maintain.\n</p>\n<p>\nIn this discussion we will look at some of the more interesting points in the history of PBS TeacherLine, including design patterns, workarounds that were eventually made obsolete by improvements in the Django framework, and the process of iteratively improving functionality and features. We will discuss successes and failures, including the pitfalls we avoided and (perhaps more interestingly) those we did not.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75SsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--teaching-an-old-pony-new-tricks--", 
-            "speakers": [
-                22
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                1, 
-                44, 
-                87, 
-                88
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TeachingAnOldPonyNewTricksMaintainingAndUpdatingAnAgin531-41.jpg", 
-            "title": "Teaching an Old Pony New Tricks: Maintaining and Updating an Aging Django Project", 
-            "updated": "2010-09-10T21:20:49+00:00", 
-            "video_ogv_length": "204938002", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TeachingAnOldPonyNewTricksMaintainingAndUpdatingAnAgin531.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 65
+    "model": "videos.Video", 
+    "pk": 64
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        22
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Teaching an Old Pony New Tricks: Maintaining and Updating an Aging Django Project</p>\n<p>Presented by Shawn Rider</p>\n<p>\nPBS began development on its first Django project in 2006 using Django 0.96. PBS TeacherLine launched in 2007 and continues to run today. This talk will discuss the process for designing the PBS TeacherLine codebase, how new advanced features were added over the years, and pitfalls you can avoid when planning projects for longevity and easy maintenance.\n</p>\n<p>Abstract</p>\n<p>\nPBS chose Django after seeing a presentation by Jacob Kaplan-Moss and Adrian Holovaty at OSCON 2006. That Fall, PBS Education began work on a new version of the PBS TeacherLine website. The site most users see when they visit PBS TeacherLine is essentially a brochure and catalog that allows educators to purchase seats in online professional development courses. However, behind the scenes is an administrative infrastructure that allows over 50 PBS stations and PBS national staff members to administrate hundreds of course sections and over ten thousand learners every year. There are robust features for accounting, reporting, student and staff management just to name a few.\n</p>\n<p>\nThe TeacherLine website was initially written using Django 0.96. The site is currently running Django 1.2 and has had major upgrades made to some of the core systems including the implementation of a robust message queue solution to handle the most intense administrative functions. Over the past four years, the PBS Education Technology Team has learned many lessons about system design, best practices, handling upgrades, and creating Django-based code that is flexible and easy to maintain.\n</p>\n<p>\nIn this discussion we will look at some of the more interesting points in the history of PBS TeacherLine, including design patterns, workarounds that were eventually made obsolete by improvements in the Django framework, and the process of iteratively improving functionality and features. We will discuss successes and failures, including the pitfalls we avoided and (perhaps more interestingly) those we did not.\n</p>", 
+      "title": "Teaching an Old Pony New Tricks: Maintaining and Updating an Aging Django Project", 
+      "slug": "djangocon-2010--teaching-an-old-pony-new-tricks--", 
+      "tags": [
+        0, 
+        1, 
+        44, 
+        87, 
+        88
+      ], 
+      "updated": "2010-09-10T21:20:49+00:00", 
+      "source_url": "http://blip.tv/file/4106402", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-TeachingAnOldPonyNewTricksMaintainingAndUpdatingAnAgin531.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75SsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "204938002", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-TeachingAnOldPonyNewTricksMaintainingAndUpdatingAnAgin531-41.jpg", 
+      "summary": ""
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Making the leap to Django</p>\n<p>Presented by Terry J. Owen</p>\n<p>\nHow to move your small development team from PHP to Django in less than a month.\n</p>\n<p>Abstract</p>\n<p>\nThe Victoria Advocate was once a purely PHP development shop. But over the course of one month the development manager said \"we need to move to Django.\"\n</p>\n<p>\nThis talk will focus on some of the challenges and successes experienced during this month.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH75HgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--making-the-leap-to-django", 
-            "speakers": [
-                34
-            ], 
-            "summary": "", 
-            "tags": [
-                56, 
-                0, 
-                1, 
-                44
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MakingTheLeapToDjango231-885.jpg", 
-            "title": "Making the leap to Django", 
-            "updated": "2010-09-10T21:04:39+00:00", 
-            "video_ogv_length": "152370901", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MakingTheLeapToDjango231.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 66
+    "model": "videos.Video", 
+    "pk": 65
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        34
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Making the leap to Django</p>\n<p>Presented by Terry J. Owen</p>\n<p>\nHow to move your small development team from PHP to Django in less than a month.\n</p>\n<p>Abstract</p>\n<p>\nThe Victoria Advocate was once a purely PHP development shop. But over the course of one month the development manager said \"we need to move to Django.\"\n</p>\n<p>\nThis talk will focus on some of the challenges and successes experienced during this month.\n</p>", 
+      "title": "Making the leap to Django", 
+      "tags": [
+        56, 
+        0, 
+        1, 
+        44
+      ], 
+      "updated": "2010-09-10T21:04:39+00:00", 
+      "source_url": "http://blip.tv/file/4106351", 
+      "video_ogv_length": "152370901", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-MakingTheLeapToDjango231.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH75HgC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-MakingTheLeapToDjango231-885.jpg", 
+      "slug": "djangocon-2010--making-the-leap-to-django"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Step away from that database</p>\n<p>Presented by Andrew Godwin</p>\n<p>\nA look at the large array of database types now available: where each one excels, why NoSQL isn't always best, and the best ways to integrate them into your Django project.\n</p>\n<p>Abstract</p>\n<p>\nIn the last few years we've seen an explosion in the number of production-ready databases available for web applications. From relational to document-oriented, key-value and more, there's a staggering array of choice.\n</p>\n<p>\nThis talk covers the various basic types of database now available, and highlights their weaknesses, their strengths, and the features you just can't get from traditional databases.\n</p>\n<p>\nThen, after a short rant about the term \"NoSQL\", learn how to best integrate them into your Django projects, why being schemaless isn't as good as it looks at first, and how relational databases are keeping up with the times.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYH742MC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 2, 
-            "slug": "djangocon-2010--step-away-from-that-database", 
-            "speakers": [
-                19
-            ], 
-            "summary": "", 
-            "tags": [
-                32, 
-                72, 
-                0, 
-                1, 
-                44, 
-                89, 
-                75, 
-                33
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg", 
-            "title": "Step Away From That Database", 
-            "updated": "2010-09-10T20:25:10+00:00", 
-            "video_ogv_length": "150837248", 
-            "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-StepAwayFromThatDatabase838.ogv"
-        }, 
-        "model": "videos.Video", 
-        "pk": 67
-    }
+    "model": "videos.Video", 
+    "pk": 66
+  }, 
+  {
+    "fields": {
+      "category": 2, 
+      "speakers": [
+        19
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Step away from that database</p>\n<p>Presented by Andrew Godwin</p>\n<p>\nA look at the large array of database types now available: where each one excels, why NoSQL isn't always best, and the best ways to integrate them into your Django project.\n</p>\n<p>Abstract</p>\n<p>\nIn the last few years we've seen an explosion in the number of production-ready databases available for web applications. From relational to document-oriented, key-value and more, there's a staggering array of choice.\n</p>\n<p>\nThis talk covers the various basic types of database now available, and highlights their weaknesses, their strengths, and the features you just can't get from traditional databases.\n</p>\n<p>\nThen, after a short rant about the term \"NoSQL\", learn how to best integrate them into your Django projects, why being schemaless isn't as good as it looks at first, and how relational databases are keeping up with the times.\n</p>", 
+      "title": "Step Away From That Database", 
+      "tags": [
+        32, 
+        72, 
+        0, 
+        1, 
+        44, 
+        89, 
+        75, 
+        33
+      ], 
+      "updated": "2010-09-10T20:25:10+00:00", 
+      "source_url": "http://blip.tv/file/4106202", 
+      "summary": "", 
+      "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-StepAwayFromThatDatabase838.ogv", 
+      "embed": "<embed src=\"http://blip.tv/play/AYH742MC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "video_ogv_length": "150837248", 
+      "thumbnail_url": "http://a.images.blip.tv/Robertlofthouse-StepAwayFromThatDatabase838-974.jpg", 
+      "slug": "djangocon-2010--step-away-from-that-database"
+    }, 
+    "model": "videos.Video", 
+    "pk": 67
+  }
 ]

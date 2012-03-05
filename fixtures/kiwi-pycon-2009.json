@@ -1,689 +1,717 @@
 [
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Monitoring and debugging your live application</p>\n<p>Presented by Robert Coup</p>\n<p>Abstract</p>\n<p>\n    Ever wondered what is going on inside your app? Learn some tools and ideas you can use for sussing it out.\n</p>\n<p>Outline</p>\n<p>\n    Debugging issues in live applications can be a real nightmare. Add some more logging, restart it, wait for the failure/load case and try and deduce a bit more. Even with awesome test coverage you still need to debug those tricky problems. This talk will introduce some ideas for monitoring and debugging your live applications. The key things to cover are:\n</p>\n<ul>\n<li>the standard logging module and learning how to drive it well. How to log effectively so it makes sense later, and what sorts of things we should be instrumenting and measuring.\n</li><li>how to set up a remote console session into our running application, so we can interrogate variables and run code to figure out what's going on.\n</li><li>how to incorporate IRC or IM bots so we can interact with our apps from the desktop, and how they can interact with us. \n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHtkC0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "robert-coup---monitoring-and-debugging-your-live-", 
-            "speakers": [
-                55
-            ], 
-            "summary": "", 
-            "tags": [
-                31, 
-                180, 
-                181, 
-                182, 
-                183, 
-                184
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RobertCoupMonitoringAndDebuggingYourLiveApplications239-190.jpg", 
-            "title": "Robert Coup - Monitoring and debugging your live applications", 
-            "updated": "2010-07-11T09:39:21+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 108
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        55
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Monitoring and debugging your live application</p>\n<p>Presented by Robert Coup</p>\n<p>Abstract</p>\n<p>\n    Ever wondered what is going on inside your app? Learn some tools and ideas you can use for sussing it out.\n</p>\n<p>Outline</p>\n<p>\n    Debugging issues in live applications can be a real nightmare. Add some more logging, restart it, wait for the failure/load case and try and deduce a bit more. Even with awesome test coverage you still need to debug those tricky problems. This talk will introduce some ideas for monitoring and debugging your live applications. The key things to cover are:\n</p>\n<ul>\n<li>the standard logging module and learning how to drive it well. How to log effectively so it makes sense later, and what sorts of things we should be instrumenting and measuring.\n</li><li>how to set up a remote console session into our running application, so we can interrogate variables and run code to figure out what's going on.\n</li><li>how to incorporate IRC or IM bots so we can interact with our apps from the desktop, and how they can interact with us. \n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
+      "tags": [
+        31, 
+        180, 
+        181, 
+        182, 
+        183, 
+        184
+      ], 
+      "title": "Robert Coup - Monitoring and debugging your live applications", 
+      "updated": "2010-07-11T09:39:21+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RobertCoupMonitoringAndDebuggingYourLiveApplications239-190.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHtkC0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3866016", 
+      "slug": "robert-coup---monitoring-and-debugging-your-live-"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>pyserf - a shortcut for writing C extensions in C</p>\n<p>Presented by Douglas Bagnall</p>\n<p>Abstract</p>\n<p>\n    There are many clever ways of connecting Python and C code together, and pyserf is one of those. It is just a short script that parses a module outline and produces an idiomatic template for a C extension providing the same signatures, so all you need to do is write the bits that actually do stuff.\n</p>\n<p>Outline</p>\n<p>\n    Pyserf is a tiny project that I wrote for my own use years ago and never released because it is so obvious that dozens of better versions must exist. The idea is simple -- you write an outline of a module like this:\n</p>\n<pre>\n\"\"\"module documentation\"\"\"\ndef top_level_function(int_a, float_b):\n   \"function documentation\"\n   return float_c\n\nclass SomeModule:\n   \"\"\"class documentation\"\"\"\n   def foo(self, int_ants obj_zoo):\n      \"\"\"method documentation\"\"\"\n      return float_frogs\n</pre>\n<p>\nand pyserf uses the parsing modules in the standard library to generate a C file that will compile to an extension providing the interface it describes, with the documentation appearing in the right place and the type conversions all properly handled. The generated file is not a hideous unreadable mess, rather it is within a few characters of best practise according to the official tutorial. Once you have this template, you abandon your outline and write the middles of each function in C. In describing what pyserf does, this talk will demonstrate what is required to write an extension in C by hand, and show you some ways of using the standard libraries parsing modules.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHtjmQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "douglas-bagnall---pyserf---a-shortcut-for-writing", 
-            "speakers": [
-                56
-            ], 
-            "summary": "", 
-            "tags": [
-                185, 
-                182, 
-                183, 
-                186
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-DouglasBagnallPyserfAShortcutForWritingCExtensionsIn519-861.jpg", 
-            "title": "Douglas Bagnall - pyserf - a shortcut for writing C extensions in C", 
-            "updated": "2010-07-11T07:39:10+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 109
+    "model": "videos.Video", 
+    "pk": 108
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        56
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>pyserf - a shortcut for writing C extensions in C</p>\n<p>Presented by Douglas Bagnall</p>\n<p>Abstract</p>\n<p>\n    There are many clever ways of connecting Python and C code together, and pyserf is one of those. It is just a short script that parses a module outline and produces an idiomatic template for a C extension providing the same signatures, so all you need to do is write the bits that actually do stuff.\n</p>\n<p>Outline</p>\n<p>\n    Pyserf is a tiny project that I wrote for my own use years ago and never released because it is so obvious that dozens of better versions must exist. The idea is simple -- you write an outline of a module like this:\n</p>\n<pre>\n\"\"\"module documentation\"\"\"\ndef top_level_function(int_a, float_b):\n   \"function documentation\"\n   return float_c\n\nclass SomeModule:\n   \"\"\"class documentation\"\"\"\n   def foo(self, int_ants obj_zoo):\n      \"\"\"method documentation\"\"\"\n      return float_frogs\n</pre>\n<p>\nand pyserf uses the parsing modules in the standard library to generate a C file that will compile to an extension providing the interface it describes, with the documentation appearing in the right place and the type conversions all properly handled. The generated file is not a hideous unreadable mess, rather it is within a few characters of best practise according to the official tutorial. Once you have this template, you abandon your outline and write the middles of each function in C. In describing what pyserf does, this talk will demonstrate what is required to write an extension in C by hand, and show you some ways of using the standard libraries parsing modules.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
+      "tags": [
+        185, 
+        182, 
+        183, 
+        186
+      ], 
+      "title": "Douglas Bagnall - pyserf - a shortcut for writing C extensions in C", 
+      "updated": "2010-07-11T07:39:10+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-DouglasBagnallPyserfAShortcutForWritingCExtensionsIn519-861.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHtjmQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3865815", 
+      "slug": "douglas-bagnall---pyserf---a-shortcut-for-writing"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Building web animation application with Python-ogre</p>\n<p>Presented by Indy Liu</p>\n<p>Abstract</p>\n<p>\n    In building our online user-customisable animation system, we needed a 3D engine that is powerful, stable and flexible. We are lucky to have made python-ogre our choice. Combined with FFMpeg and the boto library, we were able to build the whole solution in python with as little hassle as possible.\n</p>\n<p>\nOutline\n</p>\n<ul>\n<li>Open source python game engines;\n</li><li>What we need - Not just a game engine;\n</li><li>What you can do with python-ogre;\n</li><li>Combining with other libraries FFMpeg, boto;\n</li><li>Interfacing with the web - celery; \n</li></ul>\n<p>\n    [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsu2IC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "indy-liu---building-web-animation-application-wit", 
-            "speakers": [
-                57
-            ], 
-            "summary": "", 
-            "tags": [
-                187, 
-                48, 
-                188, 
-                182, 
-                183, 
-                189
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-IndyLiuBuildingWebAnimationApplicationWithPythonOgre541-29.jpg", 
-            "title": "Indy Liu - Building web animation application with Python-Ogre", 
-            "updated": "2010-07-08T12:00:38+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 110
+    "model": "videos.Video", 
+    "pk": 109
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        57
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Building web animation application with Python-ogre</p>\n<p>Presented by Indy Liu</p>\n<p>Abstract</p>\n<p>\n    In building our online user-customisable animation system, we needed a 3D engine that is powerful, stable and flexible. We are lucky to have made python-ogre our choice. Combined with FFMpeg and the boto library, we were able to build the whole solution in python with as little hassle as possible.\n</p>\n<p>\nOutline\n</p>\n<ul>\n<li>Open source python game engines;\n</li><li>What we need - Not just a game engine;\n</li><li>What you can do with python-ogre;\n</li><li>Combining with other libraries FFMpeg, boto;\n</li><li>Interfacing with the web - celery; \n</li></ul>\n<p>\n    [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        187, 
+        48, 
+        188, 
+        182, 
+        183, 
+        189
+      ], 
+      "title": "Indy Liu - Building web animation application with Python-Ogre", 
+      "updated": "2010-07-08T12:00:38+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-IndyLiuBuildingWebAnimationApplicationWithPythonOgre541-29.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsu2IC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3855178", 
+      "slug": "indy-liu---building-web-animation-application-wit"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Te Tuhi Video Game System</p>\n<p>Presented by Douglas Bagnall</p>\n<p>Abstract</p>\n<p>\n    Tetuhi is a python program that turns drawings on paper into 2D top-down early 80s style video games. This talk describes how. \n</p>\n<p>Outline</p>\n<p>\n    Te Tuhi Video Game System is not a game in itself; rather it creates games based on arbitrary images that it is given. To use it, you draw a picture of the game you want to play, and it will give you the game that you really drew. The software was originally written for an art exhibit using slightly specialised hardware, but it has been released under the GPL and runs on ordinary computers. It uses Pygame, PIL, and custom C extensions that allow it to evolve a playable game from a wide variety of pictures. This talk will discuss the techniques used (both refined algorithms and hacky heuristics) and cover topics such as image analysis, machine learning, and interface design. There will be a demonstration. \n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsrzkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "douglas-bagnall---te-tuhi-video-game-system", 
-            "speakers": [
-                56
-            ], 
-            "summary": "", 
-            "tags": [
-                190, 
-                191, 
-                182, 
-                183, 
-                192, 
-                193
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-DouglasBagnallTeTuhiVideoGameSystem481-359.jpg", 
-            "title": "Douglas Bagnall - Te Tuhi Video Game System", 
-            "updated": "2010-07-08T02:05:57+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 111
+    "model": "videos.Video", 
+    "pk": 110
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        56
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Te Tuhi Video Game System</p>\n<p>Presented by Douglas Bagnall</p>\n<p>Abstract</p>\n<p>\n    Tetuhi is a python program that turns drawings on paper into 2D top-down early 80s style video games. This talk describes how. \n</p>\n<p>Outline</p>\n<p>\n    Te Tuhi Video Game System is not a game in itself; rather it creates games based on arbitrary images that it is given. To use it, you draw a picture of the game you want to play, and it will give you the game that you really drew. The software was originally written for an art exhibit using slightly specialised hardware, but it has been released under the GPL and runs on ordinary computers. It uses Pygame, PIL, and custom C extensions that allow it to evolve a playable game from a wide variety of pictures. This talk will discuss the techniques used (both refined algorithms and hacky heuristics) and cover topics such as image analysis, machine learning, and interface design. There will be a demonstration. \n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        190, 
+        191, 
+        182, 
+        183, 
+        192, 
+        193
+      ], 
+      "title": "Douglas Bagnall - Te Tuhi Video Game System", 
+      "updated": "2010-07-08T02:05:57+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-DouglasBagnallTeTuhiVideoGameSystem481-359.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsrzkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3853601", 
+      "slug": "douglas-bagnall---te-tuhi-video-game-system"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>How we use Twisted in Launchpad</p>\n<p>Presented by Michael Hudson-Doyle</p>\n<p>Abstract</p>\n<p>\n    Launchpad is a large, open source, \"real world\" Python project with many moving parts. This talk will explain how Twisted helps us keep track of them.\n</p>\n<p>Outline</p>\n<p>\n    Although we don't use it for the core web application, most other places in Launchpad that have to deal with concurrency issues do it using Twisted. This talk will survey these areas and talk about issues we've found and design patterns we've found helpful.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsqi0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "michael-hudson---how-we-use-twisted-in-launchpad", 
-            "speakers": [
-                58
-            ], 
-            "summary": "", 
-            "tags": [
-                56, 
-                182, 
-                183, 
-                194, 
-                195
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-MichaelHudsonHowWeUseTwistedInLaunchpad505-421.jpg", 
-            "title": "Michael Hudson - How we use Twisted in Launchpad", 
-            "updated": "2010-07-07T23:10:56+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 112
+    "model": "videos.Video", 
+    "pk": 111
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        58
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>How we use Twisted in Launchpad</p>\n<p>Presented by Michael Hudson-Doyle</p>\n<p>Abstract</p>\n<p>\n    Launchpad is a large, open source, \"real world\" Python project with many moving parts. This talk will explain how Twisted helps us keep track of them.\n</p>\n<p>Outline</p>\n<p>\n    Although we don't use it for the core web application, most other places in Launchpad that have to deal with concurrency issues do it using Twisted. This talk will survey these areas and talk about issues we've found and design patterns we've found helpful.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        56, 
+        182, 
+        183, 
+        194, 
+        195
+      ], 
+      "title": "Michael Hudson - How we use Twisted in Launchpad", 
+      "updated": "2010-07-07T23:10:56+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-MichaelHudsonHowWeUseTwistedInLaunchpad505-421.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsqi0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3852949", 
+      "slug": "michael-hudson---how-we-use-twisted-in-launchpad"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Operations research and optimization in Python using Pulp</p>\n<p>Presented by Stuart Mitchell</p>\n<p>Abstract</p>\n<p>\n    Operations research has the catch phrase \"The science of better\". In this talk we will discuss what a linear programming problem is and how to solve one using the pulp-or package. \n</p>\n<p>Outline</p>\n<p>\n    TBA hopefully to include a relevant example possibly a python implementation of graphviz.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsly0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "stuart-mitchell---operations-research-and-optimiz", 
-            "speakers": [
-                59
-            ], 
-            "summary": "", 
-            "tags": [
-                196, 
-                182, 
-                183
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-StuartMitchellOperationsResearchAndOptimizationInPython689-252.jpg", 
-            "title": "Stuart Mitchell - Operations research and Optimization in Python using Pulp", 
-            "updated": "2010-07-07T11:41:14+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 113
+    "model": "videos.Video", 
+    "pk": 112
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        59
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Operations research and optimization in Python using Pulp</p>\n<p>Presented by Stuart Mitchell</p>\n<p>Abstract</p>\n<p>\n    Operations research has the catch phrase \"The science of better\". In this talk we will discuss what a linear programming problem is and how to solve one using the pulp-or package. \n</p>\n<p>Outline</p>\n<p>\n    TBA hopefully to include a relevant example possibly a python implementation of graphviz.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        196, 
+        182, 
+        183
+      ], 
+      "title": "Stuart Mitchell - Operations research and Optimization in Python using Pulp", 
+      "updated": "2010-07-07T11:41:14+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-StuartMitchellOperationsResearchAndOptimizationInPython689-252.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsly0C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3850517", 
+      "slug": "stuart-mitchell---operations-research-and-optimiz"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Computer Vision</p>\n<p>Presented by Brian Thorne</p>\n<p>Abstract</p>\n<p>\n    An introduction to computer vision in Python, from the general concept to its implementation with some current open-source libraries (opencv, scipy, pygame).\n</p>\n<p>Outline</p>\n<p>\n    The purpose of my presentation is an introduction to computer vision (CV) and image processing in Python. I will aim to show what is possible with current libraries, demonstrate their usability, explore their limitations, and cover elements of best coding practice. Firstly, I will briefly present the basics, such as video grabbing, image processing and computer vision algorithms. I will illustrate my presentation with the Python bindings to the opencv library and show different examples such as displaying a video image, some filtering algorithms (dilation, gaussian blur), and how to implement facial recognition. I will describe after how related tasks can be achieved with other Python tools such as scipy and pygame. I will show how these three libraries can be used in conjunction to perform video capturing, image processing and user interfacing. Finally, I will introduce my basic Python computer vision framework, which is aimed at inexperienced users, and demonstrate it on the XO laptop, the inexpensive low-powered sub-notebook distributed as part of the One Laptop Per Child (OLPC) initiative.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHskkYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "brian-thorne---computer-vision", 
-            "speakers": [
-                60
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                197, 
-                193, 
-                198, 
-                199
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrianThorneComputerVision172-560.jpg", 
-            "title": "Brian Thorne - Computer Vision", 
-            "updated": "2010-07-07T06:53:02+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 114
+    "model": "videos.Video", 
+    "pk": 113
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        60
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Computer Vision</p>\n<p>Presented by Brian Thorne</p>\n<p>Abstract</p>\n<p>\n    An introduction to computer vision in Python, from the general concept to its implementation with some current open-source libraries (opencv, scipy, pygame).\n</p>\n<p>Outline</p>\n<p>\n    The purpose of my presentation is an introduction to computer vision (CV) and image processing in Python. I will aim to show what is possible with current libraries, demonstrate their usability, explore their limitations, and cover elements of best coding practice. Firstly, I will briefly present the basics, such as video grabbing, image processing and computer vision algorithms. I will illustrate my presentation with the Python bindings to the opencv library and show different examples such as displaying a video image, some filtering algorithms (dilation, gaussian blur), and how to implement facial recognition. I will describe after how related tasks can be achieved with other Python tools such as scipy and pygame. I will show how these three libraries can be used in conjunction to perform video capturing, image processing and user interfacing. Finally, I will introduce my basic Python computer vision framework, which is aimed at inexperienced users, and demonstrate it on the XO laptop, the inexpensive low-powered sub-notebook distributed as part of the One Laptop Per Child (OLPC) initiative.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        197, 
+        193, 
+        198, 
+        199
+      ], 
+      "title": "Brian Thorne - Computer Vision", 
+      "updated": "2010-07-07T06:53:02+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrianThorneComputerVision172-560.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHskkYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3849902", 
+      "slug": "brian-thorne---computer-vision"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Python Data Plotting and Visualization Extravaganza</p>\n<p>Presented by Guy Kloss</p>\n<p>Abstract</p>\n<p>\n    In various fields data is accumulated or produced. This can be observation data, statistical data, simulation data, ... Information like that can in many cases be much more easily analysed through the user's eyes employing data visualisation. This talk is trying to dive briefly into various means and tools to visually analyse data of different qualities: time series, simple 2D plots, surface plots, volume plots, quiver plots, etc.\n</p>\n<p>Outline</p>\n<p>\n    I am planning on doing a \"fly by\" through the world of data visualisation for different types of data using different tools. Types of data:\n</p>\n<ul>\n<li>1D data and simple functions\n</li><li>2D data for surface plots\n</li><li>3D data through quiver plots, iso surfaces, and cutting planes\n</li><li>n-D data through different means\n</li><li>continuous and non-continuously structured data\n</li><li>time series\n</li><li>real time data visualisation/analysis\n</li></ul>\n<p>\n The tools that will probably appear in the demos and discussions:\n</p>\n<ul>\n<li>GNUplot\n</li><li>matplotlib\n</li><li>Mayavi2\n</li><li>Visual Python \n</li></ul>\n<p>\n\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsj0UC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "guy-kloss---python-data-plotting-and-visualisatio", 
-            "speakers": [
-                61
-            ], 
-            "summary": "", 
-            "tags": [
-                161, 
-                200, 
-                182, 
-                183, 
-                201, 
-                202, 
-                203, 
-                204
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-GuyKlossPythonDataPlottingAndVisualisationExtravaganza813-419.jpg", 
-            "title": "Guy Kloss - Python Data Plotting and Visualisation Extravaganza", 
-            "updated": "2010-07-07T05:27:43+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 115
+    "model": "videos.Video", 
+    "pk": 114
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        61
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Python Data Plotting and Visualization Extravaganza</p>\n<p>Presented by Guy Kloss</p>\n<p>Abstract</p>\n<p>\n    In various fields data is accumulated or produced. This can be observation data, statistical data, simulation data, ... Information like that can in many cases be much more easily analysed through the user's eyes employing data visualisation. This talk is trying to dive briefly into various means and tools to visually analyse data of different qualities: time series, simple 2D plots, surface plots, volume plots, quiver plots, etc.\n</p>\n<p>Outline</p>\n<p>\n    I am planning on doing a \"fly by\" through the world of data visualisation for different types of data using different tools. Types of data:\n</p>\n<ul>\n<li>1D data and simple functions\n</li><li>2D data for surface plots\n</li><li>3D data through quiver plots, iso surfaces, and cutting planes\n</li><li>n-D data through different means\n</li><li>continuous and non-continuously structured data\n</li><li>time series\n</li><li>real time data visualisation/analysis\n</li></ul>\n<p>\n The tools that will probably appear in the demos and discussions:\n</p>\n<ul>\n<li>GNUplot\n</li><li>matplotlib\n</li><li>Mayavi2\n</li><li>Visual Python \n</li></ul>\n<p>\n\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        161, 
+        200, 
+        182, 
+        183, 
+        201, 
+        202, 
+        203, 
+        204
+      ], 
+      "title": "Guy Kloss - Python Data Plotting and Visualisation Extravaganza", 
+      "updated": "2010-07-07T05:27:43+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-GuyKlossPythonDataPlottingAndVisualisationExtravaganza813-419.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsj0UC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3849517", 
+      "slug": "guy-kloss---python-data-plotting-and-visualisatio"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>OLPC XO: Python bringing education to the world's poorest children</p>\n<p>Presented by Tim McNamara</p>\n<p>Abstract</p>\n<p>\n    This topic will be divided into five different area of 10 minutes each, with time for questions and discussion. We'll talk about the OLPC programme, the hardware, the software, the educational theory and how to get involved NZ. \n</p>\n<p>Outline</p>\n<ol>\n<li>In defence of the OLPC XO This section will be a brief overview of the whole project hopefully with an eye to dispel some rumour and controversy surrounding the project. There has been several mixed messages, and I would like to\n</li><li>Overview of the hardware In this section, the talk to move into a discussion about the overview of the hardware itself. There will be several machines for the audience to have a look at, and we'll try and test some of the mesh networking, collaboration and sharing capabilities that are built into the machine. </li><li>Overview of the software The OLPC XO is run using a Python environment called Sugar (<a href=\"http://sugarlabs.org.nz/\">http://sugarlabs.org.nz</a>), which itself is a Fedora Remix. We will talk a little about how an Activity is built and how to start contributing to the Sugar system.\n</li><li>How to deploy into schools This segment will go over some of the theoretical underpinnings of the user interface and Sugar's approach to things like the directory structure. We'll also explore some of the tools that teachers and parents can use to progressively encourage their children to learn about computing and develop creative and critical thinking.\n</li><li>How to get involved There are small pockets of XOs around the country. Learn where they are and how to start improving them!\n</li></ol>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHsjAQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "tim-mcnamara---olpc-xo--python-bringing-education", 
-            "speakers": [
-                62
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                197
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimMcNamaraOLPCXOPythonBringingEducationToTheWorldsPo728-638.jpg", 
-            "title": "Tim McNamara - OLPC XO: Python bringing education to the world&#39;s poorest children", 
-            "updated": "2010-07-07T02:35:58+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 116
+    "model": "videos.Video", 
+    "pk": 115
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        62
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>OLPC XO: Python bringing education to the world's poorest children</p>\n<p>Presented by Tim McNamara</p>\n<p>Abstract</p>\n<p>\n    This topic will be divided into five different area of 10 minutes each, with time for questions and discussion. We'll talk about the OLPC programme, the hardware, the software, the educational theory and how to get involved NZ. \n</p>\n<p>Outline</p>\n<ol>\n<li>In defence of the OLPC XO This section will be a brief overview of the whole project hopefully with an eye to dispel some rumour and controversy surrounding the project. There has been several mixed messages, and I would like to\n</li><li>Overview of the hardware In this section, the talk to move into a discussion about the overview of the hardware itself. There will be several machines for the audience to have a look at, and we'll try and test some of the mesh networking, collaboration and sharing capabilities that are built into the machine. </li><li>Overview of the software The OLPC XO is run using a Python environment called Sugar (<a href=\"http://sugarlabs.org.nz/\">http://sugarlabs.org.nz</a>), which itself is a Fedora Remix. We will talk a little about how an Activity is built and how to start contributing to the Sugar system.\n</li><li>How to deploy into schools This segment will go over some of the theoretical underpinnings of the user interface and Sugar's approach to things like the directory structure. We'll also explore some of the tools that teachers and parents can use to progressively encourage their children to learn about computing and develop creative and critical thinking.\n</li><li>How to get involved There are small pockets of XOs around the country. Learn where they are and how to start improving them!\n</li></ol>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        197
+      ], 
+      "title": "Tim McNamara - OLPC XO: Python bringing education to the world&#39;s poorest children", 
+      "updated": "2010-07-07T02:35:58+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimMcNamaraOLPCXOPythonBringingEducationToTheWorldsPo728-638.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHsjAQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3849068", 
+      "slug": "tim-mcnamara---olpc-xo--python-bringing-education"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Rapid GUI application development with Python</p>\n<p>Presented by Volker Kuhlmann</p>\n<p>Abstract</p>\n<p>\n    Options and tools for rapid desktop GUI application development using python are examined, and how they compare to competing languages and platforms.\n</p>\n<p>Outline</p>\n<p>\n    Examine GUI options for python including Qt, and their performance with respect to ease of use, runtime, and platform portability. Examine options for the tool chain (IDE, editor, debugger, programming aids) and characterise their ease of use and level of sophistication, and compare with commonly used equivalents, both open source and not open source. Demonstrate a sample program.\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHr5DYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "volker-kuhlmann---rapid-gui-application-developme", 
-            "speakers": [
-                63
-            ], 
-            "summary": "", 
-            "tags": [
-                205, 
-                182, 
-                183, 
-                206
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-VolkerKuhlmannRapidGUIApplicationDevelopmentWithPython822-341.jpg", 
-            "title": "Volker Kuhlmann - Rapid GUI application development with python", 
-            "updated": "2010-07-06T01:20:08+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 117
+    "model": "videos.Video", 
+    "pk": 116
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        63
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Rapid GUI application development with Python</p>\n<p>Presented by Volker Kuhlmann</p>\n<p>Abstract</p>\n<p>\n    Options and tools for rapid desktop GUI application development using python are examined, and how they compare to competing languages and platforms.\n</p>\n<p>Outline</p>\n<p>\n    Examine GUI options for python including Qt, and their performance with respect to ease of use, runtime, and platform portability. Examine options for the tool chain (IDE, editor, debugger, programming aids) and characterise their ease of use and level of sophistication, and compare with commonly used equivalents, both open source and not open source. Demonstrate a sample program.\n</p>", 
+      "tags": [
+        205, 
+        182, 
+        183, 
+        206
+      ], 
+      "title": "Volker Kuhlmann - Rapid GUI application development with python", 
+      "updated": "2010-07-06T01:20:08+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-VolkerKuhlmannRapidGUIApplicationDevelopmentWithPython822-341.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHr5DYC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3843997", 
+      "slug": "volker-kuhlmann---rapid-gui-application-developme"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Tkinter doesn't suck, honest</p>\n<p>Presented by Richard Jones</p>\n<p>Abstract</p>\n<p>\n    In this talk I hope to dispel the myth that Tkinter just plain sucks through the use of some concrete examples of simple use resulting in effective user interfaces. \n</p>\n<p>Outline</p>\n<p>\n    I intend to cover some basics of getting Tkinter GUIs up and running, and then look at some simple use-cases, including: - file dialogs in minutes - script configuration dialog - basics of interface design / packing - a look at the widgets built in - a look at some of the extensions \n</p>\n<p>\n    [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n </p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYHr0XIC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "richard-jones---tkinter-doesn--39-t-suck--honest", 
-            "speakers": [
-                64
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                207
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardJonesTkinterDoesntSuckHonest798-250.jpg", 
-            "title": "Richard Jones - Tkinter doesn&#39;t suck, honest", 
-            "updated": "2010-07-05T13:48:42+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 118
+    "model": "videos.Video", 
+    "pk": 117
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        64
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Tkinter doesn't suck, honest</p>\n<p>Presented by Richard Jones</p>\n<p>Abstract</p>\n<p>\n    In this talk I hope to dispel the myth that Tkinter just plain sucks through the use of some concrete examples of simple use resulting in effective user interfaces. \n</p>\n<p>Outline</p>\n<p>\n    I intend to cover some basics of getting Tkinter GUIs up and running, and then look at some simple use-cases, including: - file dialogs in minutes - script configuration dialog - basics of interface design / packing - a look at the widgets built in - a look at some of the extensions \n</p>\n<p>\n    [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n </p>", 
+      "tags": [
+        182, 
+        183, 
+        207
+      ], 
+      "title": "Richard Jones - Tkinter doesn&#39;t suck, honest", 
+      "updated": "2010-07-05T13:48:42+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardJonesTkinterDoesntSuckHonest798-250.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYHr0XIC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"414\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/3841625", 
+      "slug": "richard-jones---tkinter-doesn--39-t-suck--honest"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Interfacing with GIMP using Python</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces how developers can extend and interface with the GNU Image manipulation program using Python.\n</p>\n<p>Outline</p>\n<p>\n    The presentation will cover:\n</p>\n<ul>\n<li>a quick overview of programmatic interfaces for GIMP\n</li><li>a quick introduction in plug-in writing for GIMP\n</li><li>based on an example plug-in how to interface with GIMP\n</li><li>potential pitfalls and how to avoid them\n</li><li>based on an example how to interface with GEGL, the next image manipulation core for GIMP\n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYG4nnQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "roman-joost---interfacing-with-gimp-using-python", 
-            "speakers": [
-                65
-            ], 
-            "summary": "", 
-            "tags": [
-                208, 
-                182, 
-                183
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RomanJoostInterfacingWithGIMPUsingPython423-984.jpg", 
-            "title": "Roman Joost - Interfacing with GIMP using Python", 
-            "updated": "2009-12-21T05:45:13+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 119
+    "model": "videos.Video", 
+    "pk": 118
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        65
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Interfacing with GIMP using Python</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces how developers can extend and interface with the GNU Image manipulation program using Python.\n</p>\n<p>Outline</p>\n<p>\n    The presentation will cover:\n</p>\n<ul>\n<li>a quick overview of programmatic interfaces for GIMP\n</li><li>a quick introduction in plug-in writing for GIMP\n</li><li>based on an example plug-in how to interface with GIMP\n</li><li>potential pitfalls and how to avoid them\n</li><li>based on an example how to interface with GEGL, the next image manipulation core for GIMP\n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        208, 
+        182, 
+        183
+      ], 
+      "title": "Roman Joost - Interfacing with GIMP using Python", 
+      "updated": "2009-12-21T05:45:13+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RomanJoostInterfacingWithGIMPUsingPython423-984.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYG4nnQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2998839", 
+      "slug": "roman-joost---interfacing-with-gimp-using-python"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>SOFA Statistics - Developing, packaging and promoting a Python open source project</p>\n<p>Presented by Grant Paton-Simpson</p>\n<p>Abstract</p>\n<p>\n    Overview of an open source Python project. Will cover wxPython (GUI toolkit) plus graphics generally; quirks of different databases; making python installer packages; using Sourceforge, Freshmeat, and Launchpad (and Bazaar); and promoting the project.\n</p>\n<p>Outline</p>\n<p>\n    SOFA Statistics (<a href=\"http://www.sofastatistics.com/\">http://www.sofastatistics.com/</a>) is an open source desktop Python application with an emphasis on ease of use, learn as you go, and beautiful output. The talk will cover technical aspects of the project as well as project management issues. Specific areas covered will include:\n</p>\n<ul>\n<li>Using the cross-platform GUI toolkit wxPython (including wxWebKit and the grid widgets) plus initial exploration of Matplotlib and Raphael (Javascript and SVG)\n</li><li>Experience using different database engines including SQLite, MySQL, MS Access, and MS SQL Server\n</li><li>Issues with standard statistics modules e.g. in SciPy\n</li><li>Making python installer packages \u2013 currently only deb packages and Windows installers (using NSIS). Plus managing releases.\n</li><li>Using Sourceforge, Freshmeat, and Launchpad (including Bazaar)\n</li><li>Promoting the project through blogging, answering posts e.g. Ubuntu, wikipedia, special aggregator lists and reviews, presentations, articles, etc.\n</li></ul>\n<p>\nQuestions are very welcome as this is a very broad topic.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYG4nU8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "grant-paton-simpson---sofa-statistics---developin", 
-            "speakers": [
-                66
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                194, 
-                27, 
-                209, 
-                210
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-GrantPatonSimpsonSOFAStatisticsDevelopingPackagingPromo591-977.jpg", 
-            "title": "Grant Paton-Simpson - SOFA Statistics - Developing, packaging, &amp; promoting a Python open source project", 
-            "updated": "2009-12-21T05:15:56+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 120
+    "model": "videos.Video", 
+    "pk": 119
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        66
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>SOFA Statistics - Developing, packaging and promoting a Python open source project</p>\n<p>Presented by Grant Paton-Simpson</p>\n<p>Abstract</p>\n<p>\n    Overview of an open source Python project. Will cover wxPython (GUI toolkit) plus graphics generally; quirks of different databases; making python installer packages; using Sourceforge, Freshmeat, and Launchpad (and Bazaar); and promoting the project.\n</p>\n<p>Outline</p>\n<p>\n    SOFA Statistics (<a href=\"http://www.sofastatistics.com/\">http://www.sofastatistics.com/</a>) is an open source desktop Python application with an emphasis on ease of use, learn as you go, and beautiful output. The talk will cover technical aspects of the project as well as project management issues. Specific areas covered will include:\n</p>\n<ul>\n<li>Using the cross-platform GUI toolkit wxPython (including wxWebKit and the grid widgets) plus initial exploration of Matplotlib and Raphael (Javascript and SVG)\n</li><li>Experience using different database engines including SQLite, MySQL, MS Access, and MS SQL Server\n</li><li>Issues with standard statistics modules e.g. in SciPy\n</li><li>Making python installer packages \u2013 currently only deb packages and Windows installers (using NSIS). Plus managing releases.\n</li><li>Using Sourceforge, Freshmeat, and Launchpad (including Bazaar)\n</li><li>Promoting the project through blogging, answering posts e.g. Ubuntu, wikipedia, special aggregator lists and reviews, presentations, articles, etc.\n</li></ul>\n<p>\nQuestions are very welcome as this is a very broad topic.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        194, 
+        27, 
+        209, 
+        210
+      ], 
+      "title": "Grant Paton-Simpson - SOFA Statistics - Developing, packaging, &amp; promoting a Python open source project", 
+      "updated": "2009-12-21T05:15:56+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-GrantPatonSimpsonSOFAStatisticsDevelopingPackagingPromo591-977.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYG4nU8C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2998674", 
+      "slug": "grant-paton-simpson---sofa-statistics---developin"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Stackless Python 101</p>\n<p>Presented by Richard Tew</p>\n<p>Abstract</p>\n<p>\n    An introduction to Stackless Python, showing what it is useful for and how to use it.\n</p>\n<p>Outline</p>\n<p>\n    The talk would start by describing what Stackless Python is, and the reasons why you would use it. Next it would cover how to use Stackless Python. And finally, what the limitations of a green threading framework like this are and what needs to be done to cater for them.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYG4nFAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "richard-tew---stackless-python-101", 
-            "speakers": [
-                67
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                211
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardTewStacklessPython101699-529.jpg", 
-            "title": "Richard Tew - Stackless Python 101", 
-            "updated": "2009-12-21T04:27:57+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 121
+    "model": "videos.Video", 
+    "pk": 120
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        67
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Stackless Python 101</p>\n<p>Presented by Richard Tew</p>\n<p>Abstract</p>\n<p>\n    An introduction to Stackless Python, showing what it is useful for and how to use it.\n</p>\n<p>Outline</p>\n<p>\n    The talk would start by describing what Stackless Python is, and the reasons why you would use it. Next it would cover how to use Stackless Python. And finally, what the limitations of a green threading framework like this are and what needs to be done to cater for them.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        211
+      ], 
+      "title": "Richard Tew - Stackless Python 101", 
+      "updated": "2009-12-21T04:27:57+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardTewStacklessPython101699-529.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYG4nFAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2998547", 
+      "slug": "richard-tew---stackless-python-101"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Launchpad: The Good, The Bad, and the OMG How Does That Work</p>\n<p>Presented by Tim Penhey</p>\n<p>Keynote</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGy6hAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "tim-penhey---launchpad--the-good--the-bad--and-th", 
-            "speakers": [
-                68
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                194
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimPenheyLaunchpadTheGoodTheBadAndTheOMGHowDoesThat845-307.jpg", 
-            "title": "Tim Penhey - Launchpad: The Good, the Bad, and the OMG How Does That Work", 
-            "updated": "2009-11-30T06:33:05+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 122
+    "model": "videos.Video", 
+    "pk": 121
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        68
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Launchpad: The Good, The Bad, and the OMG How Does That Work</p>\n<p>Presented by Tim Penhey</p>\n<p>Keynote</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        194
+      ], 
+      "title": "Tim Penhey - Launchpad: The Good, the Bad, and the OMG How Does That Work", 
+      "updated": "2009-11-30T06:33:05+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimPenheyLaunchpadTheGoodTheBadAndTheOMGHowDoesThat845-307.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGy6hAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2910081", 
+      "slug": "tim-penhey---launchpad--the-good--the-bad--and-th"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>An introduction to PyPy</p>\n<p>Presented by Michael Hudson-Doyle</p>\n<p>Abstract</p>\n<p>\n    An overview of the ideas behind the project, its current status, future plans and why you should care about it.\n</p>\n<p>Outline</p>\n<p>\n    The core idea of PyPy is to produce a flexible and fast implementation of the Python programming language. The talk will cover the interpreter, translator and jit parts of the code and their relationships and the fundamental ways in which PyPy differs from other virtual machine implementations.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGy6EwC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "michael-hudson-doyle---an-introduction-to-pypy", 
-            "speakers": [
-                58
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                91
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-MichaelHudsonAnIntroductionToPyPy702-526.jpg", 
-            "title": "Michael Hudson-Doyle - An Introduction to PyPy", 
-            "updated": "2009-11-30T04:49:40+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 123
+    "model": "videos.Video", 
+    "pk": 122
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        58
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>An introduction to PyPy</p>\n<p>Presented by Michael Hudson-Doyle</p>\n<p>Abstract</p>\n<p>\n    An overview of the ideas behind the project, its current status, future plans and why you should care about it.\n</p>\n<p>Outline</p>\n<p>\n    The core idea of PyPy is to produce a flexible and fast implementation of the Python programming language. The talk will cover the interpreter, translator and jit parts of the code and their relationships and the fundamental ways in which PyPy differs from other virtual machine implementations.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        91
+      ], 
+      "title": "Michael Hudson-Doyle - An Introduction to PyPy", 
+      "updated": "2009-11-30T04:49:40+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-MichaelHudsonAnIntroductionToPyPy702-526.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGy6EwC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2909885", 
+      "slug": "michael-hudson-doyle---an-introduction-to-pypy"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Introductory programming with Python</p>\n<p>Presented by Brendan McCane</p>\n<p>Abstract</p>\n<p>\n    In first semester 2009, CS at Otago introduced an introductory programming course using Python. This talk will describe the course and student outcomes.\n</p>\n<p>Outline</p>\n<p>\n    The talk will cover the following topics: - the problems of teaching and learning programming - does language make a difference? - why Python is a good choice for a first language - the structure of the course - things that worked well, and things that didn't - what students thought about it - impact on learning Java in the second semester - changes for 2010 Note: this is a preliminary outline, it's likely that it will change somewhat before the conference.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGy5hkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "brendan-mccane---introductory-programming-with-py", 
-            "speakers": [
-                69
-            ], 
-            "summary": "", 
-            "tags": [
-                212, 
-                182, 
-                183
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrendanMcCaneIntroductoryProgrammingWithPython306-471.jpg", 
-            "title": "Brendan McCane - Introductory programming with Python", 
-            "updated": "2009-11-30T03:22:27+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 124
+    "model": "videos.Video", 
+    "pk": 123
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        69
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Introductory programming with Python</p>\n<p>Presented by Brendan McCane</p>\n<p>Abstract</p>\n<p>\n    In first semester 2009, CS at Otago introduced an introductory programming course using Python. This talk will describe the course and student outcomes.\n</p>\n<p>Outline</p>\n<p>\n    The talk will cover the following topics: - the problems of teaching and learning programming - does language make a difference? - why Python is a good choice for a first language - the structure of the course - things that worked well, and things that didn't - what students thought about it - impact on learning Java in the second semester - changes for 2010 Note: this is a preliminary outline, it's likely that it will change somewhat before the conference.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        212, 
+        182, 
+        183
+      ], 
+      "title": "Brendan McCane - Introductory programming with Python", 
+      "updated": "2009-11-30T03:22:27+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-BrendanMcCaneIntroductoryProgrammingWithPython306-471.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGy5hkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2909578", 
+      "slug": "brendan-mccane---introductory-programming-with-py"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Grok or how Zope3 reinvented itself</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces how to quickly and easily create web applications with Grok, a web framework based on Zope3 (<a href=\"http://grok.zope.org/\">http://grok.zope.org/</a>).\n</p>\n<p>Outline</p>\n<p>\n    Grok is a web application framework based on Zope 3 - the popular application server. One of the main aspects of Grok is the rapid development of web applications without losing the flexibility Zope 3 provides. The talk covers a quick introduction to Zope 3 and Grok. Based on an example, I will provide a quick walk through on how easy it is to create sophisticated web applications with Grok. Additionally, the talk outlines pitfalls for newcomers and how to avoid them.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGv0yMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "roman-joost---grok-or-how-zope3-reinvented-itself", 
-            "speakers": [
-                65
-            ], 
-            "summary": "", 
-            "tags": [
-                213, 
-                182, 
-                183, 
-                92, 
-                214
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RomanJoostGrokOrHowZope3ReinventedItself132-644.jpg", 
-            "title": "Roman Joost - Grok or how Zope3 reinvented itself", 
-            "updated": "2009-11-17T01:34:06+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 125
+    "model": "videos.Video", 
+    "pk": 124
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        65
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Grok or how Zope3 reinvented itself</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces how to quickly and easily create web applications with Grok, a web framework based on Zope3 (<a href=\"http://grok.zope.org/\">http://grok.zope.org/</a>).\n</p>\n<p>Outline</p>\n<p>\n    Grok is a web application framework based on Zope 3 - the popular application server. One of the main aspects of Grok is the rapid development of web applications without losing the flexibility Zope 3 provides. The talk covers a quick introduction to Zope 3 and Grok. Based on an example, I will provide a quick walk through on how easy it is to create sophisticated web applications with Grok. Additionally, the talk outlines pitfalls for newcomers and how to avoid them.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        213, 
+        182, 
+        183, 
+        92, 
+        214
+      ], 
+      "title": "Roman Joost - Grok or how Zope3 reinvented itself", 
+      "updated": "2009-11-17T01:34:06+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RomanJoostGrokOrHowZope3ReinventedItself132-644.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGv0yMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2857954", 
+      "slug": "roman-joost---grok-or-how-zope3-reinvented-itself"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Getting all your web apps to wear the company brand</p>\n<p>Presented by Tim Knapp</p>\n<p>Abstract</p>\n<p>\nCross-platform theming! No matter what the platform/language, you can seamlessly apply 1 theme across all your disparate web applications.\n</p>\n<p>Outline</p>\n<p>\nThe technology is called Deliverance and Tim Knapp will demonstrate how to use this powerful tool to theme your web applications.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGvv00C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "tim-knapp---getting-all-your-web-apps-to-wear-the", 
-            "speakers": [
-                70
-            ], 
-            "summary": "", 
-            "tags": [
-                215, 
-                182, 
-                183, 
-                216
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimKnappGettingAllYourWebAppsToWearTheCompanyBrand869-36.jpg", 
-            "title": "Tim Knapp - Getting All Your Web Apps To Wear The Company Brand", 
-            "updated": "2009-11-16T14:51:19+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 126
+    "model": "videos.Video", 
+    "pk": 125
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        70
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Getting all your web apps to wear the company brand</p>\n<p>Presented by Tim Knapp</p>\n<p>Abstract</p>\n<p>\nCross-platform theming! No matter what the platform/language, you can seamlessly apply 1 theme across all your disparate web applications.\n</p>\n<p>Outline</p>\n<p>\nThe technology is called Deliverance and Tim Knapp will demonstrate how to use this powerful tool to theme your web applications.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        215, 
+        182, 
+        183, 
+        216
+      ], 
+      "title": "Tim Knapp - Getting All Your Web Apps To Wear The Company Brand", 
+      "updated": "2009-11-16T14:51:19+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-TimKnappGettingAllYourWebAppsToWearTheCompanyBrand869-36.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGvv00C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2855434", 
+      "slug": "tim-knapp---getting-all-your-web-apps-to-wear-the"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Get started with Zope3</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces Zope 3, the main differences to Zope (2) and how to get started.\n</p>\n<p>Outline</p>\n<p>\n    The Zope application server exist for nearly a decade now. One of the biggest changes to the Zope architecture was the rewrite of the framework and an introduction of a component architecture. Zope 3 was born. The talk covers how developers can bootstrap a Zope 3 project using buildout, what the differences between Zope (2) and Zope 3 is, how views and models are created and registered, how third party applications are used and how common pitfalls can be avoided.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGvuRsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "roman-joost---get-started-with-zope3", 
-            "speakers": [
-                65
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                92, 
-                217, 
-                214
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RmanJoostGetStartedWithZope3461-131.jpg", 
-            "title": "Roman Joost - Get started with Zope3", 
-            "updated": "2009-11-16T10:15:08+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 127
+    "model": "videos.Video", 
+    "pk": 126
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        65
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Get started with Zope3</p>\n<p>Presented by Roman Joost</p>\n<p>Abstract</p>\n<p>\n    The talk introduces Zope 3, the main differences to Zope (2) and how to get started.\n</p>\n<p>Outline</p>\n<p>\n    The Zope application server exist for nearly a decade now. One of the biggest changes to the Zope architecture was the rewrite of the framework and an introduction of a component architecture. Zope 3 was born. The talk covers how developers can bootstrap a Zope 3 project using buildout, what the differences between Zope (2) and Zope 3 is, how views and models are created and registered, how third party applications are used and how common pitfalls can be avoided.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        92, 
+        217, 
+        214
+      ], 
+      "title": "Roman Joost - Get started with Zope3", 
+      "updated": "2009-11-16T10:15:08+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RmanJoostGetStartedWithZope3461-131.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGvuRsC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2854616", 
+      "slug": "roman-joost---get-started-with-zope3"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>coursebuilder: reusable multimodal elearning resource editor</p>\n<p>Presented by WenChen Hol</p>\n<p>Abstract</p>\n<p>\n    To showcase and explain the core technology of the coursebuilder tool. It is a web technology that can help deliver the reuse of quality learning and web designs and to facilitate putting extra teaching information and community input inside context.\n</p>\n<p>Outline</p>\n<p>\n    technology background demo what is the difference q&a;\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGvuBkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "wenchen-hol---coursebuilder--reusable-multimodal-", 
-            "speakers": [
-                71
-            ], 
-            "summary": "", 
-            "tags": [
-                218, 
-                182, 
-                183
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-WenChenHolCoursebuilderReusableMultimodalElearningResourc896-68.jpg", 
-            "title": "WenChen Hol - coursebuilder: reusable multimodal elearning resource editor", 
-            "updated": "2009-11-16T08:58:53+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 128
+    "model": "videos.Video", 
+    "pk": 127
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        71
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>coursebuilder: reusable multimodal elearning resource editor</p>\n<p>Presented by WenChen Hol</p>\n<p>Abstract</p>\n<p>\n    To showcase and explain the core technology of the coursebuilder tool. It is a web technology that can help deliver the reuse of quality learning and web designs and to facilitate putting extra teaching information and community input inside context.\n</p>\n<p>Outline</p>\n<p>\n    technology background demo what is the difference q&a;\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        218, 
+        182, 
+        183
+      ], 
+      "title": "WenChen Hol - coursebuilder: reusable multimodal elearning resource editor", 
+      "updated": "2009-11-16T08:58:53+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-WenChenHolCoursebuilderReusableMultimodalElearningResourc896-68.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGvuBkC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2854486", 
+      "slug": "wenchen-hol---coursebuilder--reusable-multimodal-"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Making Django awesomer</p>\n<p>Presented by Richard Jones</p>\n<p>Abstract</p>\n<p>\n    In this talk I will present a number of extensions to the core of Django that will make your life a lot easier and/or awesomer.\n</p>\n<p>Outline</p>\n<p>\n    I will:\n</p>\n<ol>\n<li>talk about how to find extensions,\n</li><li>walk through installing some common extensions,\n</li><li>look at the functionality provided by some developer tools, and\n</li><li>demonstrate the power of a social networking site extension\n</li></ol>\n<p>\nAttendees should have some familiarity with Django.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGvtUQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "richard-jones---making-django-awesomer", 
-            "speakers": [
-                64
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                182, 
-                183
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardJonesMakingDjangoAwesomer268-681.jpg", 
-            "title": "Richard Jones - Making Django awesomer", 
-            "updated": "2009-11-16T06:22:07+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 129
+    "model": "videos.Video", 
+    "pk": 128
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        64
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Making Django awesomer</p>\n<p>Presented by Richard Jones</p>\n<p>Abstract</p>\n<p>\n    In this talk I will present a number of extensions to the core of Django that will make your life a lot easier and/or awesomer.\n</p>\n<p>Outline</p>\n<p>\n    I will:\n</p>\n<ol>\n<li>talk about how to find extensions,\n</li><li>walk through installing some common extensions,\n</li><li>look at the functionality provided by some developer tools, and\n</li><li>demonstrate the power of a social networking site extension\n</li></ol>\n<p>\nAttendees should have some familiarity with Django.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        0, 
+        182, 
+        183
+      ], 
+      "title": "Richard Jones - Making Django awesomer", 
+      "updated": "2009-11-16T06:22:07+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardJonesMakingDjangoAwesomer268-681.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGvtUQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2854145", 
+      "slug": "richard-jones---making-django-awesomer"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>/me wants it.  Scraping sites to get data.</p>\n<p>Presented by Robert Coup</p>\n<p>Abstract</p>\n<p>\n    Building scrapers for grabbing data from websites. Tools, techniques, and tips.\n</p>\n<p>Outline</p>\n<p>\n    Life would be so much easier if the data contained in websites was available raw via APIs. Alas, until that mythical day comes we either need to deal with unhelpful people via email and phone, or just get it ourselves. Python has some great tools available to help with building scrapers and for parsing and formatting the data we get. Starting off with the basics - tracking what needs to be done, making web requests, parsing HTML, following links, and extricating data from Excel and PDF documents. Our scraper needs to be resilient against too-clever content management systems, Frontpage-era HTML, and plain dodgy data. We may need to pass through logins and other messiness. There are some techniques and tips for approaching the problems and keeping your solution flexible and as simple as possible. We'll discuss some scrapers built for New Zealand data, and introduce a new project from the NZ open government data group to provide a RESTful interface to scrapers - effectively creating a nice API where there isn't one. \n</p>\n<p>Slides: <a href=\"http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data\">http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data</a></p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGvtFMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "robert-coup----me-wants-it--scraping-sites-to-get", 
-            "speakers": [
-                55
-            ], 
-            "summary": "", 
-            "tags": [
-                69, 
-                219, 
-                182, 
-                183, 
-                30, 
-                129, 
-                92
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RobertCoupMeWantsItScrapingSitesToGetData498-799.jpg", 
-            "title": "Robert Coup - /me wants it. Scraping sites to get data.", 
-            "updated": "2009-11-16T05:27:35+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 130
+    "model": "videos.Video", 
+    "pk": 129
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        55
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>/me wants it.  Scraping sites to get data.</p>\n<p>Presented by Robert Coup</p>\n<p>Abstract</p>\n<p>\n    Building scrapers for grabbing data from websites. Tools, techniques, and tips.\n</p>\n<p>Outline</p>\n<p>\n    Life would be so much easier if the data contained in websites was available raw via APIs. Alas, until that mythical day comes we either need to deal with unhelpful people via email and phone, or just get it ourselves. Python has some great tools available to help with building scrapers and for parsing and formatting the data we get. Starting off with the basics - tracking what needs to be done, making web requests, parsing HTML, following links, and extricating data from Excel and PDF documents. Our scraper needs to be resilient against too-clever content management systems, Frontpage-era HTML, and plain dodgy data. We may need to pass through logins and other messiness. There are some techniques and tips for approaching the problems and keeping your solution flexible and as simple as possible. We'll discuss some scrapers built for New Zealand data, and introduce a new project from the NZ open government data group to provide a RESTful interface to scrapers - effectively creating a nice API where there isn't one. \n</p>\n<p>Slides: <a href=\"http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data\">http://www.slideshare.net/rcoup/me-wants-it-scraping-sites-to-get-data</a></p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
+      "tags": [
+        69, 
+        219, 
+        182, 
+        183, 
+        30, 
+        129, 
+        92
+      ], 
+      "title": "Robert Coup - /me wants it. Scraping sites to get data.", 
+      "updated": "2009-11-16T05:27:35+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RobertCoupMeWantsItScrapingSitesToGetData498-799.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGvtFMC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2854032", 
+      "slug": "robert-coup----me-wants-it--scraping-sites-to-get"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>A smart introduction to Plone</p>\n<p>Presented by Joel Burton</p>\n<p>Abstract</p>\n<p>\nThe world of online content management systems has become so enormous that it can be difficult to weigh the advantages--and disadvantages--of the systems. The speaker, a noted Plone author and consultant, will demonstrate the featureset of Plone, and provide real-world hints on the customer value and challenges it provides.\n</p>\n<p>Outline</p>\n<p>\nHere, you can learn where Plone may serve your needs well, and where it might be overkill or inappropriately deployed. You'll also learn approximate budgets, in time and learning, you'd need to get up to speed on the system. In addition, a demonstration of the upcoming features of Plone 4 and a future-looking glance at the radically-redesigned Plone 5 will be given. Recommended for new and casual users of Plone, and for people interested in understanding its niche in the CMS/application development world.\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGuvEoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "joel-burton---a-smart-introduction-to-plone", 
-            "speakers": [
-                72
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                183, 
-                216
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-JoelBurtonASmartIntroductionToPlone158-814.jpg", 
-            "title": "Joel Burton - A Smart Introduction to Plone", 
-            "updated": "2009-11-12T02:27:25+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 131
+    "model": "videos.Video", 
+    "pk": 130
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        72
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>A smart introduction to Plone</p>\n<p>Presented by Joel Burton</p>\n<p>Abstract</p>\n<p>\nThe world of online content management systems has become so enormous that it can be difficult to weigh the advantages--and disadvantages--of the systems. The speaker, a noted Plone author and consultant, will demonstrate the featureset of Plone, and provide real-world hints on the customer value and challenges it provides.\n</p>\n<p>Outline</p>\n<p>\nHere, you can learn where Plone may serve your needs well, and where it might be overkill or inappropriately deployed. You'll also learn approximate budgets, in time and learning, you'd need to get up to speed on the system. In addition, a demonstration of the upcoming features of Plone 4 and a future-looking glance at the radically-redesigned Plone 5 will be given. Recommended for new and casual users of Plone, and for people interested in understanding its niche in the CMS/application development world.\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        182, 
+        183, 
+        216
+      ], 
+      "title": "Joel Burton - A Smart Introduction to Plone", 
+      "updated": "2009-11-12T02:27:25+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-JoelBurtonASmartIntroductionToPlone158-814.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGuvEoC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2838646", 
+      "slug": "joel-burton---a-smart-introduction-to-plone"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Lightning Talks</p>\n<ul>\n<li>Morris Jones (Simple robot using python on a wifi router)\n</li><li>John Graves (Voice interaction)\n</li><li>Charles Manning (A noob does ctypes)\n</li><li>Raazesh Sainudiin (Computational Statistical Laboratories with SAGE Notebook Server)\n</li><li>Juergen Brendel (WSGI is easy)\n</li><li>Michael Hoppe (Basic data acquisition and analysis)\n</li><li>Carl Cerecke (A faster, cleaner goto statement)\n</li><li>Douglas Bagnall (Booki, Objavi, Espri: the FLOSS Manuals publishing suite)\n</li><li>Peter Harrison (Introduction to Autonomous Systems)\n</li><li>Jim Tittsler (Educational Content Packaging)\n</li><li>David Hood (Little lies to tell when teaching Python Programming)\n</li><li>Dylan Jay (How to host Python app for $20 in 20mins - collective.hostout)\n</li><li>Greg Hewgill (PSIL - Python S-expression Intermediate Language)\n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGt8ygC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "lightning-talks", 
-            "speakers": [], 
-            "summary": "", 
-            "tags": [
-                220, 
-                221, 
-                222, 
-                182, 
-                183, 
-                152, 
-                223, 
-                224, 
-                225
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-LightningTalks846-865.jpg", 
-            "title": "Lightning talks", 
-            "updated": "2009-11-10T05:06:27+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 132
+    "model": "videos.Video", 
+    "pk": 131
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Lightning Talks</p>\n<ul>\n<li>Morris Jones (Simple robot using python on a wifi router)\n</li><li>John Graves (Voice interaction)\n</li><li>Charles Manning (A noob does ctypes)\n</li><li>Raazesh Sainudiin (Computational Statistical Laboratories with SAGE Notebook Server)\n</li><li>Juergen Brendel (WSGI is easy)\n</li><li>Michael Hoppe (Basic data acquisition and analysis)\n</li><li>Carl Cerecke (A faster, cleaner goto statement)\n</li><li>Douglas Bagnall (Booki, Objavi, Espri: the FLOSS Manuals publishing suite)\n</li><li>Peter Harrison (Introduction to Autonomous Systems)\n</li><li>Jim Tittsler (Educational Content Packaging)\n</li><li>David Hood (Little lies to tell when teaching Python Programming)\n</li><li>Dylan Jay (How to host Python app for $20 in 20mins - collective.hostout)\n</li><li>Greg Hewgill (PSIL - Python S-expression Intermediate Language)\n</li></ul>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>", 
+      "tags": [
+        220, 
+        221, 
+        222, 
+        182, 
+        183, 
+        152, 
+        223, 
+        224, 
+        225
+      ], 
+      "title": "Lightning talks", 
+      "source_url": "http://blip.tv/file/2829247",
+      "updated": "2009-11-10T05:06:27+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-LightningTalks846-865.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGt8ygC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "slug": "lightning-talks"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>The Living Coder</p>\n<p>Presented by Richard Clark</p>\n<p>Abstract</p>\n<p>\nTales, anecdotes philosophy and musings about the life that surrounds the code we write.\n</p>\n<p>Outline</p>\n<p>\nThe project manager called me to his office and said \"I know you did this in two weeks in perl, but applications here must be written in java, because java programmers are much easier to find\". When I left 6 months later, the same manager said \"You wouldn't happen to know any java programmers would you? we have nobody to replace you..\". This is the story of the life that exists around the code we write.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGt030C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "richard-clark---the-living-coder", 
-            "speakers": [
-                73
-            ], 
-            "summary": "", 
-            "tags": [
-                182, 
-                226
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardClarkTheLivingCoder816-505.jpg", 
-            "title": "Richard Clark - The living coder", 
-            "updated": "2009-11-09T09:15:18+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 133
+    "model": "videos.Video", 
+    "pk": 132
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        73
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>The Living Coder</p>\n<p>Presented by Richard Clark</p>\n<p>Abstract</p>\n<p>\nTales, anecdotes philosophy and musings about the life that surrounds the code we write.\n</p>\n<p>Outline</p>\n<p>\nThe project manager called me to his office and said \"I know you did this in two weeks in perl, but applications here must be written in java, because java programmers are much easier to find\". When I left 6 months later, the same manager said \"You wouldn't happen to know any java programmers would you? we have nobody to replace you..\". This is the story of the life that exists around the code we write.\n</p>\n<p>\n     [VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
+      "tags": [
+        182, 
+        226
+      ], 
+      "title": "Richard Clark - The living coder", 
+      "updated": "2009-11-09T09:15:18+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-RichardClarkTheLivingCoder816-505.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGt030C\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2825235", 
+      "slug": "richard-clark---the-living-coder"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Testing Demo</p>\n<p>Presented by Michael Dunstan</p>\n<p>\nAbstract\n</p>\n<p>\nLive demo of writing code and tests.\n</p>\n<p>\nOutline\n</p>\n<p>\nThis live demo is intended for people that have not seen test driven development in action before. See what a failing test should look like. And then I'll attempt to write some code to make that test pass so that you can see what a successful test run looks like - I may need some help from the audience at that point. Along the way you'll see various features of the test framework 'nose' in action and even some doctests. This will be a second attempt of the stunt first performed: <a href=\"http://nzpug.org/MeetingsAuckland/August2009\">http://nzpug.org/MeetingsAuckland/August2009.</a>\n</p>\n<p>\nSlides: <a href=\"http://www.slideshare.net/michaeldunstan/testing-workshop-2455697\">http://www.slideshare.net/michaeldunstan/testing-workshop-2455697</a>\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGtyXAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "michael-dunstan---testing-demo", 
-            "speakers": [
-                74
-            ], 
-            "summary": "", 
-            "tags": [
-                227, 
-                182, 
-                183, 
-                228, 
-                21
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-KPC09T102MD300-535.jpg", 
-            "title": "Michael Dunstan - Testing Demo", 
-            "updated": "2009-11-09T00:09:01+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 134
+    "model": "videos.Video", 
+    "pk": 133
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        74
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Testing Demo</p>\n<p>Presented by Michael Dunstan</p>\n<p>\nAbstract\n</p>\n<p>\nLive demo of writing code and tests.\n</p>\n<p>\nOutline\n</p>\n<p>\nThis live demo is intended for people that have not seen test driven development in action before. See what a failing test should look like. And then I'll attempt to write some code to make that test pass so that you can see what a successful test run looks like - I may need some help from the audience at that point. Along the way you'll see various features of the test framework 'nose' in action and even some doctests. This will be a second attempt of the stunt first performed: <a href=\"http://nzpug.org/MeetingsAuckland/August2009\">http://nzpug.org/MeetingsAuckland/August2009.</a>\n</p>\n<p>\nSlides: <a href=\"http://www.slideshare.net/michaeldunstan/testing-workshop-2455697\">http://www.slideshare.net/michaeldunstan/testing-workshop-2455697</a>\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor. Slides are hard to read.]\n</p>\n", 
+      "tags": [
+        227, 
+        182, 
+        183, 
+        228, 
+        21
+      ], 
+      "title": "Michael Dunstan - Testing Demo", 
+      "updated": "2009-11-09T00:09:01+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-KPC09T102MD300-535.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGtyXAC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2823942", 
+      "slug": "michael-dunstan---testing-demo"
     }, 
-    {
-        "fields": {
-            "added": "2012-02-22 22:20", 
-            "description": "<p>Why Python web frameworks are changing the web</p>\n<p>Presented by Joel Burton</p>\n<p>\nKeynote.\n</p>\n<p>\nSlides from the keynote: http://www.slideshare.net/joelburton/why-python-web-frameworks-are-changing-the-web\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor.  Slides are hard to read.]\n</p>", 
-            "embed": "<embed src=\"http://blip.tv/play/AYGtryQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
-            "category": 4, 
-            "slug": "joel-burton---why-python-web-frameworks-are-chang", 
-            "speakers": [
-                72
-            ], 
-            "summary": "", 
-            "tags": [
-                0, 
-                182, 
-                183, 
-                216, 
-                229, 
-                230, 
-                92, 
-                217
-            ], 
-            "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-JoelBurtonWhyPythonWebFrameworksAreChangingTheWeb374-745.jpg", 
-            "title": "Joel Burton - Why Python Web Frameworks are Changing the Web", 
-            "updated": "2009-11-07T20:40:20+00:00"
-        }, 
-        "model": "videos.Video", 
-        "pk": 135
-    }
+    "model": "videos.Video", 
+    "pk": 134
+  }, 
+  {
+    "fields": {
+      "category": 4, 
+      "speakers": [
+        72
+      ], 
+      "added": "2012-02-22 22:20", 
+      "description": "<p>Why Python web frameworks are changing the web</p>\n<p>Presented by Joel Burton</p>\n<p>\nKeynote.\n</p>\n<p>\nSlides from the keynote: http://www.slideshare.net/joelburton/why-python-web-frameworks-are-changing-the-web\n</p>\n<p>\n[VIDEO HAS ISSUES: Sound and video are poor.  Slides are hard to read.]\n</p>", 
+      "tags": [
+        0, 
+        182, 
+        183, 
+        216, 
+        229, 
+        230, 
+        92, 
+        217
+      ], 
+      "title": "Joel Burton - Why Python Web Frameworks are Changing the Web", 
+      "updated": "2009-11-07T20:40:20+00:00", 
+      "summary": "", 
+      "thumbnail_url": "http://a.images.blip.tv/Kiwipycon-JoelBurtonWhyPythonWebFrameworksAreChangingTheWeb374-745.jpg", 
+      "embed": "<embed src=\"http://blip.tv/play/AYGtryQC\" type=\"application/x-shockwave-flash\" width=\"480\" height=\"390\" allowscriptaccess=\"always\" allowfullscreen=\"true\"></embed>", 
+      "source_url": "http://blip.tv/file/2820538", 
+      "slug": "joel-burton---why-python-web-frameworks-are-chang"
+    }, 
+    "model": "videos.Video", 
+    "pk": 135
+  }
 ]
