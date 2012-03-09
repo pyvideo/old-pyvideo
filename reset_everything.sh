@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export PYTHONPATH=./config:$PYTHONPATH
+export PYTHONPATH=./config:./richard/:$PYTHONPATH
 export DJANGO_SETTINGS_MODULE=pyvideo_settings
 
 PYTHON=./venv/bin/python
@@ -33,3 +33,5 @@ $PYTHON ./richard/manage.py loaddata \
 #    pycon-au-2011.json \
 
 $PYTHON ./richard/manage.py rebuild_index
+
+$PYTHON ./richard/manage.py collectstatic
