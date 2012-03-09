@@ -1,6 +1,19 @@
 [
     {
         "model": "sitenews.SiteNews",
+        "pk": 3,
+        "fields": {
+            "title": "PyCon US 2012 video status",
+            "summary": "<p>I'm at PyCon US 2012 and Working with the video team to get videos posted.</p>",
+            "description": "<p>Right now I'm at PyCon US 2012. I've moved the site from my server to Carl's slice and done some minor reconfiguring so it works better. It's still not great, but this is a pretty new piece of software.</p><p>I've talked with Carl and Ryan with the video team and I'm working on the code for getting PyCon US 2012 videos posted here. Pretty sure I'll have it done in the next 12 hours.</p><p>One interesting thing is that this year, the videos are getting posted to YouTube. In previous years, they were posted to blip.tv.</p><p>I'll have more status soon!</p>",
+            "author": "will kahn-greene",
+            "slug": "pycon-us-2012",
+            "updated": "2012-03-09T13:40:00+05:00",
+            "created": "2012-03-09T13:40:00+05:00"
+        }
+    },
+    {
+        "model": "sitenews.SiteNews",
         "pk": 2,
         "fields": {
             "title": "Welcome to pyvideo.org!",
