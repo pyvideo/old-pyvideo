@@ -16,6 +16,8 @@ sys.path.append(os.path.join(os.path.dirname(ROOT), 'apps'))
 DEBUG = mysecrets.DEBUG
 TEMPLATE_DEBUG = mysecrets.TEMPLATE_DEBUG
 
+SITE_TITLE = u'pyvideo.org'
+
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
     ('Will Kahn-Greene', 'willg@bluesock.org'),
