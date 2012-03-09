@@ -1,5 +1,19 @@
 [
   {
+    "model": "videos.CategoryKind",
+    "pk": 1,
+    "fields": {
+      "name": "Conference"
+    }
+  },
+  {
+    "model": "videos.CategoryKind",
+    "pk": 2,
+    "fields": {
+      "name": "Python User Group"
+    }
+  },
+  {
     "model": "videos.Category",
     "pk": 1,
     "fields": {
@@ -57,7 +71,7 @@
       "description": "PyCon 2009 in Atlanta, GA",
       "url": "",
       "slug": "pycon-2009",
-      "notes": "doesn't have a year-specific website"
+      "whiteboard": "doesn't have a year-specific website"
     }
   },
   {
@@ -70,7 +84,7 @@
       "description": "PyCon 2010 in Atlanta, GA",
       "url": "",
       "slug": "pycon-2010",
-      "notes": "doesn't have a year-specific website"
+      "whiteboard": "doesn't have a year-specific website"
     }
   },
   {
@@ -82,8 +96,7 @@
       "title": "PyCon 2011",
       "description": "PyCon 2011 in Atlanta, GA",
       "url": "http://us.pycon.org/2011/home/",
-      "slug": "pycon-2011",
-      "notes": "doesn't have a year-specific website"
+      "slug": "pycon-2011"
     }
   },
   {
@@ -132,7 +145,7 @@
       "description": "PyOhio 2010",
       "url": "",
       "slug": "pyohio-2010",
-      "notes": "doesn't have a year-specific website"
+      "whiteboard": "doesn't have a year-specific website"
     }
   },
   {
@@ -145,7 +158,7 @@
       "description": "PyOhio 2011",
       "url": "",
       "slug": "pyohio-2011",
-      "notes": "doesn't have a year-specific website"
+      "whiteboard": "doesn't have a year-specific website"
     }
   },
   {

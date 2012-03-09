@@ -4956,13 +4956,6 @@
         }
     }, 
     {
-        "pk": 592, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ddd"
-        }
-    }, 
-    {
         "pk": 86, 
         "model": "videos.Tag", 
         "fields": {
