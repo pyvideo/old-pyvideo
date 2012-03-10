@@ -6,8 +6,8 @@ export DJANGO_SETTINGS_MODULE=pyvideo_settings
 PYTHON=./venv/bin/python
 FIXTURES=./fixtures
 
-$PYTHON ./richard/manage.py reset videos sitenews
-$PYTHON ./richard/manage.py syncdb
+$PYTHON ./richard/manage.py reset --noinput videos sitenews
+$PYTHON ./richard/manage.py syncdb --noinput
 
 $PYTHON ./richard/manage.py loaddata \
     $FIXTURES/tags.json \
@@ -33,5 +33,3 @@ $PYTHON ./richard/manage.py loaddata \
 #    pycon-au-2011.json \
 
 $PYTHON ./richard/manage.py rebuild_index
-
-$PYTHON ./richard/manage.py collectstatic
