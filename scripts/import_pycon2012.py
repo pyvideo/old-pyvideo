@@ -33,6 +33,7 @@ def import_video(data):
         'state': 1,  # live
         'category': 17,
         'title': data['name'],
+        'summary': '<p>%s</p>' % data['description'],
         'source_url': data['host_url'],
         'copyright_text': data['license'],
         'speakers': data['authors'].split(','),
