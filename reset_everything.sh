@@ -32,4 +32,4 @@ $PYTHON ./richard/manage.py loaddata \
 
 #    pycon-au-2011.json \
 
-$PYTHON ./richard/manage.py rebuild_index
+$PYTHON ./richard/manage.py rebuild_index --noinput
