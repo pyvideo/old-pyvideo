@@ -4,6 +4,7 @@ import datetime
 import itertools
 
 import requests
+import vidscraper
 
 from videos.models import create_videos, Video
 from django.core import serializers
@@ -27,6 +28,14 @@ CARL_TO_RICHARD = {
     }
 
 
+def get_data_from_yahoo(url):
+    video = vidscraper.auto_scrape(url)
+    return {
+        'thumbnail_url': video.thumbnail_url,
+        'embed': video.embed_code
+        }
+
+
 def import_video(data):
     print 'Working on %s...' % data['name']
     new_data = {
@@ -41,6 +50,8 @@ def import_video(data):
                                                '%Y-%m-%d %H:%M:%S'),
         'added': datetime.datetime.now()
         }
+
+    new_data.update(get_data_from_yahoo(data['host_url']))
 
     return create_videos([new_data])
 
