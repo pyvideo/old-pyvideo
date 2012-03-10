@@ -66,11 +66,11 @@
     "pk": 5,
     "fields": {
       "kind": 1,
-      "name": "PyCon",
-      "title": "PyCon 2009",
-      "description": "PyCon 2009 in Atlanta, GA",
+      "name": "PyCon US",
+      "title": "PyCon US 2009",
+      "description": "PyCon US 2009 in Atlanta, GA",
       "url": "",
-      "slug": "pycon-2009",
+      "slug": "pycon-us-2009",
       "whiteboard": "doesn't have a year-specific website"
     }
   },
@@ -79,11 +79,11 @@
     "pk": 6,
     "fields": {
       "kind": 1,
-      "name": "PyCon",
-      "title": "PyCon 2010",
-      "description": "PyCon 2010 in Atlanta, GA",
+      "name": "PyCon US",
+      "title": "PyCon US 2010",
+      "description": "PyCon US 2010 in Atlanta, GA",
       "url": "",
-      "slug": "pycon-2010",
+      "slug": "pycon-us-2010",
       "whiteboard": "doesn't have a year-specific website"
     }
   },
@@ -92,11 +92,11 @@
     "pk": 7,
     "fields": {
       "kind": 1,
-      "name": "PyCon",
-      "title": "PyCon 2011",
-      "description": "PyCon 2011 in Atlanta, GA",
+      "name": "PyCon US",
+      "title": "PyCon US 2011",
+      "description": "PyCon US 2011 in Atlanta, GA",
       "url": "http://us.pycon.org/2011/home/",
-      "slug": "pycon-2011"
+      "slug": "pycon-us-2011"
     }
   },
   {
@@ -209,6 +209,19 @@
       "description": "Python Atlanta User Group",
       "url": "http://pyatl.org/",
       "slug": "pyatl"
+    }
+  },
+
+  {
+    "model": "videos.Category",
+    "pk": 17,
+    "fields": {
+      "kind": 1,
+      "name": "PyCon US",
+      "title": "PyCon US 2012",
+      "description": "PyCon US 2012 in Santa Clara, CA",
+      "url": "https://us.pycon.org/2012/",
+      "slug": "pycon-us-2012"
     }
   }
 ]
