@@ -31,8 +31,8 @@ CARL_TO_RICHARD = {
 def get_data_from_yahoo(url):
     video = vidscraper.auto_scrape(url)
     return {
-        'thumbnail_url': video.thumbnail_url,
-        'embed': video.embed_code
+        'thumbnail_url': video['thumbnail_url'],
+        'embed': video['embed']
         }
 
 
