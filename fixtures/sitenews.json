@@ -7,7 +7,7 @@
             "summary": "<p>Posting PyCon 2012 videos. See them <a href=\"/category/17/pycon-us-2012\">here</a>.</p>",
             "content": "<p>I threw together an importer and I'm pulling directly from Carl's feed. Within 15 minutes of the video getting posted, it'll get pulled into pyvideo.org.</p><p>After the conference is over, I'll go back to working on fixing metadata, getting videos to show up better, making the front page more useful, adding better navigation, and working on a system to make it easier for contributors to make the metadata better.</p><p>pyvideo.org runs on <a href=\"http://github.com/willkg/richard\">richard</a> which is a free software project hosted on github. If you're at all interested in running your own video indexing site, take a look at richard. It's in its infancy, so if you want to help out in any way (ux/ui/site-design, better search/indexing code, test code, documentation, ...), let me know.</p><p>Enjoy the PyCon US 2012 videos!</p>",
             "author": "will kahn-greene",
-            "slug": "pycon-us-2012",
+            "slug": "pycon-us-2012-2",
             "updated": "2012-03-10T19:01:00+05:00",
             "created": "2012-03-10T19:01:00+05:00"
         }
