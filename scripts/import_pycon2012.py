@@ -65,6 +65,7 @@ def oh_right_round_trip_that_please():
 
 
 def absorb_pycon_data():
+    print datetime.datetime.now()
     json_data = get_pycon_data()
 
     results = [import_video(mem['fields']) for mem in json_data
