@@ -28,7 +28,8 @@ $PYTHON ./richard/manage.py loaddata \
     $FIXTURES/pygotham-2011.json \
     $FIXTURES/pyohio-2010.json \
     $FIXTURES/pyohio-2011.json \
-    $FIXTURES/pytexas-2011.json
+    $FIXTURES/pytexas-2011.json \
+    $FIXTURES/pycon-2012.json
 
 #    pycon-au-2011.json \
 
