@@ -57,7 +57,6 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
   <body id="{% block body_id %}video_page{% endblock body_id %}" class="{% block body_class %}{% endblock %}">
     {% block next_link %}<a id="next" href="{{ request.path }}"></a>{% endblock %}
     {% if not request.is_ajax %}
-    <p class="help">Need help setting up your site or getting a certain feature working? Ask us, we'd love to help.  Email Anne Jonas: <a href="mailto:anne@pculture.org">anne@pculture.org</a></p>
     <div id="wrapper" style="{% block wrapper-style-extra %}{% endblock %}">
       <div id="header">
         <div id="logo">
@@ -155,6 +154,11 @@ along with Miro Community.  If not, see <http://www.gnu.org/licenses/>.
 
       </div>
       <div id="content">
+<div style="position: relative; height: 0;">
+  <div style="position: absolute; top: 5px; width: 100%; text-align: center; font-size: 12px; font-weight: bold; padding: 8px; background: #fee; border: 1px solid black; margin: 5px;">
+    March 10th, 2012: We've moved! Please join us at <a href="http://pyvideo.org/">pyvideo.org</a>!
+  </div>
+</div>
       {% endif %}
      
         {% block content %}
