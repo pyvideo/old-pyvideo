@@ -1941,7 +1941,8 @@
       "whiteboard": "",
       "category": 17,
       "speakers": [
-        237
+        237,
+        328
       ],
       "title": "Stop Mocking, Start Testing",
       "quality_notes": "",
