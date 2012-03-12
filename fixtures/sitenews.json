@@ -1,41 +1,67 @@
 [
-    {
-        "model": "sitenews.SiteNews",
-        "pk": 4,
-        "fields": {
-            "title": "PyCon US 2012 video status (2)",
-            "summary": "<p>Posting PyCon 2012 videos. See them <a href=\"/category/17/pycon-us-2012\">here</a>.</p>",
-            "content": "<p>I threw together an importer and I'm pulling directly from Carl's feed. Within 15 minutes of the video getting posted, it'll get pulled into pyvideo.org.</p><p>After the conference is over, I'll go back to working on fixing metadata, getting videos to show up better, making the front page more useful, adding better navigation, and working on a system to make it easier for contributors to make the metadata better.</p><p>pyvideo.org runs on <a href=\"http://github.com/willkg/richard\">richard</a> which is a free software project hosted on github. If you're at all interested in running your own video indexing site, take a look at richard. It's in its infancy, so if you want to help out in any way (ux/ui/site-design, better search/indexing code, test code, documentation, ...), let me know.</p><p>Enjoy the PyCon US 2012 videos!</p>",
-            "author": "will kahn-greene",
-            "slug": "pycon-us-2012-2",
-            "updated": "2012-03-10T19:01:00+05:00",
-            "created": "2012-03-10T19:01:00+05:00"
-        }
-    },
-    {
-        "model": "sitenews.SiteNews",
-        "pk": 3,
-        "fields": {
-            "title": "PyCon US 2012 video status",
-            "summary": "<p>I'm at PyCon US 2012 and Working with the video team to get videos posted.</p>",
-            "content": "<p>Right now I'm at PyCon US 2012. I've moved the site from my server to Carl's slice and done some minor reconfiguring so it works better. It's still not great, but this is a pretty new piece of software.</p><p>I've talked with Carl and Ryan with the video team and I'm working on the code for getting PyCon US 2012 videos posted here. Pretty sure I'll have it done in the next 12 hours.</p><p>One interesting thing is that this year, the videos are getting posted to YouTube. In previous years, they were posted to blip.tv.</p><p>I'll have more status soon!</p>",
-            "author": "will kahn-greene",
-            "slug": "pycon-us-2012",
-            "updated": "2012-03-09T13:40:00+05:00",
-            "created": "2012-03-09T13:40:00+05:00"
-        }
-    },
-    {
-        "model": "sitenews.SiteNews",
-        "pk": 2,
-        "fields": {
-            "title": "Welcome to pyvideo.org!",
-            "summary": "<p>For the last couple of years, I ran <a href=\"http://python.mirocommunity.org/\">Python Miro Community</a>. There are things I want to do that are difficult with the <a href=\"http://mirocommunity.org/\">Miro Community</a> service, so I created <a href=\"http://github.com/willkg/richard\">richard</a>. This site uses richard and replaces Python Miro Community.</p>",
-            "content": "<p>richard is pretty new---I started working on it in February 2012. I just pushed the code to github and threw together the pyvideo.org site in time for PyCon US 2012. As such, it's got a lot of rough edges. I'll be working on those going forward.</p>\n<p>\"Why richard?\", you might ask. Well, the gist of it is that I wanted better Universal Subtitles support, I wanted to make it easier for Carl to experiment with other ways of putting together post-conference video, and I wanted to make it <em>way</em> easier to put new conferences on the site and for other people to help out. Miro Community really sucks for both of those in the way I want to do them.</p>\n<p>Basically, richard removes a lot of the roadblocks that made running Python Miro Community difficult, time consuming, and prevented me from making the site what I want to make it. However, richard is currently a hodge-podge of shortcuts, so at the moment, I'm just trading one set of problems for another. Hopefully, this decision will pan out in the near term.</p>\n<p>Over the next few weeks, I'll be fixing data on the site because it currently kind of sucks. Then I'll be working on making it easier to \"crowdsource\" metadata fixing.</p>\n<p>That's enough ramble for now. Long live pyvideo.org!</p>",
-            "author": "will kahn-greene",
-            "slug": "welcome-to-pyvideo",
-            "updated": "2012-03-04T19:02:00+00:00",
-            "created": "2012-03-04T19:02:00+00:00"
-        }
+  {
+    "pk": 5,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-12T15:33:24Z",
+      "created": "2012-03-12T15:33:24Z",
+      "author": "will kahn-greene",
+      "summary": "<p>\r\nI'm at PyCon US 2012 and if you are, too, consider coming to the Cypress room and sprinting on <a href=\"http://github.com/willkg/richard\">richard</a>.\r\n</p>",
+      "content": "<p>\r\nThere are a bunch of issues to work through and I could definitely use the help. Particularly:\r\n</p>\r\n<ul>\r\n<li>embedding YouTube videos better -- I'd rather they were bigger on the page and I want to wrap them in Universal Subtitles\r\n<li>implementing feeds -- this is a much requested thing\r\n<li>fixing the speaker list page -- the A-Z pagination overlaps the speakers\r\n<li>fixing lists of things -- the text for lists of things is too small and needs to be bigger, easier to read, and easier to press with a mobile device\r\n<li>your favorite feature here!\r\n</ul>\r\n<p>\r\nI'll be here all day Monday. If you're around, let me know. I'm also hanging out on <code>#richard</code> on irc.freenode.net if you want to drop in and say hi.\r\n</p>",
+      "title": "Sprinting in the Cypress room",
+      "slug": "sprinting-in-the-cypress-room"
     }
+  },
+  {
+    "pk": 4,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-10T14:01:00Z",
+      "created": "2012-03-10T14:01:00Z",
+      "author": "will kahn-greene",
+      "summary": "<p>Posting PyCon 2012 videos. See them <a href=\"/category/17/pycon-us-2012\">here</a>.</p>",
+      "content": "<p>I threw together an importer and I'm pulling directly from Carl's feed. Within 15 minutes of the video getting posted, it'll get pulled into pyvideo.org.</p><p>After the conference is over, I'll go back to working on fixing metadata, getting videos to show up better, making the front page more useful, adding better navigation, and working on a system to make it easier for contributors to make the metadata better.</p><p>pyvideo.org runs on <a href=\"http://github.com/willkg/richard\">richard</a> which is a free software project hosted on github. If you're at all interested in running your own video indexing site, take a look at richard. It's in its infancy, so if you want to help out in any way (ux/ui/site-design, better search/indexing code, test code, documentation, ...), let me know.</p><p>Enjoy the PyCon US 2012 videos!</p>",
+      "title": "PyCon US 2012 video status (2)",
+      "slug": "pycon-us-2012-2"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-09T08:40:00Z",
+      "created": "2012-03-09T08:40:00Z",
+      "author": "will kahn-greene",
+      "summary": "<p>I'm at PyCon US 2012 and Working with the video team to get videos posted.</p>",
+      "content": "<p>Right now I'm at PyCon US 2012. I've moved the site from my server to Carl's slice and done some minor reconfiguring so it works better. It's still not great, but this is a pretty new piece of software.</p><p>I've talked with Carl and Ryan with the video team and I'm working on the code for getting PyCon US 2012 videos posted here. Pretty sure I'll have it done in the next 12 hours.</p><p>One interesting thing is that this year, the videos are getting posted to YouTube. In previous years, they were posted to blip.tv.</p><p>I'll have more status soon!</p>",
+      "title": "PyCon US 2012 video status",
+      "slug": "pycon-us-2012"
+    }
+  },
+  {
+    "pk": 2,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-04T19:02:00Z",
+      "created": "2012-03-04T19:02:00Z",
+      "author": "will kahn-greene",
+      "summary": "<p>For the last couple of years, I ran <a href=\"http://python.mirocommunity.org/\">Python Miro Community</a>. There are things I want to do that are difficult with the <a href=\"http://mirocommunity.org/\">Miro Community</a> service, so I created <a href=\"http://github.com/willkg/richard\">richard</a>. This site uses richard and replaces Python Miro Community.</p>",
+      "content": "<p>richard is pretty new---I started working on it in February 2012. I just pushed the code to github and threw together the pyvideo.org site in time for PyCon US 2012. As such, it's got a lot of rough edges. I'll be working on those going forward.</p>\n<p>\"Why richard?\", you might ask. Well, the gist of it is that I wanted better Universal Subtitles support, I wanted to make it easier for Carl to experiment with other ways of putting together post-conference video, and I wanted to make it <em>way</em> easier to put new conferences on the site and for other people to help out. Miro Community really sucks for both of those in the way I want to do them.</p>\n<p>Basically, richard removes a lot of the roadblocks that made running Python Miro Community difficult, time consuming, and prevented me from making the site what I want to make it. However, richard is currently a hodge-podge of shortcuts, so at the moment, I'm just trading one set of problems for another. Hopefully, this decision will pan out in the near term.</p>\n<p>Over the next few weeks, I'll be fixing data on the site because it currently kind of sucks. Then I'll be working on making it easier to \"crowdsource\" metadata fixing.</p>\n<p>That's enough ramble for now. Long live pyvideo.org!</p>",
+      "title": "Welcome to pyvideo.org!",
+      "slug": "welcome-to-pyvideo"
+    }
+  },
+  {
+    "pk": 1,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-04T17:18:00Z",
+      "created": "2012-03-04T17:18:00Z",
+      "author": "site admin",
+      "summary": "<p>I just created this site.</p>",
+      "content": "<p></p>",
+      "title": "Welcome to my index!",
+      "slug": "first-post"
+    }
+  }
 ]
