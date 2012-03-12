@@ -99,9 +99,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        361
-      ],
+      "speakers": [],
       "title": "Coroutines, event loops, and the history of Python generators",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -130,9 +128,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        369
-      ],
+      "speakers": [],
       "title": "Cross-Compiling Python & C Extensions for Embedded Systems",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -161,9 +157,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        373
-      ],
+      "speakers": [],
       "title": "Designing Embedded Systems with Linux and Python",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -192,9 +186,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        336
-      ],
+      "speakers": [],
       "title": "Flexing SQLAlchemy's Relational Power",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -223,9 +215,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        362
-      ],
+      "speakers": [],
       "title": "Getting the Most Out of Python Imports",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -285,9 +275,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        375
-      ],
+      "speakers": [],
       "title": "How CherryPy supports Python 2 and 3",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -316,9 +304,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        358
-      ],
+      "speakers": [],
       "title": "How the PyPy JIT works",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -347,9 +333,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Keynote: David Beazley",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -378,9 +362,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        374
-      ],
+      "speakers": [],
       "title": "Mailman 3",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -502,9 +484,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        368
-      ],
+      "speakers": [],
       "title": "Polyglot Programming with Python: Python/Scala Interop",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -533,9 +513,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        360
-      ],
+      "speakers": [],
       "title": "Project Gado: Building an Open Archival Scanning Robot Using Python and Arduino",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -564,9 +542,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        331
-      ],
+      "speakers": [],
       "title": "Python and HDF5 - Fast Storage for Large Data",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -595,10 +571,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        365,
-        364
-      ],
+      "speakers": [],
       "title": "Python for data lovers: explore it, analyze it, map it",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -627,9 +600,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        359
-      ],
+      "speakers": [],
       "title": "Python for makers",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -658,9 +629,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        357
-      ],
+      "speakers": [],
       "title": "Python Meets the Arduino",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -689,9 +658,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Python Software Foundation Chairman's Address",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -720,9 +687,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        371
-      ],
+      "speakers": [],
       "title": "RESTful APIs With Tastypie",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -751,9 +716,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Saturday Evening Lightning talks (60 minutes)",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -782,9 +745,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Saturday Morning Lightning talks",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -844,9 +805,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        367
-      ],
+      "speakers": [],
       "title": "Spatial data and web mapping with Python",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -875,9 +834,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        363
-      ],
+      "speakers": [],
       "title": "Storm: the Hadoop of Realtime Stream Processing",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -906,9 +863,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        370
-      ],
+      "speakers": [],
       "title": "The Email Package: Past, Present, and Future",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -937,9 +892,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        372
-      ],
+      "speakers": [],
       "title": "The Pyed Piper: A Modern Python Alternative to awk, sed and Other Unix Text Manipulation Utilities ",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -968,9 +921,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        366
-      ],
+      "speakers": [],
       "title": "Using fabric to standardize the development process",
       "quality_notes": "",
       "recorded": "2012-03-10",
@@ -1032,7 +983,6 @@
       "category": 17,
       "speakers": [
         28,
-        333,
         104
       ],
       "title": "Why PyPy by example",
@@ -1063,9 +1013,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        335
-      ],
+      "speakers": [],
       "title": "A Noob Speaks to Noobs: Your First Site in the Cloud",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1156,9 +1104,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        351
-      ],
+      "speakers": [],
       "title": "Apache Cassandra and Python",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1187,9 +1133,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        348
-      ],
+      "speakers": [],
       "title": "Build reliable, traceable, distributed systems with ZeroMQ",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1311,9 +1255,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        356
-      ],
+      "speakers": [],
       "title": "Fake It Til You Make It: Unit Testing Patterns With Mocks and Fakes",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1404,9 +1346,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        341
-      ],
+      "speakers": [],
       "title": "How to make your websites more accessible",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1435,9 +1375,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Introduction and Welcome",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1497,9 +1435,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        355
-      ],
+      "speakers": [],
       "title": "Introspecting Running Python Processes",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1528,12 +1464,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        329,
-        328,
-        330,
-        349
-      ],
+      "speakers": [],
       "title": "IPython: Python at your fingertips",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1562,9 +1493,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Keynote: Paul Graham, YCombinator",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1593,9 +1522,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        339
-      ],
+      "speakers": [],
       "title": "Keynote: Stormy Peters, Mozilla Corporation",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1624,9 +1551,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        353
-      ],
+      "speakers": [],
       "title": "Make Sure Your Programs Crash",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1655,9 +1580,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        342
-      ],
+      "speakers": [],
       "title": "Non-Profit Centers of FLOSS Development",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1686,10 +1609,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        345,
-        344
-      ],
+      "speakers": [],
       "title": "PBS KIDS: Building a login system for kids and teens in Python",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1871,9 +1791,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        354
-      ],
+      "speakers": [],
       "title": "Sage: Open Source Math in Python",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1902,10 +1820,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        347,
-        346
-      ],
+      "speakers": [],
       "title": "Scalability at YouTube",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -1934,9 +1849,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        352
-      ],
+      "speakers": [],
       "title": "Speedily Practical Large-Scale Tests",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -2028,8 +1941,7 @@
       "whiteboard": "",
       "category": 17,
       "speakers": [
-        237,
-        343
+        237
       ],
       "title": "Stop Mocking, Start Testing",
       "quality_notes": "",
@@ -2059,9 +1971,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        350
-      ],
+      "speakers": [],
       "title": "Throwing Together Distributed Services With Gevent",
       "quality_notes": "",
       "recorded": "2012-03-09",
@@ -2121,9 +2031,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        336
-      ],
+      "speakers": [],
       "title": "Documenting Your Project With Sphinx",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2152,9 +2060,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        334
-      ],
+      "speakers": [],
       "title": "High Performance Python I",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2183,9 +2089,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        340
-      ],
+      "speakers": [],
       "title": "High Performance Python II",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2215,7 +2119,6 @@
       "whiteboard": "",
       "category": 17,
       "speakers": [
-        335,
         64
       ],
       "title": "Introduction to Game Development",
@@ -2308,9 +2211,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        337
-      ],
+      "speakers": [],
       "title": "Optimize Performance and Scalability with Parallelism and Concurrency",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2339,9 +2240,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        331
-      ],
+      "speakers": [],
       "title": "Plotting with matplotlib",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2401,9 +2300,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        338
-      ],
+      "speakers": [],
       "title": "Social Network Analysis with Python",
       "quality_notes": "",
       "recorded": "2012-03-08",
@@ -2432,9 +2329,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        332
-      ],
+      "speakers": [],
       "title": "Bayesian statistics made (as) simple (as possible)",
       "quality_notes": "",
       "recorded": "2012-03-07",
@@ -2525,9 +2420,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        331
-      ],
+      "speakers": [],
       "title": "Faster Python Programs through Optimization",
       "quality_notes": "",
       "recorded": "2012-03-07",
@@ -2558,7 +2451,6 @@
       "category": 17,
       "speakers": [
         28,
-        333,
         104
       ],
       "title": "How to get the most out of your PyPy",
@@ -2620,11 +2512,7 @@
     "fields": {
       "whiteboard": "",
       "category": 17,
-      "speakers": [
-        329,
-        328,
-        330
-      ],
+      "speakers": [],
       "title": "IPython in-depth: high-productivity interactive and parallel python",
       "quality_notes": "",
       "recorded": "2012-03-07",
