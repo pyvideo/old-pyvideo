@@ -2,11 +2,12 @@ import sys
 import json
 import datetime
 import itertools
+import traceback
 
 import requests
 import vidscraper
 
-from videos.models import create_videos, Video
+from videos.models import create_videos, Video, Speaker
 from django.core import serializers
 
 
@@ -53,13 +54,24 @@ def import_video(data):
 
     new_data.update(get_data_from_yahoo(data['host_url']))
 
-    return create_videos([new_data])
+    try:
+        return create_videos([new_data])
+    except Exception, e:
+        print "".join(traceback.format_exc())
+        print "Probably a new source_url: %s" % data['host_url']
+        print ""
 
 
 def oh_right_round_trip_that_please():
     videos = Video.objects.filter(category_id=17)
     data = serializers.serialize('json', videos, indent=2)
     f = open('fixtures/pycon-2012.json', 'w')
+    f.write(data)
+    f.close()
+
+    speakers = Speaker.objects.all()
+    data = serializers.serialize('json', speakers, indent=2)
+    f = open('fixtures/speakers.json', 'w')
     f.write(data)
     f.close()
 
@@ -72,7 +84,8 @@ def absorb_pycon_data():
                if mem['fields'].get('host_url')]
 
     for mem in itertools.chain.from_iterable(results):
-        print 'Added %s' % mem.title
+        if mem:
+            print 'Added %s' % mem.title
 
     oh_right_round_trip_that_please()
     return 0
