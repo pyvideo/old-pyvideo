@@ -1,5 +1,13 @@
 [
   {
+    "pk": 341,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "",
+      "slug": ""
+    }
+  },
+  {
     "pk": 310,
     "model": "videos.speaker",
     "fields": {
@@ -16,11 +24,27 @@
     }
   },
   {
+    "pk": 357,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Adam Lowry",
+      "slug": "adam-lowry"
+    }
+  },
+  {
     "pk": 51,
     "model": "videos.speaker",
     "fields": {
       "name": "Adam Miskiewicz",
       "slug": "adam-miskiewicz"
+    }
+  },
+  {
+    "pk": 381,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Adam Moore",
+      "slug": "adam-moore"
     }
   },
   {
@@ -37,6 +61,22 @@
     "fields": {
       "name": "Adam T. Lindsay",
       "slug": "adam-t--lindsay"
+    }
+  },
+  {
+    "pk": 415,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Adrian Holovaty",
+      "slug": "adrian-holovaty"
+    }
+  },
+  {
+    "pk": 392,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Akkana Peck",
+      "slug": "akkana-peck"
     }
   },
   {
@@ -96,11 +136,27 @@
     }
   },
   {
+    "pk": 333,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Allen Downey",
+      "slug": "allen-downey"
+    }
+  },
+  {
     "pk": 129,
     "model": "videos.speaker",
     "fields": {
       "name": "Allison Randal",
       "slug": "allison-randal"
+    }
+  },
+  {
+    "pk": 370,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Andrea O. K. Wright",
+      "slug": "andrea-o-k-wright"
     }
   },
   {
@@ -152,6 +208,14 @@
     }
   },
   {
+    "pk": 388,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Andy Parsons",
+      "slug": "andy-parsons"
+    }
+  },
+  {
     "pk": 203,
     "model": "videos.speaker",
     "fields": {
@@ -184,6 +248,14 @@
     }
   },
   {
+    "pk": 334,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Armin Rigo",
+      "slug": "armin-rigo"
+    }
+  },
+  {
     "pk": 238,
     "model": "videos.speaker",
     "fields": {
@@ -200,6 +272,14 @@
     }
   },
   {
+    "pk": 389,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ask Solem Hoel",
+      "slug": "ask-solem-hoel"
+    }
+  },
+  {
     "pk": 237,
     "model": "videos.speaker",
     "fields": {
@@ -213,6 +293,14 @@
     "fields": {
       "name": "Avi Bryant",
       "slug": "avi-bryant"
+    }
+  },
+  {
+    "pk": 375,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Barry Warsaw",
+      "slug": "barry-warsaw"
     }
   },
   {
@@ -240,6 +328,14 @@
     }
   },
   {
+    "pk": 359,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Benjamin Peterson",
+      "slug": "benjamin-peterson"
+    }
+  },
+  {
     "pk": 292,
     "model": "videos.speaker",
     "fields": {
@@ -256,11 +352,27 @@
     }
   },
   {
+    "pk": 419,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Bernie Hackett",
+      "slug": "bernie-hackett"
+    }
+  },
+  {
     "pk": 242,
     "model": "videos.speaker",
     "fields": {
       "name": "Bill Mania",
       "slug": "bill-mania"
+    }
+  },
+  {
+    "pk": 338,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Bob Hancock",
+      "slug": "bob-hancock"
     }
   },
   {
@@ -272,11 +384,43 @@
     }
   },
   {
+    "pk": 406,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Bob Neveln",
+      "slug": "bob-neveln"
+    }
+  },
+  {
+    "pk": 401,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Bob Van Zant",
+      "slug": "bob-van-zant"
+    }
+  },
+  {
+    "pk": 355,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Bradley M. Kuhn",
+      "slug": "bradley-m-kuhn"
+    }
+  },
+  {
     "pk": 114,
     "model": "videos.speaker",
     "fields": {
       "name": "Brandon Craig Rhodes",
       "slug": "brandon-craig-rhodes"
+    }
+  },
+  {
+    "pk": 337,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Brandon Rhodes",
+      "slug": "brandon-rhodes"
     }
   },
   {
@@ -312,6 +456,14 @@
     }
   },
   {
+    "pk": 330,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Brian E. Granger",
+      "slug": "brian-e-granger"
+    }
+  },
+  {
     "pk": 303,
     "model": "videos.speaker",
     "fields": {
@@ -325,6 +477,14 @@
     "fields": {
       "name": "Brian K Quinlan",
       "slug": "brian-k-quinlan"
+    }
+  },
+  {
+    "pk": 352,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Brian K. Jones",
+      "slug": "brian-k-jones"
     }
   },
   {
@@ -416,6 +576,14 @@
     }
   },
   {
+    "pk": 404,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Chad Cooper",
+      "slug": "chad-cooper"
+    }
+  },
+  {
     "pk": 312,
     "model": "videos.speaker",
     "fields": {
@@ -437,6 +605,14 @@
     "fields": {
       "name": "Charles Merriam",
       "slug": "charles-merriam"
+    }
+  },
+  {
+    "pk": 371,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Chris Lambacher",
+      "slug": "chris-lambacher"
     }
   },
   {
@@ -480,11 +656,35 @@
     }
   },
   {
+    "pk": 382,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Christine Cheung",
+      "slug": "christine-cheung"
+    }
+  },
+  {
+    "pk": 380,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Christine Spang",
+      "slug": "christine-spang"
+    }
+  },
+  {
     "pk": 215,
     "model": "videos.speaker",
     "fields": {
       "name": "Christopher Allan Webber",
       "slug": "christopher-allan-webber"
+    }
+  },
+  {
+    "pk": 408,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Christopher Fonnesbeck",
+      "slug": "christopher-fonnesbeck"
     }
   },
   {
@@ -504,6 +704,14 @@
     }
   },
   {
+    "pk": 356,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Christopher Swenson",
+      "slug": "christopher-swenson"
+    }
+  },
+  {
     "pk": 181,
     "model": "videos.speaker",
     "fields": {
@@ -517,6 +725,14 @@
     "fields": {
       "name": "Clayton Parker",
       "slug": "clayton-parker"
+    }
+  },
+  {
+    "pk": 410,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Clint Howarth",
+      "slug": "clint-howarth"
     }
   },
   {
@@ -552,11 +768,35 @@
     }
   },
   {
+    "pk": 343,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Cosimo Felline",
+      "slug": "cosimo-felline"
+    }
+  },
+  {
+    "pk": 413,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Dami\u00e1n Avila",
+      "slug": "damian-avila"
+    }
+  },
+  {
     "pk": 191,
     "model": "videos.speaker",
     "fields": {
       "name": "Dan Mesh",
       "slug": "dan-mesh"
+    }
+  },
+  {
+    "pk": 367,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Dana Bauer",
+      "slug": "dana-bauer"
     }
   },
   {
@@ -568,11 +808,27 @@
     }
   },
   {
+    "pk": 364,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Daniel Lindsley",
+      "slug": "daniel-lindsley"
+    }
+  },
+  {
     "pk": 244,
     "model": "videos.speaker",
     "fields": {
       "name": "Daniel W. Barnette",
       "slug": "daniel-w--barnette"
+    }
+  },
+  {
+    "pk": 416,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Dave Brondsema",
+      "slug": "dave-brondsema"
     }
   },
   {
@@ -600,6 +856,14 @@
     }
   },
   {
+    "pk": 411,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "David Blado",
+      "slug": "david-blado"
+    }
+  },
+  {
     "pk": 221,
     "model": "videos.speaker",
     "fields": {
@@ -624,6 +888,14 @@
     }
   },
   {
+    "pk": 362,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "David Mertz",
+      "slug": "david-mertz"
+    }
+  },
+  {
     "pk": 123,
     "model": "videos.speaker",
     "fields": {
@@ -640,11 +912,27 @@
     }
   },
   {
+    "pk": 400,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Deb Nicholson",
+      "slug": "deb-nicholson"
+    }
+  },
+  {
     "pk": 218,
     "model": "videos.speaker",
     "fields": {
       "name": "Deniz Kural",
       "slug": "deniz-kural"
+    }
+  },
+  {
+    "pk": 409,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Dimitri Merejkowsky",
+      "slug": "dimitri-merejkowsky"
     }
   },
   {
@@ -800,6 +1088,30 @@
     }
   },
   {
+    "pk": 407,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Eddie Cao",
+      "slug": "eddie-cao"
+    }
+  },
+  {
+    "pk": 342,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Edgar Roman",
+      "slug": "edgar-roman"
+    }
+  },
+  {
+    "pk": 386,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Eitan Romanoff",
+      "slug": "eitan-romanoff"
+    }
+  },
+  {
     "pk": 229,
     "model": "videos.speaker",
     "fields": {
@@ -808,19 +1120,19 @@
     }
   },
   {
-    "pk": 131,
-    "model": "videos.speaker",
-    "fields": {
-      "name": "Eric Florenzano",
-      "slug": "eric-florenzano2"
-    }
-  },
-  {
     "pk": 24,
     "model": "videos.speaker",
     "fields": {
       "name": "Eric Florenzano",
       "slug": "eric-florenzano"
+    }
+  },
+  {
+    "pk": 131,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Eric Florenzano",
+      "slug": "eric-florenzano2"
     }
   },
   {
@@ -837,6 +1149,30 @@
     "fields": {
       "name": "Eric Holscher",
       "slug": "eric-holscher"
+    }
+  },
+  {
+    "pk": 363,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Eric Snow",
+      "slug": "eric-snow"
+    }
+  },
+  {
+    "pk": 347,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Erik Rose",
+      "slug": "erik-rose"
+    }
+  },
+  {
+    "pk": 329,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Fernando P\u00e9rez",
+      "slug": "fernando-perez"
     }
   },
   {
@@ -888,6 +1224,14 @@
     }
   },
   {
+    "pk": 365,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Gabriel Grant",
+      "slug": "gabriel-grant"
+    }
+  },
+  {
     "pk": 225,
     "model": "videos.speaker",
     "fields": {
@@ -909,6 +1253,14 @@
     "fields": {
       "name": "Geremy Condra",
       "slug": "geremy-condra"
+    }
+  },
+  {
+    "pk": 417,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Glyph",
+      "slug": "glyph"
     }
   },
   {
@@ -976,6 +1328,14 @@
     }
   },
   {
+    "pk": 403,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "G\u00f6khan Sever",
+      "slug": "gokhan-sever"
+    }
+  },
+  {
     "pk": 87,
     "model": "videos.speaker",
     "fields": {
@@ -1008,11 +1368,27 @@
     }
   },
   {
+    "pk": 360,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Hugo Boyer",
+      "slug": "hugo-boyer"
+    }
+  },
+  {
     "pk": 13,
     "model": "videos.speaker",
     "fields": {
       "name": "Ian Bicking",
       "slug": "ian-bicking"
+    }
+  },
+  {
+    "pk": 335,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ian Ozsvald",
+      "slug": "ian-ozsvald"
     }
   },
   {
@@ -1080,6 +1456,14 @@
     }
   },
   {
+    "pk": 366,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jacqueline Kazil",
+      "slug": "jacqueline-kazil"
+    }
+  },
+  {
     "pk": 25,
     "model": "videos.speaker",
     "fields": {
@@ -1120,11 +1504,27 @@
     }
   },
   {
+    "pk": 412,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jamie Turner",
+      "slug": "jamie-turner"
+    }
+  },
+  {
     "pk": 186,
     "model": "videos.speaker",
     "fields": {
       "name": "Jason Huggins",
       "slug": "jason-huggins"
+    }
+  },
+  {
+    "pk": 418,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jason Scheirer",
+      "slug": "jason-scheirer"
     }
   },
   {
@@ -1157,6 +1557,22 @@
     "fields": {
       "name": "Jeff Balogh",
       "slug": "jeff-balogh"
+    }
+  },
+  {
+    "pk": 394,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jeff Elmore",
+      "slug": "jeff-elmore"
+    }
+  },
+  {
+    "pk": 350,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jeff Lindsay",
+      "slug": "jeff-lindsay"
     }
   },
   {
@@ -1200,11 +1616,43 @@
     }
   },
   {
+    "pk": 351,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jeremiah Jordan",
+      "slug": "jeremiah-jordan"
+    }
+  },
+  {
     "pk": 175,
     "model": "videos.speaker",
     "fields": {
       "name": "Jeremy Edberg",
       "slug": "jeremy-edberg"
+    }
+  },
+  {
+    "pk": 348,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "J\u00e9r\u00f4me Petazzoni",
+      "slug": "jerome-petazzoni"
+    }
+  },
+  {
+    "pk": 377,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jessica McKellar",
+      "slug": "jessica-mckellar"
+    }
+  },
+  {
+    "pk": 379,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jim and Bob",
+      "slug": "jim-and-bob"
     }
   },
   {
@@ -1264,6 +1712,14 @@
     }
   },
   {
+    "pk": 414,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "John F Burkhart",
+      "slug": "john-f-burkhart"
+    }
+  },
+  {
     "pk": 169,
     "model": "videos.speaker",
     "fields": {
@@ -1309,6 +1765,14 @@
     "fields": {
       "name": "Jonathan Hartley",
       "slug": "jonathan-hartley"
+    }
+  },
+  {
+    "pk": 421,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Jonathan Rocher",
+      "slug": "jonathan-rocher"
     }
   },
   {
@@ -1384,11 +1848,27 @@
     }
   },
   {
+    "pk": 393,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Karen Rustad",
+      "slug": "karen-rustad"
+    }
+  },
+  {
     "pk": 39,
     "model": "videos.speaker",
     "fields": {
       "name": "Katharine Jarmul",
       "slug": "katharine-jarmul"
+    }
+  },
+  {
+    "pk": 390,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Katherine Zhao",
+      "slug": "katherine-zhao"
     }
   },
   {
@@ -1400,6 +1880,14 @@
     }
   },
   {
+    "pk": 336,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Katie Cunningham",
+      "slug": "katie-cunningham"
+    }
+  },
+  {
     "pk": 280,
     "model": "videos.speaker",
     "fields": {
@@ -1408,11 +1896,27 @@
     }
   },
   {
+    "pk": 420,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ken Elkabany",
+      "slug": "ken-elkabany"
+    }
+  },
+  {
     "pk": 4,
     "model": "videos.speaker",
     "fields": {
       "name": "Kevin Fricovsk",
       "slug": "kevin-fricovsk"
+    }
+  },
+  {
+    "pk": 391,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Kim Win",
+      "slug": "kim-win"
     }
   },
   {
@@ -1461,6 +1965,14 @@
     "fields": {
       "name": "LLC)",
       "slug": "llc"
+    }
+  },
+  {
+    "pk": 399,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Luciano Ramalho",
+      "slug": "luciano-ramalho"
     }
   },
   {
@@ -1520,6 +2032,14 @@
     }
   },
   {
+    "pk": 339,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Maksim Tsvetovat",
+      "slug": "maksim-tsvetovat"
+    }
+  },
+  {
     "pk": 21,
     "model": "videos.speaker",
     "fields": {
@@ -1533,6 +2053,14 @@
     "fields": {
       "name": "Mark J Streatfield (Dr. D. Studios.)",
       "slug": "mark-j-streatfield--dr--d--studios"
+    }
+  },
+  {
+    "pk": 374,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Mark Kohler",
+      "slug": "mark-kohler"
     }
   },
   {
@@ -1720,11 +2248,43 @@
     }
   },
   {
+    "pk": 332,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Mike M\u00fcller",
+      "slug": "mike-muller"
+    }
+  },
+  {
     "pk": 209,
     "model": "videos.speaker",
     "fields": {
       "name": "Mike Pirnat",
       "slug": "mike-pirnat"
+    }
+  },
+  {
+    "pk": 345,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Mike Solomon",
+      "slug": "mike-solomon"
+    }
+  },
+  {
+    "pk": 331,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Min Ragan-Kelley",
+      "slug": "min-ragan-kelley"
+    }
+  },
+  {
+    "pk": 402,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Minesh B Amin",
+      "slug": "minesh-b-amin"
     }
   },
   {
@@ -1741,6 +2301,14 @@
     "fields": {
       "name": "Morgan Goose",
       "slug": "morgan-goose"
+    }
+  },
+  {
+    "pk": 353,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Moshe Zadka",
+      "slug": "moshe-zadka"
     }
   },
   {
@@ -1765,6 +2333,22 @@
     "fields": {
       "name": "Mr. wesley j. chun",
       "slug": "mr--wesley-j--chun"
+    }
+  },
+  {
+    "pk": 383,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Nathan Yergler",
+      "slug": "nathan-yergler"
+    }
+  },
+  {
+    "pk": 384,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Nathaniel Case",
+      "slug": "nathaniel-case"
     }
   },
   {
@@ -1816,6 +2400,14 @@
     }
   },
   {
+    "pk": 395,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Nick Wilson",
+      "slug": "nick-wilson"
+    }
+  },
+  {
     "pk": 133,
     "model": "videos.speaker",
     "fields": {
@@ -1864,6 +2456,14 @@
     }
   },
   {
+    "pk": 378,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Pam Selle",
+      "slug": "pam-selle"
+    }
+  },
+  {
     "pk": 251,
     "model": "videos.speaker",
     "fields": {
@@ -1877,6 +2477,14 @@
     "fields": {
       "name": "Paul McMillan",
       "slug": "paul-mcmillan"
+    }
+  },
+  {
+    "pk": 369,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Paul Smith",
+      "slug": "paul-smith"
     }
   },
   {
@@ -1909,6 +2517,14 @@
     "fields": {
       "name": "Peter Carswell",
       "slug": "peter-carswell"
+    }
+  },
+  {
+    "pk": 358,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Peter Kropf",
+      "slug": "peter-kropf"
     }
   },
   {
@@ -1952,6 +2568,14 @@
     }
   },
   {
+    "pk": 372,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "R. David Murray",
+      "slug": "r-david-murray"
+    }
+  },
+  {
     "pk": 138,
     "model": "videos.speaker",
     "fields": {
@@ -1960,11 +2584,27 @@
     }
   },
   {
+    "pk": 387,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Remy DeCausemaker",
+      "slug": "remy-decausemaker"
+    }
+  },
+  {
     "pk": 206,
     "model": "videos.speaker",
     "fields": {
       "name": "Rev. Johnny Healey",
       "slug": "rev--johnny-healey"
+    }
+  },
+  {
+    "pk": 368,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ricardo Kirkner",
+      "slug": "ricardo-kirkner"
     }
   },
   {
@@ -2048,6 +2688,22 @@
     }
   },
   {
+    "pk": 346,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Robbie Clemons",
+      "slug": "robbie-clemons"
+    }
+  },
+  {
+    "pk": 376,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Robert Brewer",
+      "slug": "robert-brewer"
+    }
+  },
+  {
     "pk": 55,
     "model": "videos.speaker",
     "fields": {
@@ -2096,6 +2752,14 @@
     }
   },
   {
+    "pk": 396,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ryan Baker",
+      "slug": "ryan-baker"
+    }
+  },
+  {
     "pk": 260,
     "model": "videos.speaker",
     "fields": {
@@ -2109,6 +2773,14 @@
     "fields": {
       "name": "Ryan J O'Neil",
       "slug": "ryan-j-o-neil"
+    }
+  },
+  {
+    "pk": 422,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Ryan Kelly",
+      "slug": "ryan-kelly"
     }
   },
   {
@@ -2189,6 +2861,14 @@
     "fields": {
       "name": "Senthil Kumaran",
       "slug": "senthil-kumaran"
+    }
+  },
+  {
+    "pk": 344,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Shannon -jj Behrens",
+      "slug": "shannon-jj-behrens"
     }
   },
   {
@@ -2288,6 +2968,30 @@
     }
   },
   {
+    "pk": 397,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Taylor Hand",
+      "slug": "taylor-hand"
+    }
+  },
+  {
+    "pk": 398,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Taylor Michael",
+      "slug": "taylor-michael"
+    }
+  },
+  {
+    "pk": 385,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Taylor Rose",
+      "slug": "taylor-rose"
+    }
+  },
+  {
     "pk": 6,
     "model": "videos.speaker",
     "fields": {
@@ -2309,6 +3013,22 @@
     "fields": {
       "name": "Terry J. Owen",
       "slug": "terry-j--owen"
+    }
+  },
+  {
+    "pk": 349,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Thomas Kluyver",
+      "slug": "thomas-kluyver"
+    }
+  },
+  {
+    "pk": 361,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Thomas Smith",
+      "slug": "thomas-smith"
     }
   },
   {
@@ -2360,11 +3080,35 @@
     }
   },
   {
+    "pk": 373,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Toby Rosen",
+      "slug": "toby-rosen"
+    }
+  },
+  {
+    "pk": 405,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Tom Aldcroft",
+      "slug": "tom-aldcroft"
+    }
+  },
+  {
     "pk": 53,
     "model": "videos.speaker",
     "fields": {
       "name": "Tracy Osborn",
       "slug": "tracy-osborn"
+    }
+  },
+  {
+    "pk": 340,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "Travis Oliphant",
+      "slug": "travis-oliphant"
     }
   },
   {
