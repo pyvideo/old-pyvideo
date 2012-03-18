@@ -1,13 +1,5 @@
 [
   {
-    "pk": 341,
-    "model": "videos.speaker",
-    "fields": {
-      "name": "",
-      "slug": ""
-    }
-  },
-  {
     "pk": 310,
     "model": "videos.speaker",
     "fields": {
@@ -1181,6 +1173,14 @@
     "fields": {
       "name": "Filip Zalio (NEC Australia)",
       "slug": "filip-zalio--nec-australia"
+    }
+  },
+  {
+    "pk": 341,
+    "model": "videos.speaker",
+    "fields": {
+      "name": "FIXME",
+      "slug": "fixme"
     }
   },
   {
