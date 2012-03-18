@@ -208,3 +208,5 @@ LOGGING = {
         },
     }
 }
+
+EMAIL_SUBJECT_PREFIX = '[Django pyvideo]'
