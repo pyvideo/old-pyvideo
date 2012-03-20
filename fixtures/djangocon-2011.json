@@ -271,7 +271,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>\nY'all Wanna Scrape with Us?  Content Ain't a Thing: Web Scraping With Our Favorite Python Libraries\n</p>\n<p>\nPresented by Katharine Jarmul\n</p>\n<p>\nLove or hate them, the top python scraping libraries have some hidden gems and tricks that you can use to enhance, update and diversify your Django models. This talk will teach you more advanced techniques to aggregate content from RSS feeds, Twitter, Tumblr and normal old web sites for your Django projects.\n</p>", 
-      "title": "Y&#39;all Wanna Scrape with Us? Content Ain&#39;t a Thing : Web Scraping With Our Favorite Python Libraries", 
+      "title": "Y'all Wanna Scrape with Us? Content Ain't a Thing : Web Scraping With Our Favorite Python Libraries", 
       "slug": "djangocon-2011--y--39-all-wanna-scrape-with-us--c", 
       "tags": [
         1, 
@@ -470,7 +470,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>\nBenevolent Designer for Life's Keynote: Designers make it go to eleven\n</p>\n<p>\nPresented by Idan Gazit\n</p>\n<p>\nThe open-source world is and always has been focused on code; attention and respect doled out in exchange for patches. As a result, many open-source projects want for design love but don't know how to secure it. We scare off potential contributors from the many fields beneath the aegis of \"design\": user experience, user interfaces, usability, interaction design, information architects, graphic design, typography, and other roles assumed by the authors of our markup and styling. Django can be a model citizen among open-source projects in changing these attitudes and coaxing contributors out of the woodwork -- not just for the benefit of the framework, but for the constellation of 3rd party apps which make Django great. Other FOSS communities have made efforts that we can learn from, and the fight to change perceptions is less uphill than you might think. This talk will cover: - Misconceptions of \"Design.\" What is design, and what do designers do? - A brief trip down memory lane, and how Django came to be relatively designer-friendly. - \"I don't get it: what is the BDesignFL role?\" - Process and tools: How can Django better engage designers, for core's benefit and for the benefit of _your projects_. How can we help these contributors get over the \"suck\" threshold? - What parts of core are ripe for love from designers? What 3rd party projects?\n</p>", 
-      "title": "Benevolent Designer For Life&#39;s Keynote - Designers Make It Go to Eleven", 
+      "title": "Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven", 
       "tags": [
         140, 
         1, 
@@ -740,7 +740,7 @@
         90, 
         30
       ], 
-      "title": "RESTful APIs: Promises &amp; Lies", 
+      "title": "RESTful APIs: Promises and Lies", 
       "updated": "2011-09-21T01:35:32+00:00", 
       "source_url": "http://blip.tv/djangocon/restful-apis-promises-lies-5572618", 
       "video_ogv_url": "http://blip.tv/file/get/Robertlofthouse-RESTfulAPIsPromisesLies223.ogv", 
@@ -1042,7 +1042,7 @@
         90, 
         174
       ], 
-      "title": "From Designer to Django&#39;er in Six Weeks: A Story from Solo Founder", 
+      "title": "From Designer to Django'er in Six Weeks: A Story from Solo Founder", 
       "updated": "2011-09-20T22:08:17+00:00", 
       "source_url": "http://blip.tv/djangocon/from-designer-to-django-er-in-six-weeks-a-story-from-solo-founder-5571943", 
       "video_ogv_length": "113932440", 

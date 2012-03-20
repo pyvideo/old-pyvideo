@@ -130,7 +130,7 @@
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "slug": "pycon-2010--hg-and-git---can--39-t-we-all-just-ge", 
-      "title": "Hg and Git : Can&#39;t we all just get along? (#154)", 
+      "title": "Hg and Git : Can't we all just get along? (#154)", 
       "recorded": "2010-02-19", 
       "updated": "2010-03-17T19:37:56+00:00", 
       "source_url": "http://blip.tv/file/3359640", 
@@ -1923,7 +1923,7 @@
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "slug": "pycon-2010--dude--where--39-s-my-database----133", 
-      "title": "Dude, Where&#39;s My Database? (#133)", 
+      "title": "Dude, Where's My Database? (#133)", 
       "recorded": "2010-02-19", 
       "updated": "2010-02-24T13:52:55+00:00", 
       "source_url": "http://blip.tv/file/3263488", 
@@ -2338,7 +2338,7 @@
         322
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "Debating &#39;til Dawn: Topics to keep you up all night (#183)", 
+      "title": "Debating 'til Dawn: Topics to keep you up all night (#183)", 
       "recorded": "2010-02-19", 
       "updated": "2010-02-24T02:33:48+00:00", 
       "source_url": "http://blip.tv/file/3261216", 
@@ -2500,7 +2500,7 @@
         322
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "What We&#39;ve Learned From Building Basie (#85)", 
+      "title": "What We've Learned From Building Basie (#85)", 
       "recorded": "2010-02-19", 
       "updated": "2010-02-24T01:20:31+00:00", 
       "source_url": "http://blip.tv/file/3260995", 
@@ -3226,7 +3226,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "Managing the world's oldest Django project\n<br /><br />\nPresented by James Bennett\n<br /><br />\nOr, \"how we cut 40,000 lines of code and learned to love unit testing.\"\n<br /><br /> \nThis talk will cover some of the development history behind Ellington,\nthe CMS which spawned the open-source Django web framework, and some\nof the issues involved in developing and maintaining a codebase of\nthis age and size. Highlights include branch management, the\nadvantages of open-sourcing non-critical functionality, the pain of\nporting and the joy that can only be found in a passing test suite.", 
-      "title": "Managing the world&#39;s oldest Django project (#80)", 
+      "title": "Managing the world's oldest Django project (#80)", 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         0, 
@@ -3410,7 +3410,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "Python's Dusty Corners\n<br /><br />\nPresented by Jack Diederich\n<br /><br />\nThe talk will be a brief overview of all the features in python that you don't need to know about right up until the moment you do. The list includes how comparisons work, descriptors, iterators, context managers, namespaces, else clauses on for/while loops (suggested by Hettinger). The narrative of the talk is that these are features that you don't need and/or shouldn't use in your day-to-day code but that you need to keep in the back of your mind because other people's code and the stdlib do use them. As Alex Martelli pointed out in his wonderful talk \"Abstractions as Leverage\" you can't successfully function at one level of abstraction if you don't know what is going on at the next level down. This talk is a whirlwind tour of the next level down.", 
-      "title": "Python&#39;s Dusty Corners (#182)", 
+      "title": "Python's Dusty Corners (#182)", 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         477, 

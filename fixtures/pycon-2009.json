@@ -297,7 +297,7 @@
         246
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: How I Distribute Python applications on Windows - py2exe &amp; InnoSetup (#108)", 
+      "title": "PyCon 2009: How I Distribute Python applications on Windows - py2exe and InnoSetup (#108)", 
       "updated": "2009-05-06T15:51:21+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-HowIDistributePythonApplicationsOnWindowsPy2exeInnoSet226-152.jpg", 
@@ -763,7 +763,7 @@
         129
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 2 of 3)", 
+      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 2 of 3)", 
       "updated": "2009-04-22T05:27:22+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp443-212.jpg", 
@@ -788,7 +788,7 @@
         129
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 1 of 3)", 
+      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 1 of 3)", 
       "updated": "2009-04-22T04:19:50+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp472-193.jpg", 
@@ -813,7 +813,7 @@
         129
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don&#39;t expect it (Part 3 of 3)", 
+      "title": "PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 3 of 3)", 
       "updated": "2009-04-22T03:12:16+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-ScrapeTheWebStrategiesForProgrammingWebsitesThatDontExp728-232.jpg", 
@@ -1055,7 +1055,7 @@
         263
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Introduction to Functional Web Testing With Twill &amp; Selenium (Part 1 of 2)", 
+      "title": "PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 1 of 2)", 
       "updated": "2009-04-16T19:05:05+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-IntroductionToFunctionalWebTestingWithTwillSeleniumPart789-569.jpg", 
@@ -1081,7 +1081,7 @@
         263
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Introduction to Functional Web Testing With Twill &amp; Selenium (Part 2 of 2)", 
+      "title": "PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 2 of 2)", 
       "updated": "2009-04-16T17:56:45+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-IntroductionToFunctionalWebTestingWithTwillSeleniumPart575-241.jpg", 
@@ -1195,7 +1195,7 @@
         217
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)", 
+      "title": "PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)", 
       "updated": "2009-04-16T14:21:22+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew393-62.jpg", 
@@ -1225,7 +1225,7 @@
         217
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)", 
+      "title": "PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)", 
       "updated": "2009-04-16T13:12:06+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew328-574.jpg", 
@@ -1255,7 +1255,7 @@
         217
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: The Big F&#39;ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)", 
+      "title": "PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)", 
       "updated": "2009-04-16T12:04:30+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-TheBigFingTutorialDevelopmentUsingTheRepozebfgWebFramew545-594.jpg", 
@@ -2393,7 +2393,7 @@
         232
       ], 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
-      "title": "PyCon 2009: Designing a web framework: Django&#39;s design decisions (#75)", 
+      "title": "PyCon 2009: Designing a web framework: Django's design decisions (#75)", 
       "updated": "2009-04-04T22:42:39+00:00", 
       "summary": "", 
       "thumbnail_url": "http://a.images.blip.tv/Pycon-DesigningAWebFrameworkDjangosDesignDecisions895-36.jpg", 

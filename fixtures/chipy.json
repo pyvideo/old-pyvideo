@@ -105,7 +105,7 @@
         277, 
         822
       ], 
-      "title": "ChiPy: Chicago Python User Group Jan. &#39;08 Meeting", 
+      "title": "ChiPy: Chicago Python User Group Jan. '08 Meeting", 
       "recorded": "2008-01-01", 
       "updated": "2011-02-12T14:00:04+00:00", 
       "summary": "", 
@@ -150,7 +150,7 @@
       "speakers": [], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Carl Meyer</p>\n<p>\nPip[2] and virtualenv[3]: many use them; not so many understand just how they work their magic. If you're a pip/virtualenv user but haven't yet dared crack the lid (or you have, and found it a bit difficult to follow), come along for a fast-paced guided tour. Knowing these tools will help you make more effective use of them, and might also turn you into a contributor.\n</p>\n<ul>\n<li>1 <a href=\"http://us.pycon.org/2011/schedule/sessions/198/\">http://us.pycon.org/2011/schedule/sessions/198/</a>\n</li><li>2 <a href=\"http://pip.openplans.org/\">http://pip.openplans.org/</a>\n</li><li>3 <a href=\"http://virtualenv.openplans.org/\">http://virtualenv.openplans.org/</a>\n</li></ul>", 
-      "title": "Reverse-engineering Ian Bicking&#39;s brain: inside pip and virtualenv.", 
+      "title": "Reverse-engineering Ian Bicking's brain: inside pip and virtualenv.", 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         808, 

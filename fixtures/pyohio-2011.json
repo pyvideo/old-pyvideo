@@ -333,7 +333,7 @@
       "added": "2012-02-22 22:20", 
       "description": "<p>Soft Skillz: They aren't just for humans anymore</p>\n<p>Presented by Brian H. Prince</p>\n<p>\nBrian looks back at 15 years of being a developer, consultant, and business leader. He will talk about the skills and wisdom that you need to be happy and successful in your career.\n</p>", 
       "video_mp4_url": "http://blip.tv/file/get/Pyohio-SoftSkillzTheyArentJustForHumansAnymore789.mp4", 
-      "title": "PyOhio 2011: Soft Skillz: They aren&#39;t just for humans anymore", 
+      "title": "PyOhio 2011: Soft Skillz: They aren't just for humans anymore", 
       "copyright_text": "Creative Commons Attribution 2.0", 
       "slug": "pyohio-2011--soft-skillz--they-aren--39-t-just-fo", 
       "tags": [
@@ -532,7 +532,7 @@
       "added": "2012-02-22 22:20", 
       "description": "<p>Using pymc to cluster twitter users -- a noob's perspective</p>\n<p>Presented by Timmy Wilson</p>\n<p>\nJourney through the thoughts, hopes, and sad frustrations of an average python developer trying to understand MCMC matrix factorization. I'll work through a Python implementation of the paper \"Bayesian Probabilistic Matrix Factorization using Markov Chain Monte Carlo\" and talk about how it applies to clustering a Twitter adjacency matrix.\n</p>", 
       "video_mp4_url": "http://blip.tv/file/get/Pyohio-UsingPymcToClusterTwitterUsersANoobsPerspective420.mp4", 
-      "title": "PyOhio 2011: Using pymc to cluster twitter users -- a noob&#39;s perspective", 
+      "title": "PyOhio 2011: Using pymc to cluster twitter users -- a noob's perspective", 
       "copyright_text": "Creative Commons Attribution 2.0", 
       "tags": [
         794, 
@@ -659,7 +659,7 @@
         767
       ], 
       "copyright_text": "Creative Commons Attribution 2.0", 
-      "title": "PyOhio 2011: Django and Google App Engine: Why I&#39;m using Flask and Amazon EC2", 
+      "title": "PyOhio 2011: Django and Google App Engine: Why I'm using Flask and Amazon EC2", 
       "updated": "2011-08-03T15:43:00+00:00", 
       "source_url": "http://blip.tv/file/5420296", 
       "video_ogv_url": "http://blip.tv/file/get/Pyohio-DjangoAndGoogleAppEngineWhyImUsingFlaskAndAmazonEC2157.ogv", 
@@ -776,7 +776,7 @@
       ], 
       "copyright_text": "Creative Commons Attribution 2.0", 
       "slug": "pyohio-2011--using-fabric---from-a-sysadmin--39-s", 
-      "title": "PyOhio 2011: Using Fabric - from a sysadmin&#39;s perspective", 
+      "title": "PyOhio 2011: Using Fabric - from a sysadmin's perspective", 
       "updated": "2011-08-03T08:18:36+00:00", 
       "source_url": "http://blip.tv/file/5419406", 
       "video_ogv_url": "http://blip.tv/file/get/Pyohio-UsingFabricFromASysadminsPerspective953.ogv", 

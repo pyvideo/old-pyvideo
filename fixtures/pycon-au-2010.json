@@ -198,7 +198,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>Don't Break It: Continuous Integration & Deployment </p>\n<p>Presented by Benno Rice </p>\n<p>\nSo you've developed your application, it appears to work and you may even have \nsome tests to back that up. Now what? \n</p>\n<p> \nOne part of software development that tends to receive not nearly enough \nattention is the process of deploying, supporting and maintaining your code in \nproduction. This demonstration will give an overview of using tools such as \nHudson, nose, stdeb and freshen to automate the testing, packaging, deployment \nand verification of production software. \n</p>", 
-      "title": "PyConAU 2010: Don&#39;t Break It: Continuous Integration &amp; Deployment", 
+      "title": "PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment", 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         693, 
@@ -665,7 +665,7 @@
       ], 
       "added": "2012-02-22 22:20", 
       "description": "<p>What's eating my memory?</p>\n<p>Presented by Andrew Bennetts (Canonical)</p>\n<p>\nEver wondered why your Python process has consumed 2 gigabytes of memory overnight? Ever torn out your hair trying to find out why? Andrew will show you some tools and techniques that can help you investigate. \n</p>", 
-      "title": "PyConAU 2010: What&#39;s eating my memory?", 
+      "title": "PyConAU 2010: What's eating my memory?", 
       "copyright_text": "Creative Commons Attribution-NonCommercial-ShareAlike 3.0", 
       "tags": [
         676, 
