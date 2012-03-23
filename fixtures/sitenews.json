@@ -1,41 +1,15 @@
 [
   {
-    "pk": 5,
+    "pk": 1,
     "model": "sitenews.sitenews",
     "fields": {
-      "updated": "2012-03-12T15:33:24Z",
-      "created": "2012-03-12T15:33:24Z",
-      "author": "will kahn-greene",
-      "summary": "<p>\r\nI'm at PyCon US 2012 and if you are, too, consider coming to the Cypress room and sprinting on <a href=\"http://github.com/willkg/richard\">richard</a>.\r\n</p>",
-      "content": "<p>\r\nThere are a bunch of issues to work through and I could definitely use the help. Particularly:\r\n</p>\r\n<ul>\r\n<li>embedding YouTube videos better -- I'd rather they were bigger on the page and I want to wrap them in Universal Subtitles\r\n<li>implementing feeds -- this is a much requested thing\r\n<li>fixing the speaker list page -- the A-Z pagination overlaps the speakers\r\n<li>fixing lists of things -- the text for lists of things is too small and needs to be bigger, easier to read, and easier to press with a mobile device\r\n<li>your favorite feature here!\r\n</ul>\r\n<p>\r\nI'll be here all day Monday. If you're around, let me know. I'm also hanging out on <code>#richard</code> on irc.freenode.net if you want to drop in and say hi.\r\n</p>",
-      "title": "Sprinting in the Cypress room",
-      "slug": "sprinting-in-the-cypress-room"
-    }
-  },
-  {
-    "pk": 4,
-    "model": "sitenews.sitenews",
-    "fields": {
-      "updated": "2012-03-10T14:01:00Z",
-      "created": "2012-03-10T14:01:00Z",
-      "author": "will kahn-greene",
-      "summary": "<p>Posting PyCon 2012 videos. See them <a href=\"/category/17/pycon-us-2012\">here</a>.</p>",
-      "content": "<p>I threw together an importer and I'm pulling directly from Carl's feed. Within 15 minutes of the video getting posted, it'll get pulled into pyvideo.org.</p><p>After the conference is over, I'll go back to working on fixing metadata, getting videos to show up better, making the front page more useful, adding better navigation, and working on a system to make it easier for contributors to make the metadata better.</p><p>pyvideo.org runs on <a href=\"http://github.com/willkg/richard\">richard</a> which is a free software project hosted on github. If you're at all interested in running your own video indexing site, take a look at richard. It's in its infancy, so if you want to help out in any way (ux/ui/site-design, better search/indexing code, test code, documentation, ...), let me know.</p><p>Enjoy the PyCon US 2012 videos!</p>",
-      "title": "PyCon US 2012 video status (2)",
-      "slug": "pycon-us-2012-2"
-    }
-  },
-  {
-    "pk": 3,
-    "model": "sitenews.sitenews",
-    "fields": {
-      "updated": "2012-03-09T08:40:00Z",
-      "created": "2012-03-09T08:40:00Z",
-      "author": "will kahn-greene",
-      "summary": "<p>I'm at PyCon US 2012 and Working with the video team to get videos posted.</p>",
-      "content": "<p>Right now I'm at PyCon US 2012. I've moved the site from my server to Carl's slice and done some minor reconfiguring so it works better. It's still not great, but this is a pretty new piece of software.</p><p>I've talked with Carl and Ryan with the video team and I'm working on the code for getting PyCon US 2012 videos posted here. Pretty sure I'll have it done in the next 12 hours.</p><p>One interesting thing is that this year, the videos are getting posted to YouTube. In previous years, they were posted to blip.tv.</p><p>I'll have more status soon!</p>",
-      "title": "PyCon US 2012 video status",
-      "slug": "pycon-us-2012"
+      "updated": "2012-03-04T17:18:00Z",
+      "created": "2012-03-04T17:18:00Z",
+      "author": "site admin",
+      "summary": "<p>I just created this site.</p>",
+      "content": "<p></p>",
+      "title": "Welcome to my index!",
+      "slug": "first-post"
     }
   },
   {
@@ -52,16 +26,42 @@
     }
   },
   {
-    "pk": 1,
+    "pk": 3,
     "model": "sitenews.sitenews",
     "fields": {
-      "updated": "2012-03-04T17:18:00Z",
-      "created": "2012-03-04T17:18:00Z",
-      "author": "site admin",
-      "summary": "<p>I just created this site.</p>",
-      "content": "<p></p>",
-      "title": "Welcome to my index!",
-      "slug": "first-post"
+      "updated": "2012-03-09T08:40:00Z",
+      "created": "2012-03-09T08:40:00Z",
+      "author": "will kahn-greene",
+      "summary": "<p>I'm at PyCon US 2012 and Working with the video team to get videos posted.</p>",
+      "content": "<p>Right now I'm at PyCon US 2012. I've moved the site from my server to Carl's slice and done some minor reconfiguring so it works better. It's still not great, but this is a pretty new piece of software.</p><p>I've talked with Carl and Ryan with the video team and I'm working on the code for getting PyCon US 2012 videos posted here. Pretty sure I'll have it done in the next 12 hours.</p><p>One interesting thing is that this year, the videos are getting posted to YouTube. In previous years, they were posted to blip.tv.</p><p>I'll have more status soon!</p>",
+      "title": "PyCon US 2012 video status",
+      "slug": "pycon-us-2012"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-10T14:01:00Z",
+      "created": "2012-03-10T14:01:00Z",
+      "author": "will kahn-greene",
+      "summary": "<p>Posting PyCon 2012 videos. See them <a href=\"/category/17/pycon-us-2012\">here</a>.</p>",
+      "content": "<p>I threw together an importer and I'm pulling directly from Carl's feed. Within 15 minutes of the video getting posted, it'll get pulled into pyvideo.org.</p><p>After the conference is over, I'll go back to working on fixing metadata, getting videos to show up better, making the front page more useful, adding better navigation, and working on a system to make it easier for contributors to make the metadata better.</p><p>pyvideo.org runs on <a href=\"http://github.com/willkg/richard\">richard</a> which is a free software project hosted on github. If you're at all interested in running your own video indexing site, take a look at richard. It's in its infancy, so if you want to help out in any way (ux/ui/site-design, better search/indexing code, test code, documentation, ...), let me know.</p><p>Enjoy the PyCon US 2012 videos!</p>",
+      "title": "PyCon US 2012 video status (2)",
+      "slug": "pycon-us-2012-2"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "sitenews.sitenews",
+    "fields": {
+      "updated": "2012-03-12T15:33:24Z",
+      "created": "2012-03-12T15:33:24Z",
+      "author": "will kahn-greene",
+      "summary": "<p>\r\nI'm at PyCon US 2012 and if you are, too, consider coming to the Cypress room and sprinting on <a href=\"http://github.com/willkg/richard\">richard</a>.\r\n</p>",
+      "content": "<p>\r\nThere are a bunch of issues to work through and I could definitely use the help. Particularly:\r\n</p>\r\n<ul>\r\n<li>embedding YouTube videos better -- I'd rather they were bigger on the page and I want to wrap them in Universal Subtitles\r\n<li>implementing feeds -- this is a much requested thing\r\n<li>fixing the speaker list page -- the A-Z pagination overlaps the speakers\r\n<li>fixing lists of things -- the text for lists of things is too small and needs to be bigger, easier to read, and easier to press with a mobile device\r\n<li>your favorite feature here!\r\n</ul>\r\n<p>\r\nI'll be here all day Monday. If you're around, let me know. I'm also hanging out on <code>#richard</code> on irc.freenode.net if you want to drop in and say hi.\r\n</p>",
+      "title": "Sprinting in the Cypress room",
+      "slug": "sprinting-in-the-cypress-room"
     }
   }
 ]

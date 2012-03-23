@@ -1,5910 +1,5910 @@
 [
-    {
-        "pk": 666, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "superboard"
-        }
-    }, 
-    {
-        "pk": 214, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zope3"
-        }
-    }, 
-    {
-        "pk": 647, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gp"
-        }
-    }, 
-    {
-        "pk": 488, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ubuntuone"
-        }
-    }, 
-    {
-        "pk": 581, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "greenlets"
-        }
-    }, 
-    {
-        "pk": 775, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rattlesnake"
-        }
-    }, 
-    {
-        "pk": 640, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bitbacker"
-        }
-    }, 
-    {
-        "pk": 548, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "browsers"
-        }
-    }, 
-    {
-        "pk": 276, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "netcdf"
-        }
-    }, 
-    {
-        "pk": 17, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bytecode"
-        }
-    }, 
-    {
-        "pk": 644, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ga"
-        }
-    }, 
-    {
-        "pk": 658, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "go"
-        }
-    }, 
-    {
-        "pk": 731, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "openblock"
-        }
-    }, 
-    {
-        "pk": 814, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ros"
-        }
-    }, 
-    {
-        "pk": 251, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gae"
-        }
-    }, 
-    {
-        "pk": 481, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "activestate"
-        }
-    }, 
-    {
-        "pk": 369, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cython"
-        }
-    }, 
-    {
-        "pk": 549, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "html5"
-        }
-    }, 
-    {
-        "pk": 443, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "delcarations"
-        }
-    }, 
-    {
-        "pk": 662, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "flask"
-        }
-    }, 
-    {
-        "pk": 620, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "googlepredictionapi"
-        }
-    }, 
-    {
-        "pk": 844, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "av"
-        }
-    }, 
-    {
-        "pk": 27, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "opensource"
-        }
-    }, 
-    {
-        "pk": 308, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jvm"
-        }
-    }, 
-    {
-        "pk": 288, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "teaching"
-        }
-    }, 
-    {
-        "pk": 732, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "workshops"
-        }
-    }, 
-    {
-        "pk": 348, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ddl"
-        }
-    }, 
-    {
-        "pk": 150, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "translations"
-        }
-    }, 
-    {
-        "pk": 832, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "go_pylons"
-        }
-    }, 
-    {
-        "pk": 436, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distributeddatabases"
-        }
-    }, 
-    {
-        "pk": 496, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "askbot"
-        }
-    }, 
-    {
-        "pk": 417, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "replication"
-        }
-    }, 
-    {
-        "pk": 613, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "updates"
-        }
-    }, 
-    {
-        "pk": 321, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "namespaces"
-        }
-    }, 
-    {
-        "pk": 316, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stackoverflow"
-        }
-    }, 
-    {
-        "pk": 167, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "eldarion"
-        }
-    }, 
-    {
-        "pk": 97, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "banana-py"
-        }
-    }, 
-    {
-        "pk": 825, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cool"
-        }
-    }, 
-    {
-        "pk": 409, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parrot"
-        }
-    }, 
-    {
-        "pk": 327, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mercurial"
-        }
-    }, 
-    {
-        "pk": 205, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gui"
-        }
-    }, 
-    {
-        "pk": 420, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cmd"
-        }
-    }, 
-    {
-        "pk": 377, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "py2app"
-        }
-    }, 
-    {
-        "pk": 51, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rabbitmq"
-        }
-    }, 
-    {
-        "pk": 333, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "greenlet"
-        }
-    }, 
-    {
-        "pk": 46, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "database"
-        }
-    }, 
-    {
-        "pk": 759, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "graphing"
-        }
-    }, 
-    {
-        "pk": 729, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "markov"
-        }
-    }, 
-    {
-        "pk": 597, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distributedcomputing"
-        }
-    }, 
-    {
-        "pk": 466, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cms"
-        }
-    }, 
-    {
-        "pk": 379, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multiprocessing"
-        }
-    }, 
-    {
-        "pk": 79, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "shmpe"
-        }
-    }, 
-    {
-        "pk": 767, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyohio2011"
-        }
-    }, 
-    {
-        "pk": 478, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "descripters"
-        }
-    }, 
-    {
-        "pk": 462, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "importers"
-        }
-    }, 
-    {
-        "pk": 2, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangocon2009"
-        }
-    }, 
-    {
-        "pk": 796, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "freemint"
-        }
-    }, 
-    {
-        "pk": 151, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chef"
-        }
-    }, 
-    {
-        "pk": 541, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "uuid4"
-        }
-    }, 
-    {
-        "pk": 140, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "design"
-        }
-    }, 
-    {
-        "pk": 563, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyglet"
-        }
-    }, 
-    {
-        "pk": 269, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plugins"
-        }
-    }, 
-    {
-        "pk": 791, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyrad"
-        }
-    }, 
-    {
-        "pk": 145, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gunicorn"
-        }
-    }, 
-    {
-        "pk": 803, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "datatransferobjects"
-        }
-    }, 
-    {
-        "pk": 100, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-model-blocks"
-        }
-    }, 
-    {
-        "pk": 235, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chicago"
-        }
-    }, 
-    {
-        "pk": 410, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyine"
-        }
-    }, 
-    {
-        "pk": 605, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "workflow"
-        }
-    }, 
-    {
-        "pk": 439, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "formatting"
-        }
-    }, 
-    {
-        "pk": 254, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python-advanced"
-        }
-    }, 
-    {
-        "pk": 168, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tips"
-        }
-    }, 
-    {
-        "pk": 540, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "robotparser"
-        }
-    }, 
-    {
-        "pk": 526, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "counters"
-        }
-    }, 
-    {
-        "pk": 564, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyopengl"
-        }
-    }, 
-    {
-        "pk": 490, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mirocommunity"
-        }
-    }, 
-    {
-        "pk": 809, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "playdoh"
-        }
-    }, 
-    {
-        "pk": 243, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "designpatterns"
-        }
-    }, 
-    {
-        "pk": 531, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "commandline"
-        }
-    }, 
-    {
-        "pk": 175, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "splinter"
-        }
-    }, 
-    {
-        "pk": 828, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python2.7"
-        }
-    }, 
-    {
-        "pk": 105, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multiforms"
-        }
-    }, 
-    {
-        "pk": 341, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "functionalprogramming"
-        }
-    }, 
-    {
-        "pk": 290, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deferreds"
-        }
-    }, 
-    {
-        "pk": 367, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "threads"
-        }
-    }, 
-    {
-        "pk": 331, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ply"
-        }
-    }, 
-    {
-        "pk": 532, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mer"
-        }
-    }, 
-    {
-        "pk": 766, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "codereuse"
-        }
-    }, 
-    {
-        "pk": 56, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "casestudy"
-        }
-    }, 
-    {
-        "pk": 47, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multipledatabases"
-        }
-    }, 
-    {
-        "pk": 656, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycuda"
-        }
-    }, 
-    {
-        "pk": 77, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "search"
-        }
-    }, 
-    {
-        "pk": 686, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ssl"
-        }
-    }, 
-    {
-        "pk": 275, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hdf5"
-        }
-    }, 
-    {
-        "pk": 758, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "artificialignorance"
-        }
-    }, 
-    {
-        "pk": 636, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "unittests"
-        }
-    }, 
-    {
-        "pk": 624, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ast"
-        }
-    }, 
-    {
-        "pk": 400, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pcyon2010"
-        }
-    }, 
-    {
-        "pk": 250, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zc.buildout"
-        }
-    }, 
-    {
-        "pk": 93, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dependencies"
-        }
-    }, 
-    {
-        "pk": 645, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "geneticalgorithms"
-        }
-    }, 
-    {
-        "pk": 641, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "patents"
-        }
-    }, 
-    {
-        "pk": 793, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "freshbooks"
-        }
-    }, 
-    {
-        "pk": 702, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "esky"
-        }
-    }, 
-    {
-        "pk": 457, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "africa"
-        }
-    }, 
-    {
-        "pk": 715, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tmux"
-        }
-    }, 
-    {
-        "pk": 336, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "vim"
-        }
-    }, 
-    {
-        "pk": 20, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "surlex"
-        }
-    }, 
-    {
-        "pk": 372, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycloud"
-        }
-    }, 
-    {
-        "pk": 736, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plover"
-        }
-    }, 
-    {
-        "pk": 440, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tools"
-        }
-    }, 
-    {
-        "pk": 216, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plone"
-        }
-    }, 
-    {
-        "pk": 98, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cloud"
-        }
-    }, 
-    {
-        "pk": 601, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "makingsausage"
-        }
-    }, 
-    {
-        "pk": 681, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyconau"
-        }
-    }, 
-    {
-        "pk": 286, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sqlpython"
-        }
-    }, 
-    {
-        "pk": 616, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dna"
-        }
-    }, 
-    {
-        "pk": 721, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "usb"
-        }
-    }, 
-    {
-        "pk": 101, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangoexplorer"
-        }
-    }, 
-    {
-        "pk": 448, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hudson"
-        }
-    }, 
-    {
-        "pk": 498, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "foss@rit"
-        }
-    }, 
-    {
-        "pk": 781, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "properties"
-        }
-    }, 
-    {
-        "pk": 811, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "camera"
-        }
-    }, 
-    {
-        "pk": 330, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "music"
-        }
-    }, 
-    {
-        "pk": 470, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zope.interface"
-        }
-    }, 
-    {
-        "pk": 385, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dict"
-        }
-    }, 
-    {
-        "pk": 411, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "panel"
-        }
-    }, 
-    {
-        "pk": 158, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "optimizing"
-        }
-    }, 
-    {
-        "pk": 313, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "miro"
-        }
-    }, 
-    {
-        "pk": 727, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stem"
-        }
-    }, 
-    {
-        "pk": 839, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "xlwt"
-        }
-    }, 
-    {
-        "pk": 778, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "descriptors"
-        }
-    }, 
-    {
-        "pk": 771, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ctags"
-        }
-    }, 
-    {
-        "pk": 110, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pylint"
-        }
-    }, 
-    {
-        "pk": 603, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "continuousdeployment"
-        }
-    }, 
-    {
-        "pk": 714, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gnuscreen"
-        }
-    }, 
-    {
-        "pk": 124, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "memcache"
-        }
-    }, 
-    {
-        "pk": 257, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "oop"
-        }
-    }, 
-    {
-        "pk": 724, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "real-time"
-        }
-    }, 
-    {
-        "pk": 248, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cheeseshop"
-        }
-    }, 
-    {
-        "pk": 307, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sitechecker"
-        }
-    }, 
-    {
-        "pk": 752, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "codestyle"
-        }
-    }, 
-    {
-        "pk": 660, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycurl"
-        }
-    }, 
-    {
-        "pk": 829, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gitpython"
-        }
-    }, 
-    {
-        "pk": 63, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-treebeard"
-        }
-    }, 
-    {
-        "pk": 695, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "science"
-        }
-    }, 
-    {
-        "pk": 680, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "advocacy"
-        }
-    }, 
-    {
-        "pk": 750, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "winforms"
-        }
-    }, 
-    {
-        "pk": 795, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "atari"
-        }
-    }, 
-    {
-        "pk": 170, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "exceptions"
-        }
-    }, 
-    {
-        "pk": 738, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plone4"
-        }
-    }, 
-    {
-        "pk": 277, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pickle"
-        }
-    }, 
-    {
-        "pk": 156, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "history"
-        }
-    }, 
-    {
-        "pk": 23, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "postgressql"
-        }
-    }, 
-    {
-        "pk": 406, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "io"
-        }
-    }, 
-    {
-        "pk": 631, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "namedtuple"
-        }
-    }, 
-    {
-        "pk": 291, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pythononachip"
-        }
-    }, 
-    {
-        "pk": 362, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "india"
-        }
-    }, 
-    {
-        "pk": 39, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hash-signaling"
-        }
-    }, 
-    {
-        "pk": 741, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "suds"
-        }
-    }, 
-    {
-        "pk": 365, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyweek"
-        }
-    }, 
-    {
-        "pk": 128, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lxml"
-        }
-    }, 
-    {
-        "pk": 171, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "monitoring"
-        }
-    }, 
-    {
-        "pk": 515, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "usergroups"
-        }
-    }, 
-    {
-        "pk": 80, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "domainspecificframeworks"
-        }
-    }, 
-    {
-        "pk": 617, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "genomes"
-        }
-    }, 
-    {
-        "pk": 765, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyqt"
-        }
-    }, 
-    {
-        "pk": 125, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "maps"
-        }
-    }, 
-    {
-        "pk": 599, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lamp"
-        }
-    }, 
-    {
-        "pk": 349, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "elixer"
-        }
-    }, 
-    {
-        "pk": 193, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pygame"
-        }
-    }, 
-    {
-        "pk": 438, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webfaction"
-        }
-    }, 
-    {
-        "pk": 294, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "csv"
-        }
-    }, 
-    {
-        "pk": 499, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fudge"
-        }
-    }, 
-    {
-        "pk": 657, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "csp"
-        }
-    }, 
-    {
-        "pk": 213, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "grok"
-        }
-    }, 
-    {
-        "pk": 675, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "supercomputer"
-        }
-    }, 
-    {
-        "pk": 236, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chicago,"
-        }
-    }, 
-    {
-        "pk": 154, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "protobuf"
-        }
-    }, 
-    {
-        "pk": 5, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ponies"
-        }
-    }, 
-    {
-        "pk": 423, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dequeues"
-        }
-    }, 
-    {
-        "pk": 244, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "innosetup"
-        }
-    }, 
-    {
-        "pk": 495, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "adventure"
-        }
-    }, 
-    {
-        "pk": 486, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "programmingbook"
-        }
-    }, 
-    {
-        "pk": 557, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sellingpython"
-        }
-    }, 
-    {
-        "pk": 278, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "serialization"
-        }
-    }, 
-    {
-        "pk": 579, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mpi"
-        }
-    }, 
-    {
-        "pk": 161, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "data"
-        }
-    }, 
-    {
-        "pk": 655, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parallel"
-        }
-    }, 
-    {
-        "pk": 504, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "engineering"
-        }
-    }, 
-    {
-        "pk": 444, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bitten"
-        }
-    }, 
-    {
-        "pk": 301, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "argparse"
-        }
-    }, 
-    {
-        "pk": 284, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "playerpiano"
-        }
-    }, 
-    {
-        "pk": 74, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "documentation"
-        }
-    }, 
-    {
-        "pk": 224, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "robot"
-        }
-    }, 
-    {
-        "pk": 0, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django"
-        }
-    }, 
-    {
-        "pk": 338, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "callables"
-        }
-    }, 
-    {
-        "pk": 127, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tilestash"
-        }
-    }, 
-    {
-        "pk": 361, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "freebsd"
-        }
-    }, 
-    {
-        "pk": 654, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nvidia"
-        }
-    }, 
-    {
-        "pk": 450, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deconstruction"
-        }
-    }, 
-    {
-        "pk": 315, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plyne"
-        }
-    }, 
-    {
-        "pk": 539, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rlcompleter"
-        }
-    }, 
-    {
-        "pk": 456, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nltk"
-        }
-    }, 
-    {
-        "pk": 593, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "epydoc"
-        }
-    }, 
-    {
-        "pk": 580, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "concurrence"
-        }
-    }, 
-    {
-        "pk": 196, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "graphviz"
-        }
-    }, 
-    {
-        "pk": 177, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "communitymanagement"
-        }
-    }, 
-    {
-        "pk": 255, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "concurrency"
-        }
-    }, 
-    {
-        "pk": 15, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "transifex"
-        }
-    }, 
-    {
-        "pk": 49, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "messagequeues"
-        }
-    }, 
-    {
-        "pk": 753, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "style"
-        }
-    }, 
-    {
-        "pk": 12, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "solace"
-        }
-    }, 
-    {
-        "pk": 553, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "firefoxsync"
-        }
-    }, 
-    {
-        "pk": 262, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "selenium"
-        }
-    }, 
-    {
-        "pk": 281, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gitosis"
-        }
-    }, 
-    {
-        "pk": 698, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "handheld"
-        }
-    }, 
-    {
-        "pk": 138, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "forms"
-        }
-    }, 
-    {
-        "pk": 642, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jit"
-        }
-    }, 
-    {
-        "pk": 265, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pytest"
-        }
-    }, 
-    {
-        "pk": 554, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gevent"
-        }
-    }, 
-    {
-        "pk": 762, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stopwordlists"
-        }
-    }, 
-    {
-        "pk": 73, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "delayedexecutions"
-        }
-    }, 
-    {
-        "pk": 705, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hacks"
-        }
-    }, 
-    {
-        "pk": 22, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "postgres"
-        }
-    }, 
-    {
-        "pk": 61, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "views"
-        }
-    }, 
-    {
-        "pk": 240, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python"
-        }
-    }, 
-    {
-        "pk": 135, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "docs"
-        }
-    }, 
-    {
-        "pk": 651, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gettinginvolved"
-        }
-    }, 
-    {
-        "pk": 363, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "orbison"
-        }
-    }, 
-    {
-        "pk": 16, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scaling"
-        }
-    }, 
-    {
-        "pk": 382, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pubsubhubbub"
-        }
-    }, 
-    {
-        "pk": 518, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "komodoide"
-        }
-    }, 
-    {
-        "pk": 198, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scipy"
-        }
-    }, 
-    {
-        "pk": 513, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "qtile"
-        }
-    }, 
-    {
-        "pk": 842, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "android"
-        }
-    }, 
-    {
-        "pk": 492, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "subtitles"
-        }
-    }, 
-    {
-        "pk": 354, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fixme"
-        }
-    }, 
-    {
-        "pk": 424, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "frozensets"
-        }
-    }, 
-    {
-        "pk": 346, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dabo"
-        }
-    }, 
-    {
-        "pk": 789, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bitcoin"
-        }
-    }, 
-    {
-        "pk": 270, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "trac"
-        }
-    }, 
-    {
-        "pk": 40, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lettuce"
-        }
-    }, 
-    {
-        "pk": 50, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "queues"
-        }
-    }, 
-    {
-        "pk": 415, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "framework"
-        }
-    }, 
-    {
-        "pk": 266, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "repoze"
-        }
-    }, 
-    {
-        "pk": 4, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "satchmo"
-        }
-    }, 
-    {
-        "pk": 102, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "eamcs"
-        }
-    }, 
-    {
-        "pk": 319, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "everyblock"
-        }
-    }, 
-    {
-        "pk": 627, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dequearray"
-        }
-    }, 
-    {
-        "pk": 282, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lindberg"
-        }
-    }, 
-    {
-        "pk": 630, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "list"
-        }
-    }, 
-    {
-        "pk": 535, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fileinput"
-        }
-    }, 
-    {
-        "pk": 577, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "highperformancecomputing"
-        }
-    }, 
-    {
-        "pk": 503, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "twiggy"
-        }
-    }, 
-    {
-        "pk": 717, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dataanalysis"
-        }
-    }, 
-    {
-        "pk": 663, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "documentationdrivendesign"
-        }
-    }, 
-    {
-        "pk": 799, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ec2"
-        }
-    }, 
-    {
-        "pk": 387, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "vistrails"
-        }
-    }, 
-    {
-        "pk": 484, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lawyers"
-        }
-    }, 
-    {
-        "pk": 838, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "xlrd"
-        }
-    }, 
-    {
-        "pk": 45, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sprints"
-        }
-    }, 
-    {
-        "pk": 696, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "virtualisation"
-        }
-    }, 
-    {
-        "pk": 260, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "network"
-        }
-    }, 
-    {
-        "pk": 162, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "realtime"
-        }
-    }, 
-    {
-        "pk": 223, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "psil"
-        }
-    }, 
-    {
-        "pk": 594, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "faqs"
-        }
-    }, 
-    {
-        "pk": 347, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dsl"
-        }
-    }, 
-    {
-        "pk": 76, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "safety"
-        }
-    }, 
-    {
-        "pk": 769, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "urllib2"
-        }
-    }, 
-    {
-        "pk": 38, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dsf"
-        }
-    }, 
-    {
-        "pk": 340, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "decorators"
-        }
-    }, 
-    {
-        "pk": 203, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "plotting"
-        }
-    }, 
-    {
-        "pk": 191, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gpl"
-        }
-    }, 
-    {
-        "pk": 222, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "goto"
-        }
-    }, 
-    {
-        "pk": 14, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "localization"
-        }
-    }, 
-    {
-        "pk": 500, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "minuteman"
-        }
-    }, 
-    {
-        "pk": 529, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stringformatting"
-        }
-    }, 
-    {
-        "pk": 42, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "orm"
-        }
-    }, 
-    {
-        "pk": 633, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "orderedset"
-        }
-    }, 
-    {
-        "pk": 764, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "networking"
-        }
-    }, 
-    {
-        "pk": 295, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyyaml"
-        }
-    }, 
-    {
-        "pk": 184, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "logging"
-        }
-    }, 
-    {
-        "pk": 471, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "language"
-        }
-    }, 
-    {
-        "pk": 52, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "programming"
-        }
-    }, 
-    {
-        "pk": 397, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "easy_install"
-        }
-    }, 
-    {
-        "pk": 618, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "openhatch"
-        }
-    }, 
-    {
-        "pk": 684, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "puzzlers"
-        }
-    }, 
-    {
-        "pk": 785, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lalr"
-        }
-    }, 
-    {
-        "pk": 392, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python3"
-        }
-    }, 
-    {
-        "pk": 33, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "south"
-        }
-    }, 
-    {
-        "pk": 589, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lambda"
-        }
-    }, 
-    {
-        "pk": 774, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pelican"
-        }
-    }, 
-    {
-        "pk": 578, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hpc"
-        }
-    }, 
-    {
-        "pk": 421, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cmd2"
-        }
-    }, 
-    {
-        "pk": 195, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "twisted"
-        }
-    }, 
-    {
-        "pk": 95, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "activitystreams"
-        }
-    }, 
-    {
-        "pk": 298, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "coroutines"
-        }
-    }, 
-    {
-        "pk": 118, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dotcloud"
-        }
-    }, 
-    {
-        "pk": 259, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stdlib"
-        }
-    }, 
-    {
-        "pk": 528, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "namedtuples"
-        }
-    }, 
-    {
-        "pk": 374, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "neo4j"
-        }
-    }, 
-    {
-        "pk": 455, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dumbo"
-        }
-    }, 
-    {
-        "pk": 267, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "repoze.bfg"
-        }
-    }, 
-    {
-        "pk": 653, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tox"
-        }
-    }, 
-    {
-        "pk": 179, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "management"
-        }
-    }, 
-    {
-        "pk": 432, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "phatch"
-        }
-    }, 
-    {
-        "pk": 700, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hostout"
-        }
-    }, 
-    {
-        "pk": 757, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bugfixing"
-        }
-    }, 
-    {
-        "pk": 317, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "paver"
-        }
-    }, 
-    {
-        "pk": 840, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "contentmirror"
-        }
-    }, 
-    {
-        "pk": 227, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "doctests"
-        }
-    }, 
-    {
-        "pk": 650, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "puppet"
-        }
-    }, 
-    {
-        "pk": 576, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gpu"
-        }
-    }, 
-    {
-        "pk": 726, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zeromq"
-        }
-    }, 
-    {
-        "pk": 648, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyevolve"
-        }
-    }, 
-    {
-        "pk": 493, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "unisub"
-        }
-    }, 
-    {
-        "pk": 78, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "selling"
-        }
-    }, 
-    {
-        "pk": 485, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lightningtalks"
-        }
-    }, 
-    {
-        "pk": 619, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "outreach"
-        }
-    }, 
-    {
-        "pk": 426, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lists"
-        }
-    }, 
-    {
-        "pk": 692, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jsonrpc"
-        }
-    }, 
-    {
-        "pk": 13, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gsoc"
-        }
-    }, 
-    {
-        "pk": 297, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "toscawidgets"
-        }
-    }, 
-    {
-        "pk": 465, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "geoalchemy"
-        }
-    }, 
-    {
-        "pk": 494, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "universalsubtitles"
-        }
-    }, 
-    {
-        "pk": 517, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "komodo"
-        }
-    }, 
-    {
-        "pk": 497, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "flufl.enum"
-        }
-    }, 
-    {
-        "pk": 604, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "softwaredevelopment"
-        }
-    }, 
-    {
-        "pk": 88, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "updating"
-        }
-    }, 
-    {
-        "pk": 405, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rss"
-        }
-    }, 
-    {
-        "pk": 827, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jquery"
-        }
-    }, 
-    {
-        "pk": 188, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ffmpeg"
-        }
-    }, 
-    {
-        "pk": 18, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cpython"
-        }
-    }, 
-    {
-        "pk": 565, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gpgpu"
-        }
-    }, 
-    {
-        "pk": 129, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scraping"
-        }
-    }, 
-    {
-        "pk": 396, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distutils"
-        }
-    }, 
-    {
-        "pk": 109, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyflakes"
-        }
-    }, 
-    {
-        "pk": 352, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sqlsoup"
-        }
-    }, 
-    {
-        "pk": 115, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "project"
-        }
-    }, 
-    {
-        "pk": 306, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python31"
-        }
-    }, 
-    {
-        "pk": 679, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "future"
-        }
-    }, 
-    {
-        "pk": 674, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sandianationallaboratories"
-        }
-    }, 
-    {
-        "pk": 637, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hacking"
-        }
-    }, 
-    {
-        "pk": 487, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python-cookbook"
-        }
-    }, 
-    {
-        "pk": 280, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cork"
-        }
-    }, 
-    {
-        "pk": 626, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "datastructures"
-        }
-    }, 
-    {
-        "pk": 31, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "debugging"
-        }
-    }, 
-    {
-        "pk": 783, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "learningpython"
-        }
-    }, 
-    {
-        "pk": 491, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pmc"
-        }
-    }, 
-    {
-        "pk": 673, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pylot"
-        }
-    }, 
-    {
-        "pk": 756, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sysadmin"
-        }
-    }, 
-    {
-        "pk": 542, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hookbox"
-        }
-    }, 
-    {
-        "pk": 111, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pystar"
-        }
-    }, 
-    {
-        "pk": 719, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyserial"
-        }
-    }, 
-    {
-        "pk": 293, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "configparser"
-        }
-    }, 
-    {
-        "pk": 800, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "conversion"
-        }
-    }, 
-    {
-        "pk": 245, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "py2exe"
-        }
-    }, 
-    {
-        "pk": 787, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webapis"
-        }
-    }, 
-    {
-        "pk": 558, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "patterns"
-        }
-    }, 
-    {
-        "pk": 749, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "asp.net"
-        }
-    }, 
-    {
-        "pk": 768, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "self"
-        }
-    }, 
-    {
-        "pk": 635, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tuple"
-        }
-    }, 
-    {
-        "pk": 772, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bookie"
-        }
-    }, 
-    {
-        "pk": 720, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyusb"
-        }
-    }, 
-    {
-        "pk": 126, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "polymaps"
-        }
-    }, 
-    {
-        "pk": 54, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "performance"
-        }
-    }, 
-    {
-        "pk": 652, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webframeworks"
-        }
-    }, 
-    {
-        "pk": 166, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "apphosted"
-        }
-    }, 
-    {
-        "pk": 676, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "memory"
-        }
-    }, 
-    {
-        "pk": 804, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "aspen"
-        }
-    }, 
-    {
-        "pk": 173, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "transactions"
-        }
-    }, 
-    {
-        "pk": 357, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tornado"
-        }
-    }, 
-    {
-        "pk": 249, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "eggs"
-        }
-    }, 
-    {
-        "pk": 314, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pickling"
-        }
-    }, 
-    {
-        "pk": 737, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stenography"
-        }
-    }, 
-    {
-        "pk": 728, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nonblockingio"
-        }
-    }, 
-    {
-        "pk": 533, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cgitb"
-        }
-    }, 
-    {
-        "pk": 258, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python-basics"
-        }
-    }, 
-    {
-        "pk": 608, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distutils2"
-        }
-    }, 
-    {
-        "pk": 708, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scripts"
-        }
-    }, 
-    {
-        "pk": 66, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "modularizing"
-        }
-    }, 
-    {
-        "pk": 614, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "highschool"
-        }
-    }, 
-    {
-        "pk": 24, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "geodjango"
-        }
-    }, 
-    {
-        "pk": 407, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "class"
-        }
-    }, 
-    {
-        "pk": 389, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "enthought"
-        }
-    }, 
-    {
-        "pk": 242, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sprinting"
-        }
-    }, 
-    {
-        "pk": 246, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "windows"
-        }
-    }, 
-    {
-        "pk": 332, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "eventlet"
-        }
-    }, 
-    {
-        "pk": 108, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "psychology"
-        }
-    }, 
-    {
-        "pk": 442, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pythonrio"
-        }
-    }, 
-    {
-        "pk": 272, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "databases"
-        }
-    }, 
-    {
-        "pk": 123, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "caching"
-        }
-    }, 
-    {
-        "pk": 107, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pipetter"
-        }
-    }, 
-    {
-        "pk": 285, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pymite"
-        }
-    }, 
-    {
-        "pk": 536, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hmac"
-        }
-    }, 
-    {
-        "pk": 303, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cluemapper"
-        }
-    }, 
-    {
-        "pk": 256, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "kamaelia"
-        }
-    }, 
-    {
-        "pk": 751, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wpf"
-        }
-    }, 
-    {
-        "pk": 164, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rtd"
-        }
-    }, 
-    {
-        "pk": 225, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wsgi"
-        }
-    }, 
-    {
-        "pk": 689, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multimedia"
-        }
-    }, 
-    {
-        "pk": 183, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "kiwipycon2009"
-        }
-    }, 
-    {
-        "pk": 112, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stackato"
-        }
-    }, 
-    {
-        "pk": 556, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "libevent"
-        }
-    }, 
-    {
-        "pk": 820, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mongokit"
-        }
-    }, 
-    {
-        "pk": 113, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tastypie"
-        }
-    }, 
-    {
-        "pk": 835, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "session"
-        }
-    }, 
-    {
-        "pk": 707, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pippy"
-        }
-    }, 
-    {
-        "pk": 661, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "urllib"
-        }
-    }, 
-    {
-        "pk": 745, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cprofile"
-        }
-    }, 
-    {
-        "pk": 445, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "buildbot"
-        }
-    }, 
-    {
-        "pk": 429, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "weakreferences"
-        }
-    }, 
-    {
-        "pk": 375, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyparsing"
-        }
-    }, 
-    {
-        "pk": 703, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cocos2d"
-        }
-    }, 
-    {
-        "pk": 610, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "blender"
-        }
-    }, 
-    {
-        "pk": 353, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "xml"
-        }
-    }, 
-    {
-        "pk": 555, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "highconcurrency"
-        }
-    }, 
-    {
-        "pk": 810, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "billmania"
-        }
-    }, 
-    {
-        "pk": 505, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "flufl.i18n"
-        }
-    }, 
-    {
-        "pk": 194, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "launchpad"
-        }
-    }, 
-    {
-        "pk": 543, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webapps"
-        }
-    }, 
-    {
-        "pk": 122, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cache"
-        }
-    }, 
-    {
-        "pk": 596, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distributed"
-        }
-    }, 
-    {
-        "pk": 48, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "celery"
-        }
-    }, 
-    {
-        "pk": 302, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "blist"
-        }
-    }, 
-    {
-        "pk": 343, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "generators"
-        }
-    }, 
-    {
-        "pk": 431, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lightningtalk"
-        }
-    }, 
-    {
-        "pk": 609, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "setup.py"
-        }
-    }, 
-    {
-        "pk": 239, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycon,"
-        }
-    }, 
-    {
-        "pk": 802, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mvc"
-        }
-    }, 
-    {
-        "pk": 329, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "echo-nest-remix"
-        }
-    }, 
-    {
-        "pk": 525, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "apidesign"
-        }
-    }, 
-    {
-        "pk": 713, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pygotham2011"
-        }
-    }, 
-    {
-        "pk": 318, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "functionaltesting"
-        }
-    }, 
-    {
-        "pk": 398, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pypi"
-        }
-    }, 
-    {
-        "pk": 585, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scalable"
-        }
-    }, 
-    {
-        "pk": 58, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-extensions"
-        }
-    }, 
-    {
-        "pk": 711, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "datasets"
-        }
-    }, 
-    {
-        "pk": 263, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "twill"
-        }
-    }, 
-    {
-        "pk": 808, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chipy"
-        }
-    }, 
-    {
-        "pk": 461, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "import"
-        }
-    }, 
-    {
-        "pk": 130, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "daemons"
-        }
-    }, 
-    {
-        "pk": 623, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "disqus"
-        }
-    }, 
-    {
-        "pk": 91, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pypy"
-        }
-    }, 
-    {
-        "pk": 449, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pony-build"
-        }
-    }, 
-    {
-        "pk": 165, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rtfd"
-        }
-    }, 
-    {
-        "pk": 530, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": ".net"
-        }
-    }, 
-    {
-        "pk": 206, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "qt"
-        }
-    }, 
-    {
-        "pk": 606, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hiring"
-        }
-    }, 
-    {
-        "pk": 422, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bisect"
-        }
-    }, 
-    {
-        "pk": 446, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cruisecontrol"
-        }
-    }, 
-    {
-        "pk": 694, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "architecture"
-        }
-    }, 
-    {
-        "pk": 561, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "3d"
-        }
-    }, 
-    {
-        "pk": 468, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "adapters"
-        }
-    }, 
-    {
-        "pk": 199, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "vision"
-        }
-    }, 
-    {
-        "pk": 467, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "crm"
-        }
-    }, 
-    {
-        "pk": 583, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "obfuscated"
-        }
-    }, 
-    {
-        "pk": 634, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "set"
-        }
-    }, 
-    {
-        "pk": 734, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "art"
-        }
-    }, 
-    {
-        "pk": 189, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ogre"
-        }
-    }, 
-    {
-        "pk": 792, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyside"
-        }
-    }, 
-    {
-        "pk": 537, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "locale"
-        }
-    }, 
-    {
-        "pk": 21, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "testing"
-        }
-    }, 
-    {
-        "pk": 174, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "startup"
-        }
-    }, 
-    {
-        "pk": 476, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "reddit"
-        }
-    }, 
-    {
-        "pk": 339, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "closures"
-        }
-    }, 
-    {
-        "pk": 807, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gotchas"
-        }
-    }, 
-    {
-        "pk": 725, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "socket.io"
-        }
-    }, 
-    {
-        "pk": 458, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "infrastructure"
-        }
-    }, 
-    {
-        "pk": 89, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "migration"
-        }
-    }, 
-    {
-        "pk": 104, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multidb"
-        }
-    }, 
-    {
-        "pk": 511, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "japan"
-        }
-    }, 
-    {
-        "pk": 816, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "foss"
-        }
-    }, 
-    {
-        "pk": 742, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "entrepeneur"
-        }
-    }, 
-    {
-        "pk": 143, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deploying"
-        }
-    }, 
-    {
-        "pk": 527, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lrucache"
-        }
-    }, 
-    {
-        "pk": 320, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "codeobjects"
-        }
-    }, 
-    {
-        "pk": 664, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mongrel"
-        }
-    }, 
-    {
-        "pk": 96, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "backbone.js"
-        }
-    }, 
-    {
-        "pk": 506, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "interviewing"
-        }
-    }, 
-    {
-        "pk": 75, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "migrations"
-        }
-    }, 
-    {
-        "pk": 646, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "geneticprogramming"
-        }
-    }, 
-    {
-        "pk": 186, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyserf"
-        }
-    }, 
-    {
-        "pk": 779, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "getattr"
-        }
-    }, 
-    {
-        "pk": 43, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "routing"
-        }
-    }, 
-    {
-        "pk": 10, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cnotes"
-        }
-    }, 
-    {
-        "pk": 428, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sorts"
-        }
-    }, 
-    {
-        "pk": 181, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "irc"
-        }
-    }, 
-    {
-        "pk": 355, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "paster"
-        }
-    }, 
-    {
-        "pk": 784, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webapi"
-        }
-    }, 
-    {
-        "pk": 139, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "keynote"
-        }
-    }, 
-    {
-        "pk": 356, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "profiling"
-        }
-    }, 
-    {
-        "pk": 730, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "visualization"
-        }
-    }, 
-    {
-        "pk": 469, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "interfaces"
-        }
-    }, 
-    {
-        "pk": 507, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "javascript"
-        }
-    }, 
-    {
-        "pk": 582, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scalability"
-        }
-    }, 
-    {
-        "pk": 32, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "databasemigration"
-        }
-    }, 
-    {
-        "pk": 607, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "job"
-        }
-    }, 
-    {
-        "pk": 220, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ctypes"
-        }
-    }, 
-    {
-        "pk": 201, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "matplotlib"
-        }
-    }, 
-    {
-        "pk": 629, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "frozenset"
-        }
-    }, 
-    {
-        "pk": 59, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ipython"
-        }
-    }, 
-    {
-        "pk": 19, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pywatch"
-        }
-    }, 
-    {
-        "pk": 672, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "packages"
-        }
-    }, 
-    {
-        "pk": 60, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "managementshell"
-        }
-    }, 
-    {
-        "pk": 612, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tuf"
-        }
-    }, 
-    {
-        "pk": 414, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "metaprogramming"
-        }
-    }, 
-    {
-        "pk": 190, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "c"
-        }
-    }, 
-    {
-        "pk": 207, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tkinter"
-        }
-    }, 
-    {
-        "pk": 187, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "boto"
-        }
-    }, 
-    {
-        "pk": 81, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "admin"
-        }
-    }, 
-    {
-        "pk": 638, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hardening"
-        }
-    }, 
-    {
-        "pk": 628, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ducktyping"
-        }
-    }, 
-    {
-        "pk": 782, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "panda3d"
-        }
-    }, 
-    {
-        "pk": 71, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "continuousintegration"
-        }
-    }, 
-    {
-        "pk": 510, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cog"
-        }
-    }, 
-    {
-        "pk": 8, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pinax"
-        }
-    }, 
-    {
-        "pk": 26, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "comet"
-        }
-    }, 
-    {
-        "pk": 172, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "requests"
-        }
-    }, 
-    {
-        "pk": 3, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "testclient"
-        }
-    }, 
-    {
-        "pk": 364, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pdb"
-        }
-    }, 
-    {
-        "pk": 473, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "p2p"
-        }
-    }, 
-    {
-        "pk": 70, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ci"
-        }
-    }, 
-    {
-        "pk": 760, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "patternrecognition"
-        }
-    }, 
-    {
-        "pk": 685, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "soap"
-        }
-    }, 
-    {
-        "pk": 325, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "unittest"
-        }
-    }, 
-    {
-        "pk": 383, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "robotics"
-        }
-    }, 
-    {
-        "pk": 687, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sypy"
-        }
-    }, 
-    {
-        "pk": 176, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "community"
-        }
-    }, 
-    {
-        "pk": 602, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cd"
-        }
-    }, 
-    {
-        "pk": 152, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "packaging"
-        }
-    }, 
-    {
-        "pk": 823, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "apache"
-        }
-    }, 
-    {
-        "pk": 137, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "learning"
-        }
-    }, 
-    {
-        "pk": 247, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "linux"
-        }
-    }, 
-    {
-        "pk": 754, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "supervisor"
-        }
-    }, 
-    {
-        "pk": 776, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "repoze.who.plugins"
-        }
-    }, 
-    {
-        "pk": 231, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycon"
-        }
-    }, 
-    {
-        "pk": 237, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "conference"
-        }
-    }, 
-    {
-        "pk": 573, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "java"
-        }
-    }, 
-    {
-        "pk": 82, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tuning"
-        }
-    }, 
-    {
-        "pk": 625, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "abc"
-        }
-    }, 
-    {
-        "pk": 441, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "basie"
-        }
-    }, 
-    {
-        "pk": 403, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "json"
-        }
-    }, 
-    {
-        "pk": 87, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "maintenance"
-        }
-    }, 
-    {
-        "pk": 136, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "basic"
-        }
-    }, 
-    {
-        "pk": 722, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bosc"
-        }
-    }, 
-    {
-        "pk": 221, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "flossmanuals"
-        }
-    }, 
-    {
-        "pk": 786, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parser"
-        }
-    }, 
-    {
-        "pk": 551, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "diversity"
-        }
-    }, 
-    {
-        "pk": 709, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "with"
-        }
-    }, 
-    {
-        "pk": 682, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyconau2010"
-        }
-    }, 
-    {
-        "pk": 72, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "databasemigrations"
-        }
-    }, 
-    {
-        "pk": 479, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "else"
-        }
-    }, 
-    {
-        "pk": 773, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "laptops"
-        }
-    }, 
-    {
-        "pk": 453, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "i18n"
-        }
-    }, 
-    {
-        "pk": 300, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ironpython"
-        }
-    }, 
-    {
-        "pk": 733, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ming"
-        }
-    }, 
-    {
-        "pk": 376, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "crossplatform"
-        }
-    }, 
-    {
-        "pk": 794, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pymc"
-        }
-    }, 
-    {
-        "pk": 748, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "timeit"
-        }
-    }, 
-    {
-        "pk": 218, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "coursebuilder"
-        }
-    }, 
-    {
-        "pk": 312, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jsqt"
-        }
-    }, 
-    {
-        "pk": 53, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "optimization"
-        }
-    }, 
-    {
-        "pk": 399, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "setuptools"
-        }
-    }, 
-    {
-        "pk": 716, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "brubeck"
-        }
-    }, 
-    {
-        "pk": 701, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "silverlining"
-        }
-    }, 
-    {
-        "pk": 534, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "contextlib.contextmanager"
-        }
-    }, 
-    {
-        "pk": 501, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "moe"
-        }
-    }, 
-    {
-        "pk": 538, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pkgutil.getdata"
-        }
-    }, 
-    {
-        "pk": 309, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "appengine"
-        }
-    }, 
-    {
-        "pk": 763, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wordcounting"
-        }
-    }, 
-    {
-        "pk": 567, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parallelcomputing"
-        }
-    }, 
-    {
-        "pk": 572, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyramid"
-        }
-    }, 
-    {
-        "pk": 632, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ordereddict"
-        }
-    }, 
-    {
-        "pk": 393, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cherrypy"
-        }
-    }, 
-    {
-        "pk": 837, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyatl"
-        }
-    }, 
-    {
-        "pk": 568, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "simulations"
-        }
-    }, 
-    {
-        "pk": 643, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "vm"
-        }
-    }, 
-    {
-        "pk": 463, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "importing"
-        }
-    }, 
-    {
-        "pk": 180, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "im"
-        }
-    }, 
-    {
-        "pk": 279, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zodb"
-        }
-    }, 
-    {
-        "pk": 474, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "seattle"
-        }
-    }, 
-    {
-        "pk": 226, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "technology"
-        }
-    }, 
-    {
-        "pk": 324, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyunit"
-        }
-    }, 
-    {
-        "pk": 208, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gimp"
-        }
-    }, 
-    {
-        "pk": 210, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sourceforge"
-        }
-    }, 
-    {
-        "pk": 305, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyjamas"
-        }
-    }, 
-    {
-        "pk": 434, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scrape.py"
-        }
-    }, 
-    {
-        "pk": 310, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chriswebber"
-        }
-    }, 
-    {
-        "pk": 806, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fetching"
-        }
-    }, 
-    {
-        "pk": 818, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "media"
-        }
-    }, 
-    {
-        "pk": 649, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "couchdb"
-        }
-    }, 
-    {
-        "pk": 743, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hadoop"
-        }
-    }, 
-    {
-        "pk": 819, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mediagoblin"
-        }
-    }, 
-    {
-        "pk": 219, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "html"
-        }
-    }, 
-    {
-        "pk": 416, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "loadbalancing"
-        }
-    }, 
-    {
-        "pk": 217, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zope"
-        }
-    }, 
-    {
-        "pk": 697, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "games"
-        }
-    }, 
-    {
-        "pk": 586, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pypes"
-        }
-    }, 
-    {
-        "pk": 747, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "runsnakerun"
-        }
-    }, 
-    {
-        "pk": 699, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mod_wsgi"
-        }
-    }, 
-    {
-        "pk": 84, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "development"
-        }
-    }, 
-    {
-        "pk": 402, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "http"
-        }
-    }, 
-    {
-        "pk": 798, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "assignment"
-        }
-    }, 
-    {
-        "pk": 746, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pstats"
-        }
-    }, 
-    {
-        "pk": 545, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "libvirt"
-        }
-    }, 
-    {
-        "pk": 36, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django.contrib.messages"
-        }
-    }, 
-    {
-        "pk": 821, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "openoffice"
-        }
-    }, 
-    {
-        "pk": 238, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "conference,"
-        }
-    }, 
-    {
-        "pk": 588, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "diaperpattern"
-        }
-    }, 
-    {
-        "pk": 801, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "php"
-        }
-    }, 
-    {
-        "pk": 34, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-configstore"
-        }
-    }, 
-    {
-        "pk": 121, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pushcode"
-        }
-    }, 
-    {
-        "pk": 114, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wtfawd"
-        }
-    }, 
-    {
-        "pk": 834, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bostonpy"
-        }
-    }, 
-    {
-        "pk": 153, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "philo"
-        }
-    }, 
-    {
-        "pk": 451, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tortuga"
-        }
-    }, 
-    {
-        "pk": 408, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "analysis"
-        }
-    }, 
-    {
-        "pk": 106, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pep8"
-        }
-    }, 
-    {
-        "pk": 427, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sets"
-        }
-    }, 
-    {
-        "pk": 373, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "unladenswallow"
-        }
-    }, 
-    {
-        "pk": 131, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "datacenters"
-        }
-    }, 
-    {
-        "pk": 55, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "model"
-        }
-    }, 
-    {
-        "pk": 740, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyohio2010"
-        }
-    }, 
-    {
-        "pk": 566, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "numericalsimulations"
-        }
-    }, 
-    {
-        "pk": 425, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "heapq"
-        }
-    }, 
-    {
-        "pk": 350, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "formalchemy"
-        }
-    }, 
-    {
-        "pk": 521, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wingware"
-        }
-    }, 
-    {
-        "pk": 57, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nosql"
-        }
-    }, 
-    {
-        "pk": 304, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "moments"
-        }
-    }, 
-    {
-        "pk": 391, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "2to3"
-        }
-    }, 
-    {
-        "pk": 395, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "distribute"
-        }
-    }, 
-    {
-        "pk": 30, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rest"
-        }
-    }, 
-    {
-        "pk": 508, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pywo"
-        }
-    }, 
-    {
-        "pk": 334, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "i/o"
-        }
-    }, 
-    {
-        "pk": 202, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mayavi2"
-        }
-    }, 
-    {
-        "pk": 523, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "unicode"
-        }
-    }, 
-    {
-        "pk": 454, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "internationalization"
-        }
-    }, 
-    {
-        "pk": 546, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "openstack"
-        }
-    }, 
-    {
-        "pk": 805, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webframework"
-        }
-    }, 
-    {
-        "pk": 197, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "olpc"
-        }
-    }, 
-    {
-        "pk": 92, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "web"
-        }
-    }, 
-    {
-        "pk": 509, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "chapa.vim"
-        }
-    }, 
-    {
-        "pk": 380, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jinja"
-        }
-    }, 
-    {
-        "pk": 299, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "generator"
-        }
-    }, 
-    {
-        "pk": 482, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bigapps"
-        }
-    }, 
-    {
-        "pk": 502, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python2to3"
-        }
-    }, 
-    {
-        "pk": 571, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-nonrel"
-        }
-    }, 
-    {
-        "pk": 813, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "opencv"
-        }
-    }, 
-    {
-        "pk": 706, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "inflect.py"
-        }
-    }, 
-    {
-        "pk": 120, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "prezi"
-        }
-    }, 
-    {
-        "pk": 598, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mrjob"
-        }
-    }, 
-    {
-        "pk": 788, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "careers"
-        }
-    }, 
-    {
-        "pk": 241, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python,"
-        }
-    }, 
-    {
-        "pk": 9, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jython"
-        }
-    }, 
-    {
-        "pk": 67, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "reuse"
-        }
-    }, 
-    {
-        "pk": 7, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mingus"
-        }
-    }, 
-    {
-        "pk": 11, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "psf"
-        }
-    }, 
-    {
-        "pk": 659, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "httplib"
-        }
-    }, 
-    {
-        "pk": 447, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dart"
-        }
-    }, 
-    {
-        "pk": 459, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nginx"
-        }
-    }, 
-    {
-        "pk": 90, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangocon2011"
-        }
-    }, 
-    {
-        "pk": 44, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangocon2010"
-        }
-    }, 
-    {
-        "pk": 29, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deployment"
-        }
-    }, 
-    {
-        "pk": 817, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gnu"
-        }
-    }, 
-    {
-        "pk": 287, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "web2py"
-        }
-    }, 
-    {
-        "pk": 337, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "advanced"
-        }
-    }, 
-    {
-        "pk": 552, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "python2"
-        }
-    }, 
-    {
-        "pk": 460, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "silverlight"
-        }
-    }, 
-    {
-        "pk": 822, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pystage"
-        }
-    }, 
-    {
-        "pk": 209, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sofa"
-        }
-    }, 
-    {
-        "pk": 622, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scikit-learn"
-        }
-    }, 
-    {
-        "pk": 412, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "restish"
-        }
-    }, 
-    {
-        "pk": 388, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "enstaller"
-        }
-    }, 
-    {
-        "pk": 69, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "api"
-        }
-    }, 
-    {
-        "pk": 843, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nose"
-        }
-    }, 
-    {
-        "pk": 587, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "badcode"
-        }
-    }, 
-    {
-        "pk": 371, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyar"
-        }
-    }, 
-    {
-        "pk": 83, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "security"
-        }
-    }, 
-    {
-        "pk": 475, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "university"
-        }
-    }, 
-    {
-        "pk": 85, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "projectmanagement"
-        }
-    }, 
-    {
-        "pk": 230, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "turbogears"
-        }
-    }, 
-    {
-        "pk": 744, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dictionaries"
-        }
-    }, 
-    {
-        "pk": 522, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "twitter"
-        }
-    }, 
-    {
-        "pk": 483, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cmusphinx"
-        }
-    }, 
-    {
-        "pk": 252, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "googleappengine"
-        }
-    }, 
-    {
-        "pk": 688, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "prototyping"
-        }
-    }, 
-    {
-        "pk": 323, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "traits"
-        }
-    }, 
-    {
-        "pk": 378, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "wxpython"
-        }
-    }, 
-    {
-        "pk": 215, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deliverance"
-        }
-    }, 
-    {
-        "pk": 831, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "piston"
-        }
-    }, 
-    {
-        "pk": 35, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-hashsignal"
-        }
-    }, 
-    {
-        "pk": 234, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tutorial"
-        }
-    }, 
-    {
-        "pk": 146, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "virtualenv"
-        }
-    }, 
-    {
-        "pk": 345, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "listcomprehensions"
-        }
-    }, 
-    {
-        "pk": 204, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "visualpython"
-        }
-    }, 
-    {
-        "pk": 6, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "dataloading"
-        }
-    }, 
-    {
-        "pk": 591, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parallelization"
-        }
-    }, 
-    {
-        "pk": 28, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "deploy"
-        }
-    }, 
-    {
-        "pk": 155, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "redis"
-        }
-    }, 
-    {
-        "pk": 590, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bigdata"
-        }
-    }, 
-    {
-        "pk": 368, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "contributing"
-        }
-    }, 
-    {
-        "pk": 370, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "floss"
-        }
-    }, 
-    {
-        "pk": 261, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "orbited"
-        }
-    }, 
-    {
-        "pk": 524, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "htsql"
-        }
-    }, 
-    {
-        "pk": 133, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "epio"
-        }
-    }, 
-    {
-        "pk": 520, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "visualstudio"
-        }
-    }, 
-    {
-        "pk": 86, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "core"
-        }
-    }, 
-    {
-        "pk": 211, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "stackless"
-        }
-    }, 
-    {
-        "pk": 149, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "multilingual"
-        }
-    }, 
-    {
-        "pk": 229, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pylons"
-        }
-    }, 
-    {
-        "pk": 667, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "business"
-        }
-    }, 
-    {
-        "pk": 103, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fabulaws"
-        }
-    }, 
-    {
-        "pk": 797, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "interpreters"
-        }
-    }, 
-    {
-        "pk": 233, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pythoncommunity"
-        }
-    }, 
-    {
-        "pk": 690, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "processing"
-        }
-    }, 
-    {
-        "pk": 182, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "kiwipycon"
-        }
-    }, 
-    {
-        "pk": 228, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tdd"
-        }
-    }, 
-    {
-        "pk": 611, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bpy"
-        }
-    }, 
-    {
-        "pk": 433, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycharm"
-        }
-    }, 
-    {
-        "pk": 311, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "informatics"
-        }
-    }, 
-    {
-        "pk": 157, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "optimize"
-        }
-    }, 
-    {
-        "pk": 160, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "rdbms"
-        }
-    }, 
-    {
-        "pk": 159, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "postgresql"
-        }
-    }, 
-    {
-        "pk": 178, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "eaves"
-        }
-    }, 
-    {
-        "pk": 665, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "soawesome"
-        }
-    }, 
-    {
-        "pk": 595, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycco"
-        }
-    }, 
-    {
-        "pk": 384, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "simulation"
-        }
-    }, 
-    {
-        "pk": 559, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pluggable"
-        }
-    }, 
-    {
-        "pk": 185, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "extensions"
-        }
-    }, 
-    {
-        "pk": 826, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "customizing"
-        }
-    }, 
-    {
-        "pk": 516, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ide"
-        }
-    }, 
-    {
-        "pk": 639, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "backup"
-        }
-    }, 
-    {
-        "pk": 815, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "cwebber"
-        }
-    }, 
-    {
-        "pk": 735, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "software"
-        }
-    }, 
-    {
-        "pk": 560, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "aircraftenginetuning"
-        }
-    }, 
-    {
-        "pk": 693, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "agile"
-        }
-    }, 
-    {
-        "pk": 668, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "kpi"
-        }
-    }, 
-    {
-        "pk": 812, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "image"
-        }
-    }, 
-    {
-        "pk": 574, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "beeswithmachineguns"
-        }
-    }, 
-    {
-        "pk": 770, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bullwinkle"
-        }
-    }, 
-    {
-        "pk": 671, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "parsing"
-        }
-    }, 
-    {
-        "pk": 704, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "google"
-        }
-    }, 
-    {
-        "pk": 683, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "promise"
-        }
-    }, 
-    {
-        "pk": 65, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "structureddata"
-        }
-    }, 
-    {
-        "pk": 547, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "virtualbox"
-        }
-    }, 
-    {
-        "pk": 669, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "compiling"
-        }
-    }, 
-    {
-        "pk": 328, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "git"
-        }
-    }, 
-    {
-        "pk": 25, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gis"
-        }
-    }, 
-    {
-        "pk": 144, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fabric"
-        }
-    }, 
-    {
-        "pk": 621, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "machinelearning"
-        }
-    }, 
-    {
-        "pk": 562, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "opengl"
-        }
-    }, 
-    {
-        "pk": 780, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "getattribute"
-        }
-    }, 
-    {
-        "pk": 836, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gearman"
-        }
-    }, 
-    {
-        "pk": 600, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "coredev"
-        }
-    }, 
-    {
-        "pk": 833, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "snakefight"
-        }
-    }, 
-    {
-        "pk": 335, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "emacs"
-        }
-    }, 
-    {
-        "pk": 678, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "queueing"
-        }
-    }, 
-    {
-        "pk": 413, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "zib"
-        }
-    }, 
-    {
-        "pk": 480, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gil"
-        }
-    }, 
-    {
-        "pk": 360, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "fork"
-        }
-    }, 
-    {
-        "pk": 253, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sqlalchemy"
-        }
-    }, 
-    {
-        "pk": 296, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "simplejson"
-        }
-    }, 
-    {
-        "pk": 691, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "apis"
-        }
-    }, 
-    {
-        "pk": 148, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bottlenecks"
-        }
-    }, 
-    {
-        "pk": 264, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "py.test"
-        }
-    }, 
-    {
-        "pk": 739, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyohio"
-        }
-    }, 
-    {
-        "pk": 401, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "atom"
-        }
-    }, 
-    {
-        "pk": 404, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "oauth"
-        }
-    }, 
-    {
-        "pk": 712, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pygotham"
-        }
-    }, 
-    {
-        "pk": 359, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "euroscipy2010"
-        }
-    }, 
-    {
-        "pk": 512, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "logging.statistics"
-        }
-    }, 
-    {
-        "pk": 326, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hg"
-        }
-    }, 
-    {
-        "pk": 452, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sprox"
-        }
-    }, 
-    {
-        "pk": 437, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "partitioning"
-        }
-    }, 
-    {
-        "pk": 274, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "flatfile"
-        }
-    }, 
-    {
-        "pk": 142, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ux"
-        }
-    }, 
-    {
-        "pk": 37, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangozoom"
-        }
-    }, 
-    {
-        "pk": 418, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "numpy"
-        }
-    }, 
-    {
-        "pk": 134, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "hosting"
-        }
-    }, 
-    {
-        "pk": 477, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "contextmanagers"
-        }
-    }, 
-    {
-        "pk": 472, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mobile"
-        }
-    }, 
-    {
-        "pk": 514, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "growth"
-        }
-    }, 
-    {
-        "pk": 141, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ui"
-        }
-    }, 
-    {
-        "pk": 390, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "embedded"
-        }
-    }, 
-    {
-        "pk": 62, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "django-mptt"
-        }
-    }, 
-    {
-        "pk": 132, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ep.io"
-        }
-    }, 
-    {
-        "pk": 430, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "lightning"
-        }
-    }, 
-    {
-        "pk": 710, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "optimisation"
-        }
-    }, 
-    {
-        "pk": 824, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "ianbicking"
-        }
-    }, 
-    {
-        "pk": 68, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "reusing"
-        }
-    }, 
-    {
-        "pk": 292, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "configobj"
-        }
-    }, 
-    {
-        "pk": 584, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "obfuscation"
-        }
-    }, 
-    {
-        "pk": 192, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pil"
-        }
-    }, 
-    {
-        "pk": 351, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "migrate"
-        }
-    }, 
-    {
-        "pk": 761, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "petit"
-        }
-    }, 
-    {
-        "pk": 99, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "contribute"
-        }
-    }, 
-    {
-        "pk": 435, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "accessibility"
-        }
-    }, 
-    {
-        "pk": 386, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "scientific"
-        }
-    }, 
-    {
-        "pk": 289, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "asynchronous"
-        }
-    }, 
-    {
-        "pk": 489, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycon2011"
-        }
-    }, 
-    {
-        "pk": 322, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycon2010"
-        }
-    }, 
-    {
-        "pk": 94, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pip"
-        }
-    }, 
-    {
-        "pk": 212, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "education"
-        }
-    }, 
-    {
-        "pk": 342, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "functions"
-        }
-    }, 
-    {
-        "pk": 677, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "amqp"
-        }
-    }, 
-    {
-        "pk": 200, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "gnuplot"
-        }
-    }, 
-    {
-        "pk": 64, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "graphs"
-        }
-    }, 
-    {
-        "pk": 718, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "drivers"
-        }
-    }, 
-    {
-        "pk": 273, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "excel"
-        }
-    }, 
-    {
-        "pk": 670, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "introspection"
-        }
-    }, 
-    {
-        "pk": 116, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "coverage.py"
-        }
-    }, 
-    {
-        "pk": 569, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "solvcon"
-        }
-    }, 
-    {
-        "pk": 271, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bsddb"
-        }
-    }, 
-    {
-        "pk": 117, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "jenkins"
-        }
-    }, 
-    {
-        "pk": 268, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webprogramming"
-        }
-    }, 
-    {
-        "pk": 419, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pandas"
-        }
-    }, 
-    {
-        "pk": 575, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mock"
-        }
-    }, 
-    {
-        "pk": 41, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "openid"
-        }
-    }, 
-    {
-        "pk": 119, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "models"
-        }
-    }, 
-    {
-        "pk": 381, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "mongodb"
-        }
-    }, 
-    {
-        "pk": 544, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "kvm"
-        }
-    }, 
-    {
-        "pk": 615, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "robots"
-        }
-    }, 
-    {
-        "pk": 344, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "iterators"
-        }
-    }, 
-    {
-        "pk": 1, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "djangocon"
-        }
-    }, 
-    {
-        "pk": 755, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "splunk"
-        }
-    }, 
-    {
-        "pk": 790, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "entrepeneurship"
-        }
-    }, 
-    {
-        "pk": 394, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "astronomy"
-        }
-    }, 
-    {
-        "pk": 519, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pythontoolsforvisualstudio"
-        }
-    }, 
-    {
-        "pk": 830, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "extjs"
-        }
-    }, 
-    {
-        "pk": 777, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "slang"
-        }
-    }, 
-    {
-        "pk": 147, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "bestpractices"
-        }
-    }, 
-    {
-        "pk": 550, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "webdriver"
-        }
-    }, 
-    {
-        "pk": 366, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "sphinx"
-        }
-    }, 
-    {
-        "pk": 841, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "googlewave"
-        }
-    }, 
-    {
-        "pk": 570, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "threadless"
-        }
-    }, 
-    {
-        "pk": 169, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "tricks"
-        }
-    }, 
-    {
-        "pk": 163, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "readthedocs"
-        }
-    }, 
-    {
-        "pk": 464, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pyro"
-        }
-    }, 
-    {
-        "pk": 723, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "opensoundcontrol"
-        }
-    }, 
-    {
-        "pk": 232, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "pycon2009"
-        }
-    }, 
-    {
-        "pk": 283, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "nasa"
-        }
-    }, 
-    {
-        "pk": 358, 
-        "model": "videos.Tag", 
-        "fields": {
-            "tag": "euroscipy"
-        }
+  {
+    "pk": 1,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangocon"
     }
+  },
+  {
+    "pk": 2,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangocon2009"
+    }
+  },
+  {
+    "pk": 3,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "testclient"
+    }
+  },
+  {
+    "pk": 4,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "satchmo"
+    }
+  },
+  {
+    "pk": 5,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ponies"
+    }
+  },
+  {
+    "pk": 6,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dataloading"
+    }
+  },
+  {
+    "pk": 7,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mingus"
+    }
+  },
+  {
+    "pk": 8,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pinax"
+    }
+  },
+  {
+    "pk": 9,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jython"
+    }
+  },
+  {
+    "pk": 10,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cnotes"
+    }
+  },
+  {
+    "pk": 11,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "psf"
+    }
+  },
+  {
+    "pk": 12,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "solace"
+    }
+  },
+  {
+    "pk": 13,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gsoc"
+    }
+  },
+  {
+    "pk": 14,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "localization"
+    }
+  },
+  {
+    "pk": 15,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "transifex"
+    }
+  },
+  {
+    "pk": 16,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scaling"
+    }
+  },
+  {
+    "pk": 17,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bytecode"
+    }
+  },
+  {
+    "pk": 18,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cpython"
+    }
+  },
+  {
+    "pk": 19,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pywatch"
+    }
+  },
+  {
+    "pk": 20,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "surlex"
+    }
+  },
+  {
+    "pk": 21,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "testing"
+    }
+  },
+  {
+    "pk": 22,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "postgres"
+    }
+  },
+  {
+    "pk": 23,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "postgressql"
+    }
+  },
+  {
+    "pk": 24,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "geodjango"
+    }
+  },
+  {
+    "pk": 25,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gis"
+    }
+  },
+  {
+    "pk": 26,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "comet"
+    }
+  },
+  {
+    "pk": 27,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "opensource"
+    }
+  },
+  {
+    "pk": 28,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deploy"
+    }
+  },
+  {
+    "pk": 29,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deployment"
+    }
+  },
+  {
+    "pk": 30,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rest"
+    }
+  },
+  {
+    "pk": 31,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "debugging"
+    }
+  },
+  {
+    "pk": 32,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "databasemigration"
+    }
+  },
+  {
+    "pk": 33,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "south"
+    }
+  },
+  {
+    "pk": 34,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-configstore"
+    }
+  },
+  {
+    "pk": 35,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-hashsignal"
+    }
+  },
+  {
+    "pk": 36,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django.contrib.messages"
+    }
+  },
+  {
+    "pk": 37,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangozoom"
+    }
+  },
+  {
+    "pk": 38,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dsf"
+    }
+  },
+  {
+    "pk": 39,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hash-signaling"
+    }
+  },
+  {
+    "pk": 40,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lettuce"
+    }
+  },
+  {
+    "pk": 41,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "openid"
+    }
+  },
+  {
+    "pk": 42,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "orm"
+    }
+  },
+  {
+    "pk": 43,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "routing"
+    }
+  },
+  {
+    "pk": 44,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangocon2010"
+    }
+  },
+  {
+    "pk": 45,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sprints"
+    }
+  },
+  {
+    "pk": 46,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "database"
+    }
+  },
+  {
+    "pk": 47,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multipledatabases"
+    }
+  },
+  {
+    "pk": 48,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "celery"
+    }
+  },
+  {
+    "pk": 49,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "messagequeues"
+    }
+  },
+  {
+    "pk": 50,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "queues"
+    }
+  },
+  {
+    "pk": 51,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rabbitmq"
+    }
+  },
+  {
+    "pk": 52,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "programming"
+    }
+  },
+  {
+    "pk": 53,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "optimization"
+    }
+  },
+  {
+    "pk": 54,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "performance"
+    }
+  },
+  {
+    "pk": 55,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "model"
+    }
+  },
+  {
+    "pk": 56,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "casestudy"
+    }
+  },
+  {
+    "pk": 57,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nosql"
+    }
+  },
+  {
+    "pk": 58,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-extensions"
+    }
+  },
+  {
+    "pk": 59,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ipython"
+    }
+  },
+  {
+    "pk": 60,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "managementshell"
+    }
+  },
+  {
+    "pk": 61,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "views"
+    }
+  },
+  {
+    "pk": 62,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-mptt"
+    }
+  },
+  {
+    "pk": 63,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-treebeard"
+    }
+  },
+  {
+    "pk": 64,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "graphs"
+    }
+  },
+  {
+    "pk": 65,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "structureddata"
+    }
+  },
+  {
+    "pk": 66,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "modularizing"
+    }
+  },
+  {
+    "pk": 67,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "reuse"
+    }
+  },
+  {
+    "pk": 68,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "reusing"
+    }
+  },
+  {
+    "pk": 69,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "api"
+    }
+  },
+  {
+    "pk": 70,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ci"
+    }
+  },
+  {
+    "pk": 71,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "continuousintegration"
+    }
+  },
+  {
+    "pk": 72,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "databasemigrations"
+    }
+  },
+  {
+    "pk": 73,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "delayedexecutions"
+    }
+  },
+  {
+    "pk": 74,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "documentation"
+    }
+  },
+  {
+    "pk": 75,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "migrations"
+    }
+  },
+  {
+    "pk": 76,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "safety"
+    }
+  },
+  {
+    "pk": 77,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "search"
+    }
+  },
+  {
+    "pk": 78,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "selling"
+    }
+  },
+  {
+    "pk": 79,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "shmpe"
+    }
+  },
+  {
+    "pk": 80,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "domainspecificframeworks"
+    }
+  },
+  {
+    "pk": 81,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "admin"
+    }
+  },
+  {
+    "pk": 82,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tuning"
+    }
+  },
+  {
+    "pk": 83,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "security"
+    }
+  },
+  {
+    "pk": 84,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "development"
+    }
+  },
+  {
+    "pk": 85,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "projectmanagement"
+    }
+  },
+  {
+    "pk": 86,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "core"
+    }
+  },
+  {
+    "pk": 87,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "maintenance"
+    }
+  },
+  {
+    "pk": 88,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "updating"
+    }
+  },
+  {
+    "pk": 89,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "migration"
+    }
+  },
+  {
+    "pk": 90,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangocon2011"
+    }
+  },
+  {
+    "pk": 91,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pypy"
+    }
+  },
+  {
+    "pk": 92,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "web"
+    }
+  },
+  {
+    "pk": 93,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dependencies"
+    }
+  },
+  {
+    "pk": 94,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pip"
+    }
+  },
+  {
+    "pk": 95,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "activitystreams"
+    }
+  },
+  {
+    "pk": 96,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "backbone.js"
+    }
+  },
+  {
+    "pk": 97,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "banana-py"
+    }
+  },
+  {
+    "pk": 98,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cloud"
+    }
+  },
+  {
+    "pk": 99,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "contribute"
+    }
+  },
+  {
+    "pk": 100,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-model-blocks"
+    }
+  },
+  {
+    "pk": 101,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "djangoexplorer"
+    }
+  },
+  {
+    "pk": 102,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "eamcs"
+    }
+  },
+  {
+    "pk": 103,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fabulaws"
+    }
+  },
+  {
+    "pk": 104,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multidb"
+    }
+  },
+  {
+    "pk": 105,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multiforms"
+    }
+  },
+  {
+    "pk": 106,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pep8"
+    }
+  },
+  {
+    "pk": 107,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pipetter"
+    }
+  },
+  {
+    "pk": 108,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "psychology"
+    }
+  },
+  {
+    "pk": 109,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyflakes"
+    }
+  },
+  {
+    "pk": 110,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pylint"
+    }
+  },
+  {
+    "pk": 111,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pystar"
+    }
+  },
+  {
+    "pk": 112,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stackato"
+    }
+  },
+  {
+    "pk": 113,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tastypie"
+    }
+  },
+  {
+    "pk": 114,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wtfawd"
+    }
+  },
+  {
+    "pk": 115,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "project"
+    }
+  },
+  {
+    "pk": 116,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "coverage.py"
+    }
+  },
+  {
+    "pk": 117,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jenkins"
+    }
+  },
+  {
+    "pk": 118,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dotcloud"
+    }
+  },
+  {
+    "pk": 119,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "models"
+    }
+  },
+  {
+    "pk": 120,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "prezi"
+    }
+  },
+  {
+    "pk": 121,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pushcode"
+    }
+  },
+  {
+    "pk": 122,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cache"
+    }
+  },
+  {
+    "pk": 123,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "caching"
+    }
+  },
+  {
+    "pk": 124,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "memcache"
+    }
+  },
+  {
+    "pk": 125,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "maps"
+    }
+  },
+  {
+    "pk": 126,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "polymaps"
+    }
+  },
+  {
+    "pk": 127,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tilestash"
+    }
+  },
+  {
+    "pk": 128,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lxml"
+    }
+  },
+  {
+    "pk": 129,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scraping"
+    }
+  },
+  {
+    "pk": 130,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "daemons"
+    }
+  },
+  {
+    "pk": 131,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "datacenters"
+    }
+  },
+  {
+    "pk": 132,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ep.io"
+    }
+  },
+  {
+    "pk": 133,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "epio"
+    }
+  },
+  {
+    "pk": 134,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hosting"
+    }
+  },
+  {
+    "pk": 135,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "docs"
+    }
+  },
+  {
+    "pk": 136,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "basic"
+    }
+  },
+  {
+    "pk": 137,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "learning"
+    }
+  },
+  {
+    "pk": 138,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "forms"
+    }
+  },
+  {
+    "pk": 139,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "keynote"
+    }
+  },
+  {
+    "pk": 140,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "design"
+    }
+  },
+  {
+    "pk": 141,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ui"
+    }
+  },
+  {
+    "pk": 142,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ux"
+    }
+  },
+  {
+    "pk": 143,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deploying"
+    }
+  },
+  {
+    "pk": 144,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fabric"
+    }
+  },
+  {
+    "pk": 145,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gunicorn"
+    }
+  },
+  {
+    "pk": 146,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "virtualenv"
+    }
+  },
+  {
+    "pk": 147,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bestpractices"
+    }
+  },
+  {
+    "pk": 148,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bottlenecks"
+    }
+  },
+  {
+    "pk": 149,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multilingual"
+    }
+  },
+  {
+    "pk": 150,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "translations"
+    }
+  },
+  {
+    "pk": 151,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chef"
+    }
+  },
+  {
+    "pk": 152,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "packaging"
+    }
+  },
+  {
+    "pk": 153,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "philo"
+    }
+  },
+  {
+    "pk": 154,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "protobuf"
+    }
+  },
+  {
+    "pk": 155,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "redis"
+    }
+  },
+  {
+    "pk": 156,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "history"
+    }
+  },
+  {
+    "pk": 157,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "optimize"
+    }
+  },
+  {
+    "pk": 158,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "optimizing"
+    }
+  },
+  {
+    "pk": 159,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "postgresql"
+    }
+  },
+  {
+    "pk": 160,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rdbms"
+    }
+  },
+  {
+    "pk": 161,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "data"
+    }
+  },
+  {
+    "pk": 162,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "realtime"
+    }
+  },
+  {
+    "pk": 163,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "readthedocs"
+    }
+  },
+  {
+    "pk": 164,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rtd"
+    }
+  },
+  {
+    "pk": 165,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rtfd"
+    }
+  },
+  {
+    "pk": 166,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "apphosted"
+    }
+  },
+  {
+    "pk": 167,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "eldarion"
+    }
+  },
+  {
+    "pk": 168,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tips"
+    }
+  },
+  {
+    "pk": 169,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tricks"
+    }
+  },
+  {
+    "pk": 170,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "exceptions"
+    }
+  },
+  {
+    "pk": 171,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "monitoring"
+    }
+  },
+  {
+    "pk": 172,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "requests"
+    }
+  },
+  {
+    "pk": 173,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "transactions"
+    }
+  },
+  {
+    "pk": 174,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "startup"
+    }
+  },
+  {
+    "pk": 175,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "splinter"
+    }
+  },
+  {
+    "pk": 176,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "community"
+    }
+  },
+  {
+    "pk": 177,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "communitymanagement"
+    }
+  },
+  {
+    "pk": 178,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "eaves"
+    }
+  },
+  {
+    "pk": 179,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "management"
+    }
+  },
+  {
+    "pk": 180,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "im"
+    }
+  },
+  {
+    "pk": 181,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "irc"
+    }
+  },
+  {
+    "pk": 182,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "kiwipycon"
+    }
+  },
+  {
+    "pk": 183,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "kiwipycon2009"
+    }
+  },
+  {
+    "pk": 184,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "logging"
+    }
+  },
+  {
+    "pk": 185,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "extensions"
+    }
+  },
+  {
+    "pk": 186,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyserf"
+    }
+  },
+  {
+    "pk": 187,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "boto"
+    }
+  },
+  {
+    "pk": 188,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ffmpeg"
+    }
+  },
+  {
+    "pk": 189,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ogre"
+    }
+  },
+  {
+    "pk": 190,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "c"
+    }
+  },
+  {
+    "pk": 191,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gpl"
+    }
+  },
+  {
+    "pk": 192,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pil"
+    }
+  },
+  {
+    "pk": 193,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pygame"
+    }
+  },
+  {
+    "pk": 194,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "launchpad"
+    }
+  },
+  {
+    "pk": 195,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "twisted"
+    }
+  },
+  {
+    "pk": 196,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "graphviz"
+    }
+  },
+  {
+    "pk": 197,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "olpc"
+    }
+  },
+  {
+    "pk": 198,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scipy"
+    }
+  },
+  {
+    "pk": 199,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "vision"
+    }
+  },
+  {
+    "pk": 200,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gnuplot"
+    }
+  },
+  {
+    "pk": 201,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "matplotlib"
+    }
+  },
+  {
+    "pk": 202,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mayavi2"
+    }
+  },
+  {
+    "pk": 203,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plotting"
+    }
+  },
+  {
+    "pk": 204,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "visualpython"
+    }
+  },
+  {
+    "pk": 205,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gui"
+    }
+  },
+  {
+    "pk": 206,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "qt"
+    }
+  },
+  {
+    "pk": 207,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tkinter"
+    }
+  },
+  {
+    "pk": 208,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gimp"
+    }
+  },
+  {
+    "pk": 209,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sofa"
+    }
+  },
+  {
+    "pk": 210,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sourceforge"
+    }
+  },
+  {
+    "pk": 211,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stackless"
+    }
+  },
+  {
+    "pk": 212,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "education"
+    }
+  },
+  {
+    "pk": 213,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "grok"
+    }
+  },
+  {
+    "pk": 214,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zope3"
+    }
+  },
+  {
+    "pk": 215,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deliverance"
+    }
+  },
+  {
+    "pk": 216,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plone"
+    }
+  },
+  {
+    "pk": 217,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zope"
+    }
+  },
+  {
+    "pk": 218,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "coursebuilder"
+    }
+  },
+  {
+    "pk": 219,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "html"
+    }
+  },
+  {
+    "pk": 220,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ctypes"
+    }
+  },
+  {
+    "pk": 221,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "flossmanuals"
+    }
+  },
+  {
+    "pk": 222,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "goto"
+    }
+  },
+  {
+    "pk": 223,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "psil"
+    }
+  },
+  {
+    "pk": 224,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "robot"
+    }
+  },
+  {
+    "pk": 225,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wsgi"
+    }
+  },
+  {
+    "pk": 226,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "technology"
+    }
+  },
+  {
+    "pk": 227,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "doctests"
+    }
+  },
+  {
+    "pk": 228,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tdd"
+    }
+  },
+  {
+    "pk": 229,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pylons"
+    }
+  },
+  {
+    "pk": 230,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "turbogears"
+    }
+  },
+  {
+    "pk": 231,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycon"
+    }
+  },
+  {
+    "pk": 232,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycon2009"
+    }
+  },
+  {
+    "pk": 233,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pythoncommunity"
+    }
+  },
+  {
+    "pk": 234,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tutorial"
+    }
+  },
+  {
+    "pk": 235,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chicago"
+    }
+  },
+  {
+    "pk": 236,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chicago,"
+    }
+  },
+  {
+    "pk": 237,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "conference"
+    }
+  },
+  {
+    "pk": 238,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "conference,"
+    }
+  },
+  {
+    "pk": 239,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycon,"
+    }
+  },
+  {
+    "pk": 240,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python"
+    }
+  },
+  {
+    "pk": 241,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python,"
+    }
+  },
+  {
+    "pk": 242,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sprinting"
+    }
+  },
+  {
+    "pk": 243,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "designpatterns"
+    }
+  },
+  {
+    "pk": 244,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "innosetup"
+    }
+  },
+  {
+    "pk": 245,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "py2exe"
+    }
+  },
+  {
+    "pk": 246,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "windows"
+    }
+  },
+  {
+    "pk": 247,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "linux"
+    }
+  },
+  {
+    "pk": 248,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cheeseshop"
+    }
+  },
+  {
+    "pk": 249,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "eggs"
+    }
+  },
+  {
+    "pk": 250,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zc.buildout"
+    }
+  },
+  {
+    "pk": 251,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gae"
+    }
+  },
+  {
+    "pk": 252,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "googleappengine"
+    }
+  },
+  {
+    "pk": 253,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sqlalchemy"
+    }
+  },
+  {
+    "pk": 254,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python-advanced"
+    }
+  },
+  {
+    "pk": 255,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "concurrency"
+    }
+  },
+  {
+    "pk": 256,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "kamaelia"
+    }
+  },
+  {
+    "pk": 257,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "oop"
+    }
+  },
+  {
+    "pk": 258,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python-basics"
+    }
+  },
+  {
+    "pk": 259,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stdlib"
+    }
+  },
+  {
+    "pk": 260,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "network"
+    }
+  },
+  {
+    "pk": 261,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "orbited"
+    }
+  },
+  {
+    "pk": 262,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "selenium"
+    }
+  },
+  {
+    "pk": 263,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "twill"
+    }
+  },
+  {
+    "pk": 264,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "py.test"
+    }
+  },
+  {
+    "pk": 265,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pytest"
+    }
+  },
+  {
+    "pk": 266,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "repoze"
+    }
+  },
+  {
+    "pk": 267,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "repoze.bfg"
+    }
+  },
+  {
+    "pk": 268,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webprogramming"
+    }
+  },
+  {
+    "pk": 269,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plugins"
+    }
+  },
+  {
+    "pk": 270,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "trac"
+    }
+  },
+  {
+    "pk": 271,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bsddb"
+    }
+  },
+  {
+    "pk": 272,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "databases"
+    }
+  },
+  {
+    "pk": 273,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "excel"
+    }
+  },
+  {
+    "pk": 274,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "flatfile"
+    }
+  },
+  {
+    "pk": 275,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hdf5"
+    }
+  },
+  {
+    "pk": 276,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "netcdf"
+    }
+  },
+  {
+    "pk": 277,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pickle"
+    }
+  },
+  {
+    "pk": 278,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "serialization"
+    }
+  },
+  {
+    "pk": 279,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zodb"
+    }
+  },
+  {
+    "pk": 280,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cork"
+    }
+  },
+  {
+    "pk": 281,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gitosis"
+    }
+  },
+  {
+    "pk": 282,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lindberg"
+    }
+  },
+  {
+    "pk": 283,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nasa"
+    }
+  },
+  {
+    "pk": 284,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "playerpiano"
+    }
+  },
+  {
+    "pk": 285,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pymite"
+    }
+  },
+  {
+    "pk": 286,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sqlpython"
+    }
+  },
+  {
+    "pk": 287,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "web2py"
+    }
+  },
+  {
+    "pk": 288,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "teaching"
+    }
+  },
+  {
+    "pk": 289,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "asynchronous"
+    }
+  },
+  {
+    "pk": 290,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deferreds"
+    }
+  },
+  {
+    "pk": 291,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pythononachip"
+    }
+  },
+  {
+    "pk": 292,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "configobj"
+    }
+  },
+  {
+    "pk": 293,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "configparser"
+    }
+  },
+  {
+    "pk": 294,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "csv"
+    }
+  },
+  {
+    "pk": 295,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyyaml"
+    }
+  },
+  {
+    "pk": 296,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "simplejson"
+    }
+  },
+  {
+    "pk": 297,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "toscawidgets"
+    }
+  },
+  {
+    "pk": 298,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "coroutines"
+    }
+  },
+  {
+    "pk": 299,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "generator"
+    }
+  },
+  {
+    "pk": 300,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ironpython"
+    }
+  },
+  {
+    "pk": 301,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "argparse"
+    }
+  },
+  {
+    "pk": 302,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "blist"
+    }
+  },
+  {
+    "pk": 303,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cluemapper"
+    }
+  },
+  {
+    "pk": 304,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "moments"
+    }
+  },
+  {
+    "pk": 305,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyjamas"
+    }
+  },
+  {
+    "pk": 306,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python31"
+    }
+  },
+  {
+    "pk": 307,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sitechecker"
+    }
+  },
+  {
+    "pk": 308,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jvm"
+    }
+  },
+  {
+    "pk": 309,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "appengine"
+    }
+  },
+  {
+    "pk": 310,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chriswebber"
+    }
+  },
+  {
+    "pk": 311,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "informatics"
+    }
+  },
+  {
+    "pk": 312,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jsqt"
+    }
+  },
+  {
+    "pk": 313,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "miro"
+    }
+  },
+  {
+    "pk": 314,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pickling"
+    }
+  },
+  {
+    "pk": 315,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plyne"
+    }
+  },
+  {
+    "pk": 316,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stackoverflow"
+    }
+  },
+  {
+    "pk": 317,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "paver"
+    }
+  },
+  {
+    "pk": 318,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "functionaltesting"
+    }
+  },
+  {
+    "pk": 319,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "everyblock"
+    }
+  },
+  {
+    "pk": 320,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "codeobjects"
+    }
+  },
+  {
+    "pk": 321,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "namespaces"
+    }
+  },
+  {
+    "pk": 322,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycon2010"
+    }
+  },
+  {
+    "pk": 323,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "traits"
+    }
+  },
+  {
+    "pk": 324,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyunit"
+    }
+  },
+  {
+    "pk": 325,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "unittest"
+    }
+  },
+  {
+    "pk": 326,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hg"
+    }
+  },
+  {
+    "pk": 327,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mercurial"
+    }
+  },
+  {
+    "pk": 328,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "git"
+    }
+  },
+  {
+    "pk": 329,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "echo-nest-remix"
+    }
+  },
+  {
+    "pk": 330,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "music"
+    }
+  },
+  {
+    "pk": 331,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ply"
+    }
+  },
+  {
+    "pk": 332,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "eventlet"
+    }
+  },
+  {
+    "pk": 333,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "greenlet"
+    }
+  },
+  {
+    "pk": 334,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "i/o"
+    }
+  },
+  {
+    "pk": 335,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "emacs"
+    }
+  },
+  {
+    "pk": 336,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "vim"
+    }
+  },
+  {
+    "pk": 337,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "advanced"
+    }
+  },
+  {
+    "pk": 338,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "callables"
+    }
+  },
+  {
+    "pk": 339,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "closures"
+    }
+  },
+  {
+    "pk": 340,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "decorators"
+    }
+  },
+  {
+    "pk": 341,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "functionalprogramming"
+    }
+  },
+  {
+    "pk": 342,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "functions"
+    }
+  },
+  {
+    "pk": 343,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "generators"
+    }
+  },
+  {
+    "pk": 344,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "iterators"
+    }
+  },
+  {
+    "pk": 345,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "listcomprehensions"
+    }
+  },
+  {
+    "pk": 346,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dabo"
+    }
+  },
+  {
+    "pk": 347,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dsl"
+    }
+  },
+  {
+    "pk": 348,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ddl"
+    }
+  },
+  {
+    "pk": 349,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "elixer"
+    }
+  },
+  {
+    "pk": 350,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "formalchemy"
+    }
+  },
+  {
+    "pk": 351,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "migrate"
+    }
+  },
+  {
+    "pk": 352,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sqlsoup"
+    }
+  },
+  {
+    "pk": 353,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "xml"
+    }
+  },
+  {
+    "pk": 354,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fixme"
+    }
+  },
+  {
+    "pk": 355,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "paster"
+    }
+  },
+  {
+    "pk": 356,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "profiling"
+    }
+  },
+  {
+    "pk": 357,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tornado"
+    }
+  },
+  {
+    "pk": 358,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "euroscipy"
+    }
+  },
+  {
+    "pk": 359,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "euroscipy2010"
+    }
+  },
+  {
+    "pk": 360,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fork"
+    }
+  },
+  {
+    "pk": 361,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "freebsd"
+    }
+  },
+  {
+    "pk": 362,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "india"
+    }
+  },
+  {
+    "pk": 363,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "orbison"
+    }
+  },
+  {
+    "pk": 364,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pdb"
+    }
+  },
+  {
+    "pk": 365,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyweek"
+    }
+  },
+  {
+    "pk": 366,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sphinx"
+    }
+  },
+  {
+    "pk": 367,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "threads"
+    }
+  },
+  {
+    "pk": 368,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "contributing"
+    }
+  },
+  {
+    "pk": 369,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cython"
+    }
+  },
+  {
+    "pk": 370,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "floss"
+    }
+  },
+  {
+    "pk": 371,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyar"
+    }
+  },
+  {
+    "pk": 372,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycloud"
+    }
+  },
+  {
+    "pk": 373,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "unladenswallow"
+    }
+  },
+  {
+    "pk": 374,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "neo4j"
+    }
+  },
+  {
+    "pk": 375,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyparsing"
+    }
+  },
+  {
+    "pk": 376,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "crossplatform"
+    }
+  },
+  {
+    "pk": 377,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "py2app"
+    }
+  },
+  {
+    "pk": 378,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wxpython"
+    }
+  },
+  {
+    "pk": 379,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multiprocessing"
+    }
+  },
+  {
+    "pk": 380,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jinja"
+    }
+  },
+  {
+    "pk": 381,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mongodb"
+    }
+  },
+  {
+    "pk": 382,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pubsubhubbub"
+    }
+  },
+  {
+    "pk": 383,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "robotics"
+    }
+  },
+  {
+    "pk": 384,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "simulation"
+    }
+  },
+  {
+    "pk": 385,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dict"
+    }
+  },
+  {
+    "pk": 386,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scientific"
+    }
+  },
+  {
+    "pk": 387,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "vistrails"
+    }
+  },
+  {
+    "pk": 388,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "enstaller"
+    }
+  },
+  {
+    "pk": 389,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "enthought"
+    }
+  },
+  {
+    "pk": 390,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "embedded"
+    }
+  },
+  {
+    "pk": 391,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "2to3"
+    }
+  },
+  {
+    "pk": 392,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python3"
+    }
+  },
+  {
+    "pk": 393,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cherrypy"
+    }
+  },
+  {
+    "pk": 394,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "astronomy"
+    }
+  },
+  {
+    "pk": 395,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distribute"
+    }
+  },
+  {
+    "pk": 396,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distutils"
+    }
+  },
+  {
+    "pk": 397,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "easy_install"
+    }
+  },
+  {
+    "pk": 398,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pypi"
+    }
+  },
+  {
+    "pk": 399,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "setuptools"
+    }
+  },
+  {
+    "pk": 400,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pcyon2010"
+    }
+  },
+  {
+    "pk": 401,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "atom"
+    }
+  },
+  {
+    "pk": 402,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "http"
+    }
+  },
+  {
+    "pk": 403,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "json"
+    }
+  },
+  {
+    "pk": 404,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "oauth"
+    }
+  },
+  {
+    "pk": 405,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rss"
+    }
+  },
+  {
+    "pk": 406,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "io"
+    }
+  },
+  {
+    "pk": 407,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "class"
+    }
+  },
+  {
+    "pk": 408,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "analysis"
+    }
+  },
+  {
+    "pk": 409,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parrot"
+    }
+  },
+  {
+    "pk": 410,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyine"
+    }
+  },
+  {
+    "pk": 411,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "panel"
+    }
+  },
+  {
+    "pk": 412,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "restish"
+    }
+  },
+  {
+    "pk": 413,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zib"
+    }
+  },
+  {
+    "pk": 414,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "metaprogramming"
+    }
+  },
+  {
+    "pk": 415,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "framework"
+    }
+  },
+  {
+    "pk": 416,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "loadbalancing"
+    }
+  },
+  {
+    "pk": 417,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "replication"
+    }
+  },
+  {
+    "pk": 418,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "numpy"
+    }
+  },
+  {
+    "pk": 419,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pandas"
+    }
+  },
+  {
+    "pk": 420,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cmd"
+    }
+  },
+  {
+    "pk": 421,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cmd2"
+    }
+  },
+  {
+    "pk": 422,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bisect"
+    }
+  },
+  {
+    "pk": 423,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dequeues"
+    }
+  },
+  {
+    "pk": 424,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "frozensets"
+    }
+  },
+  {
+    "pk": 425,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "heapq"
+    }
+  },
+  {
+    "pk": 426,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lists"
+    }
+  },
+  {
+    "pk": 427,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sets"
+    }
+  },
+  {
+    "pk": 428,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sorts"
+    }
+  },
+  {
+    "pk": 429,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "weakreferences"
+    }
+  },
+  {
+    "pk": 430,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lightning"
+    }
+  },
+  {
+    "pk": 431,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lightningtalk"
+    }
+  },
+  {
+    "pk": 432,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "phatch"
+    }
+  },
+  {
+    "pk": 433,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycharm"
+    }
+  },
+  {
+    "pk": 434,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scrape.py"
+    }
+  },
+  {
+    "pk": 435,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "accessibility"
+    }
+  },
+  {
+    "pk": 436,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distributeddatabases"
+    }
+  },
+  {
+    "pk": 437,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "partitioning"
+    }
+  },
+  {
+    "pk": 438,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webfaction"
+    }
+  },
+  {
+    "pk": 439,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "formatting"
+    }
+  },
+  {
+    "pk": 440,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tools"
+    }
+  },
+  {
+    "pk": 441,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "basie"
+    }
+  },
+  {
+    "pk": 442,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pythonrio"
+    }
+  },
+  {
+    "pk": 443,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "delcarations"
+    }
+  },
+  {
+    "pk": 444,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bitten"
+    }
+  },
+  {
+    "pk": 445,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "buildbot"
+    }
+  },
+  {
+    "pk": 446,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cruisecontrol"
+    }
+  },
+  {
+    "pk": 447,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dart"
+    }
+  },
+  {
+    "pk": 448,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hudson"
+    }
+  },
+  {
+    "pk": 449,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pony-build"
+    }
+  },
+  {
+    "pk": 450,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "deconstruction"
+    }
+  },
+  {
+    "pk": 451,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tortuga"
+    }
+  },
+  {
+    "pk": 452,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sprox"
+    }
+  },
+  {
+    "pk": 453,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "i18n"
+    }
+  },
+  {
+    "pk": 454,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "internationalization"
+    }
+  },
+  {
+    "pk": 455,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dumbo"
+    }
+  },
+  {
+    "pk": 456,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nltk"
+    }
+  },
+  {
+    "pk": 457,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "africa"
+    }
+  },
+  {
+    "pk": 458,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "infrastructure"
+    }
+  },
+  {
+    "pk": 459,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nginx"
+    }
+  },
+  {
+    "pk": 460,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "silverlight"
+    }
+  },
+  {
+    "pk": 461,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "import"
+    }
+  },
+  {
+    "pk": 462,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "importers"
+    }
+  },
+  {
+    "pk": 463,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "importing"
+    }
+  },
+  {
+    "pk": 464,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyro"
+    }
+  },
+  {
+    "pk": 465,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "geoalchemy"
+    }
+  },
+  {
+    "pk": 466,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cms"
+    }
+  },
+  {
+    "pk": 467,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "crm"
+    }
+  },
+  {
+    "pk": 468,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "adapters"
+    }
+  },
+  {
+    "pk": 469,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "interfaces"
+    }
+  },
+  {
+    "pk": 470,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zope.interface"
+    }
+  },
+  {
+    "pk": 471,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "language"
+    }
+  },
+  {
+    "pk": 472,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mobile"
+    }
+  },
+  {
+    "pk": 473,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "p2p"
+    }
+  },
+  {
+    "pk": 474,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "seattle"
+    }
+  },
+  {
+    "pk": 475,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "university"
+    }
+  },
+  {
+    "pk": 476,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "reddit"
+    }
+  },
+  {
+    "pk": 477,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "contextmanagers"
+    }
+  },
+  {
+    "pk": 478,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "descripters"
+    }
+  },
+  {
+    "pk": 479,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "else"
+    }
+  },
+  {
+    "pk": 480,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gil"
+    }
+  },
+  {
+    "pk": 481,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "activestate"
+    }
+  },
+  {
+    "pk": 482,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bigapps"
+    }
+  },
+  {
+    "pk": 483,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cmusphinx"
+    }
+  },
+  {
+    "pk": 484,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lawyers"
+    }
+  },
+  {
+    "pk": 485,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lightningtalks"
+    }
+  },
+  {
+    "pk": 486,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "programmingbook"
+    }
+  },
+  {
+    "pk": 487,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python-cookbook"
+    }
+  },
+  {
+    "pk": 488,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ubuntuone"
+    }
+  },
+  {
+    "pk": 489,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycon2011"
+    }
+  },
+  {
+    "pk": 490,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mirocommunity"
+    }
+  },
+  {
+    "pk": 491,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pmc"
+    }
+  },
+  {
+    "pk": 492,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "subtitles"
+    }
+  },
+  {
+    "pk": 493,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "unisub"
+    }
+  },
+  {
+    "pk": 494,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "universalsubtitles"
+    }
+  },
+  {
+    "pk": 495,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "adventure"
+    }
+  },
+  {
+    "pk": 496,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "askbot"
+    }
+  },
+  {
+    "pk": 497,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "flufl.enum"
+    }
+  },
+  {
+    "pk": 498,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "foss@rit"
+    }
+  },
+  {
+    "pk": 499,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fudge"
+    }
+  },
+  {
+    "pk": 500,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "minuteman"
+    }
+  },
+  {
+    "pk": 501,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "moe"
+    }
+  },
+  {
+    "pk": 502,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python2to3"
+    }
+  },
+  {
+    "pk": 503,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "twiggy"
+    }
+  },
+  {
+    "pk": 504,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "engineering"
+    }
+  },
+  {
+    "pk": 505,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "flufl.i18n"
+    }
+  },
+  {
+    "pk": 506,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "interviewing"
+    }
+  },
+  {
+    "pk": 507,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "javascript"
+    }
+  },
+  {
+    "pk": 508,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pywo"
+    }
+  },
+  {
+    "pk": 509,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chapa.vim"
+    }
+  },
+  {
+    "pk": 510,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cog"
+    }
+  },
+  {
+    "pk": 511,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "japan"
+    }
+  },
+  {
+    "pk": 512,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "logging.statistics"
+    }
+  },
+  {
+    "pk": 513,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "qtile"
+    }
+  },
+  {
+    "pk": 514,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "growth"
+    }
+  },
+  {
+    "pk": 515,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "usergroups"
+    }
+  },
+  {
+    "pk": 516,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ide"
+    }
+  },
+  {
+    "pk": 517,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "komodo"
+    }
+  },
+  {
+    "pk": 518,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "komodoide"
+    }
+  },
+  {
+    "pk": 519,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pythontoolsforvisualstudio"
+    }
+  },
+  {
+    "pk": 520,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "visualstudio"
+    }
+  },
+  {
+    "pk": 521,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wingware"
+    }
+  },
+  {
+    "pk": 522,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "twitter"
+    }
+  },
+  {
+    "pk": 523,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "unicode"
+    }
+  },
+  {
+    "pk": 524,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "htsql"
+    }
+  },
+  {
+    "pk": 525,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "apidesign"
+    }
+  },
+  {
+    "pk": 526,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "counters"
+    }
+  },
+  {
+    "pk": 527,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lrucache"
+    }
+  },
+  {
+    "pk": 528,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "namedtuples"
+    }
+  },
+  {
+    "pk": 529,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stringformatting"
+    }
+  },
+  {
+    "pk": 530,
+    "model": "videos.tag",
+    "fields": {
+      "tag": ".net"
+    }
+  },
+  {
+    "pk": 531,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "commandline"
+    }
+  },
+  {
+    "pk": 532,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mer"
+    }
+  },
+  {
+    "pk": 533,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cgitb"
+    }
+  },
+  {
+    "pk": 534,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "contextlib.contextmanager"
+    }
+  },
+  {
+    "pk": 535,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fileinput"
+    }
+  },
+  {
+    "pk": 536,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hmac"
+    }
+  },
+  {
+    "pk": 537,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "locale"
+    }
+  },
+  {
+    "pk": 538,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pkgutil.getdata"
+    }
+  },
+  {
+    "pk": 539,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rlcompleter"
+    }
+  },
+  {
+    "pk": 540,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "robotparser"
+    }
+  },
+  {
+    "pk": 541,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "uuid4"
+    }
+  },
+  {
+    "pk": 542,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hookbox"
+    }
+  },
+  {
+    "pk": 543,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webapps"
+    }
+  },
+  {
+    "pk": 544,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "kvm"
+    }
+  },
+  {
+    "pk": 545,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "libvirt"
+    }
+  },
+  {
+    "pk": 546,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "openstack"
+    }
+  },
+  {
+    "pk": 547,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "virtualbox"
+    }
+  },
+  {
+    "pk": 548,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "browsers"
+    }
+  },
+  {
+    "pk": 549,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "html5"
+    }
+  },
+  {
+    "pk": 550,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webdriver"
+    }
+  },
+  {
+    "pk": 551,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "diversity"
+    }
+  },
+  {
+    "pk": 552,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python2"
+    }
+  },
+  {
+    "pk": 553,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "firefoxsync"
+    }
+  },
+  {
+    "pk": 554,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gevent"
+    }
+  },
+  {
+    "pk": 555,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "highconcurrency"
+    }
+  },
+  {
+    "pk": 556,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "libevent"
+    }
+  },
+  {
+    "pk": 557,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sellingpython"
+    }
+  },
+  {
+    "pk": 558,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "patterns"
+    }
+  },
+  {
+    "pk": 559,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pluggable"
+    }
+  },
+  {
+    "pk": 560,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "aircraftenginetuning"
+    }
+  },
+  {
+    "pk": 561,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "3d"
+    }
+  },
+  {
+    "pk": 562,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "opengl"
+    }
+  },
+  {
+    "pk": 563,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyglet"
+    }
+  },
+  {
+    "pk": 564,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyopengl"
+    }
+  },
+  {
+    "pk": 565,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gpgpu"
+    }
+  },
+  {
+    "pk": 566,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "numericalsimulations"
+    }
+  },
+  {
+    "pk": 567,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parallelcomputing"
+    }
+  },
+  {
+    "pk": 568,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "simulations"
+    }
+  },
+  {
+    "pk": 569,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "solvcon"
+    }
+  },
+  {
+    "pk": 570,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "threadless"
+    }
+  },
+  {
+    "pk": 571,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django-nonrel"
+    }
+  },
+  {
+    "pk": 572,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyramid"
+    }
+  },
+  {
+    "pk": 573,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "java"
+    }
+  },
+  {
+    "pk": 574,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "beeswithmachineguns"
+    }
+  },
+  {
+    "pk": 575,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mock"
+    }
+  },
+  {
+    "pk": 576,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gpu"
+    }
+  },
+  {
+    "pk": 577,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "highperformancecomputing"
+    }
+  },
+  {
+    "pk": 578,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hpc"
+    }
+  },
+  {
+    "pk": 579,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mpi"
+    }
+  },
+  {
+    "pk": 580,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "concurrence"
+    }
+  },
+  {
+    "pk": 581,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "greenlets"
+    }
+  },
+  {
+    "pk": 582,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scalability"
+    }
+  },
+  {
+    "pk": 583,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "obfuscated"
+    }
+  },
+  {
+    "pk": 584,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "obfuscation"
+    }
+  },
+  {
+    "pk": 585,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scalable"
+    }
+  },
+  {
+    "pk": 586,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pypes"
+    }
+  },
+  {
+    "pk": 587,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "badcode"
+    }
+  },
+  {
+    "pk": 588,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "diaperpattern"
+    }
+  },
+  {
+    "pk": 589,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lambda"
+    }
+  },
+  {
+    "pk": 590,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bigdata"
+    }
+  },
+  {
+    "pk": 591,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parallelization"
+    }
+  },
+  {
+    "pk": 593,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "epydoc"
+    }
+  },
+  {
+    "pk": 594,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "faqs"
+    }
+  },
+  {
+    "pk": 595,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycco"
+    }
+  },
+  {
+    "pk": 596,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distributed"
+    }
+  },
+  {
+    "pk": 597,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distributedcomputing"
+    }
+  },
+  {
+    "pk": 598,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mrjob"
+    }
+  },
+  {
+    "pk": 599,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lamp"
+    }
+  },
+  {
+    "pk": 600,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "coredev"
+    }
+  },
+  {
+    "pk": 601,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "makingsausage"
+    }
+  },
+  {
+    "pk": 602,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cd"
+    }
+  },
+  {
+    "pk": 603,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "continuousdeployment"
+    }
+  },
+  {
+    "pk": 604,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "softwaredevelopment"
+    }
+  },
+  {
+    "pk": 605,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "workflow"
+    }
+  },
+  {
+    "pk": 606,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hiring"
+    }
+  },
+  {
+    "pk": 607,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "job"
+    }
+  },
+  {
+    "pk": 608,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "distutils2"
+    }
+  },
+  {
+    "pk": 609,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "setup.py"
+    }
+  },
+  {
+    "pk": 610,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "blender"
+    }
+  },
+  {
+    "pk": 611,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bpy"
+    }
+  },
+  {
+    "pk": 612,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tuf"
+    }
+  },
+  {
+    "pk": 613,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "updates"
+    }
+  },
+  {
+    "pk": 614,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "highschool"
+    }
+  },
+  {
+    "pk": 615,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "robots"
+    }
+  },
+  {
+    "pk": 616,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dna"
+    }
+  },
+  {
+    "pk": 617,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "genomes"
+    }
+  },
+  {
+    "pk": 618,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "openhatch"
+    }
+  },
+  {
+    "pk": 619,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "outreach"
+    }
+  },
+  {
+    "pk": 620,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "googlepredictionapi"
+    }
+  },
+  {
+    "pk": 621,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "machinelearning"
+    }
+  },
+  {
+    "pk": 622,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scikit-learn"
+    }
+  },
+  {
+    "pk": 623,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "disqus"
+    }
+  },
+  {
+    "pk": 624,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ast"
+    }
+  },
+  {
+    "pk": 625,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "abc"
+    }
+  },
+  {
+    "pk": 626,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "datastructures"
+    }
+  },
+  {
+    "pk": 627,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dequearray"
+    }
+  },
+  {
+    "pk": 628,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ducktyping"
+    }
+  },
+  {
+    "pk": 629,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "frozenset"
+    }
+  },
+  {
+    "pk": 630,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "list"
+    }
+  },
+  {
+    "pk": 631,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "namedtuple"
+    }
+  },
+  {
+    "pk": 632,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ordereddict"
+    }
+  },
+  {
+    "pk": 633,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "orderedset"
+    }
+  },
+  {
+    "pk": 634,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "set"
+    }
+  },
+  {
+    "pk": 635,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tuple"
+    }
+  },
+  {
+    "pk": 636,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "unittests"
+    }
+  },
+  {
+    "pk": 637,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hacking"
+    }
+  },
+  {
+    "pk": 638,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hardening"
+    }
+  },
+  {
+    "pk": 639,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "backup"
+    }
+  },
+  {
+    "pk": 640,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bitbacker"
+    }
+  },
+  {
+    "pk": 641,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "patents"
+    }
+  },
+  {
+    "pk": 642,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jit"
+    }
+  },
+  {
+    "pk": 643,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "vm"
+    }
+  },
+  {
+    "pk": 644,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ga"
+    }
+  },
+  {
+    "pk": 645,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "geneticalgorithms"
+    }
+  },
+  {
+    "pk": 646,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "geneticprogramming"
+    }
+  },
+  {
+    "pk": 647,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gp"
+    }
+  },
+  {
+    "pk": 648,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyevolve"
+    }
+  },
+  {
+    "pk": 649,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "couchdb"
+    }
+  },
+  {
+    "pk": 650,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "puppet"
+    }
+  },
+  {
+    "pk": 651,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gettinginvolved"
+    }
+  },
+  {
+    "pk": 652,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webframeworks"
+    }
+  },
+  {
+    "pk": 653,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tox"
+    }
+  },
+  {
+    "pk": 654,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nvidia"
+    }
+  },
+  {
+    "pk": 655,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parallel"
+    }
+  },
+  {
+    "pk": 656,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycuda"
+    }
+  },
+  {
+    "pk": 657,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "csp"
+    }
+  },
+  {
+    "pk": 658,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "go"
+    }
+  },
+  {
+    "pk": 659,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "httplib"
+    }
+  },
+  {
+    "pk": 660,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pycurl"
+    }
+  },
+  {
+    "pk": 661,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "urllib"
+    }
+  },
+  {
+    "pk": 662,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "flask"
+    }
+  },
+  {
+    "pk": 663,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "documentationdrivendesign"
+    }
+  },
+  {
+    "pk": 664,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mongrel"
+    }
+  },
+  {
+    "pk": 665,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "soawesome"
+    }
+  },
+  {
+    "pk": 666,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "superboard"
+    }
+  },
+  {
+    "pk": 667,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "business"
+    }
+  },
+  {
+    "pk": 668,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "kpi"
+    }
+  },
+  {
+    "pk": 669,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "compiling"
+    }
+  },
+  {
+    "pk": 670,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "introspection"
+    }
+  },
+  {
+    "pk": 671,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parsing"
+    }
+  },
+  {
+    "pk": 672,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "packages"
+    }
+  },
+  {
+    "pk": 673,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pylot"
+    }
+  },
+  {
+    "pk": 674,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sandianationallaboratories"
+    }
+  },
+  {
+    "pk": 675,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "supercomputer"
+    }
+  },
+  {
+    "pk": 676,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "memory"
+    }
+  },
+  {
+    "pk": 677,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "amqp"
+    }
+  },
+  {
+    "pk": 678,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "queueing"
+    }
+  },
+  {
+    "pk": 679,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "future"
+    }
+  },
+  {
+    "pk": 680,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "advocacy"
+    }
+  },
+  {
+    "pk": 681,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyconau"
+    }
+  },
+  {
+    "pk": 682,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyconau2010"
+    }
+  },
+  {
+    "pk": 683,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "promise"
+    }
+  },
+  {
+    "pk": 684,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "puzzlers"
+    }
+  },
+  {
+    "pk": 685,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "soap"
+    }
+  },
+  {
+    "pk": 686,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ssl"
+    }
+  },
+  {
+    "pk": 687,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sypy"
+    }
+  },
+  {
+    "pk": 688,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "prototyping"
+    }
+  },
+  {
+    "pk": 689,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "multimedia"
+    }
+  },
+  {
+    "pk": 690,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "processing"
+    }
+  },
+  {
+    "pk": 691,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "apis"
+    }
+  },
+  {
+    "pk": 692,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jsonrpc"
+    }
+  },
+  {
+    "pk": 693,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "agile"
+    }
+  },
+  {
+    "pk": 694,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "architecture"
+    }
+  },
+  {
+    "pk": 695,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "science"
+    }
+  },
+  {
+    "pk": 696,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "virtualisation"
+    }
+  },
+  {
+    "pk": 697,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "games"
+    }
+  },
+  {
+    "pk": 698,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "handheld"
+    }
+  },
+  {
+    "pk": 699,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mod_wsgi"
+    }
+  },
+  {
+    "pk": 700,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hostout"
+    }
+  },
+  {
+    "pk": 701,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "silverlining"
+    }
+  },
+  {
+    "pk": 702,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "esky"
+    }
+  },
+  {
+    "pk": 703,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cocos2d"
+    }
+  },
+  {
+    "pk": 704,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "google"
+    }
+  },
+  {
+    "pk": 705,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hacks"
+    }
+  },
+  {
+    "pk": 706,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "inflect.py"
+    }
+  },
+  {
+    "pk": 707,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pippy"
+    }
+  },
+  {
+    "pk": 708,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scripts"
+    }
+  },
+  {
+    "pk": 709,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "with"
+    }
+  },
+  {
+    "pk": 710,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "optimisation"
+    }
+  },
+  {
+    "pk": 711,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "datasets"
+    }
+  },
+  {
+    "pk": 712,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pygotham"
+    }
+  },
+  {
+    "pk": 713,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pygotham2011"
+    }
+  },
+  {
+    "pk": 714,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gnuscreen"
+    }
+  },
+  {
+    "pk": 715,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "tmux"
+    }
+  },
+  {
+    "pk": 716,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "brubeck"
+    }
+  },
+  {
+    "pk": 717,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dataanalysis"
+    }
+  },
+  {
+    "pk": 718,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "drivers"
+    }
+  },
+  {
+    "pk": 719,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyserial"
+    }
+  },
+  {
+    "pk": 720,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyusb"
+    }
+  },
+  {
+    "pk": 721,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "usb"
+    }
+  },
+  {
+    "pk": 722,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bosc"
+    }
+  },
+  {
+    "pk": 723,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "opensoundcontrol"
+    }
+  },
+  {
+    "pk": 724,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "real-time"
+    }
+  },
+  {
+    "pk": 725,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "socket.io"
+    }
+  },
+  {
+    "pk": 726,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "zeromq"
+    }
+  },
+  {
+    "pk": 727,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stem"
+    }
+  },
+  {
+    "pk": 728,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nonblockingio"
+    }
+  },
+  {
+    "pk": 729,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "markov"
+    }
+  },
+  {
+    "pk": 730,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "visualization"
+    }
+  },
+  {
+    "pk": 731,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "openblock"
+    }
+  },
+  {
+    "pk": 732,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "workshops"
+    }
+  },
+  {
+    "pk": 733,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ming"
+    }
+  },
+  {
+    "pk": 734,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "art"
+    }
+  },
+  {
+    "pk": 735,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "software"
+    }
+  },
+  {
+    "pk": 736,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plover"
+    }
+  },
+  {
+    "pk": 737,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stenography"
+    }
+  },
+  {
+    "pk": 738,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "plone4"
+    }
+  },
+  {
+    "pk": 739,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyohio"
+    }
+  },
+  {
+    "pk": 740,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyohio2010"
+    }
+  },
+  {
+    "pk": 741,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "suds"
+    }
+  },
+  {
+    "pk": 742,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "entrepeneur"
+    }
+  },
+  {
+    "pk": 743,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "hadoop"
+    }
+  },
+  {
+    "pk": 744,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "dictionaries"
+    }
+  },
+  {
+    "pk": 745,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cprofile"
+    }
+  },
+  {
+    "pk": 746,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pstats"
+    }
+  },
+  {
+    "pk": 747,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "runsnakerun"
+    }
+  },
+  {
+    "pk": 748,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "timeit"
+    }
+  },
+  {
+    "pk": 749,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "asp.net"
+    }
+  },
+  {
+    "pk": 750,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "winforms"
+    }
+  },
+  {
+    "pk": 751,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wpf"
+    }
+  },
+  {
+    "pk": 752,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "codestyle"
+    }
+  },
+  {
+    "pk": 753,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "style"
+    }
+  },
+  {
+    "pk": 754,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "supervisor"
+    }
+  },
+  {
+    "pk": 755,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "splunk"
+    }
+  },
+  {
+    "pk": 756,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "sysadmin"
+    }
+  },
+  {
+    "pk": 757,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bugfixing"
+    }
+  },
+  {
+    "pk": 758,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "artificialignorance"
+    }
+  },
+  {
+    "pk": 759,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "graphing"
+    }
+  },
+  {
+    "pk": 760,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "patternrecognition"
+    }
+  },
+  {
+    "pk": 761,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "petit"
+    }
+  },
+  {
+    "pk": 762,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "stopwordlists"
+    }
+  },
+  {
+    "pk": 763,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "wordcounting"
+    }
+  },
+  {
+    "pk": 764,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "networking"
+    }
+  },
+  {
+    "pk": 765,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyqt"
+    }
+  },
+  {
+    "pk": 766,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "codereuse"
+    }
+  },
+  {
+    "pk": 767,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyohio2011"
+    }
+  },
+  {
+    "pk": 768,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "self"
+    }
+  },
+  {
+    "pk": 769,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "urllib2"
+    }
+  },
+  {
+    "pk": 770,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bullwinkle"
+    }
+  },
+  {
+    "pk": 771,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ctags"
+    }
+  },
+  {
+    "pk": 772,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bookie"
+    }
+  },
+  {
+    "pk": 773,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "laptops"
+    }
+  },
+  {
+    "pk": 774,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pelican"
+    }
+  },
+  {
+    "pk": 775,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "rattlesnake"
+    }
+  },
+  {
+    "pk": 776,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "repoze.who.plugins"
+    }
+  },
+  {
+    "pk": 777,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "slang"
+    }
+  },
+  {
+    "pk": 778,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "descriptors"
+    }
+  },
+  {
+    "pk": 779,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "getattr"
+    }
+  },
+  {
+    "pk": 780,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "getattribute"
+    }
+  },
+  {
+    "pk": 781,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "properties"
+    }
+  },
+  {
+    "pk": 782,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "panda3d"
+    }
+  },
+  {
+    "pk": 783,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "learningpython"
+    }
+  },
+  {
+    "pk": 784,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webapi"
+    }
+  },
+  {
+    "pk": 785,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "lalr"
+    }
+  },
+  {
+    "pk": 786,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "parser"
+    }
+  },
+  {
+    "pk": 787,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webapis"
+    }
+  },
+  {
+    "pk": 788,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "careers"
+    }
+  },
+  {
+    "pk": 789,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bitcoin"
+    }
+  },
+  {
+    "pk": 790,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "entrepeneurship"
+    }
+  },
+  {
+    "pk": 791,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyrad"
+    }
+  },
+  {
+    "pk": 792,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyside"
+    }
+  },
+  {
+    "pk": 793,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "freshbooks"
+    }
+  },
+  {
+    "pk": 794,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pymc"
+    }
+  },
+  {
+    "pk": 795,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "atari"
+    }
+  },
+  {
+    "pk": 796,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "freemint"
+    }
+  },
+  {
+    "pk": 797,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "interpreters"
+    }
+  },
+  {
+    "pk": 798,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "assignment"
+    }
+  },
+  {
+    "pk": 799,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ec2"
+    }
+  },
+  {
+    "pk": 800,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "conversion"
+    }
+  },
+  {
+    "pk": 801,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "php"
+    }
+  },
+  {
+    "pk": 802,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mvc"
+    }
+  },
+  {
+    "pk": 803,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "datatransferobjects"
+    }
+  },
+  {
+    "pk": 804,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "aspen"
+    }
+  },
+  {
+    "pk": 805,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "webframework"
+    }
+  },
+  {
+    "pk": 806,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "fetching"
+    }
+  },
+  {
+    "pk": 807,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gotchas"
+    }
+  },
+  {
+    "pk": 808,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "chipy"
+    }
+  },
+  {
+    "pk": 809,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "playdoh"
+    }
+  },
+  {
+    "pk": 810,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "billmania"
+    }
+  },
+  {
+    "pk": 811,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "camera"
+    }
+  },
+  {
+    "pk": 812,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "image"
+    }
+  },
+  {
+    "pk": 813,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "opencv"
+    }
+  },
+  {
+    "pk": 814,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ros"
+    }
+  },
+  {
+    "pk": 815,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cwebber"
+    }
+  },
+  {
+    "pk": 816,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "foss"
+    }
+  },
+  {
+    "pk": 817,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gnu"
+    }
+  },
+  {
+    "pk": 818,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "media"
+    }
+  },
+  {
+    "pk": 819,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mediagoblin"
+    }
+  },
+  {
+    "pk": 820,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mongokit"
+    }
+  },
+  {
+    "pk": 821,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "openoffice"
+    }
+  },
+  {
+    "pk": 822,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pystage"
+    }
+  },
+  {
+    "pk": 823,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "apache"
+    }
+  },
+  {
+    "pk": 824,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "ianbicking"
+    }
+  },
+  {
+    "pk": 825,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "cool"
+    }
+  },
+  {
+    "pk": 826,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "customizing"
+    }
+  },
+  {
+    "pk": 827,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "jquery"
+    }
+  },
+  {
+    "pk": 828,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "python2.7"
+    }
+  },
+  {
+    "pk": 829,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gitpython"
+    }
+  },
+  {
+    "pk": 830,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "extjs"
+    }
+  },
+  {
+    "pk": 831,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "piston"
+    }
+  },
+  {
+    "pk": 832,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "go_pylons"
+    }
+  },
+  {
+    "pk": 833,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "snakefight"
+    }
+  },
+  {
+    "pk": 834,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "bostonpy"
+    }
+  },
+  {
+    "pk": 835,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "session"
+    }
+  },
+  {
+    "pk": 836,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "gearman"
+    }
+  },
+  {
+    "pk": 837,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "pyatl"
+    }
+  },
+  {
+    "pk": 838,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "xlrd"
+    }
+  },
+  {
+    "pk": 839,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "xlwt"
+    }
+  },
+  {
+    "pk": 840,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "contentmirror"
+    }
+  },
+  {
+    "pk": 841,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "googlewave"
+    }
+  },
+  {
+    "pk": 842,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "android"
+    }
+  },
+  {
+    "pk": 843,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "nose"
+    }
+  },
+  {
+    "pk": 844,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "av"
+    }
+  },
+  {
+    "pk": 845,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "django"
+    }
+  }
 ]
