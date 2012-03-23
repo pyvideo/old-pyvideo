@@ -5906,5 +5906,33 @@
     "fields": {
       "tag": "django"
     }
+  },
+  {
+    "pk": 846,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "disco"
+    }
+  },
+  {
+    "pk": 847,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "mapreduce"
+    }
+  },
+  {
+    "pk": 848,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "numexpr"
+    }
+  },
+  {
+    "pk": 849,
+    "model": "videos.tag",
+    "fields": {
+      "tag": "scikits-image"
+    }
   }
 ]

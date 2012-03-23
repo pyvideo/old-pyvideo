@@ -1,0 +1,171 @@
+[
+  {
+    "pk": 959,
+    "model": "videos.video",
+    "fields": {
+      "whiteboard": "",
+      "category": 18,
+      "speakers": [
+        105
+      ],
+      "title": "Workshop Panel with Guido van Rossum",
+      "quality_notes": "",
+      "recorded": "2012-03-02",
+      "state": 1,
+      "updated": "2012-03-23T02:00:36Z",
+      "added": "2012-03-23T01:39:10Z",
+      "video_mp4_length": null,
+      "description": "",
+      "video_mp4_url": "",
+      "tags": [
+        695,
+        386
+      ],
+      "copyright_text": "",
+      "source_url": "http://www.youtube.com/watch?v=QjXJLVINsSA",
+      "video_webm_url": "",
+      "video_ogv_length": null,
+      "slug": "workshop-panel-with-guido-van-rossum",
+      "video_ogv_url": "",
+      "video_webm_length": null,
+      "summary": "<p>In this presentation from the 2012 PyData Workshop hosted at Google on March 2-3, Guido van Rossum, author of the Python programming language, engages in an open discussion on the intersection of the evolution of Python and the growth of the scientific community. Panelists include Fernando Perez, Travis Oliphant, and David Cournapeau.</p>",
+      "thumbnail_url": "http://img.youtube.com/vi/QjXJLVINsSA/hqdefault.jpg",
+      "embed": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/QjXJLVINsSA?feature=player_embedded\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "pk": 960,
+    "model": "videos.video",
+    "fields": {
+      "whiteboard": "",
+      "category": 18,
+      "speakers": [
+        340
+      ],
+      "title": "Python in Big Data with an overview of NumPy & SciPy",
+      "quality_notes": "",
+      "recorded": "2012-03-02",
+      "state": 1,
+      "updated": "2012-03-23T02:00:27Z",
+      "added": "2012-03-23T01:46:54Z",
+      "video_mp4_length": null,
+      "description": "",
+      "video_mp4_url": "",
+      "tags": [
+        743,
+        418,
+        198
+      ],
+      "copyright_text": "",
+      "source_url": "http://www.youtube.com/watch?v=i0FCn889ucs",
+      "video_webm_url": "",
+      "video_ogv_length": null,
+      "slug": "python-in-big-data-with-an-overview-of-numpy-sc",
+      "video_ogv_url": "",
+      "video_webm_length": null,
+      "summary": "<p>\r\nTravis Oliphant, CEO of Continuum Analytics, kicks off the PyData Workshop with a talk on Python in Big Data. Topics addressed include what Python has to offer the world of Big Data, specific use-cases, as well asking why Hadoop is considered the de-facto standard.\r\n</p>\r\n<p> \r\nAdditionally, Travis gives an overview of NumPy and SciPy.\r\n</p>",
+      "thumbnail_url": "http://img.youtube.com/vi/i0FCn889ucs/hqdefault.jpg",
+      "embed": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/i0FCn889ucs?feature=player_embedded\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "pk": 961,
+    "model": "videos.video",
+    "fields": {
+      "whiteboard": "",
+      "category": 18,
+      "speakers": [
+        423
+      ],
+      "title": "The Disco MapReduce Framework",
+      "quality_notes": "",
+      "recorded": "2012-03-02",
+      "state": 1,
+      "updated": "2012-03-23T02:00:31Z",
+      "added": "2012-03-23T01:49:27Z",
+      "video_mp4_length": null,
+      "description": "",
+      "video_mp4_url": "",
+      "tags": [
+        846,
+        847
+      ],
+      "copyright_text": "",
+      "source_url": "http://www.youtube.com/watch?v=YuLBsdvCDo8",
+      "video_webm_url": "",
+      "video_ogv_length": null,
+      "slug": "the-disco-mapreduce-framework",
+      "video_ogv_url": "",
+      "video_webm_length": null,
+      "summary": "<p>\r\nChris Mueller from Life Technologies introduces us to Disco, a MapReduce framework built in Python and Erlang.\r\n</p>\r\n<p> \r\nShowing that Hadoop is not alone in the MapReduce world, Chris reviews the basic MapReduce paradigm, dataflow, file and job distribution, and goes on to explain the Disco Distributed Filesystem (DDFS) before going into some use-case scenarios in next generation genomic sequencing.\r\n</p>",
+      "thumbnail_url": "http://img.youtube.com/vi/YuLBsdvCDo8/hqdefault.jpg",
+      "embed": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/YuLBsdvCDo8?feature=player_embedded\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "pk": 962,
+    "model": "videos.video",
+    "fields": {
+      "whiteboard": "",
+      "category": 18,
+      "speakers": [
+        424
+      ],
+      "title": "Boosting NumPy with Numexpr and Cython",
+      "quality_notes": "",
+      "recorded": "2012-03-02",
+      "state": 1,
+      "updated": "2012-03-23T02:01:09Z",
+      "added": "2012-03-23T01:55:31Z",
+      "video_mp4_length": null,
+      "description": "<p> \r\nTopics covered include:\r\n</p>\r\n<ul>\r\n<li>The era of Big Data\r\n<li>NumPy and its ecosystem\r\n<li>Numexpr\r\n<li>Cython\r\n</ul>",
+      "video_mp4_url": "",
+      "tags": [
+        369,
+        848,
+        418
+      ],
+      "copyright_text": "",
+      "source_url": "http://www.youtube.com/watch?v=J3-oN_TulTg",
+      "video_webm_url": "",
+      "video_ogv_length": null,
+      "slug": "boosting-numpy-with-numexpr-and-cython",
+      "video_ogv_url": "",
+      "video_webm_length": null,
+      "summary": "<p>\r\nIn this video from the 2012 PyData Workshop Francesc Alted from Continuum Analytics is going to show you how you can boost NumPy with Numexpr and Cython.\r\n</p>\r\n",
+      "thumbnail_url": "http://img.youtube.com/vi/J3-oN_TulTg/hqdefault.jpg",
+      "embed": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/J3-oN_TulTg?feature=player_embedded\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+  },
+  {
+    "pk": 963,
+    "model": "videos.video",
+    "fields": {
+      "whiteboard": "",
+      "category": 18,
+      "speakers": [
+        425
+      ],
+      "title": "Image Processing in Python with scikits-image",
+      "quality_notes": "",
+      "recorded": "2012-03-02",
+      "state": 1,
+      "updated": "2012-03-23T02:00:22Z",
+      "added": "2012-03-23T01:59:26Z",
+      "video_mp4_length": null,
+      "description": "",
+      "video_mp4_url": "",
+      "tags": [],
+      "copyright_text": "",
+      "source_url": "http://www.youtube.com/watch?v=Wvvxazwi2IY",
+      "video_webm_url": "",
+      "video_ogv_length": null,
+      "slug": "image-processing-in-python-with-scikits-image",
+      "video_ogv_url": "",
+      "video_webm_length": null,
+      "summary": "<p>\r\nIn this video from the 2012 PyData Workshop, St\u00e9fan van der Walt is going to give you an in-depth look at scikits-image, the image processing toolbox for Python.\r\n</p>\r\n<p>\r\nStefan will talk about the wide application for image processing in industry, and demonstrate how you can use scikits-image to solve specific industry problems.\r\n</p>",
+      "thumbnail_url": "http://img.youtube.com/vi/Wvvxazwi2IY/hqdefault.jpg",
+      "embed": "<iframe width=\"640\" height=\"360\" src=\"http://www.youtube.com/embed/Wvvxazwi2IY?feature=player_embedded\" frameborder=\"0\" allowfullscreen></iframe>"
+    }
+  }
+]
