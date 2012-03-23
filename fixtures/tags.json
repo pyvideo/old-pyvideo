@@ -1,5938 +1,5938 @@
 [
   {
-    "pk": 1,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangocon"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 1
   },
   {
-    "pk": 2,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangocon2009"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 2
   },
   {
-    "pk": 3,
-    "model": "videos.tag",
     "fields": {
       "tag": "testclient"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 3
   },
   {
-    "pk": 4,
-    "model": "videos.tag",
     "fields": {
       "tag": "satchmo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 4
   },
   {
-    "pk": 5,
-    "model": "videos.tag",
     "fields": {
       "tag": "ponies"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 5
   },
   {
-    "pk": 6,
-    "model": "videos.tag",
     "fields": {
       "tag": "dataloading"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 6
   },
   {
-    "pk": 7,
-    "model": "videos.tag",
     "fields": {
       "tag": "mingus"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 7
   },
   {
-    "pk": 8,
-    "model": "videos.tag",
     "fields": {
       "tag": "pinax"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 8
   },
   {
-    "pk": 9,
-    "model": "videos.tag",
     "fields": {
       "tag": "jython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 9
   },
   {
-    "pk": 10,
-    "model": "videos.tag",
     "fields": {
       "tag": "cnotes"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 10
   },
   {
-    "pk": 11,
-    "model": "videos.tag",
     "fields": {
       "tag": "psf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 11
   },
   {
-    "pk": 12,
-    "model": "videos.tag",
     "fields": {
       "tag": "solace"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 12
   },
   {
-    "pk": 13,
-    "model": "videos.tag",
     "fields": {
       "tag": "gsoc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 13
   },
   {
-    "pk": 14,
-    "model": "videos.tag",
     "fields": {
       "tag": "localization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 14
   },
   {
-    "pk": 15,
-    "model": "videos.tag",
     "fields": {
       "tag": "transifex"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 15
   },
   {
-    "pk": 16,
-    "model": "videos.tag",
     "fields": {
       "tag": "scaling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 16
   },
   {
-    "pk": 17,
-    "model": "videos.tag",
     "fields": {
       "tag": "bytecode"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 17
   },
   {
-    "pk": 18,
-    "model": "videos.tag",
     "fields": {
       "tag": "cpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 18
   },
   {
-    "pk": 19,
-    "model": "videos.tag",
     "fields": {
       "tag": "pywatch"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 19
   },
   {
-    "pk": 20,
-    "model": "videos.tag",
     "fields": {
       "tag": "surlex"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 20
   },
   {
-    "pk": 21,
-    "model": "videos.tag",
     "fields": {
       "tag": "testing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 21
   },
   {
-    "pk": 22,
-    "model": "videos.tag",
     "fields": {
       "tag": "postgres"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 22
   },
   {
-    "pk": 23,
-    "model": "videos.tag",
     "fields": {
       "tag": "postgressql"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 23
   },
   {
-    "pk": 24,
-    "model": "videos.tag",
     "fields": {
       "tag": "geodjango"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 24
   },
   {
-    "pk": 25,
-    "model": "videos.tag",
     "fields": {
       "tag": "gis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 25
   },
   {
-    "pk": 26,
-    "model": "videos.tag",
     "fields": {
       "tag": "comet"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 26
   },
   {
-    "pk": 27,
-    "model": "videos.tag",
     "fields": {
       "tag": "opensource"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 27
   },
   {
-    "pk": 28,
-    "model": "videos.tag",
     "fields": {
       "tag": "deploy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 28
   },
   {
-    "pk": 29,
-    "model": "videos.tag",
     "fields": {
       "tag": "deployment"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 29
   },
   {
-    "pk": 30,
-    "model": "videos.tag",
     "fields": {
       "tag": "rest"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 30
   },
   {
-    "pk": 31,
-    "model": "videos.tag",
     "fields": {
       "tag": "debugging"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 31
   },
   {
-    "pk": 32,
-    "model": "videos.tag",
     "fields": {
       "tag": "databasemigration"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 32
   },
   {
-    "pk": 33,
-    "model": "videos.tag",
     "fields": {
       "tag": "south"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 33
   },
   {
-    "pk": 34,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-configstore"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 34
   },
   {
-    "pk": 35,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-hashsignal"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 35
   },
   {
-    "pk": 36,
-    "model": "videos.tag",
     "fields": {
       "tag": "django.contrib.messages"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 36
   },
   {
-    "pk": 37,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangozoom"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 37
   },
   {
-    "pk": 38,
-    "model": "videos.tag",
     "fields": {
       "tag": "dsf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 38
   },
   {
-    "pk": 39,
-    "model": "videos.tag",
     "fields": {
       "tag": "hash-signaling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 39
   },
   {
-    "pk": 40,
-    "model": "videos.tag",
     "fields": {
       "tag": "lettuce"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 40
   },
   {
-    "pk": 41,
-    "model": "videos.tag",
     "fields": {
       "tag": "openid"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 41
   },
   {
-    "pk": 42,
-    "model": "videos.tag",
     "fields": {
       "tag": "orm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 42
   },
   {
-    "pk": 43,
-    "model": "videos.tag",
     "fields": {
       "tag": "routing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 43
   },
   {
-    "pk": 44,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangocon2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 44
   },
   {
-    "pk": 45,
-    "model": "videos.tag",
     "fields": {
       "tag": "sprints"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 45
   },
   {
-    "pk": 46,
-    "model": "videos.tag",
     "fields": {
       "tag": "database"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 46
   },
   {
-    "pk": 47,
-    "model": "videos.tag",
     "fields": {
       "tag": "multipledatabases"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 47
   },
   {
-    "pk": 48,
-    "model": "videos.tag",
     "fields": {
       "tag": "celery"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 48
   },
   {
-    "pk": 49,
-    "model": "videos.tag",
     "fields": {
       "tag": "messagequeues"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 49
   },
   {
-    "pk": 50,
-    "model": "videos.tag",
     "fields": {
       "tag": "queues"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 50
   },
   {
-    "pk": 51,
-    "model": "videos.tag",
     "fields": {
       "tag": "rabbitmq"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 51
   },
   {
-    "pk": 52,
-    "model": "videos.tag",
     "fields": {
       "tag": "programming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 52
   },
   {
-    "pk": 53,
-    "model": "videos.tag",
     "fields": {
       "tag": "optimization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 53
   },
   {
-    "pk": 54,
-    "model": "videos.tag",
     "fields": {
       "tag": "performance"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 54
   },
   {
-    "pk": 55,
-    "model": "videos.tag",
     "fields": {
       "tag": "model"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 55
   },
   {
-    "pk": 56,
-    "model": "videos.tag",
     "fields": {
       "tag": "casestudy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 56
   },
   {
-    "pk": 57,
-    "model": "videos.tag",
     "fields": {
       "tag": "nosql"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 57
   },
   {
-    "pk": 58,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-extensions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 58
   },
   {
-    "pk": 59,
-    "model": "videos.tag",
     "fields": {
       "tag": "ipython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 59
   },
   {
-    "pk": 60,
-    "model": "videos.tag",
     "fields": {
       "tag": "managementshell"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 60
   },
   {
-    "pk": 61,
-    "model": "videos.tag",
     "fields": {
       "tag": "views"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 61
   },
   {
-    "pk": 62,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-mptt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 62
   },
   {
-    "pk": 63,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-treebeard"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 63
   },
   {
-    "pk": 64,
-    "model": "videos.tag",
     "fields": {
       "tag": "graphs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 64
   },
   {
-    "pk": 65,
-    "model": "videos.tag",
     "fields": {
       "tag": "structureddata"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 65
   },
   {
-    "pk": 66,
-    "model": "videos.tag",
     "fields": {
       "tag": "modularizing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 66
   },
   {
-    "pk": 67,
-    "model": "videos.tag",
     "fields": {
       "tag": "reuse"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 67
   },
   {
-    "pk": 68,
-    "model": "videos.tag",
     "fields": {
       "tag": "reusing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 68
   },
   {
-    "pk": 69,
-    "model": "videos.tag",
     "fields": {
       "tag": "api"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 69
   },
   {
-    "pk": 70,
-    "model": "videos.tag",
     "fields": {
       "tag": "ci"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 70
   },
   {
-    "pk": 71,
-    "model": "videos.tag",
     "fields": {
       "tag": "continuousintegration"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 71
   },
   {
-    "pk": 72,
-    "model": "videos.tag",
     "fields": {
       "tag": "databasemigrations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 72
   },
   {
-    "pk": 73,
-    "model": "videos.tag",
     "fields": {
       "tag": "delayedexecutions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 73
   },
   {
-    "pk": 74,
-    "model": "videos.tag",
     "fields": {
       "tag": "documentation"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 74
   },
   {
-    "pk": 75,
-    "model": "videos.tag",
     "fields": {
       "tag": "migrations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 75
   },
   {
-    "pk": 76,
-    "model": "videos.tag",
     "fields": {
       "tag": "safety"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 76
   },
   {
-    "pk": 77,
-    "model": "videos.tag",
     "fields": {
       "tag": "search"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 77
   },
   {
-    "pk": 78,
-    "model": "videos.tag",
     "fields": {
       "tag": "selling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 78
   },
   {
-    "pk": 79,
-    "model": "videos.tag",
     "fields": {
       "tag": "shmpe"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 79
   },
   {
-    "pk": 80,
-    "model": "videos.tag",
     "fields": {
       "tag": "domainspecificframeworks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 80
   },
   {
-    "pk": 81,
-    "model": "videos.tag",
     "fields": {
       "tag": "admin"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 81
   },
   {
-    "pk": 82,
-    "model": "videos.tag",
     "fields": {
       "tag": "tuning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 82
   },
   {
-    "pk": 83,
-    "model": "videos.tag",
     "fields": {
       "tag": "security"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 83
   },
   {
-    "pk": 84,
-    "model": "videos.tag",
     "fields": {
       "tag": "development"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 84
   },
   {
-    "pk": 85,
-    "model": "videos.tag",
     "fields": {
       "tag": "projectmanagement"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 85
   },
   {
-    "pk": 86,
-    "model": "videos.tag",
     "fields": {
       "tag": "core"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 86
   },
   {
-    "pk": 87,
-    "model": "videos.tag",
     "fields": {
       "tag": "maintenance"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 87
   },
   {
-    "pk": 88,
-    "model": "videos.tag",
     "fields": {
       "tag": "updating"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 88
   },
   {
-    "pk": 89,
-    "model": "videos.tag",
     "fields": {
       "tag": "migration"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 89
   },
   {
-    "pk": 90,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangocon2011"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 90
   },
   {
-    "pk": 91,
-    "model": "videos.tag",
     "fields": {
       "tag": "pypy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 91
   },
   {
-    "pk": 92,
-    "model": "videos.tag",
     "fields": {
       "tag": "web"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 92
   },
   {
-    "pk": 93,
-    "model": "videos.tag",
     "fields": {
       "tag": "dependencies"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 93
   },
   {
-    "pk": 94,
-    "model": "videos.tag",
     "fields": {
       "tag": "pip"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 94
   },
   {
-    "pk": 95,
-    "model": "videos.tag",
     "fields": {
       "tag": "activitystreams"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 95
   },
   {
-    "pk": 96,
-    "model": "videos.tag",
     "fields": {
       "tag": "backbone.js"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 96
   },
   {
-    "pk": 97,
-    "model": "videos.tag",
     "fields": {
       "tag": "banana-py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 97
   },
   {
-    "pk": 98,
-    "model": "videos.tag",
     "fields": {
       "tag": "cloud"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 98
   },
   {
-    "pk": 99,
-    "model": "videos.tag",
     "fields": {
       "tag": "contribute"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 99
   },
   {
-    "pk": 100,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-model-blocks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 100
   },
   {
-    "pk": 101,
-    "model": "videos.tag",
     "fields": {
       "tag": "djangoexplorer"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 101
   },
   {
-    "pk": 102,
-    "model": "videos.tag",
     "fields": {
       "tag": "eamcs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 102
   },
   {
-    "pk": 103,
-    "model": "videos.tag",
     "fields": {
       "tag": "fabulaws"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 103
   },
   {
-    "pk": 104,
-    "model": "videos.tag",
     "fields": {
       "tag": "multidb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 104
   },
   {
-    "pk": 105,
-    "model": "videos.tag",
     "fields": {
       "tag": "multiforms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 105
   },
   {
-    "pk": 106,
-    "model": "videos.tag",
     "fields": {
       "tag": "pep8"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 106
   },
   {
-    "pk": 107,
-    "model": "videos.tag",
     "fields": {
       "tag": "pipetter"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 107
   },
   {
-    "pk": 108,
-    "model": "videos.tag",
     "fields": {
       "tag": "psychology"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 108
   },
   {
-    "pk": 109,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyflakes"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 109
   },
   {
-    "pk": 110,
-    "model": "videos.tag",
     "fields": {
       "tag": "pylint"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 110
   },
   {
-    "pk": 111,
-    "model": "videos.tag",
     "fields": {
       "tag": "pystar"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 111
   },
   {
-    "pk": 112,
-    "model": "videos.tag",
     "fields": {
       "tag": "stackato"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 112
   },
   {
-    "pk": 113,
-    "model": "videos.tag",
     "fields": {
       "tag": "tastypie"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 113
   },
   {
-    "pk": 114,
-    "model": "videos.tag",
     "fields": {
       "tag": "wtfawd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 114
   },
   {
-    "pk": 115,
-    "model": "videos.tag",
     "fields": {
       "tag": "project"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 115
   },
   {
-    "pk": 116,
-    "model": "videos.tag",
     "fields": {
       "tag": "coverage.py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 116
   },
   {
-    "pk": 117,
-    "model": "videos.tag",
     "fields": {
       "tag": "jenkins"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 117
   },
   {
-    "pk": 118,
-    "model": "videos.tag",
     "fields": {
       "tag": "dotcloud"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 118
   },
   {
-    "pk": 119,
-    "model": "videos.tag",
     "fields": {
       "tag": "models"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 119
   },
   {
-    "pk": 120,
-    "model": "videos.tag",
     "fields": {
       "tag": "prezi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 120
   },
   {
-    "pk": 121,
-    "model": "videos.tag",
     "fields": {
       "tag": "pushcode"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 121
   },
   {
-    "pk": 122,
-    "model": "videos.tag",
     "fields": {
       "tag": "cache"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 122
   },
   {
-    "pk": 123,
-    "model": "videos.tag",
     "fields": {
       "tag": "caching"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 123
   },
   {
-    "pk": 124,
-    "model": "videos.tag",
     "fields": {
       "tag": "memcache"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 124
   },
   {
-    "pk": 125,
-    "model": "videos.tag",
     "fields": {
       "tag": "maps"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 125
   },
   {
-    "pk": 126,
-    "model": "videos.tag",
     "fields": {
       "tag": "polymaps"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 126
   },
   {
-    "pk": 127,
-    "model": "videos.tag",
     "fields": {
       "tag": "tilestash"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 127
   },
   {
-    "pk": 128,
-    "model": "videos.tag",
     "fields": {
       "tag": "lxml"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 128
   },
   {
-    "pk": 129,
-    "model": "videos.tag",
     "fields": {
       "tag": "scraping"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 129
   },
   {
-    "pk": 130,
-    "model": "videos.tag",
     "fields": {
       "tag": "daemons"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 130
   },
   {
-    "pk": 131,
-    "model": "videos.tag",
     "fields": {
       "tag": "datacenters"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 131
   },
   {
-    "pk": 132,
-    "model": "videos.tag",
     "fields": {
       "tag": "ep.io"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 132
   },
   {
-    "pk": 133,
-    "model": "videos.tag",
     "fields": {
       "tag": "epio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 133
   },
   {
-    "pk": 134,
-    "model": "videos.tag",
     "fields": {
       "tag": "hosting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 134
   },
   {
-    "pk": 135,
-    "model": "videos.tag",
     "fields": {
       "tag": "docs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 135
   },
   {
-    "pk": 136,
-    "model": "videos.tag",
     "fields": {
       "tag": "basic"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 136
   },
   {
-    "pk": 137,
-    "model": "videos.tag",
     "fields": {
       "tag": "learning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 137
   },
   {
-    "pk": 138,
-    "model": "videos.tag",
     "fields": {
       "tag": "forms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 138
   },
   {
-    "pk": 139,
-    "model": "videos.tag",
     "fields": {
       "tag": "keynote"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 139
   },
   {
-    "pk": 140,
-    "model": "videos.tag",
     "fields": {
       "tag": "design"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 140
   },
   {
-    "pk": 141,
-    "model": "videos.tag",
     "fields": {
       "tag": "ui"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 141
   },
   {
-    "pk": 142,
-    "model": "videos.tag",
     "fields": {
       "tag": "ux"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 142
   },
   {
-    "pk": 143,
-    "model": "videos.tag",
     "fields": {
       "tag": "deploying"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 143
   },
   {
-    "pk": 144,
-    "model": "videos.tag",
     "fields": {
       "tag": "fabric"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 144
   },
   {
-    "pk": 145,
-    "model": "videos.tag",
     "fields": {
       "tag": "gunicorn"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 145
   },
   {
-    "pk": 146,
-    "model": "videos.tag",
     "fields": {
       "tag": "virtualenv"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 146
   },
   {
-    "pk": 147,
-    "model": "videos.tag",
     "fields": {
       "tag": "bestpractices"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 147
   },
   {
-    "pk": 148,
-    "model": "videos.tag",
     "fields": {
       "tag": "bottlenecks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 148
   },
   {
-    "pk": 149,
-    "model": "videos.tag",
     "fields": {
       "tag": "multilingual"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 149
   },
   {
-    "pk": 150,
-    "model": "videos.tag",
     "fields": {
       "tag": "translations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 150
   },
   {
-    "pk": 151,
-    "model": "videos.tag",
     "fields": {
       "tag": "chef"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 151
   },
   {
-    "pk": 152,
-    "model": "videos.tag",
     "fields": {
       "tag": "packaging"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 152
   },
   {
-    "pk": 153,
-    "model": "videos.tag",
     "fields": {
       "tag": "philo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 153
   },
   {
-    "pk": 154,
-    "model": "videos.tag",
     "fields": {
       "tag": "protobuf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 154
   },
   {
-    "pk": 155,
-    "model": "videos.tag",
     "fields": {
       "tag": "redis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 155
   },
   {
-    "pk": 156,
-    "model": "videos.tag",
     "fields": {
       "tag": "history"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 156
   },
   {
-    "pk": 157,
-    "model": "videos.tag",
     "fields": {
       "tag": "optimize"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 157
   },
   {
-    "pk": 158,
-    "model": "videos.tag",
     "fields": {
       "tag": "optimizing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 158
   },
   {
-    "pk": 159,
-    "model": "videos.tag",
     "fields": {
       "tag": "postgresql"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 159
   },
   {
-    "pk": 160,
-    "model": "videos.tag",
     "fields": {
       "tag": "rdbms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 160
   },
   {
-    "pk": 161,
-    "model": "videos.tag",
     "fields": {
       "tag": "data"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 161
   },
   {
-    "pk": 162,
-    "model": "videos.tag",
     "fields": {
       "tag": "realtime"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 162
   },
   {
-    "pk": 163,
-    "model": "videos.tag",
     "fields": {
       "tag": "readthedocs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 163
   },
   {
-    "pk": 164,
-    "model": "videos.tag",
     "fields": {
       "tag": "rtd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 164
   },
   {
-    "pk": 165,
-    "model": "videos.tag",
     "fields": {
       "tag": "rtfd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 165
   },
   {
-    "pk": 166,
-    "model": "videos.tag",
     "fields": {
       "tag": "apphosted"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 166
   },
   {
-    "pk": 167,
-    "model": "videos.tag",
     "fields": {
       "tag": "eldarion"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 167
   },
   {
-    "pk": 168,
-    "model": "videos.tag",
     "fields": {
       "tag": "tips"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 168
   },
   {
-    "pk": 169,
-    "model": "videos.tag",
     "fields": {
       "tag": "tricks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 169
   },
   {
-    "pk": 170,
-    "model": "videos.tag",
     "fields": {
       "tag": "exceptions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 170
   },
   {
-    "pk": 171,
-    "model": "videos.tag",
     "fields": {
       "tag": "monitoring"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 171
   },
   {
-    "pk": 172,
-    "model": "videos.tag",
     "fields": {
       "tag": "requests"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 172
   },
   {
-    "pk": 173,
-    "model": "videos.tag",
     "fields": {
       "tag": "transactions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 173
   },
   {
-    "pk": 174,
-    "model": "videos.tag",
     "fields": {
       "tag": "startup"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 174
   },
   {
-    "pk": 175,
-    "model": "videos.tag",
     "fields": {
       "tag": "splinter"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 175
   },
   {
-    "pk": 176,
-    "model": "videos.tag",
     "fields": {
       "tag": "community"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 176
   },
   {
-    "pk": 177,
-    "model": "videos.tag",
     "fields": {
       "tag": "communitymanagement"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 177
   },
   {
-    "pk": 178,
-    "model": "videos.tag",
     "fields": {
       "tag": "eaves"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 178
   },
   {
-    "pk": 179,
-    "model": "videos.tag",
     "fields": {
       "tag": "management"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 179
   },
   {
-    "pk": 180,
-    "model": "videos.tag",
     "fields": {
       "tag": "im"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 180
   },
   {
-    "pk": 181,
-    "model": "videos.tag",
     "fields": {
       "tag": "irc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 181
   },
   {
-    "pk": 182,
-    "model": "videos.tag",
     "fields": {
       "tag": "kiwipycon"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 182
   },
   {
-    "pk": 183,
-    "model": "videos.tag",
     "fields": {
       "tag": "kiwipycon2009"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 183
   },
   {
-    "pk": 184,
-    "model": "videos.tag",
     "fields": {
       "tag": "logging"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 184
   },
   {
-    "pk": 185,
-    "model": "videos.tag",
     "fields": {
       "tag": "extensions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 185
   },
   {
-    "pk": 186,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyserf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 186
   },
   {
-    "pk": 187,
-    "model": "videos.tag",
     "fields": {
       "tag": "boto"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 187
   },
   {
-    "pk": 188,
-    "model": "videos.tag",
     "fields": {
       "tag": "ffmpeg"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 188
   },
   {
-    "pk": 189,
-    "model": "videos.tag",
     "fields": {
       "tag": "ogre"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 189
   },
   {
-    "pk": 190,
-    "model": "videos.tag",
     "fields": {
       "tag": "c"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 190
   },
   {
-    "pk": 191,
-    "model": "videos.tag",
     "fields": {
       "tag": "gpl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 191
   },
   {
-    "pk": 192,
-    "model": "videos.tag",
     "fields": {
       "tag": "pil"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 192
   },
   {
-    "pk": 193,
-    "model": "videos.tag",
     "fields": {
       "tag": "pygame"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 193
   },
   {
-    "pk": 194,
-    "model": "videos.tag",
     "fields": {
       "tag": "launchpad"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 194
   },
   {
-    "pk": 195,
-    "model": "videos.tag",
     "fields": {
       "tag": "twisted"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 195
   },
   {
-    "pk": 196,
-    "model": "videos.tag",
     "fields": {
       "tag": "graphviz"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 196
   },
   {
-    "pk": 197,
-    "model": "videos.tag",
     "fields": {
       "tag": "olpc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 197
   },
   {
-    "pk": 198,
-    "model": "videos.tag",
     "fields": {
       "tag": "scipy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 198
   },
   {
-    "pk": 199,
-    "model": "videos.tag",
     "fields": {
       "tag": "vision"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 199
   },
   {
-    "pk": 200,
-    "model": "videos.tag",
     "fields": {
       "tag": "gnuplot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 200
   },
   {
-    "pk": 201,
-    "model": "videos.tag",
     "fields": {
       "tag": "matplotlib"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 201
   },
   {
-    "pk": 202,
-    "model": "videos.tag",
     "fields": {
       "tag": "mayavi2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 202
   },
   {
-    "pk": 203,
-    "model": "videos.tag",
     "fields": {
       "tag": "plotting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 203
   },
   {
-    "pk": 204,
-    "model": "videos.tag",
     "fields": {
       "tag": "visualpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 204
   },
   {
-    "pk": 205,
-    "model": "videos.tag",
     "fields": {
       "tag": "gui"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 205
   },
   {
-    "pk": 206,
-    "model": "videos.tag",
     "fields": {
       "tag": "qt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 206
   },
   {
-    "pk": 207,
-    "model": "videos.tag",
     "fields": {
       "tag": "tkinter"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 207
   },
   {
-    "pk": 208,
-    "model": "videos.tag",
     "fields": {
       "tag": "gimp"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 208
   },
   {
-    "pk": 209,
-    "model": "videos.tag",
     "fields": {
       "tag": "sofa"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 209
   },
   {
-    "pk": 210,
-    "model": "videos.tag",
     "fields": {
       "tag": "sourceforge"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 210
   },
   {
-    "pk": 211,
-    "model": "videos.tag",
     "fields": {
       "tag": "stackless"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 211
   },
   {
-    "pk": 212,
-    "model": "videos.tag",
     "fields": {
       "tag": "education"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 212
   },
   {
-    "pk": 213,
-    "model": "videos.tag",
     "fields": {
       "tag": "grok"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 213
   },
   {
-    "pk": 214,
-    "model": "videos.tag",
     "fields": {
       "tag": "zope3"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 214
   },
   {
-    "pk": 215,
-    "model": "videos.tag",
     "fields": {
       "tag": "deliverance"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 215
   },
   {
-    "pk": 216,
-    "model": "videos.tag",
     "fields": {
       "tag": "plone"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 216
   },
   {
-    "pk": 217,
-    "model": "videos.tag",
     "fields": {
       "tag": "zope"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 217
   },
   {
-    "pk": 218,
-    "model": "videos.tag",
     "fields": {
       "tag": "coursebuilder"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 218
   },
   {
-    "pk": 219,
-    "model": "videos.tag",
     "fields": {
       "tag": "html"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 219
   },
   {
-    "pk": 220,
-    "model": "videos.tag",
     "fields": {
       "tag": "ctypes"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 220
   },
   {
-    "pk": 221,
-    "model": "videos.tag",
     "fields": {
       "tag": "flossmanuals"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 221
   },
   {
-    "pk": 222,
-    "model": "videos.tag",
     "fields": {
       "tag": "goto"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 222
   },
   {
-    "pk": 223,
-    "model": "videos.tag",
     "fields": {
       "tag": "psil"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 223
   },
   {
-    "pk": 224,
-    "model": "videos.tag",
     "fields": {
       "tag": "robot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 224
   },
   {
-    "pk": 225,
-    "model": "videos.tag",
     "fields": {
       "tag": "wsgi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 225
   },
   {
-    "pk": 226,
-    "model": "videos.tag",
     "fields": {
       "tag": "technology"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 226
   },
   {
-    "pk": 227,
-    "model": "videos.tag",
     "fields": {
       "tag": "doctests"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 227
   },
   {
-    "pk": 228,
-    "model": "videos.tag",
     "fields": {
       "tag": "tdd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 228
   },
   {
-    "pk": 229,
-    "model": "videos.tag",
     "fields": {
       "tag": "pylons"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 229
   },
   {
-    "pk": 230,
-    "model": "videos.tag",
     "fields": {
       "tag": "turbogears"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 230
   },
   {
-    "pk": 231,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycon"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 231
   },
   {
-    "pk": 232,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycon2009"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 232
   },
   {
-    "pk": 233,
-    "model": "videos.tag",
     "fields": {
       "tag": "pythoncommunity"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 233
   },
   {
-    "pk": 234,
-    "model": "videos.tag",
     "fields": {
       "tag": "tutorial"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 234
   },
   {
-    "pk": 235,
-    "model": "videos.tag",
     "fields": {
       "tag": "chicago"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 235
   },
   {
-    "pk": 236,
-    "model": "videos.tag",
     "fields": {
       "tag": "chicago,"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 236
   },
   {
-    "pk": 237,
-    "model": "videos.tag",
     "fields": {
       "tag": "conference"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 237
   },
   {
-    "pk": 238,
-    "model": "videos.tag",
     "fields": {
       "tag": "conference,"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 238
   },
   {
-    "pk": 239,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycon,"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 239
   },
   {
-    "pk": 240,
-    "model": "videos.tag",
     "fields": {
       "tag": "python"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 240
   },
   {
-    "pk": 241,
-    "model": "videos.tag",
     "fields": {
       "tag": "python,"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 241
   },
   {
-    "pk": 242,
-    "model": "videos.tag",
     "fields": {
       "tag": "sprinting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 242
   },
   {
-    "pk": 243,
-    "model": "videos.tag",
     "fields": {
       "tag": "designpatterns"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 243
   },
   {
-    "pk": 244,
-    "model": "videos.tag",
     "fields": {
       "tag": "innosetup"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 244
   },
   {
-    "pk": 245,
-    "model": "videos.tag",
     "fields": {
       "tag": "py2exe"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 245
   },
   {
-    "pk": 246,
-    "model": "videos.tag",
     "fields": {
       "tag": "windows"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 246
   },
   {
-    "pk": 247,
-    "model": "videos.tag",
     "fields": {
       "tag": "linux"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 247
   },
   {
-    "pk": 248,
-    "model": "videos.tag",
     "fields": {
       "tag": "cheeseshop"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 248
   },
   {
-    "pk": 249,
-    "model": "videos.tag",
     "fields": {
       "tag": "eggs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 249
   },
   {
-    "pk": 250,
-    "model": "videos.tag",
     "fields": {
       "tag": "zc.buildout"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 250
   },
   {
-    "pk": 251,
-    "model": "videos.tag",
     "fields": {
       "tag": "gae"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 251
   },
   {
-    "pk": 252,
-    "model": "videos.tag",
     "fields": {
       "tag": "googleappengine"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 252
   },
   {
-    "pk": 253,
-    "model": "videos.tag",
     "fields": {
       "tag": "sqlalchemy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 253
   },
   {
-    "pk": 254,
-    "model": "videos.tag",
     "fields": {
       "tag": "python-advanced"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 254
   },
   {
-    "pk": 255,
-    "model": "videos.tag",
     "fields": {
       "tag": "concurrency"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 255
   },
   {
-    "pk": 256,
-    "model": "videos.tag",
     "fields": {
       "tag": "kamaelia"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 256
   },
   {
-    "pk": 257,
-    "model": "videos.tag",
     "fields": {
       "tag": "oop"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 257
   },
   {
-    "pk": 258,
-    "model": "videos.tag",
     "fields": {
       "tag": "python-basics"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 258
   },
   {
-    "pk": 259,
-    "model": "videos.tag",
     "fields": {
       "tag": "stdlib"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 259
   },
   {
-    "pk": 260,
-    "model": "videos.tag",
     "fields": {
       "tag": "network"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 260
   },
   {
-    "pk": 261,
-    "model": "videos.tag",
     "fields": {
       "tag": "orbited"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 261
   },
   {
-    "pk": 262,
-    "model": "videos.tag",
     "fields": {
       "tag": "selenium"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 262
   },
   {
-    "pk": 263,
-    "model": "videos.tag",
     "fields": {
       "tag": "twill"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 263
   },
   {
-    "pk": 264,
-    "model": "videos.tag",
     "fields": {
       "tag": "py.test"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 264
   },
   {
-    "pk": 265,
-    "model": "videos.tag",
     "fields": {
       "tag": "pytest"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 265
   },
   {
-    "pk": 266,
-    "model": "videos.tag",
     "fields": {
       "tag": "repoze"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 266
   },
   {
-    "pk": 267,
-    "model": "videos.tag",
     "fields": {
       "tag": "repoze.bfg"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 267
   },
   {
-    "pk": 268,
-    "model": "videos.tag",
     "fields": {
       "tag": "webprogramming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 268
   },
   {
-    "pk": 269,
-    "model": "videos.tag",
     "fields": {
       "tag": "plugins"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 269
   },
   {
-    "pk": 270,
-    "model": "videos.tag",
     "fields": {
       "tag": "trac"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 270
   },
   {
-    "pk": 271,
-    "model": "videos.tag",
     "fields": {
       "tag": "bsddb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 271
   },
   {
-    "pk": 272,
-    "model": "videos.tag",
     "fields": {
       "tag": "databases"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 272
   },
   {
-    "pk": 273,
-    "model": "videos.tag",
     "fields": {
       "tag": "excel"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 273
   },
   {
-    "pk": 274,
-    "model": "videos.tag",
     "fields": {
       "tag": "flatfile"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 274
   },
   {
-    "pk": 275,
-    "model": "videos.tag",
     "fields": {
       "tag": "hdf5"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 275
   },
   {
-    "pk": 276,
-    "model": "videos.tag",
     "fields": {
       "tag": "netcdf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 276
   },
   {
-    "pk": 277,
-    "model": "videos.tag",
     "fields": {
       "tag": "pickle"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 277
   },
   {
-    "pk": 278,
-    "model": "videos.tag",
     "fields": {
       "tag": "serialization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 278
   },
   {
-    "pk": 279,
-    "model": "videos.tag",
     "fields": {
       "tag": "zodb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 279
   },
   {
-    "pk": 280,
-    "model": "videos.tag",
     "fields": {
       "tag": "cork"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 280
   },
   {
-    "pk": 281,
-    "model": "videos.tag",
     "fields": {
       "tag": "gitosis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 281
   },
   {
-    "pk": 282,
-    "model": "videos.tag",
     "fields": {
       "tag": "lindberg"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 282
   },
   {
-    "pk": 283,
-    "model": "videos.tag",
     "fields": {
       "tag": "nasa"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 283
   },
   {
-    "pk": 284,
-    "model": "videos.tag",
     "fields": {
       "tag": "playerpiano"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 284
   },
   {
-    "pk": 285,
-    "model": "videos.tag",
     "fields": {
       "tag": "pymite"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 285
   },
   {
-    "pk": 286,
-    "model": "videos.tag",
     "fields": {
       "tag": "sqlpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 286
   },
   {
-    "pk": 287,
-    "model": "videos.tag",
     "fields": {
       "tag": "web2py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 287
   },
   {
-    "pk": 288,
-    "model": "videos.tag",
     "fields": {
       "tag": "teaching"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 288
   },
   {
-    "pk": 289,
-    "model": "videos.tag",
     "fields": {
       "tag": "asynchronous"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 289
   },
   {
-    "pk": 290,
-    "model": "videos.tag",
     "fields": {
       "tag": "deferreds"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 290
   },
   {
-    "pk": 291,
-    "model": "videos.tag",
     "fields": {
       "tag": "pythononachip"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 291
   },
   {
-    "pk": 292,
-    "model": "videos.tag",
     "fields": {
       "tag": "configobj"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 292
   },
   {
-    "pk": 293,
-    "model": "videos.tag",
     "fields": {
       "tag": "configparser"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 293
   },
   {
-    "pk": 294,
-    "model": "videos.tag",
     "fields": {
       "tag": "csv"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 294
   },
   {
-    "pk": 295,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyyaml"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 295
   },
   {
-    "pk": 296,
-    "model": "videos.tag",
     "fields": {
       "tag": "simplejson"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 296
   },
   {
-    "pk": 297,
-    "model": "videos.tag",
     "fields": {
       "tag": "toscawidgets"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 297
   },
   {
-    "pk": 298,
-    "model": "videos.tag",
     "fields": {
       "tag": "coroutines"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 298
   },
   {
-    "pk": 299,
-    "model": "videos.tag",
     "fields": {
       "tag": "generator"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 299
   },
   {
-    "pk": 300,
-    "model": "videos.tag",
     "fields": {
       "tag": "ironpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 300
   },
   {
-    "pk": 301,
-    "model": "videos.tag",
     "fields": {
       "tag": "argparse"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 301
   },
   {
-    "pk": 302,
-    "model": "videos.tag",
     "fields": {
       "tag": "blist"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 302
   },
   {
-    "pk": 303,
-    "model": "videos.tag",
     "fields": {
       "tag": "cluemapper"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 303
   },
   {
-    "pk": 304,
-    "model": "videos.tag",
     "fields": {
       "tag": "moments"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 304
   },
   {
-    "pk": 305,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyjamas"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 305
   },
   {
-    "pk": 306,
-    "model": "videos.tag",
     "fields": {
       "tag": "python31"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 306
   },
   {
-    "pk": 307,
-    "model": "videos.tag",
     "fields": {
       "tag": "sitechecker"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 307
   },
   {
-    "pk": 308,
-    "model": "videos.tag",
     "fields": {
       "tag": "jvm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 308
   },
   {
-    "pk": 309,
-    "model": "videos.tag",
     "fields": {
       "tag": "appengine"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 309
   },
   {
-    "pk": 310,
-    "model": "videos.tag",
     "fields": {
       "tag": "chriswebber"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 310
   },
   {
-    "pk": 311,
-    "model": "videos.tag",
     "fields": {
       "tag": "informatics"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 311
   },
   {
-    "pk": 312,
-    "model": "videos.tag",
     "fields": {
       "tag": "jsqt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 312
   },
   {
-    "pk": 313,
-    "model": "videos.tag",
     "fields": {
       "tag": "miro"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 313
   },
   {
-    "pk": 314,
-    "model": "videos.tag",
     "fields": {
       "tag": "pickling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 314
   },
   {
-    "pk": 315,
-    "model": "videos.tag",
     "fields": {
       "tag": "plyne"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 315
   },
   {
-    "pk": 316,
-    "model": "videos.tag",
     "fields": {
       "tag": "stackoverflow"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 316
   },
   {
-    "pk": 317,
-    "model": "videos.tag",
     "fields": {
       "tag": "paver"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 317
   },
   {
-    "pk": 318,
-    "model": "videos.tag",
     "fields": {
       "tag": "functionaltesting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 318
   },
   {
-    "pk": 319,
-    "model": "videos.tag",
     "fields": {
       "tag": "everyblock"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 319
   },
   {
-    "pk": 320,
-    "model": "videos.tag",
     "fields": {
       "tag": "codeobjects"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 320
   },
   {
-    "pk": 321,
-    "model": "videos.tag",
     "fields": {
       "tag": "namespaces"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 321
   },
   {
-    "pk": 322,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycon2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 322
   },
   {
-    "pk": 323,
-    "model": "videos.tag",
     "fields": {
       "tag": "traits"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 323
   },
   {
-    "pk": 324,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyunit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 324
   },
   {
-    "pk": 325,
-    "model": "videos.tag",
     "fields": {
       "tag": "unittest"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 325
   },
   {
-    "pk": 326,
-    "model": "videos.tag",
     "fields": {
       "tag": "hg"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 326
   },
   {
-    "pk": 327,
-    "model": "videos.tag",
     "fields": {
       "tag": "mercurial"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 327
   },
   {
-    "pk": 328,
-    "model": "videos.tag",
     "fields": {
       "tag": "git"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 328
   },
   {
-    "pk": 329,
-    "model": "videos.tag",
     "fields": {
       "tag": "echo-nest-remix"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 329
   },
   {
-    "pk": 330,
-    "model": "videos.tag",
     "fields": {
       "tag": "music"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 330
   },
   {
-    "pk": 331,
-    "model": "videos.tag",
     "fields": {
       "tag": "ply"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 331
   },
   {
-    "pk": 332,
-    "model": "videos.tag",
     "fields": {
       "tag": "eventlet"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 332
   },
   {
-    "pk": 333,
-    "model": "videos.tag",
     "fields": {
       "tag": "greenlet"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 333
   },
   {
-    "pk": 334,
-    "model": "videos.tag",
     "fields": {
       "tag": "i/o"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 334
   },
   {
-    "pk": 335,
-    "model": "videos.tag",
     "fields": {
       "tag": "emacs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 335
   },
   {
-    "pk": 336,
-    "model": "videos.tag",
     "fields": {
       "tag": "vim"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 336
   },
   {
-    "pk": 337,
-    "model": "videos.tag",
     "fields": {
       "tag": "advanced"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 337
   },
   {
-    "pk": 338,
-    "model": "videos.tag",
     "fields": {
       "tag": "callables"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 338
   },
   {
-    "pk": 339,
-    "model": "videos.tag",
     "fields": {
       "tag": "closures"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 339
   },
   {
-    "pk": 340,
-    "model": "videos.tag",
     "fields": {
       "tag": "decorators"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 340
   },
   {
-    "pk": 341,
-    "model": "videos.tag",
     "fields": {
       "tag": "functionalprogramming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 341
   },
   {
-    "pk": 342,
-    "model": "videos.tag",
     "fields": {
       "tag": "functions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 342
   },
   {
-    "pk": 343,
-    "model": "videos.tag",
     "fields": {
       "tag": "generators"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 343
   },
   {
-    "pk": 344,
-    "model": "videos.tag",
     "fields": {
       "tag": "iterators"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 344
   },
   {
-    "pk": 345,
-    "model": "videos.tag",
     "fields": {
       "tag": "listcomprehensions"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 345
   },
   {
-    "pk": 346,
-    "model": "videos.tag",
     "fields": {
       "tag": "dabo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 346
   },
   {
-    "pk": 347,
-    "model": "videos.tag",
     "fields": {
       "tag": "dsl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 347
   },
   {
-    "pk": 348,
-    "model": "videos.tag",
     "fields": {
       "tag": "ddl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 348
   },
   {
-    "pk": 349,
-    "model": "videos.tag",
     "fields": {
       "tag": "elixer"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 349
   },
   {
-    "pk": 350,
-    "model": "videos.tag",
     "fields": {
       "tag": "formalchemy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 350
   },
   {
-    "pk": 351,
-    "model": "videos.tag",
     "fields": {
       "tag": "migrate"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 351
   },
   {
-    "pk": 352,
-    "model": "videos.tag",
     "fields": {
       "tag": "sqlsoup"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 352
   },
   {
-    "pk": 353,
-    "model": "videos.tag",
     "fields": {
       "tag": "xml"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 353
   },
   {
-    "pk": 354,
-    "model": "videos.tag",
     "fields": {
       "tag": "fixme"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 354
   },
   {
-    "pk": 355,
-    "model": "videos.tag",
     "fields": {
       "tag": "paster"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 355
   },
   {
-    "pk": 356,
-    "model": "videos.tag",
     "fields": {
       "tag": "profiling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 356
   },
   {
-    "pk": 357,
-    "model": "videos.tag",
     "fields": {
       "tag": "tornado"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 357
   },
   {
-    "pk": 358,
-    "model": "videos.tag",
     "fields": {
       "tag": "euroscipy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 358
   },
   {
-    "pk": 359,
-    "model": "videos.tag",
     "fields": {
       "tag": "euroscipy2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 359
   },
   {
-    "pk": 360,
-    "model": "videos.tag",
     "fields": {
       "tag": "fork"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 360
   },
   {
-    "pk": 361,
-    "model": "videos.tag",
     "fields": {
       "tag": "freebsd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 361
   },
   {
-    "pk": 362,
-    "model": "videos.tag",
     "fields": {
       "tag": "india"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 362
   },
   {
-    "pk": 363,
-    "model": "videos.tag",
     "fields": {
       "tag": "orbison"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 363
   },
   {
-    "pk": 364,
-    "model": "videos.tag",
     "fields": {
       "tag": "pdb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 364
   },
   {
-    "pk": 365,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyweek"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 365
   },
   {
-    "pk": 366,
-    "model": "videos.tag",
     "fields": {
       "tag": "sphinx"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 366
   },
   {
-    "pk": 367,
-    "model": "videos.tag",
     "fields": {
       "tag": "threads"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 367
   },
   {
-    "pk": 368,
-    "model": "videos.tag",
     "fields": {
       "tag": "contributing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 368
   },
   {
-    "pk": 369,
-    "model": "videos.tag",
     "fields": {
       "tag": "cython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 369
   },
   {
-    "pk": 370,
-    "model": "videos.tag",
     "fields": {
       "tag": "floss"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 370
   },
   {
-    "pk": 371,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyar"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 371
   },
   {
-    "pk": 372,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycloud"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 372
   },
   {
-    "pk": 373,
-    "model": "videos.tag",
     "fields": {
       "tag": "unladenswallow"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 373
   },
   {
-    "pk": 374,
-    "model": "videos.tag",
     "fields": {
       "tag": "neo4j"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 374
   },
   {
-    "pk": 375,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyparsing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 375
   },
   {
-    "pk": 376,
-    "model": "videos.tag",
     "fields": {
       "tag": "crossplatform"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 376
   },
   {
-    "pk": 377,
-    "model": "videos.tag",
     "fields": {
       "tag": "py2app"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 377
   },
   {
-    "pk": 378,
-    "model": "videos.tag",
     "fields": {
       "tag": "wxpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 378
   },
   {
-    "pk": 379,
-    "model": "videos.tag",
     "fields": {
       "tag": "multiprocessing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 379
   },
   {
-    "pk": 380,
-    "model": "videos.tag",
     "fields": {
       "tag": "jinja"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 380
   },
   {
-    "pk": 381,
-    "model": "videos.tag",
     "fields": {
       "tag": "mongodb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 381
   },
   {
-    "pk": 382,
-    "model": "videos.tag",
     "fields": {
       "tag": "pubsubhubbub"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 382
   },
   {
-    "pk": 383,
-    "model": "videos.tag",
     "fields": {
       "tag": "robotics"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 383
   },
   {
-    "pk": 384,
-    "model": "videos.tag",
     "fields": {
       "tag": "simulation"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 384
   },
   {
-    "pk": 385,
-    "model": "videos.tag",
     "fields": {
       "tag": "dict"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 385
   },
   {
-    "pk": 386,
-    "model": "videos.tag",
     "fields": {
       "tag": "scientific"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 386
   },
   {
-    "pk": 387,
-    "model": "videos.tag",
     "fields": {
       "tag": "vistrails"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 387
   },
   {
-    "pk": 388,
-    "model": "videos.tag",
     "fields": {
       "tag": "enstaller"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 388
   },
   {
-    "pk": 389,
-    "model": "videos.tag",
     "fields": {
       "tag": "enthought"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 389
   },
   {
-    "pk": 390,
-    "model": "videos.tag",
     "fields": {
       "tag": "embedded"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 390
   },
   {
-    "pk": 391,
-    "model": "videos.tag",
     "fields": {
       "tag": "2to3"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 391
   },
   {
-    "pk": 392,
-    "model": "videos.tag",
     "fields": {
       "tag": "python3"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 392
   },
   {
-    "pk": 393,
-    "model": "videos.tag",
     "fields": {
       "tag": "cherrypy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 393
   },
   {
-    "pk": 394,
-    "model": "videos.tag",
     "fields": {
       "tag": "astronomy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 394
   },
   {
-    "pk": 395,
-    "model": "videos.tag",
     "fields": {
       "tag": "distribute"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 395
   },
   {
-    "pk": 396,
-    "model": "videos.tag",
     "fields": {
       "tag": "distutils"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 396
   },
   {
-    "pk": 397,
-    "model": "videos.tag",
     "fields": {
       "tag": "easy_install"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 397
   },
   {
-    "pk": 398,
-    "model": "videos.tag",
     "fields": {
       "tag": "pypi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 398
   },
   {
-    "pk": 399,
-    "model": "videos.tag",
     "fields": {
       "tag": "setuptools"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 399
   },
   {
-    "pk": 400,
-    "model": "videos.tag",
     "fields": {
       "tag": "pcyon2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 400
   },
   {
-    "pk": 401,
-    "model": "videos.tag",
     "fields": {
       "tag": "atom"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 401
   },
   {
-    "pk": 402,
-    "model": "videos.tag",
     "fields": {
       "tag": "http"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 402
   },
   {
-    "pk": 403,
-    "model": "videos.tag",
     "fields": {
       "tag": "json"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 403
   },
   {
-    "pk": 404,
-    "model": "videos.tag",
     "fields": {
       "tag": "oauth"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 404
   },
   {
-    "pk": 405,
-    "model": "videos.tag",
     "fields": {
       "tag": "rss"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 405
   },
   {
-    "pk": 406,
-    "model": "videos.tag",
     "fields": {
       "tag": "io"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 406
   },
   {
-    "pk": 407,
-    "model": "videos.tag",
     "fields": {
       "tag": "class"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 407
   },
   {
-    "pk": 408,
-    "model": "videos.tag",
     "fields": {
       "tag": "analysis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 408
   },
   {
-    "pk": 409,
-    "model": "videos.tag",
     "fields": {
       "tag": "parrot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 409
   },
   {
-    "pk": 410,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyine"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 410
   },
   {
-    "pk": 411,
-    "model": "videos.tag",
     "fields": {
       "tag": "panel"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 411
   },
   {
-    "pk": 412,
-    "model": "videos.tag",
     "fields": {
       "tag": "restish"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 412
   },
   {
-    "pk": 413,
-    "model": "videos.tag",
     "fields": {
       "tag": "zib"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 413
   },
   {
-    "pk": 414,
-    "model": "videos.tag",
     "fields": {
       "tag": "metaprogramming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 414
   },
   {
-    "pk": 415,
-    "model": "videos.tag",
     "fields": {
       "tag": "framework"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 415
   },
   {
-    "pk": 416,
-    "model": "videos.tag",
     "fields": {
       "tag": "loadbalancing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 416
   },
   {
-    "pk": 417,
-    "model": "videos.tag",
     "fields": {
       "tag": "replication"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 417
   },
   {
-    "pk": 418,
-    "model": "videos.tag",
     "fields": {
       "tag": "numpy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 418
   },
   {
-    "pk": 419,
-    "model": "videos.tag",
     "fields": {
       "tag": "pandas"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 419
   },
   {
-    "pk": 420,
-    "model": "videos.tag",
     "fields": {
       "tag": "cmd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 420
   },
   {
-    "pk": 421,
-    "model": "videos.tag",
     "fields": {
       "tag": "cmd2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 421
   },
   {
-    "pk": 422,
-    "model": "videos.tag",
     "fields": {
       "tag": "bisect"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 422
   },
   {
-    "pk": 423,
-    "model": "videos.tag",
     "fields": {
       "tag": "dequeues"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 423
   },
   {
-    "pk": 424,
-    "model": "videos.tag",
     "fields": {
       "tag": "frozensets"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 424
   },
   {
-    "pk": 425,
-    "model": "videos.tag",
     "fields": {
       "tag": "heapq"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 425
   },
   {
-    "pk": 426,
-    "model": "videos.tag",
     "fields": {
       "tag": "lists"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 426
   },
   {
-    "pk": 427,
-    "model": "videos.tag",
     "fields": {
       "tag": "sets"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 427
   },
   {
-    "pk": 428,
-    "model": "videos.tag",
     "fields": {
       "tag": "sorts"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 428
   },
   {
-    "pk": 429,
-    "model": "videos.tag",
     "fields": {
       "tag": "weakreferences"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 429
   },
   {
-    "pk": 430,
-    "model": "videos.tag",
     "fields": {
       "tag": "lightning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 430
   },
   {
-    "pk": 431,
-    "model": "videos.tag",
     "fields": {
       "tag": "lightningtalk"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 431
   },
   {
-    "pk": 432,
-    "model": "videos.tag",
     "fields": {
       "tag": "phatch"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 432
   },
   {
-    "pk": 433,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycharm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 433
   },
   {
-    "pk": 434,
-    "model": "videos.tag",
     "fields": {
       "tag": "scrape.py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 434
   },
   {
-    "pk": 435,
-    "model": "videos.tag",
     "fields": {
       "tag": "accessibility"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 435
   },
   {
-    "pk": 436,
-    "model": "videos.tag",
     "fields": {
       "tag": "distributeddatabases"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 436
   },
   {
-    "pk": 437,
-    "model": "videos.tag",
     "fields": {
       "tag": "partitioning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 437
   },
   {
-    "pk": 438,
-    "model": "videos.tag",
     "fields": {
       "tag": "webfaction"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 438
   },
   {
-    "pk": 439,
-    "model": "videos.tag",
     "fields": {
       "tag": "formatting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 439
   },
   {
-    "pk": 440,
-    "model": "videos.tag",
     "fields": {
       "tag": "tools"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 440
   },
   {
-    "pk": 441,
-    "model": "videos.tag",
     "fields": {
       "tag": "basie"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 441
   },
   {
-    "pk": 442,
-    "model": "videos.tag",
     "fields": {
       "tag": "pythonrio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 442
   },
   {
-    "pk": 443,
-    "model": "videos.tag",
     "fields": {
       "tag": "delcarations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 443
   },
   {
-    "pk": 444,
-    "model": "videos.tag",
     "fields": {
       "tag": "bitten"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 444
   },
   {
-    "pk": 445,
-    "model": "videos.tag",
     "fields": {
       "tag": "buildbot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 445
   },
   {
-    "pk": 446,
-    "model": "videos.tag",
     "fields": {
       "tag": "cruisecontrol"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 446
   },
   {
-    "pk": 447,
-    "model": "videos.tag",
     "fields": {
       "tag": "dart"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 447
   },
   {
-    "pk": 448,
-    "model": "videos.tag",
     "fields": {
       "tag": "hudson"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 448
   },
   {
-    "pk": 449,
-    "model": "videos.tag",
     "fields": {
       "tag": "pony-build"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 449
   },
   {
-    "pk": 450,
-    "model": "videos.tag",
     "fields": {
       "tag": "deconstruction"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 450
   },
   {
-    "pk": 451,
-    "model": "videos.tag",
     "fields": {
       "tag": "tortuga"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 451
   },
   {
-    "pk": 452,
-    "model": "videos.tag",
     "fields": {
       "tag": "sprox"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 452
   },
   {
-    "pk": 453,
-    "model": "videos.tag",
     "fields": {
       "tag": "i18n"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 453
   },
   {
-    "pk": 454,
-    "model": "videos.tag",
     "fields": {
       "tag": "internationalization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 454
   },
   {
-    "pk": 455,
-    "model": "videos.tag",
     "fields": {
       "tag": "dumbo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 455
   },
   {
-    "pk": 456,
-    "model": "videos.tag",
     "fields": {
       "tag": "nltk"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 456
   },
   {
-    "pk": 457,
-    "model": "videos.tag",
     "fields": {
       "tag": "africa"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 457
   },
   {
-    "pk": 458,
-    "model": "videos.tag",
     "fields": {
       "tag": "infrastructure"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 458
   },
   {
-    "pk": 459,
-    "model": "videos.tag",
     "fields": {
       "tag": "nginx"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 459
   },
   {
-    "pk": 460,
-    "model": "videos.tag",
     "fields": {
       "tag": "silverlight"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 460
   },
   {
-    "pk": 461,
-    "model": "videos.tag",
     "fields": {
       "tag": "import"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 461
   },
   {
-    "pk": 462,
-    "model": "videos.tag",
     "fields": {
       "tag": "importers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 462
   },
   {
-    "pk": 463,
-    "model": "videos.tag",
     "fields": {
       "tag": "importing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 463
   },
   {
-    "pk": 464,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyro"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 464
   },
   {
-    "pk": 465,
-    "model": "videos.tag",
     "fields": {
       "tag": "geoalchemy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 465
   },
   {
-    "pk": 466,
-    "model": "videos.tag",
     "fields": {
       "tag": "cms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 466
   },
   {
-    "pk": 467,
-    "model": "videos.tag",
     "fields": {
       "tag": "crm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 467
   },
   {
-    "pk": 468,
-    "model": "videos.tag",
     "fields": {
       "tag": "adapters"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 468
   },
   {
-    "pk": 469,
-    "model": "videos.tag",
     "fields": {
       "tag": "interfaces"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 469
   },
   {
-    "pk": 470,
-    "model": "videos.tag",
     "fields": {
       "tag": "zope.interface"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 470
   },
   {
-    "pk": 471,
-    "model": "videos.tag",
     "fields": {
       "tag": "language"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 471
   },
   {
-    "pk": 472,
-    "model": "videos.tag",
     "fields": {
       "tag": "mobile"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 472
   },
   {
-    "pk": 473,
-    "model": "videos.tag",
     "fields": {
       "tag": "p2p"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 473
   },
   {
-    "pk": 474,
-    "model": "videos.tag",
     "fields": {
       "tag": "seattle"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 474
   },
   {
-    "pk": 475,
-    "model": "videos.tag",
     "fields": {
       "tag": "university"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 475
   },
   {
-    "pk": 476,
-    "model": "videos.tag",
     "fields": {
       "tag": "reddit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 476
   },
   {
-    "pk": 477,
-    "model": "videos.tag",
     "fields": {
       "tag": "contextmanagers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 477
   },
   {
-    "pk": 478,
-    "model": "videos.tag",
     "fields": {
       "tag": "descripters"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 478
   },
   {
-    "pk": 479,
-    "model": "videos.tag",
     "fields": {
       "tag": "else"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 479
   },
   {
-    "pk": 480,
-    "model": "videos.tag",
     "fields": {
       "tag": "gil"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 480
   },
   {
-    "pk": 481,
-    "model": "videos.tag",
     "fields": {
       "tag": "activestate"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 481
   },
   {
-    "pk": 482,
-    "model": "videos.tag",
     "fields": {
       "tag": "bigapps"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 482
   },
   {
-    "pk": 483,
-    "model": "videos.tag",
     "fields": {
       "tag": "cmusphinx"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 483
   },
   {
-    "pk": 484,
-    "model": "videos.tag",
     "fields": {
       "tag": "lawyers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 484
   },
   {
-    "pk": 485,
-    "model": "videos.tag",
     "fields": {
       "tag": "lightningtalks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 485
   },
   {
-    "pk": 486,
-    "model": "videos.tag",
     "fields": {
       "tag": "programmingbook"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 486
   },
   {
-    "pk": 487,
-    "model": "videos.tag",
     "fields": {
       "tag": "python-cookbook"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 487
   },
   {
-    "pk": 488,
-    "model": "videos.tag",
     "fields": {
       "tag": "ubuntuone"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 488
   },
   {
-    "pk": 489,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycon2011"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 489
   },
   {
-    "pk": 490,
-    "model": "videos.tag",
     "fields": {
       "tag": "mirocommunity"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 490
   },
   {
-    "pk": 491,
-    "model": "videos.tag",
     "fields": {
       "tag": "pmc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 491
   },
   {
-    "pk": 492,
-    "model": "videos.tag",
     "fields": {
       "tag": "subtitles"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 492
   },
   {
-    "pk": 493,
-    "model": "videos.tag",
     "fields": {
       "tag": "unisub"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 493
   },
   {
-    "pk": 494,
-    "model": "videos.tag",
     "fields": {
       "tag": "universalsubtitles"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 494
   },
   {
-    "pk": 495,
-    "model": "videos.tag",
     "fields": {
       "tag": "adventure"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 495
   },
   {
-    "pk": 496,
-    "model": "videos.tag",
     "fields": {
       "tag": "askbot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 496
   },
   {
-    "pk": 497,
-    "model": "videos.tag",
     "fields": {
       "tag": "flufl.enum"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 497
   },
   {
-    "pk": 498,
-    "model": "videos.tag",
     "fields": {
       "tag": "foss@rit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 498
   },
   {
-    "pk": 499,
-    "model": "videos.tag",
     "fields": {
       "tag": "fudge"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 499
   },
   {
-    "pk": 500,
-    "model": "videos.tag",
     "fields": {
       "tag": "minuteman"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 500
   },
   {
-    "pk": 501,
-    "model": "videos.tag",
     "fields": {
       "tag": "moe"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 501
   },
   {
-    "pk": 502,
-    "model": "videos.tag",
     "fields": {
       "tag": "python2to3"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 502
   },
   {
-    "pk": 503,
-    "model": "videos.tag",
     "fields": {
       "tag": "twiggy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 503
   },
   {
-    "pk": 504,
-    "model": "videos.tag",
     "fields": {
       "tag": "engineering"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 504
   },
   {
-    "pk": 505,
-    "model": "videos.tag",
     "fields": {
       "tag": "flufl.i18n"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 505
   },
   {
-    "pk": 506,
-    "model": "videos.tag",
     "fields": {
       "tag": "interviewing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 506
   },
   {
-    "pk": 507,
-    "model": "videos.tag",
     "fields": {
       "tag": "javascript"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 507
   },
   {
-    "pk": 508,
-    "model": "videos.tag",
     "fields": {
       "tag": "pywo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 508
   },
   {
-    "pk": 509,
-    "model": "videos.tag",
     "fields": {
       "tag": "chapa.vim"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 509
   },
   {
-    "pk": 510,
-    "model": "videos.tag",
     "fields": {
       "tag": "cog"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 510
   },
   {
-    "pk": 511,
-    "model": "videos.tag",
     "fields": {
       "tag": "japan"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 511
   },
   {
-    "pk": 512,
-    "model": "videos.tag",
     "fields": {
       "tag": "logging.statistics"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 512
   },
   {
-    "pk": 513,
-    "model": "videos.tag",
     "fields": {
       "tag": "qtile"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 513
   },
   {
-    "pk": 514,
-    "model": "videos.tag",
     "fields": {
       "tag": "growth"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 514
   },
   {
-    "pk": 515,
-    "model": "videos.tag",
     "fields": {
       "tag": "usergroups"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 515
   },
   {
-    "pk": 516,
-    "model": "videos.tag",
     "fields": {
       "tag": "ide"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 516
   },
   {
-    "pk": 517,
-    "model": "videos.tag",
     "fields": {
       "tag": "komodo"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 517
   },
   {
-    "pk": 518,
-    "model": "videos.tag",
     "fields": {
       "tag": "komodoide"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 518
   },
   {
-    "pk": 519,
-    "model": "videos.tag",
     "fields": {
       "tag": "pythontoolsforvisualstudio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 519
   },
   {
-    "pk": 520,
-    "model": "videos.tag",
     "fields": {
       "tag": "visualstudio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 520
   },
   {
-    "pk": 521,
-    "model": "videos.tag",
     "fields": {
       "tag": "wingware"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 521
   },
   {
-    "pk": 522,
-    "model": "videos.tag",
     "fields": {
       "tag": "twitter"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 522
   },
   {
-    "pk": 523,
-    "model": "videos.tag",
     "fields": {
       "tag": "unicode"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 523
   },
   {
-    "pk": 524,
-    "model": "videos.tag",
     "fields": {
       "tag": "htsql"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 524
   },
   {
-    "pk": 525,
-    "model": "videos.tag",
     "fields": {
       "tag": "apidesign"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 525
   },
   {
-    "pk": 526,
-    "model": "videos.tag",
     "fields": {
       "tag": "counters"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 526
   },
   {
-    "pk": 527,
-    "model": "videos.tag",
     "fields": {
       "tag": "lrucache"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 527
   },
   {
-    "pk": 528,
-    "model": "videos.tag",
     "fields": {
       "tag": "namedtuples"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 528
   },
   {
-    "pk": 529,
-    "model": "videos.tag",
     "fields": {
       "tag": "stringformatting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 529
   },
   {
-    "pk": 530,
-    "model": "videos.tag",
     "fields": {
       "tag": ".net"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 530
   },
   {
-    "pk": 531,
-    "model": "videos.tag",
     "fields": {
       "tag": "commandline"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 531
   },
   {
-    "pk": 532,
-    "model": "videos.tag",
     "fields": {
       "tag": "mer"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 532
   },
   {
-    "pk": 533,
-    "model": "videos.tag",
     "fields": {
       "tag": "cgitb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 533
   },
   {
-    "pk": 534,
-    "model": "videos.tag",
     "fields": {
       "tag": "contextlib.contextmanager"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 534
   },
   {
-    "pk": 535,
-    "model": "videos.tag",
     "fields": {
       "tag": "fileinput"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 535
   },
   {
-    "pk": 536,
-    "model": "videos.tag",
     "fields": {
       "tag": "hmac"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 536
   },
   {
-    "pk": 537,
-    "model": "videos.tag",
     "fields": {
       "tag": "locale"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 537
   },
   {
-    "pk": 538,
-    "model": "videos.tag",
     "fields": {
       "tag": "pkgutil.getdata"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 538
   },
   {
-    "pk": 539,
-    "model": "videos.tag",
     "fields": {
       "tag": "rlcompleter"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 539
   },
   {
-    "pk": 540,
-    "model": "videos.tag",
     "fields": {
       "tag": "robotparser"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 540
   },
   {
-    "pk": 541,
-    "model": "videos.tag",
     "fields": {
       "tag": "uuid4"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 541
   },
   {
-    "pk": 542,
-    "model": "videos.tag",
     "fields": {
       "tag": "hookbox"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 542
   },
   {
-    "pk": 543,
-    "model": "videos.tag",
     "fields": {
       "tag": "webapps"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 543
   },
   {
-    "pk": 544,
-    "model": "videos.tag",
     "fields": {
       "tag": "kvm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 544
   },
   {
-    "pk": 545,
-    "model": "videos.tag",
     "fields": {
       "tag": "libvirt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 545
   },
   {
-    "pk": 546,
-    "model": "videos.tag",
     "fields": {
       "tag": "openstack"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 546
   },
   {
-    "pk": 547,
-    "model": "videos.tag",
     "fields": {
       "tag": "virtualbox"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 547
   },
   {
-    "pk": 548,
-    "model": "videos.tag",
     "fields": {
       "tag": "browsers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 548
   },
   {
-    "pk": 549,
-    "model": "videos.tag",
     "fields": {
       "tag": "html5"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 549
   },
   {
-    "pk": 550,
-    "model": "videos.tag",
     "fields": {
       "tag": "webdriver"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 550
   },
   {
-    "pk": 551,
-    "model": "videos.tag",
     "fields": {
       "tag": "diversity"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 551
   },
   {
-    "pk": 552,
-    "model": "videos.tag",
     "fields": {
       "tag": "python2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 552
   },
   {
-    "pk": 553,
-    "model": "videos.tag",
     "fields": {
       "tag": "firefoxsync"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 553
   },
   {
-    "pk": 554,
-    "model": "videos.tag",
     "fields": {
       "tag": "gevent"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 554
   },
   {
-    "pk": 555,
-    "model": "videos.tag",
     "fields": {
       "tag": "highconcurrency"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 555
   },
   {
-    "pk": 556,
-    "model": "videos.tag",
     "fields": {
       "tag": "libevent"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 556
   },
   {
-    "pk": 557,
-    "model": "videos.tag",
     "fields": {
       "tag": "sellingpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 557
   },
   {
-    "pk": 558,
-    "model": "videos.tag",
     "fields": {
       "tag": "patterns"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 558
   },
   {
-    "pk": 559,
-    "model": "videos.tag",
     "fields": {
       "tag": "pluggable"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 559
   },
   {
-    "pk": 560,
-    "model": "videos.tag",
     "fields": {
       "tag": "aircraftenginetuning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 560
   },
   {
-    "pk": 561,
-    "model": "videos.tag",
     "fields": {
       "tag": "3d"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 561
   },
   {
-    "pk": 562,
-    "model": "videos.tag",
     "fields": {
       "tag": "opengl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 562
   },
   {
-    "pk": 563,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyglet"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 563
   },
   {
-    "pk": 564,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyopengl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 564
   },
   {
-    "pk": 565,
-    "model": "videos.tag",
     "fields": {
       "tag": "gpgpu"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 565
   },
   {
-    "pk": 566,
-    "model": "videos.tag",
     "fields": {
       "tag": "numericalsimulations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 566
   },
   {
-    "pk": 567,
-    "model": "videos.tag",
     "fields": {
       "tag": "parallelcomputing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 567
   },
   {
-    "pk": 568,
-    "model": "videos.tag",
     "fields": {
       "tag": "simulations"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 568
   },
   {
-    "pk": 569,
-    "model": "videos.tag",
     "fields": {
       "tag": "solvcon"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 569
   },
   {
-    "pk": 570,
-    "model": "videos.tag",
     "fields": {
       "tag": "threadless"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 570
   },
   {
-    "pk": 571,
-    "model": "videos.tag",
     "fields": {
       "tag": "django-nonrel"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 571
   },
   {
-    "pk": 572,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyramid"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 572
   },
   {
-    "pk": 573,
-    "model": "videos.tag",
     "fields": {
       "tag": "java"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 573
   },
   {
-    "pk": 574,
-    "model": "videos.tag",
     "fields": {
       "tag": "beeswithmachineguns"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 574
   },
   {
-    "pk": 575,
-    "model": "videos.tag",
     "fields": {
       "tag": "mock"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 575
   },
   {
-    "pk": 576,
-    "model": "videos.tag",
     "fields": {
       "tag": "gpu"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 576
   },
   {
-    "pk": 577,
-    "model": "videos.tag",
     "fields": {
       "tag": "highperformancecomputing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 577
   },
   {
-    "pk": 578,
-    "model": "videos.tag",
     "fields": {
       "tag": "hpc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 578
   },
   {
-    "pk": 579,
-    "model": "videos.tag",
     "fields": {
       "tag": "mpi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 579
   },
   {
-    "pk": 580,
-    "model": "videos.tag",
     "fields": {
       "tag": "concurrence"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 580
   },
   {
-    "pk": 581,
-    "model": "videos.tag",
     "fields": {
       "tag": "greenlets"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 581
   },
   {
-    "pk": 582,
-    "model": "videos.tag",
     "fields": {
       "tag": "scalability"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 582
   },
   {
-    "pk": 583,
-    "model": "videos.tag",
     "fields": {
       "tag": "obfuscated"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 583
   },
   {
-    "pk": 584,
-    "model": "videos.tag",
     "fields": {
       "tag": "obfuscation"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 584
   },
   {
-    "pk": 585,
-    "model": "videos.tag",
     "fields": {
       "tag": "scalable"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 585
   },
   {
-    "pk": 586,
-    "model": "videos.tag",
     "fields": {
       "tag": "pypes"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 586
   },
   {
-    "pk": 587,
-    "model": "videos.tag",
     "fields": {
       "tag": "badcode"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 587
   },
   {
-    "pk": 588,
-    "model": "videos.tag",
     "fields": {
       "tag": "diaperpattern"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 588
   },
   {
-    "pk": 589,
-    "model": "videos.tag",
     "fields": {
       "tag": "lambda"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 589
   },
   {
-    "pk": 590,
-    "model": "videos.tag",
     "fields": {
       "tag": "bigdata"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 590
   },
   {
-    "pk": 591,
-    "model": "videos.tag",
     "fields": {
       "tag": "parallelization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 591
   },
   {
-    "pk": 593,
-    "model": "videos.tag",
     "fields": {
       "tag": "epydoc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 593
   },
   {
-    "pk": 594,
-    "model": "videos.tag",
     "fields": {
       "tag": "faqs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 594
   },
   {
-    "pk": 595,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycco"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 595
   },
   {
-    "pk": 596,
-    "model": "videos.tag",
     "fields": {
       "tag": "distributed"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 596
   },
   {
-    "pk": 597,
-    "model": "videos.tag",
     "fields": {
       "tag": "distributedcomputing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 597
   },
   {
-    "pk": 598,
-    "model": "videos.tag",
     "fields": {
       "tag": "mrjob"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 598
   },
   {
-    "pk": 599,
-    "model": "videos.tag",
     "fields": {
       "tag": "lamp"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 599
   },
   {
-    "pk": 600,
-    "model": "videos.tag",
     "fields": {
       "tag": "coredev"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 600
   },
   {
-    "pk": 601,
-    "model": "videos.tag",
     "fields": {
       "tag": "makingsausage"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 601
   },
   {
-    "pk": 602,
-    "model": "videos.tag",
     "fields": {
       "tag": "cd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 602
   },
   {
-    "pk": 603,
-    "model": "videos.tag",
     "fields": {
       "tag": "continuousdeployment"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 603
   },
   {
-    "pk": 604,
-    "model": "videos.tag",
     "fields": {
       "tag": "softwaredevelopment"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 604
   },
   {
-    "pk": 605,
-    "model": "videos.tag",
     "fields": {
       "tag": "workflow"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 605
   },
   {
-    "pk": 606,
-    "model": "videos.tag",
     "fields": {
       "tag": "hiring"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 606
   },
   {
-    "pk": 607,
-    "model": "videos.tag",
     "fields": {
       "tag": "job"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 607
   },
   {
-    "pk": 608,
-    "model": "videos.tag",
     "fields": {
       "tag": "distutils2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 608
   },
   {
-    "pk": 609,
-    "model": "videos.tag",
     "fields": {
       "tag": "setup.py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 609
   },
   {
-    "pk": 610,
-    "model": "videos.tag",
     "fields": {
       "tag": "blender"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 610
   },
   {
-    "pk": 611,
-    "model": "videos.tag",
     "fields": {
       "tag": "bpy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 611
   },
   {
-    "pk": 612,
-    "model": "videos.tag",
     "fields": {
       "tag": "tuf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 612
   },
   {
-    "pk": 613,
-    "model": "videos.tag",
     "fields": {
       "tag": "updates"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 613
   },
   {
-    "pk": 614,
-    "model": "videos.tag",
     "fields": {
       "tag": "highschool"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 614
   },
   {
-    "pk": 615,
-    "model": "videos.tag",
     "fields": {
       "tag": "robots"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 615
   },
   {
-    "pk": 616,
-    "model": "videos.tag",
     "fields": {
       "tag": "dna"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 616
   },
   {
-    "pk": 617,
-    "model": "videos.tag",
     "fields": {
       "tag": "genomes"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 617
   },
   {
-    "pk": 618,
-    "model": "videos.tag",
     "fields": {
       "tag": "openhatch"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 618
   },
   {
-    "pk": 619,
-    "model": "videos.tag",
     "fields": {
       "tag": "outreach"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 619
   },
   {
-    "pk": 620,
-    "model": "videos.tag",
     "fields": {
       "tag": "googlepredictionapi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 620
   },
   {
-    "pk": 621,
-    "model": "videos.tag",
     "fields": {
       "tag": "machinelearning"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 621
   },
   {
-    "pk": 622,
-    "model": "videos.tag",
     "fields": {
       "tag": "scikit-learn"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 622
   },
   {
-    "pk": 623,
-    "model": "videos.tag",
     "fields": {
       "tag": "disqus"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 623
   },
   {
-    "pk": 624,
-    "model": "videos.tag",
     "fields": {
       "tag": "ast"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 624
   },
   {
-    "pk": 625,
-    "model": "videos.tag",
     "fields": {
       "tag": "abc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 625
   },
   {
-    "pk": 626,
-    "model": "videos.tag",
     "fields": {
       "tag": "datastructures"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 626
   },
   {
-    "pk": 627,
-    "model": "videos.tag",
     "fields": {
       "tag": "dequearray"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 627
   },
   {
-    "pk": 628,
-    "model": "videos.tag",
     "fields": {
       "tag": "ducktyping"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 628
   },
   {
-    "pk": 629,
-    "model": "videos.tag",
     "fields": {
       "tag": "frozenset"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 629
   },
   {
-    "pk": 630,
-    "model": "videos.tag",
     "fields": {
       "tag": "list"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 630
   },
   {
-    "pk": 631,
-    "model": "videos.tag",
     "fields": {
       "tag": "namedtuple"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 631
   },
   {
-    "pk": 632,
-    "model": "videos.tag",
     "fields": {
       "tag": "ordereddict"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 632
   },
   {
-    "pk": 633,
-    "model": "videos.tag",
     "fields": {
       "tag": "orderedset"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 633
   },
   {
-    "pk": 634,
-    "model": "videos.tag",
     "fields": {
       "tag": "set"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 634
   },
   {
-    "pk": 635,
-    "model": "videos.tag",
     "fields": {
       "tag": "tuple"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 635
   },
   {
-    "pk": 636,
-    "model": "videos.tag",
     "fields": {
       "tag": "unittests"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 636
   },
   {
-    "pk": 637,
-    "model": "videos.tag",
     "fields": {
       "tag": "hacking"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 637
   },
   {
-    "pk": 638,
-    "model": "videos.tag",
     "fields": {
       "tag": "hardening"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 638
   },
   {
-    "pk": 639,
-    "model": "videos.tag",
     "fields": {
       "tag": "backup"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 639
   },
   {
-    "pk": 640,
-    "model": "videos.tag",
     "fields": {
       "tag": "bitbacker"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 640
   },
   {
-    "pk": 641,
-    "model": "videos.tag",
     "fields": {
       "tag": "patents"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 641
   },
   {
-    "pk": 642,
-    "model": "videos.tag",
     "fields": {
       "tag": "jit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 642
   },
   {
-    "pk": 643,
-    "model": "videos.tag",
     "fields": {
       "tag": "vm"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 643
   },
   {
-    "pk": 644,
-    "model": "videos.tag",
     "fields": {
       "tag": "ga"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 644
   },
   {
-    "pk": 645,
-    "model": "videos.tag",
     "fields": {
       "tag": "geneticalgorithms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 645
   },
   {
-    "pk": 646,
-    "model": "videos.tag",
     "fields": {
       "tag": "geneticprogramming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 646
   },
   {
-    "pk": 647,
-    "model": "videos.tag",
     "fields": {
       "tag": "gp"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 647
   },
   {
-    "pk": 648,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyevolve"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 648
   },
   {
-    "pk": 649,
-    "model": "videos.tag",
     "fields": {
       "tag": "couchdb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 649
   },
   {
-    "pk": 650,
-    "model": "videos.tag",
     "fields": {
       "tag": "puppet"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 650
   },
   {
-    "pk": 651,
-    "model": "videos.tag",
     "fields": {
       "tag": "gettinginvolved"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 651
   },
   {
-    "pk": 652,
-    "model": "videos.tag",
     "fields": {
       "tag": "webframeworks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 652
   },
   {
-    "pk": 653,
-    "model": "videos.tag",
     "fields": {
       "tag": "tox"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 653
   },
   {
-    "pk": 654,
-    "model": "videos.tag",
     "fields": {
       "tag": "nvidia"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 654
   },
   {
-    "pk": 655,
-    "model": "videos.tag",
     "fields": {
       "tag": "parallel"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 655
   },
   {
-    "pk": 656,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycuda"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 656
   },
   {
-    "pk": 657,
-    "model": "videos.tag",
     "fields": {
       "tag": "csp"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 657
   },
   {
-    "pk": 658,
-    "model": "videos.tag",
     "fields": {
       "tag": "go"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 658
   },
   {
-    "pk": 659,
-    "model": "videos.tag",
     "fields": {
       "tag": "httplib"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 659
   },
   {
-    "pk": 660,
-    "model": "videos.tag",
     "fields": {
       "tag": "pycurl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 660
   },
   {
-    "pk": 661,
-    "model": "videos.tag",
     "fields": {
       "tag": "urllib"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 661
   },
   {
-    "pk": 662,
-    "model": "videos.tag",
     "fields": {
       "tag": "flask"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 662
   },
   {
-    "pk": 663,
-    "model": "videos.tag",
     "fields": {
       "tag": "documentationdrivendesign"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 663
   },
   {
-    "pk": 664,
-    "model": "videos.tag",
     "fields": {
       "tag": "mongrel"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 664
   },
   {
-    "pk": 665,
-    "model": "videos.tag",
     "fields": {
       "tag": "soawesome"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 665
   },
   {
-    "pk": 666,
-    "model": "videos.tag",
     "fields": {
       "tag": "superboard"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 666
   },
   {
-    "pk": 667,
-    "model": "videos.tag",
     "fields": {
       "tag": "business"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 667
   },
   {
-    "pk": 668,
-    "model": "videos.tag",
     "fields": {
       "tag": "kpi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 668
   },
   {
-    "pk": 669,
-    "model": "videos.tag",
     "fields": {
       "tag": "compiling"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 669
   },
   {
-    "pk": 670,
-    "model": "videos.tag",
     "fields": {
       "tag": "introspection"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 670
   },
   {
-    "pk": 671,
-    "model": "videos.tag",
     "fields": {
       "tag": "parsing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 671
   },
   {
-    "pk": 672,
-    "model": "videos.tag",
     "fields": {
       "tag": "packages"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 672
   },
   {
-    "pk": 673,
-    "model": "videos.tag",
     "fields": {
       "tag": "pylot"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 673
   },
   {
-    "pk": 674,
-    "model": "videos.tag",
     "fields": {
       "tag": "sandianationallaboratories"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 674
   },
   {
-    "pk": 675,
-    "model": "videos.tag",
     "fields": {
       "tag": "supercomputer"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 675
   },
   {
-    "pk": 676,
-    "model": "videos.tag",
     "fields": {
       "tag": "memory"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 676
   },
   {
-    "pk": 677,
-    "model": "videos.tag",
     "fields": {
       "tag": "amqp"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 677
   },
   {
-    "pk": 678,
-    "model": "videos.tag",
     "fields": {
       "tag": "queueing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 678
   },
   {
-    "pk": 679,
-    "model": "videos.tag",
     "fields": {
       "tag": "future"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 679
   },
   {
-    "pk": 680,
-    "model": "videos.tag",
     "fields": {
       "tag": "advocacy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 680
   },
   {
-    "pk": 681,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyconau"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 681
   },
   {
-    "pk": 682,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyconau2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 682
   },
   {
-    "pk": 683,
-    "model": "videos.tag",
     "fields": {
       "tag": "promise"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 683
   },
   {
-    "pk": 684,
-    "model": "videos.tag",
     "fields": {
       "tag": "puzzlers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 684
   },
   {
-    "pk": 685,
-    "model": "videos.tag",
     "fields": {
       "tag": "soap"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 685
   },
   {
-    "pk": 686,
-    "model": "videos.tag",
     "fields": {
       "tag": "ssl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 686
   },
   {
-    "pk": 687,
-    "model": "videos.tag",
     "fields": {
       "tag": "sypy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 687
   },
   {
-    "pk": 688,
-    "model": "videos.tag",
     "fields": {
       "tag": "prototyping"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 688
   },
   {
-    "pk": 689,
-    "model": "videos.tag",
     "fields": {
       "tag": "multimedia"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 689
   },
   {
-    "pk": 690,
-    "model": "videos.tag",
     "fields": {
       "tag": "processing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 690
   },
   {
-    "pk": 691,
-    "model": "videos.tag",
     "fields": {
       "tag": "apis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 691
   },
   {
-    "pk": 692,
-    "model": "videos.tag",
     "fields": {
       "tag": "jsonrpc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 692
   },
   {
-    "pk": 693,
-    "model": "videos.tag",
     "fields": {
       "tag": "agile"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 693
   },
   {
-    "pk": 694,
-    "model": "videos.tag",
     "fields": {
       "tag": "architecture"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 694
   },
   {
-    "pk": 695,
-    "model": "videos.tag",
     "fields": {
       "tag": "science"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 695
   },
   {
-    "pk": 696,
-    "model": "videos.tag",
     "fields": {
       "tag": "virtualisation"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 696
   },
   {
-    "pk": 697,
-    "model": "videos.tag",
     "fields": {
       "tag": "games"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 697
   },
   {
-    "pk": 698,
-    "model": "videos.tag",
     "fields": {
       "tag": "handheld"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 698
   },
   {
-    "pk": 699,
-    "model": "videos.tag",
     "fields": {
       "tag": "mod_wsgi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 699
   },
   {
-    "pk": 700,
-    "model": "videos.tag",
     "fields": {
       "tag": "hostout"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 700
   },
   {
-    "pk": 701,
-    "model": "videos.tag",
     "fields": {
       "tag": "silverlining"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 701
   },
   {
-    "pk": 702,
-    "model": "videos.tag",
     "fields": {
       "tag": "esky"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 702
   },
   {
-    "pk": 703,
-    "model": "videos.tag",
     "fields": {
       "tag": "cocos2d"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 703
   },
   {
-    "pk": 704,
-    "model": "videos.tag",
     "fields": {
       "tag": "google"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 704
   },
   {
-    "pk": 705,
-    "model": "videos.tag",
     "fields": {
       "tag": "hacks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 705
   },
   {
-    "pk": 706,
-    "model": "videos.tag",
     "fields": {
       "tag": "inflect.py"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 706
   },
   {
-    "pk": 707,
-    "model": "videos.tag",
     "fields": {
       "tag": "pippy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 707
   },
   {
-    "pk": 708,
-    "model": "videos.tag",
     "fields": {
       "tag": "scripts"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 708
   },
   {
-    "pk": 709,
-    "model": "videos.tag",
     "fields": {
       "tag": "with"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 709
   },
   {
-    "pk": 710,
-    "model": "videos.tag",
     "fields": {
       "tag": "optimisation"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 710
   },
   {
-    "pk": 711,
-    "model": "videos.tag",
     "fields": {
       "tag": "datasets"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 711
   },
   {
-    "pk": 712,
-    "model": "videos.tag",
     "fields": {
       "tag": "pygotham"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 712
   },
   {
-    "pk": 713,
-    "model": "videos.tag",
     "fields": {
       "tag": "pygotham2011"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 713
   },
   {
-    "pk": 714,
-    "model": "videos.tag",
     "fields": {
       "tag": "gnuscreen"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 714
   },
   {
-    "pk": 715,
-    "model": "videos.tag",
     "fields": {
       "tag": "tmux"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 715
   },
   {
-    "pk": 716,
-    "model": "videos.tag",
     "fields": {
       "tag": "brubeck"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 716
   },
   {
-    "pk": 717,
-    "model": "videos.tag",
     "fields": {
       "tag": "dataanalysis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 717
   },
   {
-    "pk": 718,
-    "model": "videos.tag",
     "fields": {
       "tag": "drivers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 718
   },
   {
-    "pk": 719,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyserial"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 719
   },
   {
-    "pk": 720,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyusb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 720
   },
   {
-    "pk": 721,
-    "model": "videos.tag",
     "fields": {
       "tag": "usb"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 721
   },
   {
-    "pk": 722,
-    "model": "videos.tag",
     "fields": {
       "tag": "bosc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 722
   },
   {
-    "pk": 723,
-    "model": "videos.tag",
     "fields": {
       "tag": "opensoundcontrol"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 723
   },
   {
-    "pk": 724,
-    "model": "videos.tag",
     "fields": {
       "tag": "real-time"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 724
   },
   {
-    "pk": 725,
-    "model": "videos.tag",
     "fields": {
       "tag": "socket.io"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 725
   },
   {
-    "pk": 726,
-    "model": "videos.tag",
     "fields": {
       "tag": "zeromq"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 726
   },
   {
-    "pk": 727,
-    "model": "videos.tag",
     "fields": {
       "tag": "stem"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 727
   },
   {
-    "pk": 728,
-    "model": "videos.tag",
     "fields": {
       "tag": "nonblockingio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 728
   },
   {
-    "pk": 729,
-    "model": "videos.tag",
     "fields": {
       "tag": "markov"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 729
   },
   {
-    "pk": 730,
-    "model": "videos.tag",
     "fields": {
       "tag": "visualization"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 730
   },
   {
-    "pk": 731,
-    "model": "videos.tag",
     "fields": {
       "tag": "openblock"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 731
   },
   {
-    "pk": 732,
-    "model": "videos.tag",
     "fields": {
       "tag": "workshops"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 732
   },
   {
-    "pk": 733,
-    "model": "videos.tag",
     "fields": {
       "tag": "ming"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 733
   },
   {
-    "pk": 734,
-    "model": "videos.tag",
     "fields": {
       "tag": "art"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 734
   },
   {
-    "pk": 735,
-    "model": "videos.tag",
     "fields": {
       "tag": "software"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 735
   },
   {
-    "pk": 736,
-    "model": "videos.tag",
     "fields": {
       "tag": "plover"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 736
   },
   {
-    "pk": 737,
-    "model": "videos.tag",
     "fields": {
       "tag": "stenography"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 737
   },
   {
-    "pk": 738,
-    "model": "videos.tag",
     "fields": {
       "tag": "plone4"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 738
   },
   {
-    "pk": 739,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyohio"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 739
   },
   {
-    "pk": 740,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyohio2010"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 740
   },
   {
-    "pk": 741,
-    "model": "videos.tag",
     "fields": {
       "tag": "suds"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 741
   },
   {
-    "pk": 742,
-    "model": "videos.tag",
     "fields": {
       "tag": "entrepeneur"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 742
   },
   {
-    "pk": 743,
-    "model": "videos.tag",
     "fields": {
       "tag": "hadoop"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 743
   },
   {
-    "pk": 744,
-    "model": "videos.tag",
     "fields": {
       "tag": "dictionaries"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 744
   },
   {
-    "pk": 745,
-    "model": "videos.tag",
     "fields": {
       "tag": "cprofile"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 745
   },
   {
-    "pk": 746,
-    "model": "videos.tag",
     "fields": {
       "tag": "pstats"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 746
   },
   {
-    "pk": 747,
-    "model": "videos.tag",
     "fields": {
       "tag": "runsnakerun"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 747
   },
   {
-    "pk": 748,
-    "model": "videos.tag",
     "fields": {
       "tag": "timeit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 748
   },
   {
-    "pk": 749,
-    "model": "videos.tag",
     "fields": {
       "tag": "asp.net"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 749
   },
   {
-    "pk": 750,
-    "model": "videos.tag",
     "fields": {
       "tag": "winforms"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 750
   },
   {
-    "pk": 751,
-    "model": "videos.tag",
     "fields": {
       "tag": "wpf"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 751
   },
   {
-    "pk": 752,
-    "model": "videos.tag",
     "fields": {
       "tag": "codestyle"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 752
   },
   {
-    "pk": 753,
-    "model": "videos.tag",
     "fields": {
       "tag": "style"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 753
   },
   {
-    "pk": 754,
-    "model": "videos.tag",
     "fields": {
       "tag": "supervisor"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 754
   },
   {
-    "pk": 755,
-    "model": "videos.tag",
     "fields": {
       "tag": "splunk"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 755
   },
   {
-    "pk": 756,
-    "model": "videos.tag",
     "fields": {
       "tag": "sysadmin"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 756
   },
   {
-    "pk": 757,
-    "model": "videos.tag",
     "fields": {
       "tag": "bugfixing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 757
   },
   {
-    "pk": 758,
-    "model": "videos.tag",
     "fields": {
       "tag": "artificialignorance"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 758
   },
   {
-    "pk": 759,
-    "model": "videos.tag",
     "fields": {
       "tag": "graphing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 759
   },
   {
-    "pk": 760,
-    "model": "videos.tag",
     "fields": {
       "tag": "patternrecognition"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 760
   },
   {
-    "pk": 761,
-    "model": "videos.tag",
     "fields": {
       "tag": "petit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 761
   },
   {
-    "pk": 762,
-    "model": "videos.tag",
     "fields": {
       "tag": "stopwordlists"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 762
   },
   {
-    "pk": 763,
-    "model": "videos.tag",
     "fields": {
       "tag": "wordcounting"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 763
   },
   {
-    "pk": 764,
-    "model": "videos.tag",
     "fields": {
       "tag": "networking"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 764
   },
   {
-    "pk": 765,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyqt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 765
   },
   {
-    "pk": 766,
-    "model": "videos.tag",
     "fields": {
       "tag": "codereuse"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 766
   },
   {
-    "pk": 767,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyohio2011"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 767
   },
   {
-    "pk": 768,
-    "model": "videos.tag",
     "fields": {
       "tag": "self"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 768
   },
   {
-    "pk": 769,
-    "model": "videos.tag",
     "fields": {
       "tag": "urllib2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 769
   },
   {
-    "pk": 770,
-    "model": "videos.tag",
     "fields": {
       "tag": "bullwinkle"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 770
   },
   {
-    "pk": 771,
-    "model": "videos.tag",
     "fields": {
       "tag": "ctags"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 771
   },
   {
-    "pk": 772,
-    "model": "videos.tag",
     "fields": {
       "tag": "bookie"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 772
   },
   {
-    "pk": 773,
-    "model": "videos.tag",
     "fields": {
       "tag": "laptops"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 773
   },
   {
-    "pk": 774,
-    "model": "videos.tag",
     "fields": {
       "tag": "pelican"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 774
   },
   {
-    "pk": 775,
-    "model": "videos.tag",
     "fields": {
       "tag": "rattlesnake"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 775
   },
   {
-    "pk": 776,
-    "model": "videos.tag",
     "fields": {
       "tag": "repoze.who.plugins"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 776
   },
   {
-    "pk": 777,
-    "model": "videos.tag",
     "fields": {
       "tag": "slang"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 777
   },
   {
-    "pk": 778,
-    "model": "videos.tag",
     "fields": {
       "tag": "descriptors"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 778
   },
   {
-    "pk": 779,
-    "model": "videos.tag",
     "fields": {
       "tag": "getattr"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 779
   },
   {
-    "pk": 780,
-    "model": "videos.tag",
     "fields": {
       "tag": "getattribute"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 780
   },
   {
-    "pk": 781,
-    "model": "videos.tag",
     "fields": {
       "tag": "properties"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 781
   },
   {
-    "pk": 782,
-    "model": "videos.tag",
     "fields": {
       "tag": "panda3d"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 782
   },
   {
-    "pk": 783,
-    "model": "videos.tag",
     "fields": {
       "tag": "learningpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 783
   },
   {
-    "pk": 784,
-    "model": "videos.tag",
     "fields": {
       "tag": "webapi"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 784
   },
   {
-    "pk": 785,
-    "model": "videos.tag",
     "fields": {
       "tag": "lalr"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 785
   },
   {
-    "pk": 786,
-    "model": "videos.tag",
     "fields": {
       "tag": "parser"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 786
   },
   {
-    "pk": 787,
-    "model": "videos.tag",
     "fields": {
       "tag": "webapis"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 787
   },
   {
-    "pk": 788,
-    "model": "videos.tag",
     "fields": {
       "tag": "careers"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 788
   },
   {
-    "pk": 789,
-    "model": "videos.tag",
     "fields": {
       "tag": "bitcoin"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 789
   },
   {
-    "pk": 790,
-    "model": "videos.tag",
     "fields": {
       "tag": "entrepeneurship"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 790
   },
   {
-    "pk": 791,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyrad"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 791
   },
   {
-    "pk": 792,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyside"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 792
   },
   {
-    "pk": 793,
-    "model": "videos.tag",
     "fields": {
       "tag": "freshbooks"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 793
   },
   {
-    "pk": 794,
-    "model": "videos.tag",
     "fields": {
       "tag": "pymc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 794
   },
   {
-    "pk": 795,
-    "model": "videos.tag",
     "fields": {
       "tag": "atari"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 795
   },
   {
-    "pk": 796,
-    "model": "videos.tag",
     "fields": {
       "tag": "freemint"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 796
   },
   {
-    "pk": 797,
-    "model": "videos.tag",
     "fields": {
       "tag": "interpreters"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 797
   },
   {
-    "pk": 798,
-    "model": "videos.tag",
     "fields": {
       "tag": "assignment"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 798
   },
   {
-    "pk": 799,
-    "model": "videos.tag",
     "fields": {
       "tag": "ec2"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 799
   },
   {
-    "pk": 800,
-    "model": "videos.tag",
     "fields": {
       "tag": "conversion"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 800
   },
   {
-    "pk": 801,
-    "model": "videos.tag",
     "fields": {
       "tag": "php"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 801
   },
   {
-    "pk": 802,
-    "model": "videos.tag",
     "fields": {
       "tag": "mvc"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 802
   },
   {
-    "pk": 803,
-    "model": "videos.tag",
     "fields": {
       "tag": "datatransferobjects"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 803
   },
   {
-    "pk": 804,
-    "model": "videos.tag",
     "fields": {
       "tag": "aspen"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 804
   },
   {
-    "pk": 805,
-    "model": "videos.tag",
     "fields": {
       "tag": "webframework"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 805
   },
   {
-    "pk": 806,
-    "model": "videos.tag",
     "fields": {
       "tag": "fetching"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 806
   },
   {
-    "pk": 807,
-    "model": "videos.tag",
     "fields": {
       "tag": "gotchas"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 807
   },
   {
-    "pk": 808,
-    "model": "videos.tag",
     "fields": {
       "tag": "chipy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 808
   },
   {
-    "pk": 809,
-    "model": "videos.tag",
     "fields": {
       "tag": "playdoh"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 809
   },
   {
-    "pk": 810,
-    "model": "videos.tag",
     "fields": {
       "tag": "billmania"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 810
   },
   {
-    "pk": 811,
-    "model": "videos.tag",
     "fields": {
       "tag": "camera"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 811
   },
   {
-    "pk": 812,
-    "model": "videos.tag",
     "fields": {
       "tag": "image"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 812
   },
   {
-    "pk": 813,
-    "model": "videos.tag",
     "fields": {
       "tag": "opencv"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 813
   },
   {
-    "pk": 814,
-    "model": "videos.tag",
     "fields": {
       "tag": "ros"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 814
   },
   {
-    "pk": 815,
-    "model": "videos.tag",
     "fields": {
       "tag": "cwebber"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 815
   },
   {
-    "pk": 816,
-    "model": "videos.tag",
     "fields": {
       "tag": "foss"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 816
   },
   {
-    "pk": 817,
-    "model": "videos.tag",
     "fields": {
       "tag": "gnu"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 817
   },
   {
-    "pk": 818,
-    "model": "videos.tag",
     "fields": {
       "tag": "media"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 818
   },
   {
-    "pk": 819,
-    "model": "videos.tag",
     "fields": {
       "tag": "mediagoblin"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 819
   },
   {
-    "pk": 820,
-    "model": "videos.tag",
     "fields": {
       "tag": "mongokit"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 820
   },
   {
-    "pk": 821,
-    "model": "videos.tag",
     "fields": {
       "tag": "openoffice"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 821
   },
   {
-    "pk": 822,
-    "model": "videos.tag",
     "fields": {
       "tag": "pystage"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 822
   },
   {
-    "pk": 823,
-    "model": "videos.tag",
     "fields": {
       "tag": "apache"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 823
   },
   {
-    "pk": 824,
-    "model": "videos.tag",
     "fields": {
       "tag": "ianbicking"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 824
   },
   {
-    "pk": 825,
-    "model": "videos.tag",
     "fields": {
       "tag": "cool"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 825
   },
   {
-    "pk": 826,
-    "model": "videos.tag",
     "fields": {
       "tag": "customizing"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 826
   },
   {
-    "pk": 827,
-    "model": "videos.tag",
     "fields": {
       "tag": "jquery"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 827
   },
   {
-    "pk": 828,
-    "model": "videos.tag",
     "fields": {
       "tag": "python2.7"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 828
   },
   {
-    "pk": 829,
-    "model": "videos.tag",
     "fields": {
       "tag": "gitpython"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 829
   },
   {
-    "pk": 830,
-    "model": "videos.tag",
     "fields": {
       "tag": "extjs"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 830
   },
   {
-    "pk": 831,
-    "model": "videos.tag",
     "fields": {
       "tag": "piston"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 831
   },
   {
-    "pk": 832,
-    "model": "videos.tag",
     "fields": {
       "tag": "go_pylons"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 832
   },
   {
-    "pk": 833,
-    "model": "videos.tag",
     "fields": {
       "tag": "snakefight"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 833
   },
   {
-    "pk": 834,
-    "model": "videos.tag",
     "fields": {
       "tag": "bostonpy"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 834
   },
   {
-    "pk": 835,
-    "model": "videos.tag",
     "fields": {
       "tag": "session"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 835
   },
   {
-    "pk": 836,
-    "model": "videos.tag",
     "fields": {
       "tag": "gearman"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 836
   },
   {
-    "pk": 837,
-    "model": "videos.tag",
     "fields": {
       "tag": "pyatl"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 837
   },
   {
-    "pk": 838,
-    "model": "videos.tag",
     "fields": {
       "tag": "xlrd"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 838
   },
   {
-    "pk": 839,
-    "model": "videos.tag",
     "fields": {
       "tag": "xlwt"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 839
   },
   {
-    "pk": 840,
-    "model": "videos.tag",
     "fields": {
       "tag": "contentmirror"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 840
   },
   {
-    "pk": 841,
-    "model": "videos.tag",
     "fields": {
       "tag": "googlewave"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 841
   },
   {
-    "pk": 842,
-    "model": "videos.tag",
     "fields": {
       "tag": "android"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 842
   },
   {
-    "pk": 843,
-    "model": "videos.tag",
     "fields": {
       "tag": "nose"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 843
   },
   {
-    "pk": 844,
-    "model": "videos.tag",
     "fields": {
       "tag": "av"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 844
   },
   {
-    "pk": 845,
-    "model": "videos.tag",
     "fields": {
       "tag": "django"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 845
   },
   {
-    "pk": 846,
-    "model": "videos.tag",
     "fields": {
       "tag": "disco"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 846
   },
   {
-    "pk": 847,
-    "model": "videos.tag",
     "fields": {
       "tag": "mapreduce"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 847
   },
   {
-    "pk": 848,
-    "model": "videos.tag",
     "fields": {
       "tag": "numexpr"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 848
   },
   {
-    "pk": 849,
-    "model": "videos.tag",
     "fields": {
       "tag": "scikits-image"
-    }
+    },
+    "model": "videos.tag",
+    "pk": 849
   }
 ]
