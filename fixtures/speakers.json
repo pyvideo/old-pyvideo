@@ -1240,14 +1240,6 @@
     }
   },
   {
-    "pk": 162,
-    "model": "videos.speaker",
-    "fields": {
-      "name": "Roy Hyunjin Han (InvisibleRoads)",
-      "slug": "roy-hyunjin-han--invisibleroads"
-    }
-  },
-  {
     "pk": 164,
     "model": "videos.speaker",
     "fields": {
