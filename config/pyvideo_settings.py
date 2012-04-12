@@ -216,3 +216,7 @@ LOGGING = {
 }
 
 EMAIL_SUBJECT_PREFIX = '[Django pyvideo]'
+
+VIDEO_THUMBNAIL_SIZE = (160, 120)
+
+MEDIA_PREFERENCE = ('ogv', 'webm', 'mp4')
