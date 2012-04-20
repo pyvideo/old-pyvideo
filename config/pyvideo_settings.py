@@ -14,7 +14,8 @@ sys.path.append(os.path.join(os.path.dirname(ROOT), 'apps'))
 
 
 DEBUG = mysecrets.DEBUG
-TEMPLATE_DEBUG = mysecrets.TEMPLATE_DEBUG
+TEMPLATE_DEBUG = DEBUG
+
 
 SITE_TITLE = u'pyvideo.org'
 
