@@ -1,13 +1,37 @@
-<html>
-<title>404 error</title>
-<body>
-<h1>404 error</h1>
+{% extends "base.html" %}
+{% block content %}
+
+<div class="row-fluid">
+  <div class="span4">
+<pre>
+        _  _    ___  _  _   _ 
+       | || |  / _ \| || | | |
+       | || |_| | | | || |_| |
+       |__   _| |_| |__   _|_|
+          |_|  \___/   |_| (_)
+
+
+           ?      ?    ?
+     ___  ?    ?         ? ___
+    / _ \  ?   .---.    ? / _ \
+    \/_) )   _|o__  |_    \/_) )
+     / ,-   '       | '    / ,-'
+     '-'   (   .----'  )   '-'
+     (_)    '_|   ____'    (_)  
+              |   o |   
+               '---'
+
+          WHERE MY PYTHONS
+</pre>
+  </div>
+  <div class="span8">
+<h2>Gah!</h2>
 <p>
   Gah! Somehow you ended up on a page that's not handled
   anywhere. I really apologize for this.
 </p>
 
-<h1>What happens now?</h1>
+<h2>What happens now?</h2>
 <p>
   I don't watch for 404 errors, so the best thing for you to
   do is fire off an email to me at <em>willg at bluesock dot org</em>
@@ -19,7 +43,9 @@
   or write up a bug report and fix it later.
 </p>
 <p>
-  In the meantime, <a href="http://pyvideo.org/">you can go back to the home page</a>.
+  In the meantime, <a href="http://pyvideo.org/">you can go back to
+  the home page</a>.
 </p>
-</body>
-</html>
+  </div>
+</div>
+{% endblock %}
