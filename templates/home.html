@@ -46,8 +46,11 @@
           <dt>{{ kind.name }}</dt>
           <dd>
             <ul>
-              {% for cat in kind.category_set.all() %}
-                <li><a href="{{ cat.get_absolute_url() }}">{{ cat.title }}</a></li>
+              {% for cat in kind.category_set.order_by('-start_date') %}
+                <li>
+                  <a href="{{ cat.get_absolute_url() }}">{{ cat.title }}</a>
+                  ({{ cat.video_set.count() }})
+                </li>
               {% endfor %}
             </ul>
           </dd>
@@ -57,14 +60,16 @@
   </div>
 
   <div class="span8">
-    <h2>Site news</h2>
+    <h2>Site news
+      <small><a class="feed" href="{{ url('sitenews-feed') }}"> feed</a></small>
+    </h2>
     {% for item in news %}
       <div class="news-item">
         <div>
-          <h3><a href="{{ item.get_absolute_url() }}">{{ item.title | safe }}</a></h3>
+          <h3><a href="{{ item.get_absolute_url() }}">{{ item.title|safe }}</a></h3>
         </div>
         <div>
-          {{ item.summary | safe }}
+          {{ item.summary|safe }}
         </div>
         <div>
           Author: {{ item.author }} |
@@ -75,6 +80,5 @@
       </div>
     {% endfor %}
   </div>
-
 </div>
 {% endblock %}
