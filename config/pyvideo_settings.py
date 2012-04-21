@@ -174,6 +174,7 @@ INSTALLED_APPS = (
     'django.contrib.redirects',
     'haystack',
     'south',
+    'tastypie',
 
     # Uncomment the next line to enable admin documentation:
     # 'django.contrib.admindocs',
