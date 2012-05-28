@@ -9,9 +9,6 @@ SITE_ROOT = os.path.dirname(os.path.dirname(__file__))
 # root is this directory
 ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 
-# add the apps/ directory to the path
-sys.path.append(os.path.join(os.path.dirname(ROOT), 'apps'))
-
 
 DEBUG = mysecrets.DEBUG
 TEMPLATE_DEBUG = DEBUG
@@ -176,12 +173,10 @@ INSTALLED_APPS = (
     'south',
     'tastypie',
 
-    # Uncomment the next line to enable admin documentation:
-    # 'django.contrib.admindocs',
-
-    'videos',
-    'sitenews',
-    'pages',
+    'richard.videos',
+    'richard.sitenews',
+    'richard.pages',
+    'richard.suggestions',
 
     # Test apps
     'django_nose',
