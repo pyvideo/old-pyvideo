@@ -10,9 +10,8 @@ SITE_ROOT = os.path.dirname(os.path.dirname(__file__))
 ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 
 
-DEBUG = mysecrets.DEBUG
+DEBUG = False
 TEMPLATE_DEBUG = DEBUG
-
 
 SITE_TITLE = u'pyvideo.org'
 
@@ -22,6 +21,12 @@ ADMINS = (
 )
 
 MANAGERS = ADMINS
+
+VIDEO_THUMBNAIL_SIZE = (160, 120)
+MEDIA_PREFERENCE = ('ogv', 'webm', 'mp4')
+API = True
+AMARA_SUPPORT = False
+PAGES = ['about']
 
 DATABASES = {
     'default': {
@@ -157,7 +162,8 @@ JINGO_EXCLUDE_APPS = (
     'admin',
 )
 
-JINGO_CONFIG = {
+JINJA_CONFIG = {
+    'extensions': ['jinja2.ext.with_'],
 }
 
 INSTALLED_APPS = (
@@ -215,6 +221,7 @@ LOGGING = {
 
 EMAIL_SUBJECT_PREFIX = '[Django pyvideo]'
 
-VIDEO_THUMBNAIL_SIZE = (160, 120)
-
-MEDIA_PREFERENCE = ('ogv', 'webm', 'mp4')
+try:
+    from pyvideo_settings_local import *
+except ImportError:
+    pass
