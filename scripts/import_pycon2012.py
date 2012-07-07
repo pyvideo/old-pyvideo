@@ -29,7 +29,7 @@ CARL_TO_RICHARD = {
     }
 
 
-def get_data_from_yahoo(url):
+def get_data_from_youtube(url):
     video = vidscraper.auto_scrape(url)
     return {
         'thumbnail_url': video['thumbnail_url'],
@@ -52,7 +52,7 @@ def import_video(data):
         'added': datetime.datetime.now()
         }
 
-    new_data.update(get_data_from_yahoo(data['host_url']))
+    new_data.update(get_data_from_youtube(data['host_url']))
 
     try:
         return create_videos([new_data])
