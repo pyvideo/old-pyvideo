@@ -27,6 +27,7 @@ MEDIA_PREFERENCE = ('ogv', 'webm', 'mp4')
 API = True
 AMARA_SUPPORT = False
 PAGES = ['about']
+MAX_FEED_LENGTH = 30
 
 DATABASES = {
     'default': {
