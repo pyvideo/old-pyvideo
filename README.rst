@@ -10,6 +10,8 @@ pyvideo.org is an instance of `richard <https://github.com/willkg/richard>`_
 which is a Django-based web application for building video index sites like
 pyvideo.
 
+We hang out on IRC in ``#pyvideo`` on freenode.net.
+
 
 Wait, but it's called pmc... Why?
 =================================
