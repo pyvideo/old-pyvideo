@@ -37,7 +37,10 @@
           {% if latest_categories %}
             <ul>
               {% for cat in latest_categories %}
-                <li><a href="{{ cat.get_absolute_url() }}">{{ cat.title }}</a>
+                <li>
+                  <a href="{{ cat.get_absolute_url() }}">{{ cat.title }}</a>
+                  ({{ cat.video_set.live().count() }})
+                </li>
               {% endfor %}
             </ul>
           {% endif %}
@@ -55,7 +58,10 @@
           {% if latest_videos %}
             <ul>
               {% for video in latest_videos %}
-                <li><a href="{{ video.get_absolute_url() }}">{{ video.title }}</a>
+                <li>
+                  ({{ video.category }})
+                  <a href="{{ video.get_absolute_url() }}">{{ video.title }}</a>
+                </li>
               {% endfor %}
             </ul>
           {% endif %}
@@ -69,7 +75,7 @@
 
 {% if news %}
   <div class="row-fluid section">
-    <div class="span8">
+    <div class="span12">
       <h2>Site news
         <small><a class="feed" href="{{ url('sitenews-feed') }}"> feed</a></small>
       </h2>
