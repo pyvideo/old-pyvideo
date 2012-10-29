@@ -25,17 +25,6 @@
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
   <title>{% block title %}{{ title }}{% endblock %}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29832059-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
 {% if meta %}
   {% for meta_name, meta_content in meta %}
     <meta name="{{ meta_name }}" content="{{ meta_content }}">
@@ -44,6 +33,7 @@
 {% block additional_head %}{% endblock %}
 </head>
 <body>
+  <a name="top"></a>
   <div class="navbar">
     <div class="navbar-inner">
       <div class="container">
@@ -56,44 +46,66 @@
           <input type="hidden" name="models" value="videos.video">
           <input type="text" class="search-query span2" name="q" placeholder="Search" value="{{ query }}">
         </form>
-        <ul class="nav nav-pills pull-right">
-          <li><a href="{{ url('suggestions-list') }}">Submit</a></li>
-          <li><a href="{{ url('stats') }}">Site stats</a></li>
-          <li><a href="{{ url('sitenews-list') }}">News</a></li>
-          <li><a href="{{ url('pages-page', page='about') }}">About</a></li>
+        <ul class="nav nav-pills">
+          <li><a href="#footer">More links</a></li>
         </ul>
       </div>
     </div>
   </div>
-
   <div id="content" class="container">
-  {% if notifications -%}
-    <div class="row-fluid">
-      <div class="span12">
-    {% for n in notifications -%}
-      <div class="alert alert-info">
-        <i class="icon-info-sign"></i> <strong>{{ n.interjection }}</strong>
-        {{ n.text|safe }}
+    {% if notifications -%}
+      <div class="row-fluid">
+        <div class="span12">
+      {% for n in notifications -%}
+        <div class="alert alert-info">
+          <i class="icon-info-sign"></i> <strong>{{ n.interjection }}</strong>
+          {{ n.text|safe }}
+        </div>
+      {%- endfor %}
+        </div>
       </div>
-    {%- endfor %}
-      </div>
-    </div>
-  {%- endif %}
-
-    {# TODO: messages #}
-    {# TODO: breadcrumbs #}
+    {%- endif %}
 
     {% block content %}{% endblock %}
 
     <div id="footer">
-      This site is powered by <a href="http://github.com/willkg/richard">richard</a>.
-      Questions, comments or concerns? Send email to willg at bluesock dot org.
+      <a name="footer"></a>
+      <div class="row-fluid">
+        <div class="span6">
+          <p>pyvideo.org</p>
+          <p>
+            Questions, comments or concerns? Send email to willg at
+            bluesock dot org.
+          </p>
+        </div>
+        <div class="span4">
+          <ul class="unstyled">
+            <li><a href="{{ url('pages-page', page='about') }}">About this site</a></li>
+            <li><a href="{{ url('sitenews-list') }}">Site news</a></li>
+            <li><a href="{{ url('suggestions-list') }}">Submit a new conference</a></li>
+            <li><a href="{{ url('stats') }}">Site stats</a></li>
+            <li><a href="http://github.com/willkg/richard">Powered by richard</a></li>
+          </ul>
+        </div>
+        <div class="span2">
+          <a class="pull-right" href="#top">Back to top</a>
+        </div>
+      </div>
     </div>
   </div>
+  {% block additional_body %}{% endblock %}
+<script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29832059-1']);
+  _gaq.push(['_trackPageview']);
 
-  <script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-  <script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
-  {% block additional_body %}
-  {% endblock %}
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </body>
 </html>
