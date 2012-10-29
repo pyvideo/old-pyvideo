@@ -24,7 +24,6 @@
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap-responsive.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
   <title>{% block title %}{{ title }}{% endblock %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 {% if meta %}
   {% for meta_name, meta_content in meta %}
     <meta name="{{ meta_name }}" content="{{ meta_content }}">
@@ -39,19 +38,18 @@
       <div class="container">
         <a class="brand" href="{{ url('home') }}">{{ settings.SITE_TITLE }}</a>
         <ul class="nav nav-pills">
-          <li><a href="{{ url('videos-category-list') }}">By conference/user group</a></li>
-          <li><a href="{{ url('videos-speaker-list') }}">By speaker</a></li>
-        </ul>
-        <form class="navbar-search" action="{{ url('haystack-search') }}">
-          <input type="hidden" name="models" value="videos.video">
-          <input type="text" class="search-query span2" name="q" placeholder="Search" value="{{ query }}">
-        </form>
-        <ul class="nav nav-pills">
+          <li><a href="{{ url('videos-category-list') }}">Conference/user groups</a></li>
+          <li><a href="{{ url('videos-speaker-list') }}">Speakers</a></li>
           <li><a href="#footer">More links</a></li>
         </ul>
+        <form class="navbar-search pull-right" action="{{ url('haystack-search') }}">
+          <input type="hidden" name="models" value="videos.video">
+          <input type="text" class="search-query span3" name="q" placeholder="Search" value="{{ query }}">
+        </form>
       </div>
     </div>
   </div>
+
   <div id="content" class="container">
     {% if notifications -%}
       <div class="row-fluid">
