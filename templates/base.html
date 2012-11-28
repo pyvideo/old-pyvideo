@@ -18,26 +18,26 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap-responsive.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
-  <title>{% block title %}{{ title }}{% endblock %}</title>
+  <title>{% block title %}{{ page_title() }}{% endblock %}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 {% if meta %}
   {% for meta_name, meta_content in meta %}
     <meta name="{{ meta_name }}" content="{{ meta_content }}">
   {% endfor %}
 {% endif %}
-{% block additional_head %}{% endblock %}
+  {% block additional_head %}{% endblock %}
 </head>
 <body>
   <a name="top"></a>
-  <div class="navbar">
+  <div class="navbar navbar-inverse">
     <div class="navbar-inner">
       <div class="container">
         <a class="brand" href="{{ url('home') }}">{{ settings.SITE_TITLE }}</a>
-        <ul class="nav nav-pills">
+        <ul class="nav">
           <li><a href="{{ url('videos-category-list') }}">Conference/user groups</a></li>
           <li><a href="{{ url('videos-speaker-list') }}">Speakers</a></li>
           <li><a href="#footer">More links</a></li>
