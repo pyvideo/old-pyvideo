@@ -88,6 +88,24 @@ TEMPLATE_DIRS = (
 
 EMAIL_SUBJECT_PREFIX = '[Django pyvideo]'
 
+SPAM_WORDS = [
+    'casino',
+    'loans',
+    'viagra',
+    'valium',
+    'proactol',
+    'hormone',
+    'forex',
+    'cigarette',
+    'levitra',
+    'blackjack',
+    'poker',
+    'cialis',
+    'roulette',
+    'propecia',
+    'tramadol'
+]
+
 try:
     from pyvideo_settings_local import *
 except ImportError:
