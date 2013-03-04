@@ -19,10 +19,8 @@
 <html>
 <head>
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap.min.css">
-  <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap-responsive.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
   <title>{% block title %}{{ page_title() }}{% endblock %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 {% if meta %}
   {% for meta_name, meta_content in meta %}
@@ -32,6 +30,7 @@
   {% block additional_head %}{% endblock %}
 </head>
 <body>
+  {{ browserid_info|safe }}
   <a name="top"></a>
   <div class="navbar navbar-inverse">
     <div class="navbar-inner">
@@ -58,7 +57,25 @@
           <li><a href="{{ url('suggestions-list') }}">Submit item</a></li>
           <li><a href="{{ url('stats') }}">Stats</a></li>
           <li><a href="{{ url('pages-page', page='about') }}">About</a></li>
+
+          {% if user.is_authenticated() %}
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                Greetings {{ user.username }}! <b class="caret"></b>
+              </a>
+              <ul class="dropdown-menu">
+                {% if user.is_superuser %}
+                  <li><a href="{{ url('admin:index') }}">Admin</a></li>
+                {% endif %}
+                <li>{{ browserid_button(sign_in='Sign in', sign_out='Sign out')|safe }}</li>
+              </ul>
+            </li>
+          {% else %}
+            <li>{{ browserid_button(sign_in='Sign in', sign_out='Sign out')|safe }}</li>
+
+          {% endif %}
         </ul>
+
       </div>
     </div>
   </div>
@@ -105,18 +122,20 @@
     </div>
   </div>
   {% block additional_body %}{% endblock %}
-<script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
-<script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-29832059-1']);
-  _gaq.push(['_trackPageview']);
+  <script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
+  <script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="{{ settings.STATIC_URL }}js/browserid.js"></script>
+  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-29832059-1']);
+    _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
 </body>
 </html>
