@@ -30,7 +30,7 @@
   {% block additional_head %}{% endblock %}
 </head>
 <body>
-  {{ browserid_info|safe }}
+  {{ browserid_info()|safe }}
   <a name="top"></a>
   <div class="navbar navbar-inverse">
     <div class="navbar-inner">
@@ -67,11 +67,11 @@
                 {% if user.is_superuser %}
                   <li><a href="{{ url('admin:index') }}">Admin</a></li>
                 {% endif %}
-                <li>{{ browserid_button(sign_in='Sign in', sign_out='Sign out')|safe }}</li>
+                <li>{{ browserid_login(text='Sign in')|safe }}</li>
               </ul>
             </li>
           {% else %}
-            <li>{{ browserid_button(sign_in='Sign in', sign_out='Sign out')|safe }}</li>
+            <li>{{ browserid_logout(text='Sign out')|safe }}</li>
 
           {% endif %}
         </ul>
