@@ -14,6 +14,8 @@ ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 DEBUG = False
 TEMPLATE_DEBUG = DEBUG
 
+SITE_URL = 'http://pyvideo.org'
+
 SITE_TITLE = u'pyvideo.org'
 
 ADMINS = (
