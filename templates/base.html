@@ -67,11 +67,11 @@
                 {% if user.is_superuser %}
                   <li><a href="{{ url('admin:index') }}">Admin</a></li>
                 {% endif %}
-                <li>{{ browserid_login(text='Sign in')|safe }}</li>
+                <li>{{ browserid_logout(text='Sign out')|safe }}</li>
               </ul>
             </li>
           {% else %}
-            <li>{{ browserid_logout(text='Sign out')|safe }}</li>
+            <li>{{ browserid_login(text='Sign in')|safe }}</li>
 
           {% endif %}
         </ul>
