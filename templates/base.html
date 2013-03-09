@@ -53,11 +53,6 @@
         </form>
 
         <ul class="nav pull-right">
-          <li><a href="{{ url('sitenews-list') }}">News</a></li>
-          <li><a href="{{ url('suggestions-list') }}">Submit item</a></li>
-          <li><a href="{{ url('stats') }}">Stats</a></li>
-          <li><a href="{{ url('pages-page', page='about') }}">About</a></li>
-
           {% if user.is_authenticated() %}
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
@@ -72,7 +67,6 @@
             </li>
           {% else %}
             <li>{{ browserid_login(text='Sign in')|safe }}</li>
-
           {% endif %}
         </ul>
 
