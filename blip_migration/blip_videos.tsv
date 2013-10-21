@@ -1,0 +1,611 @@
+id	category title	video title	source_url
+2	DjangoCon 2009	Customizing your Satchmo Store	http://blip.tv/file/3044823
+3	DjangoCon 2009	No! Bad Pony!	http://blip.tv/file/3043562
+4	DjangoCon 2009	When not to use the ORM: bulk data loading strategies for large datasets.	http://blip.tv/file/3043509
+5	DjangoCon 2009	How to name your open source Django project after a famous Jazz musician, and concepts behind Django-Mingus, a project leveraging only reusable apps.	http://blip.tv/file/3043497
+6	DjangoCon 2009	State of Pinax	http://blip.tv/file/3043455
+7	DjangoCon 2009	Django on Jython: Ready for Production	http://blip.tv/file/3043374
+8	DjangoCon 2009	Now What	http://blip.tv/file/3043324
+9	DjangoCon 2009	Lightning Talks Day 3	http://blip.tv/file/3041558
+10	DjangoCon 2009	Google Summer of Code Overview Panel	http://blip.tv/file/3041538
+11	DjangoCon 2009	Painless Django app localization with Transifex	http://blip.tv/file/3041478
+12	DjangoCon 2009	Fighting malnutrition with SMS and Django	http://blip.tv/file/3041374
+13	DjangoCon 2009	Scaling Django Web Applications	http://blip.tv/file/3041279
+14	DjangoCon 2009	Lightning Talks Day 2	http://blip.tv/file/3041193
+15	DjangoCon 2009	Selling Django to Your Superiors: Success Stories Panel	http://blip.tv/file/3041158
+16	DjangoCon 2009	Making your PostgreSQL database sing	http://blip.tv/file/3041081
+17	DjangoCon 2009	Pluggable, Reusable Django Apps: A Use Case and Proposed Solution	http://blip.tv/file/3040424
+18	DjangoCon 2009	Introduction to GeoDjango	http://blip.tv/file/3040382
+19	DjangoCon 2009	Real-time Web and Other Buzzwords	http://blip.tv/file/3040356
+20	DjangoCon 2009	Introduction to Pinax	http://blip.tv/file/3040311
+21	DjangoCon 2009	Using Django in Non-Standard Ways	http://blip.tv/file/3040251
+22	DjangoCon 2009	A socio-political analysis of open source community	http://blip.tv/file/3040214
+23	DjangoCon 2009	Django Technical Design Panel	http://blip.tv/file/3040144
+24	DjangoCon 2009	Cowboy Development with Django	http://blip.tv/file/3040084
+25	DjangoCon 2009	Deploying Django	http://blip.tv/file/3040031
+26	DjangoCon 2009	RESTful Ponies	http://blip.tv/file/3039979
+27	DjangoCon 2009	What the Heck Went Wrong?	http://blip.tv/file/3039902
+28	DjangoCon 2009	How to Contribute to Pinax	http://blip.tv/file/3039867
+29	DjangoCon 2009	Token Testing Talk	http://blip.tv/file/3039829
+30	DjangoCon 2009	Confessions of a life long Perl Bigot	http://blip.tv/file/3039753
+31	DjangoCon 2009	Database Migrations, South, And You	http://blip.tv/file/3039707
+32	DjangoCon 2009	UR DOING IT WRONG	http://blip.tv/file/3039650
+33	DjangoCon 2009	Django is obsolete (but so is everything else)	http://blip.tv/file/3039582
+34	DjangoCon 2009	Introduction from the fake Jacob Kaplan-Moss	http://blip.tv/file/3039369
+603	DjangoCon 2009	Custom Signals for Uncoupled Design	http://blip.tv/file/3068413
+
+35	DjangoCon 2010	Lightning Talks - Day 1	http://blip.tv/file/4149072
+36	DjangoCon 2010	Scaling the World's Largest Django Application	http://blip.tv/file/4135225
+37	DjangoCon 2010	Sprints Kickoff	http://blip.tv/file/4134814
+38	DjangoCon 2010	Multi-database patterns	http://blip.tv/file/4134562
+39	DjangoCon 2010	Massaging the Pony: Message Queues and You	http://blip.tv/file/4134371
+40	DjangoCon 2010	Learning a new codebase	http://blip.tv/file/4134218
+41	DjangoCon 2010	Alice in Performanceland -- Down the Rabbit Hole with Frank Wiles	http://blip.tv/file/4134070
+42	DjangoCon 2010	Modeling challenges	http://blip.tv/file/4130852
+43	DjangoCon 2010	Technical Design Panel	http://blip.tv/file/4112960
+44	DjangoCon 2010	Why Django Sucks, and How We Can Fix It	http://blip.tv/file/4112452
+45	DjangoCon 2010	Topics of Interest	http://blip.tv/file/4112125
+46	DjangoCon 2010	Welcome and Chairman's Address	http://blip.tv/file/4111712
+47	DjangoCon 2010	NoSQL and Django Panel	http://blip.tv/file/4111172
+48	DjangoCon 2010	Data Herding: How to Shepherd Your Flock Through Valleys of Darkness	http://blip.tv/file/4109404
+49	DjangoCon 2010	Alternative views	http://blip.tv/file/4109272
+50	DjangoCon 2010	Treehugging	http://blip.tv/file/4108856
+51	DjangoCon 2010	Rethinking the Reusable Application Paradigm	http://blip.tv/file/4108781
+52	DjangoCon 2010	Large Problems in Django, Mostly Solved	http://blip.tv/file/4107062
+53	DjangoCon 2010	How to sell Django	http://blip.tv/file/4107023
+54	DjangoCon 2010	Domain Specific Frameworks - Why they rock and what can we do to get more of them	http://blip.tv/file/4106991
+55	DjangoCon 2010	State of Pinax	http://blip.tv/file/4106960
+56	DjangoCon 2010	Customizing the Django Admin	http://blip.tv/file/4106908
+57	DjangoCon 2010	First steps in performance tuning	http://blip.tv/file/4106865
+58	DjangoCon 2010	Pony Pwning	http://blip.tv/file/4106811
+59	DjangoCon 2010	Switching addons.mozilla.org from CakePHP to Django	http://blip.tv/file/4106752
+60	DjangoCon 2010	Maps of Imaginary Lands	http://blip.tv/file/4106664
+61	DjangoCon 2010	Breaking down the process of building a custom CMS	http://blip.tv/file/4106622
+62	DjangoCon 2010	So you want to be a core developer?	http://blip.tv/file/4106546
+64	DjangoCon 2010	Typewar: A Case Study	http://blip.tv/file/4106449
+65	DjangoCon 2010	Teaching an Old Pony New Tricks: Maintaining and Updating an Aging Django Project	http://blip.tv/file/4106402
+66	DjangoCon 2010	Making the leap to Django	http://blip.tv/file/4106351
+67	DjangoCon 2010	Step Away From That Database	http://blip.tv/file/4106202
+
+68	DjangoCon 2011	A Summer in the Wild	http://blip.tv/djangocon/a-summer-in-the-wild-5583459
+69	DjangoCon 2011	Taming dependencies with pip	http://blip.tv/djangocon/taming-dependencies-with-pip-5582996
+70	DjangoCon 2011	Lightning Talks - Thursday morning	http://blip.tv/djangocon/lightning-talks-thurs-am-5582168
+71	DjangoCon 2011	Django Core Dev Panel	http://blip.tv/djangocon/django-core-dev-panel-5578198
+72	DjangoCon 2011	Pinax after Three Years: Lessons Learnt and the Way Forward	http://blip.tv/djangocon/pinax-after-three-years-lessons-learnt-and-the-way-forward-5577420
+73	DjangoCon 2011	Testing: The Developer Strikes Back	http://blip.tv/djangocon/testing-the-developer-strikes-back-5577365
+74	DjangoCon 2011	Lightning Talks - Wednesday morning	http://blip.tv/djangocon/lightning-talks-wed-am-5576513
+75	DjangoCon 2011	Cache rules everything around me	http://blip.tv/djangocon/cache-rules-everything-around-me-5573909
+76	DjangoCon 2011	Making interactive maps for the web	http://blip.tv/djangocon/making-interactive-maps-for-the-web-5573888
+77	DjangoCon 2011	Y'all Wanna Scrape with Us? Content Ain't a Thing : Web Scraping With Our Favorite Python Libraries	http://blip.tv/djangocon/y-all-wanna-scrape-with-us-content-ain-t-a-thing-web-scraping-with-our-favorite-python-libraries-5573401
+78	DjangoCon 2011	Deployment, Daemons and Datacenters	http://blip.tv/djangocon/deployment-daemons-and-datacenters-5573370
+79	DjangoCon 2011	RTFM -- wRite The Friendly Manual	http://blip.tv/djangocon/rtfm-write-the-friendly-manual-5573341
+80	DjangoCon 2011	Advanced security topics	http://blip.tv/djangocon/advanced-security-topics-5573326
+81	DjangoCon 2011	Teaching Django to Comrades	http://blip.tv/djangocon/teaching-django-to-comrades-5573306
+82	DjangoCon 2011	Advanced Django Form Usage	http://blip.tv/djangocon/advanced-django-form-usage-5573287
+83	DjangoCon 2011	Keynote - Glyph Lefkowitz	http://blip.tv/djangocon/keynote-glyph-lefkowitz-5573264
+84	DjangoCon 2011	Benevolent Designer For Life's Keynote - Designers Make It Go to Eleven	http://blip.tv/djangocon/benevolent-designer-for-life-s-keynote-designers-make-it-go-to-eleven-5572992
+85	DjangoCon 2011	Safely deploying on the cutting edge	http://blip.tv/djangocon/safely-deploying-on-the-cutting-edge-5572937
+86	DjangoCon 2011	Best Practices for Front-End Django Developers	http://blip.tv/djangocon/best-practices-for-front-end-django-developers-5572918
+87	DjangoCon 2011	Why the Django Documentation Sucks	http://blip.tv/djangocon/why-the-django-documentation-sucks-5572891
+88	DjangoCon 2011	Stop Tilting at Windmills - Spotting Bottlenecks	http://blip.tv/djangocon/stop-tilting-at-windmills-spotting-bottlenecks-5572858
+89	DjangoCon 2011	Making the Django ORM Multilingual	http://blip.tv/djangocon/making-the-django-orm-multilingual-5572819
+90	DjangoCon 2011	Building APIs in Django with Tastypie	http://blip.tv/djangocon/building-apis-in-django-with-tastypie-5572790
+91	DjangoCon 2011	A Little South Sanity	http://blip.tv/djangocon/a-little-south-sanity-5572755
+92	DjangoCon 2011	Real world Django deployment using Chef	http://blip.tv/djangocon/real-world-django-deployment-using-chef-5572706
+93	DjangoCon 2011	Django Package Thunderdome: Is Your Package Worthy?	http://blip.tv/djangocon/django-package-thunderdome-is-your-package-worthy-5572659
+94	DjangoCon 2011	RESTful APIs: Promises and Lies	http://blip.tv/djangocon/restful-apis-promises-lies-5572618
+95	DjangoCon 2011	Keynote - Brad Fitzpatrick	http://blip.tv/djangocon/keynote-brad-fitzpatrick-5572560
+96	DjangoCon 2011	Lightning Talks - Tuesday morning	http://blip.tv/djangocon/lightning-talks-tue-pm-5572512
+97	DjangoCon 2011	Fireside Chat with a BDFL	http://blip.tv/djangocon/fireside-chat-with-a-bdfl-5572472
+98	DjangoCon 2011	Secrets of PostgreSQL Performance	http://blip.tv/djangocon/secrets-of-postgresql-performance-5572403
+99	DjangoCon 2011	State of the DSF Keynote	http://blip.tv/djangocon/state-of-the-dsf-keynote-5572334
+100	DjangoCon 2011	Real-Time Django	http://blip.tv/djangocon/real-time-django-5572279
+101	DjangoCon 2011	The story and tech of Read the Docs	http://blip.tv/djangocon/the-story-and-tech-of-read-the-docs-5572247
+102	DjangoCon 2011	Django Hosting Panel	http://blip.tv/djangocon/django-hosting-panel-5572201
+103	DjangoCon 2011	Confessions of Joe Developer	http://blip.tv/djangocon/confessions-of-joe-developer-5572100
+104	DjangoCon 2011	Monkeying Around with Python at New Relic	http://blip.tv/djangocon/monkeying-around-with-python-at-new-relic-5572067
+105	DjangoCon 2011	From Designer to Django'er in Six Weeks: A Story from Solo Founder	http://blip.tv/djangocon/from-designer-to-django-er-in-six-weeks-a-story-from-solo-founder-5571943
+106	DjangoCon 2011	Testing with Lettuce and Splinter	http://blip.tv/djangocon/testing-with-lettuce-and-splinter-5571880
+107	DjangoCon 2011	Keynote - David Eaves	http://blip.tv/djangocon/keynote-david-eaves-5571777
+
+108	Kiwi PyCon 2009	Robert Coup - Monitoring and debugging your live applications	http://blip.tv/file/3866016
+109	Kiwi PyCon 2009	Douglas Bagnall - pyserf - a shortcut for writing C extensions in C	http://blip.tv/file/3865815
+110	Kiwi PyCon 2009	Indy Liu - Building web animation application with Python-Ogre	http://blip.tv/file/3855178
+111	Kiwi PyCon 2009	Douglas Bagnall - Te Tuhi Video Game System	http://blip.tv/file/3853601
+112	Kiwi PyCon 2009	Michael Hudson - How we use Twisted in Launchpad	http://blip.tv/file/3852949
+113	Kiwi PyCon 2009	Stuart Mitchell - Operations research and Optimization in Python using Pulp	http://blip.tv/file/3850517
+114	Kiwi PyCon 2009	Brian Thorne - Computer Vision	http://blip.tv/file/3849902
+115	Kiwi PyCon 2009	Guy Kloss - Python Data Plotting and Visualisation Extravaganza	http://blip.tv/file/3849517
+116	Kiwi PyCon 2009	Tim McNamara - OLPC XO: Python bringing education to the world's poorest children	http://blip.tv/file/3849068
+117	Kiwi PyCon 2009	Volker Kuhlmann - Rapid GUI application development with python	http://blip.tv/file/3843997
+118	Kiwi PyCon 2009	Richard Jones - Tkinter doesn't suck, honest	http://blip.tv/file/3841625
+119	Kiwi PyCon 2009	Roman Joost - Interfacing with GIMP using Python	http://blip.tv/file/2998839
+120	Kiwi PyCon 2009	Grant Paton-Simpson - SOFA Statistics - Developing, packaging, and promoting a Python open source project	http://blip.tv/file/2998674
+121	Kiwi PyCon 2009	Richard Tew - Stackless Python 101	http://blip.tv/file/2998547
+122	Kiwi PyCon 2009	Tim Penhey - Launchpad: The Good, the Bad, and the OMG How Does That Work	http://blip.tv/file/2910081
+123	Kiwi PyCon 2009	Michael Hudson-Doyle - An Introduction to PyPy	http://blip.tv/file/2909885
+124	Kiwi PyCon 2009	Brendan McCane - Introductory programming with Python	http://blip.tv/file/2909578
+125	Kiwi PyCon 2009	Roman Joost - Grok or how Zope3 reinvented itself	http://blip.tv/file/2857954
+126	Kiwi PyCon 2009	Tim Knapp - Getting All Your Web Apps To Wear The Company Brand	http://blip.tv/file/2855434
+127	Kiwi PyCon 2009	Roman Joost - Get started with Zope3	http://blip.tv/file/2854616
+128	Kiwi PyCon 2009	WenChen Hol - coursebuilder: reusable multimodal elearning resource editor	http://blip.tv/file/2854486
+129	Kiwi PyCon 2009	Richard Jones - Making Django awesomer	http://blip.tv/file/2854145
+130	Kiwi PyCon 2009	Robert Coup - /me wants it. Scraping sites to get data.	http://blip.tv/file/2854032
+131	Kiwi PyCon 2009	Joel Burton - A Smart Introduction to Plone	http://blip.tv/file/2838646
+132	Kiwi PyCon 2009	Lightning talks	http://blip.tv/file/2829247
+133	Kiwi PyCon 2009	Richard Clark - The living coder	http://blip.tv/file/2825235
+134	Kiwi PyCon 2009	Michael Dunstan - Testing Demo	http://blip.tv/file/2823942
+135	Kiwi PyCon 2009	Joel Burton - Why Python Web Frameworks are Changing the Web	http://blip.tv/file/2820538
+
+136	PyCon US 2009	PyCon 2009: PyMite: Python-on-a-chip	http://blip.tv/file/2345450
+137	PyCon US 2009	PyCon 2009: Giving back and helping expand the Python community. A roadmap for South America and Africa (#87)	http://blip.tv/file/2104600
+138	PyCon US 2009	PyCon 2009: Django in the Real World (Part 3 of 3)	http://blip.tv/file/2084252
+139	PyCon US 2009	PyCon 2009: Django in the Real World (Part 2 of 3)	http://blip.tv/file/2084174
+140	PyCon US 2009	PyCon 2009: Django in the Real World (Part 1 of 3)	http://blip.tv/file/2083844
+141	PyCon US 2009	PyCon 2009: The State of Django (#76)	http://blip.tv/file/2082403
+142	PyCon US 2009	PyCon 2009: Pylons on Jython (#96)	http://blip.tv/file/2082367
+143	PyCon US 2009	PyCon 2009: Django on Jython (#101)	http://blip.tv/file/2082349
+144	PyCon US 2009	PyCon 2009: Plenary: Intro to Sprinting	http://blip.tv/file/2082162
+145	PyCon US 2009	PyCon 2009: The State of the Python Community: Leading the Python tribe (#118)	http://blip.tv/file/2081575
+146	PyCon US 2009	PyCon 2009: The (lack of) design patterns in Python (#60)	http://blip.tv/file/2081379
+147	PyCon US 2009	PyCon 2009: How I Distribute Python applications on Windows - py2exe and InnoSetup (#108)	http://blip.tv/file/2080263
+148	PyCon US 2009	PyCon 2009: How to Build Applications Linux Distributions will Package (#78)	http://blip.tv/file/2072580
+149	PyCon US 2009	PyCon 2009: Eggs and Buildout Deployment in Python (Part 3 of 3)	http://blip.tv/file/2061724
+150	PyCon US 2009	PyCon 2009: Eggs and Buildout Deployment in Python (Part 2 of 3)	http://blip.tv/file/2061678
+151	PyCon US 2009	PyCon 2009: Eggs and Buildout Deployment in Python (Part 1 of 3)	http://blip.tv/file/2061520
+152	PyCon US 2009	PyCon 2009: An Introduction to Google App Engine (Part 1 of 2)	http://blip.tv/file/2058801
+153	PyCon US 2009	PyCon 2009: An Introduction to Google App Engine (Part 2 of 2)	http://blip.tv/file/2058667
+154	PyCon US 2009	PyCon 2009: Advanced SQLAlchemy (Part 2 of 3)	http://blip.tv/file/2023897
+155	PyCon US 2009	PyCon 2009: Advanced SQLAlchemy (Part 1 of 3)	http://blip.tv/file/2023631
+156	PyCon US 2009	PyCon 2009: Advanced SQLAlchemy (Part 3 of 3)	http://blip.tv/file/2023400
+157	PyCon US 2009	PyCon 2009: Python 401: Some Advanced Topics (Part 3 of 3)	http://blip.tv/file/2023307
+158	PyCon US 2009	PyCon 2009: Python 401: Some Advanced Topics (Part 1 of 3)	http://blip.tv/file/2023288
+159	PyCon US 2009	PyCon 2009: Python 401: Some Advanced Topics (Part 2 of 3)	http://blip.tv/file/2023093
+160	PyCon US 2009	PyCon 2009: Easy Concurrency with Kamaelia (Part 2 of 2)	http://blip.tv/file/2022853
+161	PyCon US 2009	PyCon 2009: Easy Concurrency with Kamaelia (Part 1 of 2)	http://blip.tv/file/2022798
+162	PyCon US 2009	Introduction to Object-Oriented Programming (2 of 3)	http://blip.tv/file/2022629
+163	PyCon US 2009	Introduction to Object-Oriented Programming (3 of 3)	http://blip.tv/file/2022478
+164	PyCon US 2009	Introduction to Object-Oriented Programming (1 of 3)	http://blip.tv/file/2022419
+165	PyCon US 2009	PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 2 of 3)	http://blip.tv/file/2022299
+166	PyCon US 2009	PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 1 of 3)	http://blip.tv/file/2022154
+167	PyCon US 2009	PyCon 2009: Scrape the Web: Strategies for programming websites that don't expect it (Part 3 of 3)	http://blip.tv/file/2022003
+168	PyCon US 2009	Tour of Python Standard Library (3 of 3)	http://blip.tv/file/2021957
+169	PyCon US 2009	A Tour of Python Standard Library (1 of 3)	http://blip.tv/file/2021927
+170	PyCon US 2009	A Tour of Python Standard Library (2 of 3)	http://blip.tv/file/2021792
+171	PyCon US 2009	PyCon 2009: Introduction to TurboGears2 and WSGI (Part 2 of 2)	http://blip.tv/file/2021653
+172	PyCon US 2009	PyCon 2009: Introduction to TurboGears2 and WSGI (Part 1 of 2)	http://blip.tv/file/2021565
+173	PyCon US 2009	PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 1 of 3)	http://blip.tv/file/2002818
+174	PyCon US 2009	PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 3 of 3)	http://blip.tv/file/2002650
+175	PyCon US 2009	PyCon 2009: Building Real-time Network applications for the web with Twisted and Orbited (Part 2 of 3)	http://blip.tv/file/2002541
+176	PyCon US 2009	PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 1 of 2)	http://blip.tv/file/2002294
+177	PyCon US 2009	PyCon 2009: Introduction to Functional Web Testing With Twill and Selenium (Part 2 of 2)	http://blip.tv/file/2002034
+178	PyCon US 2009	PyCon 2009: py.test II - cross-platform and distributed testing (Part 2 of 3)	http://blip.tv/file/2001815
+179	PyCon US 2009	PyCon 2009: py.test II - cross-platform and distributed testing (Part 3 of 3)	http://blip.tv/file/2001558
+180	PyCon US 2009	PyCon 2009: py.test II - cross-platform and distributed testing (Part 1 of 3)	http://blip.tv/file/2001474
+181	PyCon US 2009	PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 1 of 3)	http://blip.tv/file/2001141
+182	PyCon US 2009	PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 2 of 3)	http://blip.tv/file/2000843
+183	PyCon US 2009	PyCon 2009: The Big F'ing Tutorial: Development Using the repoze.bfg Web Framework (Part 3 of 3)	http://blip.tv/file/2000572
+184	PyCon US 2009	PyCon 2009: Internet Programming with Python (Part 2 of 3)	http://blip.tv/file/2000438
+185	PyCon US 2009	PyCon 2009: Internet Programming with Python (Part 1 of 3)	http://blip.tv/file/2000223
+186	PyCon US 2009	PyCon 2009: Internet Programming with Python (Part 3 of 3)	http://blip.tv/file/1999970
+187	PyCon US 2009	PyCon 2009: Hands on with Trac plugins (Part 2 of 2)	http://blip.tv/file/1999952
+188	PyCon US 2009	PyCon 2009: Hands on with Trac plugins (Part 1 of 2)	http://blip.tv/file/1999924
+189	PyCon US 2009	PyCon 2009: Data Storage in Python - An Overview of Options (Part 2 of 3)	http://blip.tv/file/1999765
+190	PyCon US 2009	PyCon 2009: Data Storage in Python - An Overview of Options (Part 1 of 3)	http://blip.tv/file/1999640
+191	PyCon US 2009	PyCon 2009: Data Storage in Python - An Overview of Options (Part 3 of 3)	http://blip.tv/file/1999495
+192	PyCon US 2009	Python 101 (1 of 2)	http://blip.tv/file/1999483
+193	PyCon US 2009	PyCon 2009: Plenary: Morning Lightning Talks (Saturday)	http://blip.tv/file/1957495
+194	PyCon US 2009	Python 101 (2 of 2)	http://blip.tv/file/1999358
+195	PyCon US 2009	PyCon 2009: Python 102 (Part 1 of 3)	http://blip.tv/file/1999205
+196	PyCon US 2009	PyCon 2009: Python 102 (Part 2 of 3)	http://blip.tv/file/1999063
+197	PyCon US 2009	PyCon 2009: Python 102 (Part 3 of 3)	http://blip.tv/file/1998921
+198	PyCon US 2009	PyCon 2009: Introduction to SQLAlchemy (Part 3 of 3)	http://blip.tv/file/1998863
+199	PyCon US 2009	PyCon 2009: Introduction to SQLAlchemy (Part 1 of 3)	http://blip.tv/file/1998818
+200	PyCon US 2009	PyCon 2009: Introduction to SQLAlchemy (Part 2 of 3)	http://blip.tv/file/1998668
+201	PyCon US 2009	PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 1 of 2)	http://blip.tv/file/1998267
+202	PyCon US 2009	PyCon 2009: Python for Teachers (and Teachers of Teachers) (Part 2 of 2)	http://blip.tv/file/1997995
+203	PyCon US 2009	PyCon 2009: Using Twisted Deferreds (Part 2 of 3)	http://blip.tv/file/1997952
+204	PyCon US 2009	PyCon 2009: Using Twisted Deferreds (Part 1 of 3)	http://blip.tv/file/1997418
+205	PyCon US 2009	PyCon 2009: Using Twisted Deferreds (Part 3 of 3)	http://blip.tv/file/1997167
+206	PyCon US 2009	PyCon 2009: Intermediate Turbogears (Part 3 of 3)	http://blip.tv/file/1997153
+207	PyCon US 2009	PyCon 2009: Intermediate Turbogears (Part 2 of 3)	http://blip.tv/file/1997052
+208	PyCon US 2009	PyCon 2009: PyMite lighting talk	http://blip.tv/file/1996853
+209	PyCon US 2009	PyCon 2009: Intermediate Turbogears (Part 1 of 3)	http://blip.tv/file/1996738
+210	PyCon US 2009	PyCon 2009: A Configuration Comparison in Python (#70)	http://blip.tv/file/1996452
+211	PyCon US 2009	PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 1 of 2)	http://blip.tv/file/1996429
+212	PyCon US 2009	PyCon 2009: ToscaWidgets: Test Driven Modular Ajax (Part 2 of 2)	http://blip.tv/file/1996178
+213	PyCon US 2009	PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 1 of 3)	http://blip.tv/file/1996136
+214	PyCon US 2009	PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 3 of 3)	http://blip.tv/file/1995872
+215	PyCon US 2009	PyCon 2009: A Curious Course on Coroutines and Concurrency (Part 2 of 3)	http://blip.tv/file/1995823
+216	PyCon US 2009	PyCon 2009: Faster Python Programs through Optimization (Part 2 of 3)	http://blip.tv/file/1995580
+217	PyCon US 2009	PyCon 2009: Faster Python Programs through Optimization (Part 1 of 3)	http://blip.tv/file/1995441
+218	PyCon US 2009	PyCon 2009: Faster Python Programs through Optimization (Part 3 of 3)	http://blip.tv/file/1995309
+219	PyCon US 2009	PyCon 2009: Application Developing with IronPython (Part 2 of 3)	http://blip.tv/file/1995277
+220	PyCon US 2009	PyCon 2009: Application Developing with IronPython (Part 3 of 3)	http://blip.tv/file/1995113
+221	PyCon US 2009	PyCon 2009: Application Developing with IronPython (Part 1 of 3)	http://blip.tv/file/1995064
+222	PyCon US 2009	PyCon 2009: Plenary: Sprint Intro	http://blip.tv/file/1957750
+223	PyCon US 2009	PyCon 2009: Plenary: Afternoon Lightning Talks	http://blip.tv/file/1957737
+224	PyCon US 2009	PyCon 2009: How AlterWay releases web applications using zc.buildout (#22)	http://blip.tv/file/1957624
+225	PyCon US 2009	PyCon 2009: Designing a web framework: Django's design decisions (#75)	http://blip.tv/file/1957605
+226	PyCon US 2009	PyCon 2009: A better Python for the JVM	http://blip.tv/file/1957587
+228	PyCon US 2009	PyCon 2009: Paver: easy build and deployment automation for Python projects (#13)	http://blip.tv/file/1957465
+229	PyCon US 2009	PyCon 2009: Functional Testing of Desktop Applications (#1)	http://blip.tv/file/1957454
+230	PyCon US 2009	PyCon 2009: A Whirlwind Excursion through Writing a C Extension (#68)	http://blip.tv/file/1957417
+231	PyCon US 2009	PyCon 2009: Behind the scenes of EveryBlock.com (#111)	http://blip.tv/file/1957362
+232	PyCon US 2009	PyCon 2009: PyPy status talk (#72)	http://blip.tv/file/1957282
+233	PyCon US 2009	PyCon 2009: About Python Namespaces (and Code Objects) (#46)	http://blip.tv/file/1957258
+234	PyCon US 2009	PyCon 2009: Keynote: Reddit: Steve Huffman and Alexis Ohanian	http://blip.tv/file/1951296
+1851	PyCon US 2009	Building a Simple Configuration-driven Web Testing Framework With Twill	http://blip.tv/pycon-us-videos-2009-2010-2011/building-a-simple-configuration-driven-web-testing-framework-with-twill-1956926
+
+235	PyCon US 2010	Introduction to Traits	http://blip.tv/file/3633134
+236	PyCon US 2010	Django Deployment Workshop	http://blip.tv/file/3632436
+237	PyCon US 2010	Introduction to unittest (a.k.a. PyUnit) (#96)	http://blip.tv/file/3359645
+238	PyCon US 2010	Modern version control: Mercurial internals (#113)	http://blip.tv/file/3359642
+239	PyCon US 2010	Hg and Git : Can't we all just get along? (#154)	http://blip.tv/file/3359640
+240	PyCon US 2010	Remixing Music Pythonically (#157)	http://blip.tv/file/3359637
+241	PyCon US 2010	Teaching compilers with python (#87)	http://blip.tv/file/3359636
+242	PyCon US 2010	Dealing with unsightly data in the real world. (#156)	http://blip.tv/file/3359635
+243	PyCon US 2010	Rapid multi-purpose testing (#81)	http://blip.tv/file/3359632
+244	PyCon US 2010	Eventlet: Asynchronous I/O with a synchronous interface (#141)	http://blip.tv/file/3359630
+245	PyCon US 2010	Customizing your editor for maximum productivity (#171)	http://blip.tv/file/3359629
+246	PyCon US 2010	PyCon 2010:Advanced SQL Alchemy	http://blip.tv/file/3359624
+247	PyCon US 2010	The Meaty Parts of Python: Closures, Decorators, List Comprehension, and Functional Constructs	http://blip.tv/file/3359543
+248	PyCon US 2010	Creating Rich Client Applications Using Dabo	http://blip.tv/file/3359460
+249	PyCon US 2010	Introduction to Internet Programming	http://blip.tv/file/3359441
+250	PyCon US 2010	Relational Database Applications	http://blip.tv/file/3359427
+251	PyCon US 2010	Implementing Domain Specific Languages In Python	http://blip.tv/file/3359419
+252	PyCon US 2010	Introduction to SQLAlchemy	http://blip.tv/file/3359404
+253	PyCon US 2010	Python 201: How to Solve It Using Python	http://blip.tv/file/3359399
+254	PyCon US 2010	wxPython I: Introduction to GUI Programming	http://blip.tv/file/3359382
+255	PyCon US 2010	Introduction to Django	http://blip.tv/file/3359371
+256	PyCon US 2010	Scrape the Web: Strategies for programming websites that don't expect it	http://blip.tv/file/3359320
+257	PyCon US 2010	Python 102	http://blip.tv/file/3359312
+258	PyCon US 2010	Scaling Python webapps from zero to 50 million users - A top-down approach. (#134)	http://blip.tv/file/3359300
+259	PyCon US 2010	py.test - Rapid Testing with Minimal Effort	http://blip.tv/file/3359299
+260	PyCon US 2010	Sunday Afternoon Lightning Talks	http://blip.tv/file/3332814
+261	PyCon US 2010	Sunday Morning Lightning Talks	http://blip.tv/file/3332810
+262	PyCon US 2010	Keynote: State of Unladen Swallow	http://blip.tv/file/3332804
+263	PyCon US 2010	Keynote: Relentlessly Pursuing Opportunities With Python, or why the AIs will Spare Us All!	http://blip.tv/file/3332807
+264	PyCon US 2010	Persistent Graphs in Python with Neo4j (#140)	http://blip.tv/file/3332786
+265	PyCon US 2010	PLY and PyParsing (#93)	http://blip.tv/file/3332803
+266	PyCon US 2010	Keynote: State of PyPy	http://blip.tv/file/3332796
+267	PyCon US 2010	Keynote: State of CPython	http://blip.tv/file/3332776
+268	PyCon US 2010	Cooperative Multitasking with Twisted: Getting Things Done Concurrently. (#11)	http://blip.tv/file/3332798
+269	PyCon US 2010	Cross platform application development and distribution (#116)	http://blip.tv/file/3332781
+270	PyCon US 2010	Threading is not a model (#187)	http://blip.tv/file/3332793
+271	PyCon US 2010	How Python, TurboGears, and MongoDB are Transforming SourceForge.net (#47)	http://blip.tv/file/3332791
+272	PyCon US 2010	Powering the real-time web with Python: PubSubHubbub on App Engine (#173)	http://blip.tv/file/3332787
+273	PyCon US 2010	Keynote: Cadence, Quality and Design	http://blip.tv/file/3332784
+274	PyCon US 2010	Using Python to Create Robotic Simulations for Planetary Exploration (#159)	http://blip.tv/file/3332780
+275	PyCon US 2010	Powerful Pythonic Patterns (#186)	http://blip.tv/file/3332767
+276	PyCon US 2010	The Mighty Dictionary (#55)	http://blip.tv/file/3332763
+277	PyCon US 2010	VisTrails: A Python-Based Scientific Workflow and Provenance System (#172)	http://blip.tv/file/3332762
+278	PyCon US 2010	How does Enthought distribute packages? (#108)	http://blip.tv/file/3332759
+279	PyCon US 2010	How Are Large Applications Embedding Python? (#6)	http://blip.tv/file/3332756
+280	PyCon US 2010	Python 3: The Next Generation (#48)	http://blip.tv/file/3332751
+281	PyCon US 2010	The Zen of CherryPy (#111)	http://blip.tv/file/3332744
+282	PyCon US 2010	Python for Large Astronomical Data Reduction and Analysis Systems (#107)	http://blip.tv/file/3332739
+283	PyCon US 2010	The state of Packaging (#63)	http://blip.tv/file/3332733
+284	PyCon US 2010	Introduction to Twisted	http://blip.tv/file/3322332
+285	PyCon US 2010	To relate or not to relate, that is the question (#99)	http://blip.tv/file/3322333
+286	PyCon US 2010	Hacking the Social Web with Python	http://blip.tv/file/3322318
+287	PyCon US 2010	Python 101	http://blip.tv/file/3322312
+288	PyCon US 2010	wxPython II: Introduction to GUI Programming and MVC	http://blip.tv/file/3322300
+289	PyCon US 2010	Mastering Python 3 I/O	http://blip.tv/file/3322291
+290	PyCon US 2010	Keynote: Building the Python Community	http://blip.tv/file/3322284
+291	PyCon US 2010	Django in Depth	http://blip.tv/file/3322277
+292	PyCon US 2010	Plenary: Intro to sprints	http://blip.tv/file/3322279
+293	PyCon US 2010	Faster Python Programs Through Optimization	http://blip.tv/file/3322261
+294	PyCon US 2010	Pycon 2010: Analysis: The other kind of testing (#185)	http://blip.tv/file/3321657
+295	PyCon US 2010	Pay only for what you eat: A tour of the Repoze.BFG repository and philosophy (#174)	http://blip.tv/file/3263959
+296	PyCon US 2010	New *and* Improved: Coming changes to unittest, the standard library test framework (#52)	http://blip.tv/file/3263882
+297	PyCon US 2010	Pynie: Python 3 on Parrot (#148)	http://blip.tv/file/3263792
+298	PyCon US 2010	Panel: Form Generator Generators (#28)	http://blip.tv/file/3263735
+299	PyCon US 2010	Optimal Resource Allocation using Python (#36)	http://blip.tv/file/3263574
+300	PyCon US 2010	Dude, Where's My Database? (#133)	http://blip.tv/file/3263488
+301	PyCon US 2010	Creating RESTful Web services with restish (#17)	http://blip.tv/file/3261470
+302	PyCon US 2010	Python Metaprogramming (#64)	http://blip.tv/file/3261354
+303	PyCon US 2010	Evolving Your Framework Under Fire (#150)	http://blip.tv/file/3261349
+304	PyCon US 2010	Designing to Scale: The Story of ShootQ (#5)	http://blip.tv/file/3261344
+305	PyCon US 2010	Python in quantitative finance (#158)	http://blip.tv/file/3261331
+306	PyCon US 2010	Easy command-line applications with cmd and cmd2 (#153)	http://blip.tv/file/3261338
+307	PyCon US 2010	Mastering Team Play: Four powerful examples of composing Python tools (#184)	http://blip.tv/file/3261295
+308	PyCon US 2010	Diversity as a Dependency (#49)	http://blip.tv/file/3261290
+309	PyCon US 2010	Plenary: Saturday Evening Lightning Talks	http://blip.tv/file/3261277
+310	PyCon US 2010	Tests and Testability (#188)	http://blip.tv/file/3261272
+311	PyCon US 2010	How to write cross-interpreter Python programs (#101)	http://blip.tv/file/3261260
+312	PyCon US 2010	Pycon 2010: 508 and You: Taking the Pain out of Accessibility (#119)	http://blip.tv/file/3261238
+313	PyCon US 2010	What every developer should know about database scalability (#21)	http://blip.tv/file/3261223
+314	PyCon US 2010	Debating 'til Dawn: Topics to keep you up all night (#183)	http://blip.tv/file/3261216
+315	PyCon US 2010	Learning Hosting Best-Practices From WebFaction (#57)	http://blip.tv/file/3261193
+316	PyCon US 2010	Unladen Swallow: fewer coconuts, faster Python (#73)	http://blip.tv/file/3261170
+317	PyCon US 2010	Advanced String Formatting (#117)	http://blip.tv/file/3261172
+318	PyCon US 2010	How and why Python is being used to by the Military to model real-world battlefield scenarios (#13)	http://blip.tv/file/3261123
+319	PyCon US 2010	IronPython Tooling (#67)	http://blip.tv/file/3261111
+320	PyCon US 2010	What We've Learned From Building Basie (#85)	http://blip.tv/file/3260995
+321	PyCon US 2010	The Ring of Python (#189)	http://blip.tv/file/3259840
+322	PyCon US 2010	Optimizations And Micro-Optimizations In CPython (#38)	http://blip.tv/file/3259830
+323	PyCon US 2010	Think Globally, Hack Locally - Teaching Python in Your Community (#122)	http://blip.tv/file/3259810
+324	PyCon US 2010	Small acts make great revolutions: crafting Python and Open Source communities in Rio de Janeiro (#78)	http://blip.tv/file/3259805
+325	PyCon US 2010	Turtles All The Way Down: Demystifying Deferreds, Decorators, and Declarations (#169)	http://blip.tv/file/3259798
+326	PyCon US 2010	Why not run all your tests all the time? A study of continuous integration systems (#160)	http://blip.tv/file/3259794
+327	PyCon US 2010	Deconstruction of an Object (#62)	http://blip.tv/file/3259777
+328	PyCon US 2010	An Underwater Python: Tortuga the Python Powered Robot (#175)	http://blip.tv/file/3259744
+329	PyCon US 2010	Extending Java Applications with Jython (#65)	http://blip.tv/file/3259721
+330	PyCon US 2010	Sprox: data driven web development (#137)	http://blip.tv/file/3259714
+331	PyCon US 2010	Internationalizing your Django project (#74)	http://blip.tv/file/3259691
+332	PyCon US 2010	Writing Books using Python and Open Source Software (#40)	http://blip.tv/file/3259663
+333	PyCon US 2010	Demystifying Non-Blocking and Asynchronous I/O (#164)	http://blip.tv/file/3259658
+334	PyCon US 2010	The speed of PyPy (#83)	http://blip.tv/file/3259650
+335	PyCon US 2010	The Python and the Elephant: Large Scale Natural Language Processing with NLTK and Dumbo (#120)	http://blip.tv/file/3259632
+336	PyCon US 2010	Ecommerce in Python: Introduction to Satchmo and GetPaid (#146)	http://blip.tv/file/3259633
+337	PyCon US 2010	How Python is guiding infrastructure construction in Africa (#84)	http://blip.tv/file/3259616
+338	PyCon US 2010	Building Leafy Chat, DjangoDose, and Hurricane, Lessons Learned on the Real-Time Web with Python (#24)	http://blip.tv/file/3259593
+339	PyCon US 2010	Simple WSGI composition: story of one refactoring (#51)	http://blip.tv/file/3259574
+340	PyCon US 2010	Python in the Browser (#71)	http://blip.tv/file/3259502
+341	PyCon US 2010	Import this, that, and the other thing: custom importers (#9)	http://blip.tv/file/3259501
+342	PyCon US 2010	Distributed Programming with Pyro (#7)	http://blip.tv/file/3259480
+343	PyCon US 2010	TurboGears Geospatial Framework (#19)	http://blip.tv/file/3259471
+344	PyCon US 2010	Revisioned Databases for MultiUser Editing (#86)	http://blip.tv/file/3258101
+345	PyCon US 2010	Managing the world's oldest Django project (#80)	http://blip.tv/file/3257645
+346	PyCon US 2010	Supercharging Web Communications: Integrating Python-based Apps with Salesforce.com CRM (#152)	http://blip.tv/file/3257508
+347	PyCon US 2010	Interfaces, Adapters and Factories (#181)	http://blip.tv/file/3257477
+348	PyCon US 2010	Seattle: A Python-based Platform for Easy Development and Deployment of Networked Systems and Applications (#162)	http://blip.tv/file/3257337
+349	PyCon US 2010	Scaling your Python application on EC2 (#191)	http://blip.tv/file/3257303
+350	PyCon US 2010	Decorators From Basics to Class Decorators to Decorator Libraries (#138)	http://blip.tv/file/3257278
+351	PyCon US 2010	Python's Dusty Corners (#182)	http://blip.tv/file/3257275
+352	PyCon US 2010	Actors: What, Why, and How (#161)	http://blip.tv/file/3255090
+353	PyCon US 2010	Understanding the Python GIL (#82)	http://blip.tv/file/3254256
+354	PyCon US 2010	Plenary: Friday Evening Lightning Talks	http://blip.tv/file/3245057
+
+355	PyCon US 2011	PSF funds PyPy	http://blip.tv/file/4933328
+356	PyCon US 2011	Python.MiroCommunity.org + UniversalSubtitles.org	http://blip.tv/file/4886547
+357	PyCon US 2011	Sunday Afternoon Lightning Talks	http://blip.tv/file/4885747
+358	PyCon US 2011	Saturday Afternoon Lightning Talks	http://blip.tv/file/4884781
+359	PyCon US 2011	Saturday Morning Lightning Talks	http://blip.tv/file/4884752
+360	PyCon US 2011	Friday Afternoon Lightning Talks	http://blip.tv/file/4884733
+361	PyCon US 2011	Montreal-Python -- Lessons Learned from Bootstraping a Python Community	http://blip.tv/file/4883527
+362	PyCon US 2011	Python IDEs Panel	http://blip.tv/file/4883406
+363	PyCon US 2011	Linguistics of Twitter	http://blip.tv/file/4883374
+364	PyCon US 2011	Status of Unicode in Python 3	http://blip.tv/file/4883349
+365	PyCon US 2011	HTSQL - an insanely good WSGI / REST interface to your favorite database	http://blip.tv/file/4883320
+366	PyCon US 2011	API Design: Lessons Learned	http://blip.tv/file/4883290
+367	PyCon US 2011	Fun with Python's Newer Tools	http://blip.tv/file/4883247
+368	PyCon US 2011	Writing Command-Line Tools using IronPython and Visual Studios	http://blip.tv/file/4883215
+369	PyCon US 2011	Greasing the Wheels of Exploration with Python	http://blip.tv/file/4883198
+370	PyCon US 2011	Hidden Treasures in the Standard Library	http://blip.tv/file/4883162
+371	PyCon US 2011	Hookbox: All Python web-frameworks, now real-time. Batteries Included.	http://blip.tv/file/4883145
+372	PyCon US 2011	Python - The Secret Sauce in the Open Cloud	http://blip.tv/file/4883120
+373	PyCon US 2011	Testing the Mobile (and Desktop) Web with Selenium 2.0 - Better, Faster, and more Pythonicly	http://blip.tv/file/4883103
+374	PyCon US 2011	Diversity in Tech: Improving our Toolset	http://blip.tv/file/4883080
+375	PyCon US 2011	Python 3: the next generation is here already	http://blip.tv/file/4883045
+376	PyCon US 2011	Firefox Sync	http://blip.tv/file/4883037
+377	PyCon US 2011	Using Coroutines to Create Efficient, High-Concurrency Web Applications	http://blip.tv/file/4883016
+378	PyCon US 2011	How to sell Python	http://blip.tv/file/4882990
+379	PyCon US 2011	Pluggable Django Patterns	http://blip.tv/file/4882961
+380	PyCon US 2011	Optimal Aircraft Engine Tuner Selection in Python	http://blip.tv/file/4882941
+381	PyCon US 2011	Algorithmic Generation of OpenGL Geometry	http://blip.tv/file/4882916
+382	PyCon US 2011	SOLVCON: A New Python-Based Software Framework for Massively Parallelized Numerical Simulations	http://blip.tv/file/4882902
+383	PyCon US 2011	Javascript for people who know Python	http://blip.tv/file/4882883
+384	PyCon US 2011	Everything You Wanted To Know About Pickling, But Were Afraid To Ask!	http://blip.tv/file/4882867
+385	PyCon US 2011	Going Full Python - Threadless	http://blip.tv/file/4882852
+386	PyCon US 2011	Running Django Apps on Google App Engine	http://blip.tv/file/4881543
+387	PyCon US 2011	The Pyramid FAQ	http://blip.tv/file/4881537
+388	PyCon US 2011	Jython Concurrency	http://blip.tv/file/4881528
+389	PyCon US 2011	Reverse-engineering Ian Bicking's brain: inside pip and virtualenv	http://blip.tv/file/4881525
+390	PyCon US 2011	Django: Pitfalls I Encountered and How to Avoid Them	http://blip.tv/file/4881521
+391	PyCon US 2011	Best Practices for Impossible Deadlines	http://blip.tv/file/4881519
+392	PyCon US 2011	Testing with mock	http://blip.tv/file/4881513
+393	PyCon US 2011	An Open success for the cloud: OpenStack	http://blip.tv/file/4881507
+394	PyCon US 2011	Python for High Performance Computing	http://blip.tv/file/4881240
+395	PyCon US 2011	Useful Namespaces: Context Managers and Decorators	http://blip.tv/file/4881235
+396	PyCon US 2011	An outsider's look at co-routines.	http://blip.tv/file/4881229
+397	PyCon US 2011	Scaling Python past 100	http://blip.tv/file/4881226
+398	PyCon US 2011	How to write obfuscated python	http://blip.tv/file/4881220
+399	PyCon US 2011	MongoDB + Pylons at Catch.com: Scalable Web Apps with Python and NoSQL	http://blip.tv/file/4881217
+400	PyCon US 2011	Large Scale Data Conditioning &amp; Processing with Stackless Python and Pypes	http://blip.tv/file/4881214
+401	PyCon US 2011	Exhibition of Atrocity	http://blip.tv/file/4881168
+402	PyCon US 2011	Handling ridiculous amounts of data with probabilistic data structures	http://blip.tv/file/4881076
+403	PyCon US 2011	Writing great documentation	http://blip.tv/file/4881071
+404	PyCon US 2011	mrjob: Distributed Computing for Everyone	http://blip.tv/file/4881016
+405	PyCon US 2011	Swarming the Web: Evolving the Perfect Config File	http://blip.tv/file/4881010
+406	PyCon US 2011	The Python That Wasn't	http://blip.tv/file/4881006
+407	PyCon US 2011	Continuous deployment	http://blip.tv/file/4881000
+408	PyCon US 2011	Getting the job: the do's and don'ts of landing a Python job	http://blip.tv/file/4880996
+409	PyCon US 2011	Packaging, from Distutils to Distutils2	http://blip.tv/file/4880990
+410	PyCon US 2011	Ten Years of Twisted	http://blip.tv/file/4880941
+411	PyCon US 2011	Using Blender's new BPY Python API	http://blip.tv/file/4880934
+412	PyCon US 2011	TUF: Secure Software Updates in Python	http://blip.tv/file/4880802
+413	PyCon US 2011	Python and Robots: Teaching Programming in High School	http://blip.tv/file/4880794
+414	PyCon US 2011	Rapid Python used on Big Data to Discover Human Genetic Variation	http://blip.tv/file/4880720
+415	PyCon US 2011	Get new contributors (and diversity) through outreach	http://blip.tv/file/4880711
+416	PyCon US 2011	An Introduction to Tornado	http://blip.tv/file/4880705
+417	PyCon US 2011	Statistical machine learning for text classification with scikit-learn	http://blip.tv/file/4880389
+418	PyCon US 2011	Disqus: Serving 400 million people with Python	http://blip.tv/file/4880330
+419	PyCon US 2011	What would you do with an ast?	http://blip.tv/file/4880291
+420	PyCon US 2011	The Data Structures of Python	http://blip.tv/file/4880187
+421	PyCon US 2011	Panel: Python VMs	http://blip.tv/file/4880068
+422	PyCon US 2011	Units Need Testing Too	http://blip.tv/file/4879997
+423	PyCon US 2011	Through the Side Channel: Timing and Implementation Attacks in Python	http://blip.tv/file/4879979
+424	PyCon US 2011	Backup Is Hard; Let's Go Shopping	http://blip.tv/file/4879866
+425	PyCon US 2011	How to kill a patent with Python	http://blip.tv/file/4879824
+426	PyCon US 2011	Deploying Applications with zc.buildout	http://blip.tv/file/4879794
+427	PyCon US 2011	Why is Python slow and how PyPy can help?	http://blip.tv/file/4879780
+428	PyCon US 2011	Genetic Programming in Python	http://blip.tv/file/4879765
+429	PyCon US 2011	CouchDB and Python in practice	http://blip.tv/file/4879409
+430	PyCon US 2011	ZODB: A Python Persistence System	http://blip.tv/file/4879397
+431	PyCon US 2011	Dependency management with Puppet	http://blip.tv/file/4879368
+432	PyCon US 2011	The Development of Python and You	http://blip.tv/file/4879352
+433	PyCon US 2011	web2py secrets tutorial (1/2)	http://blip.tv/file/4879126
+434	PyCon US 2011	An (biased) survey of the python web	http://blip.tv/file/4879238
+435	PyCon US 2011	Supporting All Versions of Python All The Time With Tox	http://blip.tv/file/4879179
+436	PyCon US 2011	Introduction to Parallel Computing on an NVIDIA GPU using PyCUDA	http://blip.tv/file/4879164
+437	PyCon US 2011	Panel: Python in Schools: Teaching It and Teaching With It.	http://blip.tv/file/4879118
+438	PyCon US 2011	Prototyping Go's Select with stackless.py for Stackless Python	http://blip.tv/file/4879050
+439	PyCon US 2011	HTTP in Python: which library for what task?	http://blip.tv/file/4878918
+440	PyCon US 2011	Opening the Flask	http://blip.tv/file/4878916
+441	PyCon US 2011	Documentation Driven Development	http://blip.tv/file/4878896
+442	PyCon US 2011	Advanced Network Architectures With ZeroMQ	http://blip.tv/file/4878885
+443	PyCon US 2011	Using Python 3 to Build a Cloud Computing Service for my Superboard II	http://blip.tv/file/4878868
+444	PyCon US 2011	Serious Business: Python is not just for Engineering	http://blip.tv/file/4878796
+445	PyCon US 2011	API Design anti-patterns	http://blip.tv/file/4878793
+446	PyCon US 2011	State of Pylons/TurboGears 2/repoze.bfg	http://blip.tv/file/4878787
+447	PyCon US 2011	Python-Aware Python	http://blip.tv/file/4878776
+448	PyCon US 2011	Django Packages: A Case Study	http://blip.tv/file/4878766
+449	PyCon US 2011	Extreme Network Programming with Python and Linux	http://blip.tv/file/4878761
+450	PyCon US 2011	Supercomputer and Cluster Application Performance Analysis using Python	http://blip.tv/file/4878753
+451	PyCon US 2011	"Dude, Where's My RAM?" - A deep dive into how Python uses memory	http://blip.tv/file/4878749
+452	PyCon US 2011	Distributed Tasks with Celery	http://blip.tv/file/4878746
+453	PyCon US 2011	Python Software Foundation Chairman Address	http://blip.tv/file/4877606
+
+454	PyCon AU 2010	PyConAU 2010: State Of Python	http://blip.tv/file/3883287
+455	PyCon AU 2010	PyConAU 2010: Lightning talks - Sunday	http://blip.tv/file/3844230
+456	PyCon AU 2010	PyConAU 2010: Introducing Python to a Java shop	http://blip.tv/file/3841729
+457	PyCon AU 2010	PyConAU 2010: An Introduction to Processing	http://blip.tv/file/3841641
+458	PyCon AU 2010	PyConAU 2010: App Engine 101	http://blip.tv/file/3841529
+459	PyCon AU 2010	PyConAU 2010: Building the Wave Robots API: Behind the Scenes	http://blip.tv/file/3841401
+460	PyCon AU 2010	PyConAU 2010: Multiple, Heterogeneous Models in Pylons	http://blip.tv/file/3841295
+461	PyCon AU 2010	PyConAU 2010: Don't Break It: Continuous Integration &amp; Deployment	http://blip.tv/file/3841168
+462	PyCon AU 2010	PyConAU 2010: Plone for Python Developers	http://blip.tv/file/3841055
+463	PyCon AU 2010	PyConAU 2010: Using Python in a scientific real-time data collection network	http://blip.tv/file/3840888
+464	PyCon AU 2010	PyConAU 2010: Virtualisation Used in Development	http://blip.tv/file/3840816
+465	PyCon AU 2010	PyConAU 2010: What's new in Django 1.2	http://blip.tv/file/3840744
+466	PyCon AU 2010	PyConAU 2010: Using Python for Natural Language Generation and Analysis	http://blip.tv/file/3840680
+467	PyCon AU 2010	PyConAU 2010: Python in Video Games and Multimedia Projects	http://blip.tv/file/3840595
+468	PyCon AU 2010	PyConAU 2010: Getting started with Apache/mod_wsgi	http://blip.tv/file/3840484
+469	PyCon AU 2010	PyConAU 2010: whoops I deployed again - new ways to get your app in the cloud	http://blip.tv/file/3840281
+470	PyCon AU 2010	PyConAU 2010: Esky: keep your frozen apps fresh	http://blip.tv/file/3840197
+471	PyCon AU 2010	PyConAU 2010: Lightning talks - Saturday	http://blip.tv/file/3840106
+472	PyCon AU 2010	PyConAU 2010: GLAMkit: a harder, better, faster, stronger way to write reusable Django code	http://blip.tv/file/3838580
+473	PyCon AU 2010	PyConAU 2010: Keynote: Nick Hodge; &quot;IronPython &amp; The Quest for the Holy Grail&quot;	http://blip.tv/file/3838487
+474	PyCon AU 2010	PyConAU 2010: Making your Python code fast	http://blip.tv/file/3838190
+475	PyCon AU 2010	PyConAU 2010: Need for Speed	http://blip.tv/file/3838094
+476	PyCon AU 2010	PyConAU 2010: Python Goes to the Movies	http://blip.tv/file/3838003
+477	PyCon AU 2010	PyConAU 2010: Displaying Australian datasets with Django	http://blip.tv/file/3837937
+478	PyCon AU 2010	PyConAU 2010: What's eating my memory?	http://blip.tv/file/3837794
+479	PyCon AU 2010	PyConAU 2010: Fast Engineering Computation in with Boost::Python and Numarray	http://blip.tv/file/3837759
+480	PyCon AU 2010	PyConAU 2010: The future is soon!	http://blip.tv/file/3837706
+481	PyCon AU 2010	PyConAU 2010: Hard Real-time Python, or, Giant Robots of Doom	http://blip.tv/file/3837633
+482	PyCon AU 2010	PyConAU 2010: Genropy - a framework for creating complex applications deployed on the web	http://blip.tv/file/3837476
+483	PyCon AU 2010	PyConAU 2010: Keynote: Mark Pesce; &quot;How Not To Be Seen&quot;	http://blip.tv/file/3815110
+
+484	PyGotham 2011	PyGotham 2011: Machine Learning for Web Developers	http://blip.tv/pygotham/machine-learning-for-web-developers-5586518
+485	PyGotham 2011	PyGotham 2011: Tmux + IPython = Awesome	http://blip.tv/pygotham/tmux-ipython-awesome-5586324
+486	PyGotham 2011	PyGotham 2011: Building scalable websites and API's with Brubeck	http://blip.tv/pygotham/building-scalable-websites-and-api-s-with-brubeck-5585762
+487	PyGotham 2011	PyGotham 2011: Powerful Pythonic data analysis using pandas	http://blip.tv/pygotham/powerful-pythonic-data-analysis-using-pandas-5585546
+488	PyGotham 2011	PyGotham 2011: Go Go Gadget Python	http://blip.tv/pygotham/go-go-gadget-python-5585288
+489	PyGotham 2011	PyGotham 2011: BOSC: Blender Open Sound Control	http://blip.tv/pygotham/bosc-blender-open-sound-control-5585177
+490	PyGotham 2011	PyGotham 2011: Real-time Web: Gevent and Socket.io	http://blip.tv/pygotham/real-time-web-gevent-and-socket-io-5585122
+491	PyGotham 2011	PyGotham 2011: STEM coming to a stop near you	http://blip.tv/pygotham/stem-coming-to-a-stop-near-you-5584925
+492	PyGotham 2011	PyGotham 2011: A Practical Guide to Non-blocking IO, Coroutines, and Concurrency	http://blip.tv/pygotham/a-practical-guide-to-non-blocking-io-coroutines-and-concurrency-5584489
+493	PyGotham 2011	PyGotham 2011: Markov in Python	http://blip.tv/pygotham/markov-in-python-5584211
+494	PyGotham 2011	PyGotham 2011: Intro to Data Visualization	http://blip.tv/pygotham/intro-to-data-visualization-5584155
+495	PyGotham 2011	PyGotham 2011: OpenBlock: hyperlocal django	http://blip.tv/pygotham/openblock-hyperlocal-django-5584089
+496	PyGotham 2011	PyGotham 2011: Boosting the numbers: Python for Women and Doing Distributed Organizing of Workshops	http://blip.tv/pygotham/boosting-the-numbers-python-for-women-and-doing-distributed-organizing-of-workshops-5584022
+497	PyGotham 2011	PyGotham 2011: Rapid and Scalable Development with MongoDB, PyMongo, and Ming	http://blip.tv/pygotham/rapid-and-scalable-development-with-mongodb-pymongo-and-ming-5584000
+498	PyGotham 2011	PyGotham 2011: Art, Cultural Concern, and Computer Code	http://blip.tv/pygotham/art-cultural-concern-and-computer-code-5583784
+499	PyGotham 2011	PyGotham 2011: SQLAlchemy, an Architectural Retrospective	http://blip.tv/pygotham/sqlalchemy-an-architectural-retrospective-5583765
+500	PyGotham 2011	PyGotham 2011: Plover: Thought to Text at 240 WPM	http://blip.tv/pygotham/plover-thought-to-text-at-240-wpm-5582245
+
+501	PyOhio 2010	PyOhio 2010: Lightning Talks	http://blip.tv/file/4066945
+502	PyOhio 2010	PyOhio 2010: Python and Entrepreneurship	http://blip.tv/file/3988324
+503	PyOhio 2010	PyOhio 2010: PyPy and Unladen Swallow: Making your Python Fast	http://blip.tv/file/3988284
+504	PyOhio 2010	PyOhio 2010: Processing Large Datasets with Hadoop and Python	http://blip.tv/file/3988260
+505	PyOhio 2010	PyOhio 2010: Building your own kind of dictionary	http://blip.tv/file/3988224
+506	PyOhio 2010	PyOhio 2010: Making it go faster	http://blip.tv/file/3988199
+507	PyOhio 2010	PyOhio 2010: Lap Around IronPython	http://blip.tv/file/3988168
+508	PyOhio 2010	PyOhio 2010: Code With Style	http://blip.tv/file/3988141
+509	PyOhio 2010	PyOhio 2010: Controlling UNIX Processes using Supervisor	http://blip.tv/file/3988115
+510	PyOhio 2010	PyOhio 2010: Splunking With Python	http://blip.tv/file/3988091
+511	PyOhio 2010	PyOhio 2010: So You Just Took "Python 101" -- What's Next?	http://blip.tv/file/3988075
+512	PyOhio 2010	PyOhio 2010: Python 101 for the .NET Developer	http://blip.tv/file/3987351
+513	PyOhio 2010	PyOhio 2010: Teach Me Python Bugfixing	http://blip.tv/file/3987331
+514	PyOhio 2010	PyOhio 2010: Log Analysis with Python	http://blip.tv/file/3987314
+515	PyOhio 2010	PyOhio 2010: Implementation of a Numerical Simulation in Python	http://blip.tv/file/3987284
+516	PyOhio 2010	PyOhio 2010: Project Management 101	http://blip.tv/file/3987260
+517	PyOhio 2010	PyOhio 2010: Wrangling the bits, standardizing how apps get built	http://blip.tv/file/3987238
+518	PyOhio 2010	PyOhio 2010: GUI Tools	http://blip.tv/file/3987209
+519	PyOhio 2010	PyOhio 2010: Getting to know MongoDB using Python and IronPython	http://blip.tv/file/3987173
+520	PyOhio 2010	PyOhio 2010: Genetic Programming in Python	http://blip.tv/file/3987138
+
+521	PyOhio 2011	PyOhio 2011: Procedures, Objects, Reusability: &quot;httplib&quot;, &quot;urllib2&quot;, and Their Discontents	http://blip.tv/pyohio/procedures-objects-reusability-httplib-urllib2-and-their-discontents-5461412
+522	PyOhio 2011	PyOhio 2011: Sunday Lightning Talks	http://blip.tv/file/5425988
+523	PyOhio 2011	PyOhio 2011: Saturday Lightning Talks	http://blip.tv/file/5425399
+524	PyOhio 2011	PyOhio 2011: Squinting at Python Objects	http://blip.tv/file/5425368
+525	PyOhio 2011	PyOhio 2011: SqlAlchemy tutorial	http://blip.tv/file/5424982
+526	PyOhio 2011	PyOhio 2011: Multi-player Games using Panda3D and Python	http://blip.tv/pyohio/multi-player-games-using-panda3d-and-python-5441612
+527	PyOhio 2011	PyOhio 2011: Python 101	http://blip.tv/file/5424208
+528	PyOhio 2011	PyOhio 2011: Python 102	http://blip.tv/file/5421219
+529	PyOhio 2011	PyOhio 2011: Creating Web APIs that are a joy to use	http://blip.tv/file/5422363
+530	PyOhio 2011	PyOhio 2011: Python, Parsing and You	http://blip.tv/file/5422317
+531	PyOhio 2011	PyOhio 2011: Consuming Web APIs with Python	http://blip.tv/file/5422269
+532	PyOhio 2011	PyOhio 2011: Soft Skillz: They aren't just for humans anymore	http://blip.tv/file/5421575
+533	PyOhio 2011	PyOhio 2011: Exchange Digital Money using Bitcoin	http://blip.tv/file/5421510
+534	PyOhio 2011	PyOhio 2011: HTSQL is a WSGI reporting toolkit for Relational Databases	http://blip.tv/file/5421460
+535	PyOhio 2011	PyOhio 2011: Python and Entrepreneurship	http://blip.tv/file/5421402
+536	PyOhio 2011	PyOhio 2011: Commercial GUI Development with Python &amp; PySide	http://blip.tv/file/5421349
+537	PyOhio 2011	PyOhio 2011: Evolving an internal web service	http://blip.tv/file/5421301
+539	PyOhio 2011	PyOhio 2011: Using pymc to cluster twitter users -- a noob's perspective	http://blip.tv/file/5420860
+540	PyOhio 2011	PyOhio 2011: Bringing Modern Python to the Atari	http://blip.tv/file/5420799
+541	PyOhio 2011	PyOhio 2011: Interactive command-line interpreters with cmd and cmd2	http://blip.tv/file/5420743
+542	PyOhio 2011	PyOhio 2011: Names, Objects, and Plummeting From The Cliff	http://blip.tv/file/5420690
+543	PyOhio 2011	PyOhio 2011: Django and Google App Engine: Why I'm using Flask and Amazon EC2	http://blip.tv/file/5420296
+544	PyOhio 2011	PyOhio 2011: PHP to Python with No Regrets	http://blip.tv/file/5420220
+545	PyOhio 2011	PyOhio 2011: Toilets and Teleports - A study in Model-View-Control (MVC)	http://blip.tv/file/5420147
+546	PyOhio 2011	PyOhio 2011: Data-Transfer Objects Are a Disease. Meet the Cure.	http://blip.tv/file/5419876
+547	PyOhio 2011	PyOhio 2011: Using Fabric - from a sysadmin's perspective	http://blip.tv/file/5419406
+548	PyOhio 2011	PyOhio 2011: Aspen: A Next-generation Web Framework	http://blip.tv/file/5419329
+
+549	PyTexas 2011	About Python Namespaces (and Code Objects)	http://blip.tv/episode/5594214
+550	PyTexas 2011	The Magic of Metaprogramming	http://blip.tv/episode/5593792
+551	PyTexas 2011	Programming a Simple Game in Python	http://blip.tv/episode/5593545
+552	PyTexas 2011	Packaging	http://blip.tv/episode/5593695
+553	PyTexas 2011	virtualenv, pip, and virtualenvwrapper	http://blip.tv/episode/5593443
+554	PyTexas 2011	Simplify your (Python) Life	http://blip.tv/episode/5592640
+555	PyTexas 2011	Custom Decorators for Authentication and Authorization	http://blip.tv/episode/5592696
+556	PyTexas 2011	Cassandra for Python Developers	http://blip.tv/episode/5592784
+557	PyTexas 2011	Lightning Talks	http://blip.tv/episode/5593145
+558	PyTexas 2011	Daemon Slaying! Or, Unix Daemons in Python for fun and profit!	http://blip.tv/episode/5592905
+559	PyTexas 2011	Getting Started with PyMongo	http://blip.tv/episode/5593004
+560	PyTexas 2011	Logging De-Mystified! Basics to Advanced!	http://blip.tv/episode/5593222
+561	PyTexas 2011	Asynchronous Web Development with Tornado	http://blip.tv/episode/5593323
+562	PyTexas 2011	Using Message Queues for Distributed Processing	http://blip.tv/episode/5593385
+
+563	ChiPy	Playdoh	http://blip.tv/file/5361431
+564	ChiPy	Using OpenCV with Python and ROS	http://blip.tv/file/5246702
+565	ChiPy	GNU MediaGoblin for a federated media future	http://blip.tv/file/5246642
+567	ChiPy	Python/Django deployment	http://blip.tv/file/4754795
+568	ChiPy	Reverse-engineering Ian Bicking's brain: inside pip and virtualenv.	http://blip.tv/file/4754727
+569	ChiPy	Vintage 1978 Superboard II hacking with some Python3 and ZeroMQ	http://blip.tv/file/4639616
+570	ChiPy	Django Deployment for the Average Bloke	http://blip.tv/file/4639366
+571	ChiPy	ROS - Robot Operating System	http://blip.tv/file/4639302
+572	ChiPy	Tox	http://blip.tv/file/4372319
+573	ChiPy	PyPy and Unladen Swallow: Making your Python Fast	http://blip.tv/file/3871726
+574	ChiPy	Programming with Twisted	http://blip.tv/file/3871547
+575	ChiPy	Using Python for Blender Animations	http://blip.tv/file/3744569
+576	ChiPy	Customizing the Django Admin	http://blip.tv/file/3744452
+577	ChiPy	What's coming up in Python 2.7	http://blip.tv/carlfk/what-s-coming-up-in-2-7-3570371
+578	ChiPy	Twiggy: A Pythonic Logger	http://blip.tv/file/3551150
+579	ChiPy	GitPython and Git Internals	http://blip.tv/file/3107979
+580	ChiPy	Changes to the GIL in Python 3	http://blip.tv/file/3107867
+581	ChiPy	Technical, standards-spec style analysis of Unicode	http://blip.tv/file/3107101
+582	ChiPy	REST-ful Web apps with Django Piston	http://blip.tv/file/2964989
+583	ChiPy	Python for Scientific and High Performance Computing (4 of 4)	http://blip.tv/file/2845400
+584	ChiPy	Python for Scientific and High Performance Computing (3 of 4)	http://blip.tv/file/2845210
+585	ChiPy	Python for Scientific and High Performance Computing (2 of 4)	http://blip.tv/file/2844521
+586	ChiPy	Python for Scientific and High Performance Computing (1 of 4)	http://blip.tv/file/2844247
+587	ChiPy	Blender 2.5 loves Python 3	http://blip.tv/file/2785963
+588	ChiPy	Mindblowing Python GIL	http://blip.tv/file/2232410
+589	ChiPy	Asynchronous vs. Threaded Python	http://blip.tv/file/2232349
+590	ChiPy	Web Apps with Jython	http://blip.tv/file/2116007
+
+593	Python Atlanta	PyAtl Oct 2009: "Gearman and Python" by Chris Heisel	http://blip.tv/file/2806533
+594	Python Atlanta	PyAtl Oct 2009: "Django at the Atlanta-Journal Constitution" by Zellyn Hunter	http://blip.tv/file/2805912
+595	Python Atlanta	PyAtl Oct 2009: "Adding Excel-based Import and Export to Django" by Keyton Weissinger	http://blip.tv/file/2794179
+596	Python Atlanta	PyAtl July 2009: Skylar Saveland talks about Pinax	http://blip.tv/file/2391457
+597	Python Atlanta	PyAtl June 2009: Brandon Rhodes talks about TurboGears 2, Plone, and contentmirror	http://blip.tv/file/2239406
+598	Python Atlanta	PyAtl June 2009: Rick Tomas talks about Google Wave	http://blip.tv/file/2238118
+599	Python Atlanta	PyAtl June 2009: Sim Harbert talks about Python Scripting on the Android	http://blip.tv/file/2235811
+600	Python Atlanta	PyAtl June 2009: Nuts & Bolts, including ctypes, by Brandon Rhodes	http://blip.tv/file/2235275
+601	Python Atlanta	PyAtl May 2009: Testing and Test Coverage with Nose, with Alfredo Deza	http://blip.tv/file/2225152
+602	Python Atlanta	PyAtl May 2009: Brandon Rhodes gives an introduction to videoing and PyCon	http://blip.tv/file/2221463
