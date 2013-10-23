@@ -17,6 +17,7 @@ except ImportError:
 
 
 TERM = blessings.Terminal()
+POSSIBLE_ENDINGS = ('.mp4', '.ogv', '.flv')
 TSV = 'blip_videos.tsv'
 
 
@@ -75,7 +76,7 @@ def download_video(url, fn):
 
     rss_content = resp.content
 
-    for ending in ('.mp4', '.ogv', '.flv'):
+    for ending in POSSIBLE_ENDINGS:
         regex = r'"http://blip.tv[^"]+?' + ending + '"'
 
         download_m = re.search(regex, rss_content)
@@ -110,7 +111,7 @@ def download_video(url, fn):
                                         int(tic_chunk / (time.time() - tic) / 1000))
                                     sys.stdout.write(line + TERM.clear_eol)
                                     sys.stdout.flush()
-                                tic_chunk = total_downloaded
+                                tic_chunk = 0
                                 tic = time.time()
                     print ''
 
@@ -127,7 +128,7 @@ def download_video(url, fn):
 
 
 def get_existing_file_ids():
-    files = [fn for fn in os.listdir('.') if fn.endswith(('.mp4', '.ogv'))]
+    files = [fn for fn in os.listdir('.') if fn.endswith(POSSIBLE_ENDINGS)]
     return [fn.split('_')[0] for fn in files]
 
 
