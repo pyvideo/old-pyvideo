@@ -164,6 +164,13 @@ def download_videos(data, category):
     """Downloads all the videos in data[category]"""
     # file_ids = get_existing_file_ids()
 
+    # Sorry: This is gross.
+    directory = os.path.abspath('./' + slugify(category))
+    if not os.path.exists(directory):
+        os.mkdir(directory)
+
+    print 'Saving files to {0}'.format(directory)
+
     start_time = time.time()
     failed_videos = []
 
@@ -177,7 +184,7 @@ def download_videos(data, category):
 
         fn = '{0}_{1}'.format(line[0], slugify(line[2]))
         try:
-            download_video(line[3], fn)
+            download_video(line[3], os.path.join(directory, fn))
         except NoDownloadMeNoLikeyException:
             failed_videos.append(line)
 
