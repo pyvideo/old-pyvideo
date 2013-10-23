@@ -54,13 +54,26 @@ def slugify(text):
     return text
 
 
+def file_size(fn):
+    return os.stat(fn).st_size
+
+
 def format_downloaded(sofar, total):
     return '{0:.2f}m ({1:0.2f}%)'.format(
         sofar / 1000000.0, sofar * 1.0 / total * 100)
 
 
+class NoDownloadMeNoLikeyException(Exception):
+    pass
+
+
 def download_video(url, fn):
-    """Downloads a video at or near url to filename"""
+    """Downloads a video at or near url to filename
+
+    Throws NoDownloadMeNoLikeyException if it is unable to
+    successfully download a media file.
+
+    """
     # Sorry: This is terrible code, but I'm kind of throwing it
     # together as I discover more about it.
     print '   Downloading {0} to {1}'.format(url, fn)
@@ -92,6 +105,11 @@ def download_video(url, fn):
             print '      Downloading {0}'.format(download_url)
             if resp.status_code == 200:
                 total_length = int(resp.headers['content-length'])
+
+                if os.path.exists(fn + ending) and file_size(fn + ending) == total_length:
+                    print '   Already downloaded.'
+                    return
+
                 with open(fn + ending, 'w') as fp:
                     total_downloaded = 0
 
@@ -125,6 +143,7 @@ def download_video(url, fn):
             print '   CONNECTIONERROR! GAH! SPUTTER! {0}'.format(exc)
 
     print '   SO MANY FAILURES!'
+    raise NoDownloadMeNoLikeyException()
 
 
 def get_existing_file_ids():
@@ -134,18 +153,28 @@ def get_existing_file_ids():
 
 def download_videos(data, category):
     """Downloads all the videos in data[category]"""
-    file_ids = get_existing_file_ids()
+    # file_ids = get_existing_file_ids()
+
+    failed_videos = []
 
     for line in data[category]:
         print ''
         print 'Working on {0} - {1}'.format(line[0], line[2])
 
-        if line[0] in file_ids:
-            print '   Skipping -- already got it'
-            continue
+        # if line[0] in file_ids:
+        #     print '   Skipping -- already got it'
+        #     continue
 
         fn = '{0}_{1}'.format(line[0], slugify(line[2]))
-        download_video(line[3], fn)
+        try:
+            download_video(line[3], fn)
+        except NoDownloadMeNoLikeyException:
+            failed_videos.append(line)
+
+    if failed_videos:
+        print 'FAILED VIDEOS:'
+        for fail in failed_videos:
+            print '\t'.join(fail)
 
     return 0
 
