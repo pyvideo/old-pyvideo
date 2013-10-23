@@ -63,6 +63,10 @@ def format_downloaded(sofar, total):
         sofar / 1000000.0, sofar * 1.0 / total * 100)
 
 
+def format_duration(secs):
+    return '{0}m{1}s'.format(int(secs / 60), int(secs % 60))
+
+
 class NoDownloadMeNoLikeyException(Exception):
     pass
 
@@ -74,6 +78,8 @@ def download_video(url, fn):
     successfully download a media file.
 
     """
+    start_time = time.time()
+
     # Sorry: This is terrible code, but I'm kind of throwing it
     # together as I discover more about it.
     print '   Downloading {0} to {1}'.format(url, fn)
@@ -133,7 +139,10 @@ def download_video(url, fn):
                                 tic = time.time()
                     print ''
 
-                print '   Done! {0}'.format(fn + ending)
+                print '   Done! {0} {1}mb {2}'.format(
+                    fn + ending,
+                    int(total_length / 1000000.0),
+                    format_duration(time.time() - start_time))
                 return
 
             else:
@@ -155,6 +164,7 @@ def download_videos(data, category):
     """Downloads all the videos in data[category]"""
     # file_ids = get_existing_file_ids()
 
+    start_time = time.time()
     failed_videos = []
 
     for line in data[category]:
@@ -171,11 +181,15 @@ def download_videos(data, category):
         except NoDownloadMeNoLikeyException:
             failed_videos.append(line)
 
+    print ''
     if failed_videos:
         print 'FAILED VIDEOS:'
         for fail in failed_videos:
-            print '\t'.join(fail)
+            print '  ' + '\t'.join(fail)
+        print ''
 
+    print 'Total videos: {0}'.format(len(data[category]))
+    print 'Total time: {0}'.format(format_duration(time.time() - start_time))
     return 0
 
 
