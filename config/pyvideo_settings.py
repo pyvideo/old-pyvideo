@@ -11,8 +11,7 @@ SITE_ROOT = os.path.dirname(os.path.dirname(__file__))
 # root is this directory
 ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 
-DEBUG = False
-TEMPLATE_DEBUG = DEBUG
+TEMPLATE_DEBUG = DEBUG = False
 
 SITE_URL = 'http://pyvideo.org'
 
@@ -35,13 +34,12 @@ MAX_FEED_LENGTH = 30
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.mysql',
+        'ENGINE': 'django.db.backends.postgres_psycopg2',
         'NAME': mysecrets.DB_NAME,
         'USER': mysecrets.DB_USER,
         'PASSWORD': mysecrets.DB_PWD,
-        'HOST': '',
+        'HOST': '127.0.0.1',
         'PORT': '',
-        'OPTIONS': {'init_command': 'SET storage_engine=InnoDB'},
     }
 }
 
