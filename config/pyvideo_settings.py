@@ -20,7 +20,7 @@ SITE_TITLE = u'pyvideo.org'
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
     ('Will Kahn-Greene', 'willg@bluesock.org'),
-    ('Carl Superfly Karsten', 'cfkarsten@gmail.com'),
+    # ('Carl Superfly Karsten', 'cfkarsten@gmail.com'),
 )
 
 MANAGERS = ADMINS
@@ -34,7 +34,7 @@ MAX_FEED_LENGTH = 30
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgres_psycopg2',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': mysecrets.DB_NAME,
         'USER': mysecrets.DB_USER,
         'PASSWORD': mysecrets.DB_PWD,
