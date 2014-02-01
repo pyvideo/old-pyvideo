@@ -1,0 +1,3 @@
+[submodule "richard"]
+	path = richard
+	url = https://github.com/willkg/richard.git
