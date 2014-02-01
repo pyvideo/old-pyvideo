@@ -1,3 +1,5 @@
 #!/bin/bash
 
-PYTHONPATH=./config DJANGO_SETTINGS_MODULE=pyvideo_settings richard/manage.py $@
+export PYTHONPATH=$PYTHONPATH:./config
+export DJANGO_SETTINGS_MODULE=pyvideo_settings
+venv/bin/python richard/manage.py $@
