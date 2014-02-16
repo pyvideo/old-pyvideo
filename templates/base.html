@@ -97,20 +97,31 @@
         <div class="span6">
           <p>{{ settings.SITE_TITLE }}</p>
           <p>
-            Run by Will Kahn-Greene. Questions, comments or concerns?
-            Send email to willg at bluesock dot org.
+            Run by Sheila Miguez
+            (<iframe style="border: 0; margin: 0; padding: 0;"
+                    src="https://www.gittip.com/codersquid/widget.html"
+                    width="48pt" height="20pt"></iframe>)
+            and Will Kahn-Greene
+            (<iframe style="border: 0; margin: 0; padding: 0;"
+                     src="https://www.gittip.com/willkg/widget.html"
+                     width="48pt" height="20pt"></iframe>).
+            Questions, comments or concerns?  Send an email to Will at
+            willkg at bluesock dot org.
           </p>
-          <iframe style="border: 0; margin: 0; padding: 0;"
-                  src="https://www.gittip.com/willkg/widget.html" 
-                  width="48pt" height="20pt"></iframe>
+          <p>
+            Powered by <a href="https://github.com/willkg/richard">richard</a>.
+          </p>
+          <p>
+            Hosting for the project is graciously provided by
+            <a href="http://www.rackspace.com/cloud">Rackspace</a>.
+          </p>
         </div>
         <div class="span4">
           <ul class="unstyled">
             <li><a href="{{ url('pages-page', page='about') }}">About this site</a></li>
-            <li><a href="{{ url('sitenews-list') }}">Site news</a></li>
-            <li><a href="{{ url('suggestions-list') }}">Submit a new conference</a></li>
             <li><a href="{{ url('stats') }}">Site stats</a></li>
-            <li><a href="http://github.com/willkg/richard">Source code</a></li>
+            <li><a href="{{ url('suggestions-list') }}">Submit a conference</a></li>
+            <li><a href="http://github.com/willkg/pyvideo">Report an issue</a></li>
           </ul>
         </div>
         <div class="span2">
