@@ -8,7 +8,7 @@ import os
 # site_root is the parent directory
 SITE_ROOT = os.path.dirname(os.path.dirname(__file__))
 
-# root is this directory
+# root is the richard root directory
 ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 
 TEMPLATE_DEBUG = DEBUG = False
@@ -75,7 +75,6 @@ STATICFILES_DIRS = (
     # Always use forward slashes, even on Windows.
     # Don't forget to use absolute paths, not relative paths.
     os.path.join(SITE_ROOT, 'staticbase'),
-    os.path.join(ROOT, 'static'),
 )
 
 # Make this unique, and don't share it with anybody.
