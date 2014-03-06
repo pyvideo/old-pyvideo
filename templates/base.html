@@ -1,4 +1,4 @@
-{#
+{% comment %}
 # richard -- video index system
 # Copyright (C) 2012 richard contributors.  See AUTHORS.
 #
@@ -14,14 +14,19 @@
 #
 # You should have received a copy of the GNU Affero General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
--#}
+{% endcomment %}
+{% load browserid %}
+{% load md %}
+{% load page_title %}
+{% load url from future %}
+{% load staticfiles %}
 <!DOCTYPE html>
 <html>
 <head>
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
-  <link rel="search" type="application/opensearchdescription+xml" title="{{ settings.SITE_TITLE }} search" href="{{ url('videos-opensearch') }}">
-  <title>{% block title %}{{ page_title() }}{% endblock %}</title>
+  <link rel="search" type="application/opensearchdescription+xml" title="{{ settings.SITE_TITLE }} search" href="{% url 'videos-opensearch' %}">
+  <title>{% block title %}{{ page_title }}{% endblock %}</title>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 {% if meta %}
   {% for meta_name, meta_content in meta %}
@@ -31,43 +36,43 @@
   {% block additional_head %}{% endblock %}
 </head>
 <body>
-  {{ browserid_info()|safe }}
+  {{ browserid_info|safe }}
   <a name="top"></a>
   <div class="navbar navbar-inverse">
     <div class="navbar-inner">
       <div class="container">
-        <a class="brand" href="{{ url('home') }}">{{ settings.SITE_TITLE }}</a>
+        <a class="brand" href="{% url 'home' %}">{{ settings.SITE_TITLE }}</a>
         <ul class="nav">
           <li class="dropdown">
             <a href="#" class="dropdown-toggle" data-toggle="dropdown">
               Browse <b class="caret"></b>
             </a>
             <ul class="dropdown-menu">
-              <li><a href="{{ url('videos-category-list') }}">Conferences/user groups</a></li>
-              <li><a href="{{ url('videos-speaker-list') }}">Speakers</a></li>
+              <li><a href="{% url 'videos-category-list' %}">Conferences/user groups</a></li>
+              <li><a href="{% url 'videos-speaker-list' %}">Speakers</a></li>
             </ul>
           </li>
         </ul>
-        <form class="navbar-search pull-left" action="{{ url('videos-search') }}">
+        <form class="navbar-search pull-left" action="{% url 'videos-search' %}">
           <input type="hidden" name="models" value="videos.video">
           <input type="text" class="search-query span3" name="q" placeholder="Search" value="{{ query }}">
         </form>
 
         <ul class="nav pull-right">
-          {% if user.is_authenticated() %}
+          {% if user.is_authenticated %}
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown">
                 Greetings {{ user.username }}! <b class="caret"></b>
               </a>
               <ul class="dropdown-menu">
                 {% if user.is_superuser %}
-                  <li><a href="{{ url('admin:index') }}">Admin</a></li>
+                  <li><a href="{% url 'admin:index' %}">Admin</a></li>
                 {% endif %}
-                <li>{{ browserid_logout(text='Sign out')|safe }}</li>
+                <li>{% browserid_logout text='Sign out' %}</li>
               </ul>
             </li>
           {% else %}
-            <li>{{ browserid_login(text='Sign in')|safe }}</li>
+            <li>{% browserid_login text='Sign in' %}</li>
           {% endif %}
         </ul>
 
@@ -76,21 +81,22 @@
   </div>
 
   <div id="content" class="container">
-    {% if notifications -%}
+    {% if notifications %}
       <div class="row">
         <div class="span12">
-      {% for n in notifications -%}
+      {% for n in notifications %}
         <div class="alert alert-info">
           <i class="icon-info-sign"></i> <strong>{{ n.interjection }}</strong>
-          {{ n.text|safe }}
+          {{ n.text|md|safe }}
         </div>
-      {%- endfor %}
+      {% endfor %}
         </div>
       </div>
-    {%- endif %}
+    {% endif %}
 
     {% block content %}{% endblock %}
 
+    {% block footer %}
     <div id="footer">
       <a name="footer"></a>
       <div class="row">
@@ -118,10 +124,10 @@
         </div>
         <div class="span4">
           <ul class="unstyled">
-            <li><a href="{{ url('pages-page', page='about') }}">About this site</a></li>
-            <li><a href="{{ url('stats') }}">Site stats</a></li>
-            <li><a href="{{ url('suggestions-list') }}">Submit a conference</a></li>
-            <li><a href="http://github.com/willkg/pyvideo">Report an issue</a></li>
+            <li><a href="{% url 'pages-page' page='about' %}">About this site</a></li>
+            <li><a href="{% url 'stats' %}">Site stats</a></li>
+            <li><a href="{% url 'suggestions-list' %}">Submit a conference</a></li>
+            <li><a href="http://github.com/willkg/pyvideo/issues/new">Report an issue</a></li>
           </ul>
         </div>
         <div class="span2">
@@ -129,8 +135,13 @@
         </div>
       </div>
     </div>
+    {% endblock footer %}
+
   </div>
+
   {% block additional_body %}{% endblock %}
+
+{% block site_js %}
   <script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
   <script type="text/javascript" src="{{ settings.STATIC_URL }}browserid/browserid.js"></script>
@@ -146,5 +157,6 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
+{% endblock site_js %}
 </body>
 </html>
