@@ -25,6 +25,7 @@
 <head>
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}bootstrap/css/bootstrap.min.css">
   <link rel="stylesheet" href="{{ settings.STATIC_URL }}css/richard.css">
+  {% browserid_css %}
   <link rel="search" type="application/opensearchdescription+xml" title="{{ settings.SITE_TITLE }} search" href="{% url 'videos-opensearch' %}">
   <title>{% block title %}{{ page_title }}{% endblock %}</title>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
@@ -36,7 +37,7 @@
   {% block additional_head %}{% endblock %}
 </head>
 <body>
-  {{ browserid_info|safe }}
+  {% browserid_info %}
   <a name="top"></a>
   <div class="navbar navbar-inverse">
     <div class="navbar-inner">
@@ -144,8 +145,7 @@
 {% block site_js %}
   <script type="text/javascript" src="{{ settings.STATIC_URL }}js/jquery-1.7.2.min.js"></script>
   <script type="text/javascript" src="{{ settings.STATIC_URL }}bootstrap/js/bootstrap.min.js"></script>
-  <script type="text/javascript" src="{{ settings.STATIC_URL }}browserid/browserid.js"></script>
-  <script type="text/javascript" src="https://login.persona.org/include.js"></script>
+  {% browserid_js %}
   <script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-29832059-1']);
