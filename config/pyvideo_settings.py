@@ -25,12 +25,11 @@ ADMINS = (
 
 MANAGERS = ADMINS
 
-VIDEO_THUMBNAIL_SIZE = (160, 120)
-MEDIA_PREFERENCE = ('ogv', 'webm', 'mp4')
-API = True
 AMARA_SUPPORT = True
+API = True
 PAGES = ['about']
 MAX_FEED_LENGTH = 30
+VIDEO_THUMBNAIL_SIZE = (160, 120)
 
 DATABASES = {
     'default': {
