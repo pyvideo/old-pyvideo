@@ -14,6 +14,7 @@ ROOT = os.path.join(SITE_ROOT, 'richard', 'richard')
 TEMPLATE_DEBUG = DEBUG = False
 
 SITE_URL = 'http://pyvideo.org'
+ALLOWED_HOSTS = [u'pyvideo.org', u'www.pyvideo.org']
 
 SITE_TITLE = u'pyvideo.org'
 
