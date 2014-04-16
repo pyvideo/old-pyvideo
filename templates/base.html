@@ -27,7 +27,7 @@
   <link rel="stylesheet" href="{% static 'css/richard.css' %}">
   {% browserid_css %}
   <link rel="search" type="application/opensearchdescription+xml" title="{{ settings.SITE_TITLE }} search" href="{% url 'videos-opensearch' %}">
-  <title>{% block title %}{{ page_title }}{% endblock %}</title>
+  <title>{% block title %}{% page_title 'Home' %}{% endblock %}</title>
   <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 {% if meta %}
   {% for meta_name, meta_content in meta %}
