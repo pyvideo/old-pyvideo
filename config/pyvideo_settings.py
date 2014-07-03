@@ -1,9 +1,9 @@
+import os
+
 from richard.settings import *
 
 import mysecrets
 
-import sys
-import os
 
 # site_root is the parent directory
 SITE_ROOT = os.path.dirname(os.path.dirname(__file__))
@@ -15,6 +15,7 @@ TEMPLATE_DEBUG = DEBUG = False
 
 SITE_URL = 'http://pyvideo.org'
 ALLOWED_HOSTS = [u'pyvideo.org', u'www.pyvideo.org']
+BROWSERID_AUDIENCES = ['http://' + host for host in ALLOWED_HOSTS]
 
 SITE_TITLE = u'pyvideo.org'
 
