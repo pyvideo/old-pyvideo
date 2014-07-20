@@ -22,6 +22,7 @@ SITE_TITLE = u'pyvideo.org'
 ADMINS = (
     # ('Your Name', 'your_email@example.com'),
     ('Will Kahn-Greene', 'willg@bluesock.org'),
+    ('Sheila Miguez', 'shekay@pobox.com'),
     # ('Carl Superfly Karsten', 'cfkarsten@gmail.com'),
 )
 
