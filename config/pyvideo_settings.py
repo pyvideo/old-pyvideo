@@ -26,6 +26,8 @@ ADMINS = (
     # ('Carl Superfly Karsten', 'cfkarsten@gmail.com'),
 )
 
+SERVER_EMAIL = 'noreply-error@pyvideo.org'
+
 MANAGERS = ADMINS
 
 AMARA_SUPPORT = True
