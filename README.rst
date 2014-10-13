@@ -6,7 +6,7 @@ This is the repository holding the pyvideo.org bits for running the site.
 
 The site is at `<http://pyvideo.org/>`_.
 
-pyvideo.org is an instance of `richard <https://github.com/willkg/richard>`_
+pyvideo.org is an instance of `richard <https://github.com/pyvideo/richard/>`_
 which is a Django-based web application for building video index sites like
 pyvideo.
 
