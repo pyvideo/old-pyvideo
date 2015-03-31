@@ -1,6 +1,6 @@
-========
- README
-========
+======
+README
+======
 
 This is the repository holding the pyvideo.org bits for running the site.
 
@@ -13,10 +13,20 @@ pyvideo.
 We hang out on IRC in ``#richard`` on freenode.net.
 
 
-Wait, but it's called pmc... Why?
-=================================
+Setup notes
+===========
 
-Up until early March 2012, this repository held scripts and the theme
-templates for Python Miro Community. When I launched pyvideo, I wanted to
-keep the issues in the tracker and the scripts, so I just reused the
-repository. Sorry for the confusion!
+There's a bunch of stuff in this repository. For running pyvideo, there are two
+interesting directories:
+
+* ``config/`` holds the pyvideo specific settings
+* ``templates/`` holds templates that override richard templates
+
+To run pyvideo locally, you need to set some environment variables and then
+run richard's ``manage.py``::
+
+  SITE_PATH=<path to richard>,<path to pyvideo/config>
+  DJANGO_SETTINGS_MODULE=pyvideo_settings
+  DJANGO_CONFIGURATION=PyvideoLocal
+  DJANGO_DATABASES=<your db url>
+  DJANGO_SECRET_KEY=<secret key>
