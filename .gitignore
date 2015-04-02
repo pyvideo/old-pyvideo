@@ -5,4 +5,3 @@ packages
 whoosh_index
 static/
 pmc.old/pmc_theme.zip
-config/mysecrets.py
