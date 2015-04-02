@@ -7,6 +7,7 @@ PYVIDEO_ROOT = os.path.dirname(os.path.dirname(__file__))
 
 
 class Pyvideo(Prod):
+    """pyvideo.org production environment"""
     SITE_URL = 'http://pyvideo.org'
 
     ALLOWED_HOSTS = [u'pyvideo.org', u'www.pyvideo.org']
@@ -94,7 +95,18 @@ class Pyvideo(Prod):
     ]
 
 
+class DevPyvideo(Pyvideo):
+    """dev.pyvideo.org stage environment"""
+    SITE_URL = 'http://dev.pyvideo.org'
+    ALLOWED_HOSTS = [u'dev.pyvideo.org', u'dev.pyvideo.org:80']
+    BROWSERID_AUDIENCES = ['http://dev.pyvideo.org', 'http://dev.pyvideo.org:80']
+    SITE_TITLE = u'dev.pyvideo.org'
+
+    EMAIL_SUBJECT_PREFIX = '[Django dev.pyvideo]'
+
+
 class PyvideoLocal(Pyvideo):
+    """pyvideo environment for local development"""
     DEBUG = True
     TEMPLATE_DEBUG = True
 
