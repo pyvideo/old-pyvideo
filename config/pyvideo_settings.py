@@ -17,7 +17,7 @@ class Pyvideo(Prod):
 
     ADMINS = (
         # ('Your Name', 'your_email@example.com'),
-        ('Will Kahn-Greene', 'willg@bluesock.org'),
+        ('Will Kahn-Greene', 'willkg@bluesock.org'),
         ('Sheila Miguez', 'shekay@pobox.com'),
         # ('Carl Superfly Karsten', 'cfkarsten@gmail.com'),
     )
@@ -49,50 +49,6 @@ class Pyvideo(Prod):
     )
 
     EMAIL_SUBJECT_PREFIX = '[Django pyvideo]'
-
-    SPAM_WORDS = [
-        'casino',
-        'loans',
-        'viagra',
-        'valium',
-        'proactol',
-        'hormone',
-        'forex',
-        'cigarette',
-        'cigarettes',
-        'levitra',
-        'blackjack',
-        'poker',
-        'cialis',
-        'roulette',
-        'propecia',
-        'tramadol',
-        'insurance',
-        'payday',
-        'keno',
-        'hgh',
-        'hair',
-        'vegas',
-        'ketone',
-        'slots',
-        'slot',
-        'debt',
-        'wartrol',
-        'provestra',
-        'bowtrol',
-        'casinos',
-        'loan',
-        'pills',
-        'diet',
-        'hosting',
-        'review',
-        'repair',
-        'toner',
-        'party',
-        'debt',
-        'alarm',
-        'locksmiths',
-    ]
 
 
 class DevPyvideo(Pyvideo):
