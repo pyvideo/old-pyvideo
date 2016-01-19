@@ -2,16 +2,15 @@
 README
 ======
 
-This is the repository holding the pyvideo.org bits for running the site.
+**This project is inactive.**
 
-The site is at `<http://pyvideo.org/>`_.
+This project was sunset on 2016/01/15: `pyvideo status: January 15th, 2016 <http://bluesock.org/~willkg/blog/pyvideo/status_20160115.html>`_
 
-pyvideo.org is an instance of `richard <https://github.com/pyvideo/richard/>`_
+This repository was historically used for holding the bits for running the pyvideo.org site.
+
+pyvideo.org was an instance of `richard <https://github.com/pyvideo/richard/>`_
 which is a Django-based web application for building video index sites like
 pyvideo.
-
-We hang out on IRC in ``#richard`` on freenode.net.
-
 
 Setup notes
 ===========
